@@ -1,831 +1,186 @@
 name,imgSrc,category,isSelected
-Ken's Steak House Dressing,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_06_348981_259716.jpg,italian,false
-Pearl Milling Company Syrup,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Pearl_Milling_Company_Syrup.jpg,italian,false
-Post Great Grains Cereal,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_04_8583_259572.jpg,italian,false
-General Mills Cheerios Cereal,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_General_Mills_Cheerios_Cereal.jpg,italian,false
-Muir Glen Tomatoes or Tomato Sauce or Paste,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Muir_Glen_Tomatoes.jpg,italian,false
-Bertolli Sauce,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Bertolli_Sauce.jpg,italian,false
-Maxwell House Ground Coffee,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Maxwell_House_Ground_Coffee.jpg,italian,false
-Progresso Soup,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_07_4242_259816.jpg,italian,false
-Nature's Own Honey Wheat Bread,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_08_303745_261016.jpg,italian,false
-Spindrift Sparkling Water,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_06_259418_260866.jpg,italian,false
-On The Border Tortilla Chips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_On_The_Border_Tortilla_Chips.jpg,italian,false
-Nabisco Ritz Toasted Chips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_05_310140_260766.jpg,italian,false
-Planters Peanuts,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Planters_Peanuts.jpg,italian,false
-Kinder Bueno Chocolate Bites,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_03_279955_260616.jpg,italian,false
-Mayfield Creamery Ice Cream,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Mayfield_Creamery_Ice_Cream.jpg,italian,false
-Greenfield Natural Meat Co. Bacon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Greenfield_Natural_Meat_Co_Bacon.jpg,italian,false
-Cabot Sweet Cream Butter,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Cabot_Sweet_Cream_Butter.jpg,italian,false
-Gorton's Shrimp,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Gortons_Shrimp.jpg,italian,false
-Digiorno Pizza,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_05_718889_262060.jpg,italian,false
-Talenti Gelato,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Talenti_Gelato.jpg,italian,false
-Crest Toothpaste,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Feature_02_32904_263160.jpg,italian,false
-Caress Body Wash,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Caress_Body_Wash.jpg,italian,false
-Nature's Truth Supplements,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Feature_03_290788_263210.jpg,italian,false
-Gain Laundry Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_06_340855_264110.jpg,italian,false
-Solo Plastic Cups,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_05_855601_264010.jpg,italian,false
-Finish Automatic Dishwasher Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_08_337455_264260.jpg,italian,false
-Sparkle Paper Towels,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_02_325600_263810.jpg,italian,false
-Arm & Hammer Laundry Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Arm_Hammer_Laundry_Detergent.jpg,italian,false
-Lysol Cleaners,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_07_80868_264210.jpg,italian,false
-Milk-Bone Dog Snacks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_02_884278_264660.jpg,italian,false
-Purina Tidy Cats Cat Litter,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Purina_Tidy_Cats_Cat_Litter.jpg,italian,false
-Plum Organics Baby Food,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_06_956832_264960.jpg,italian,false
-Handi-foil Pans,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_05_255077_264910.jpg,italian,false
-Philips LED Light Bulbs,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_01_979927_264610.jpg,italian,false
-Graza Mayo,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_04_339173_252509.jpg,italian,false
-Golden Home Pizza Crust,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_02-1_Feature_03_289501_251909.jpg,italian,false
-Kraft Macaroni & Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_06_341785_252609.jpg,italian,false
-Firehook Crackers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_08_203743_252709.jpg,italian,false
-Chocolate and Almond Bretzel Pastry,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_05-1_Feature_01_93667_252259.jpg,italian,false
-Heavenly Hunks Gluten-Free Bites,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_01_291011_252359.jpg,italian,false
-Kraft Barbecue Sauce,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_10_5789_251659.jpg,italian,false
+Publix Tzatziki Dip,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_01_Feature_04_333350_255021.jpg,italian,false
+6-Pack Coca-Cola Soft Drink Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_01_Feature_06_790619_255121.jpg,italian,false
+Swanson Broth,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Feature_021_5062_260886.jpg,italian,false
+Knorr Sides,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Feature_022_4829_260936.jpg,italian,false
+Pompeian Imported Olive Oil,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_Pompeian_Imported_Olive_Oil.jpg,italian,false
+Newman's Own Dressing,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Feature_012_3712_260786.jpg,italian,false
+Folgers Ground Coffee,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_Folgers_Ground_Coffee.jpg,italian,false
+General Mills Cheerios Cereal,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_General_Mills_Cheerios_Cereal.jpg,italian,false
+Meat Mitch BBQ Sauce,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Feature_06_299150_261225.jpg,italian,false
+Arnold or Brownberry Bread,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Feature_03_152933_260986.jpg,italian,false
+Emerald Nuts,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Feature_04_19123_262225.jpg,italian,false
+V8 Beverage or Juice,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Feature_08_12263_262569.jpg,italian,false
+Boulder Canyon Potato Chips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Feature_07_826988_262475.jpg,italian,false
+Unreal Dark Chocolate,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Feature_03_337628_262125.jpg,italian,false
+Callaway Blue Spring Water,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Feature_02_155587_262025.jpg,italian,false
+Keebler Fudge Stripes Minis Cookies,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Feature_05_310338_262275.jpg,italian,false
+Horizon Organic Lactose Free Milk,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Feature_08_337229_263919.jpg,italian,false
+Deep Indian Kitchen Entres,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_Deep_Indian_Kitchen_Entrees.jpg,italian,false
+La Colombe Cold Brew Coffee,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_La_Colombe_Cold_Brew_Coffee.jpg,italian,false
+Nutpods Dairy-Free Coffee Creamer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Feature_02_274508_263319.jpg,italian,false
+Freschetta Pizza,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Feature_06_786424_263719.jpg,italian,false
+Fage Greek Strained Yogurt,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Feature_05_949721_263619.jpg,italian,false
+Ben & Jerry's Ice Cream,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_Ben_Jerrys_Ice_Cream.jpg,italian,false
+Birds Eye Vegetables,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_Birds_Eye_Vegetables.jpg,italian,false
+Colgate Max Fresh Toothpaste,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_15_Feature_05_111956_264869.jpg,italian,false
+Legendary Foods Protein Pastry,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_15_Feature_03_321361_264719.jpg,italian,false
+Slate Ready to Drink Protein Shake,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_Slate_Ready_to_Drink_Protein_Shake.jpg,italian,false
+Persil Laundry Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_16_Feature_03_218120_265419.jpg,italian,false
+Soft Scrub Cleanser,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_16_Feature_08_89306_265869.jpg,italian,false
+No Nonsense Socks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_17_Feature_01_129174_266269.jpg,italian,false
+Stella & Chewy's Meal Mixers for Dogs,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_17_Feature_02_335419_266319.jpg,italian,false
+Pup-Peroni Dog Treats,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_Pup_Peroni_Dog_Treats.jpg,italian,false
+Blue Buffalo Dog Treats,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_Blue_Buffalo_Dog_Treats.jpg,italian,false
+Beech-Nut Organic Baby Food,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_17_Feature_07_258038_266619.jpg,italian,false
+EZ Foil All Purpose Pans,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_17_Feature_05_51369_266519.jpg,italian,false
+Jack Link's Beef Jerky,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_11-1_Feature_07_928987_253809.jpg,italian,false
+Oscar Mayer Wieners,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_09_70046_251559.jpg,italian,false
+Quaker Instant Oatmeal,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_12-1_Feature_09_8430_254509.jpg,italian,false
+Nature's Own Brioche Style Hamburger Buns,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_12-1_Feature_07_265437_254409.jpg,italian,false
+Lipton Tea Bags,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_07_9161_251459.jpg,italian,false
+Zephyrhills Spring Water,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_08_824510_251509.jpg,italian,false
+Mike's Amazing Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_06_324250_251409.jpg,italian,false
+6-Pack Coca-Cola Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_04_315448_251309.jpg,italian,false
+Bush's Best Baked Beans,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_10_2839_251609.jpg,italian,false
+Publix Cooked Shrimp,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_01_123791_251109.jpg,italian,false
+Publix Pork Loin Rib Chops,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_02_96147_251159.jpg,italian,false
+Perfect Bar Refrigerated Protein Bar,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_12-1_Feature_10_282978_254559.jpg,italian,false
+Carando Italian Sausage,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_05_278789_251359.jpg,italian,false
+Kraft Mayo Mayonnaise,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_11_3700_251659.jpg,italian,false
+Eckrich Polska Kielbasa,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_03_127105_251259.jpg,italian,false
+Publix Buffalo-Style Chicken Breast Dip,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_12-1_Feature_02_954411_254159.jpg,italian,false
+Publix Chocolate Chip Cannoli Dip,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_04-1_Feature_01_334124_252109.jpg,italian,false
+Wonder Classic Hamburger Buns,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_12_209785_251709.jpg,italian,false
+Publix Red Seedless Watermelon Chunks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_03-1_Feature_01_25573_251909.jpg,italian,false
+Quaker Chewy Granola Bars,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_11-1_Feature_05_8404_253709.jpg,italian,false
+Almond Breeze Almond Milk,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_11-1_Feature_06_429323_253759.jpg,italian,false
+Cloralen Bleach,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_11-1_Feature_10_332703_254009.jpg,italian,false
+Powerade Sports Drink,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_12-1_Feature_08_316499_254459.jpg,italian,false
+Progresso Soup,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_11-1_Feature_03_4242_253609.jpg,italian,false
+Margaritaville Shrimp Appetizers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_04_Feature_04_140359_256536.jpg,italian,false
+Land O' Frost Premium Lunch Meats,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_05_Feature_06_70236_257586.jpg,italian,false
+Hot House Cucumbers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_Hot_House_Cucumbers.jpg,italian,false
+Fresh Express Salad Blends,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_06_Feature_021_25075_258136_PackageShot.jpg,italian,false
+Anjou Pears,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_07_Feature_04_24761_258936.jpg,italian,false
+Florida's Natural Premium Splash Drink,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_07_Feature_07_273497_259186.jpg,italian,false
+Stacy's Pita Chips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_08_Feature_022_968861_UL_259487_PackageShot.jpg,italian,false
+Land O Lakes Pre-Sliced Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_08_Feature_012_266135_UL_259337_PackageShot.jpg,italian,false
+4 Sisters Rice,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_01_Feature_012_280949_254871.jpg,italian,false
+6-Pack 7UP Products,https://images.publixcdn.com/pct/images/products/305000/309883-600x600-A.jpg,italian,false
+7UP Products,https://images.publixcdn.com/pct/images/products/300000/303764-600x600-A.jpg,italian,false
+8-Pack 7UP Products,https://images.publixcdn.com/pct/images/products/310000/312787-600x600-A.jpg,italian,false
+Air Wick Scented Oil Refills,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_16_Line_Item_06_342258_266219.jpg,italian,false
+Amara Organic Smoothie Melts,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_17_Feature_07_318121_UL_266620.jpg,italian,false
+Annie Chun's Noodle Bowl,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Line_Item_08_14677_261775.jpg,italian,false
+Annie's Organic Bunny Crackers or Grahams,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Feature_05_310378_UL_262276.jpg,italian,false
+Arden's Garden Sea Moss Energy Shot,https://images.publixcdn.com/pct/images/products/335000/337013-600x600-A.jpg,italian,false
+"Tast!ez Snacks, 11-oz; or Athens Phyllo Bites",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Feature_06_320857_UL_263720.jpg,italian,false
+Banquet Brown'N Serve Sausage Links,https://images.publixcdn.com/pct/images/products/125000/126066-600x600-A.jpg,italian,false
+Betty Crocker Cookie Mix,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Line_Item_05_10976_261625.jpg,italian,false
+Betty Crocker Fruit Snacks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Line_Item_04_10356_262819.jpg,italian,false
+Bodyarmor Flash I.V. Electrolyte Drink Mix,https://images.publixcdn.com/pct/images/products/295000/297437-600x600-A.jpg,italian,false
+C2O Coconut Water,https://images.publixcdn.com/pct/images/products/825000/827178-600x600-A.jpg,italian,false
+Cascadian Farm Organic Cereal,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Line_Item_06_162122_261675.jpg,italian,false
+Cesar Canine Cuisine or Home Delights Dog Food,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_17_Feature_08_101722_UL_266720.jpg,italian,false
+Charmin Flushable Wipes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_16_Feature_01_963745_UL_265270.jpg,italian,false
+Chi-Chi's Salsa,https://images.publixcdn.com/pct/images/products/10000/012945-600x600-A.jpg,italian,false
+Chifles Plantain Chips,https://images.publixcdn.com/pct/images/products/90000/092031-600x600-A.jpg,italian,false
+Chobani Coffee Creamer or Oatmilk,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Feature_04_263380_UL_263520.jpg,italian,false
+Cleveland Kitchen Kimchi,https://images.publixcdn.com/pct/images/products/290000/292427-600x600-A.jpg,italian,false
+Cleveland Kitchen Classic Sauerkraut,https://images.publixcdn.com/pct/images/products/260000/263459-600x600-A.jpg,italian,false
+Copper Ranch Vodka,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611liq_01_img_1544900063.jpg,italian,false
+Crunchmaster Crackers,https://images.publixcdn.com/pct/images/products/150000/153752-600x600-A.jpg,italian,false
+Darrell Lea Licorice,https://images.publixcdn.com/pct/images/products/325000/326713-600x600-A.jpg,italian,false
+Devour Entre,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Line_Item_01_218769_264019.jpg,italian,false
+Doctor D's Organic Sparkling Probiotic Drink,https://images.publixcdn.com/pct/images/products/265000/266694-600x600-A.jpg,italian,false
+Don Pancho Tortilla Chips,https://images.publixcdn.com/pct/images/products/320000/321423-600x600-A.jpg,italian,false
+Entenmann's Little Bites Muffins,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Line_Item_09_716265_263069.jpg,italian,false
+"Ferrero Rocher Chocolates, Nutella & Go Travel Pack, or Kinder Joy Egg",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Feature_03_240465_UL_262126.jpg,italian,false
+Fleischmann's Cornbread Mix,https://images.publixcdn.com/pct/images/products/265000/265312-600x600-A.jpg,italian,false
+Flora Homestyle Sauce,https://images.publixcdn.com/pct/images/products/975000/979457-600x600-A.jpg,italian,false
+Flora Alfredo Sauce,https://images.publixcdn.com/pct/images/products/315000/317062-600x600-A.jpg,italian,false
+Flora Pesto Genovese,https://images.publixcdn.com/pct/images/products/10000/011883-600x600-A.jpg,italian,false
+Flora Organic Pizza Sauce,https://images.publixcdn.com/pct/images/products/130000/133370-600x600-A.jpg,italian,false
+"Frito Lay Snacks, Minis",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Feature_07_283849_UL_262476.jpg,italian,false
+Glacau Smartwater,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Feature_02_817178_UL_262026.jpg,italian,false
+12-Pack Golden Road Brewing Beer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611liq_02_img_1759370370.jpg,italian,false
+12-Pack Golden Road Brewing Beer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_03_Feature_05_290662_255536.jpg,italian,false
+Georgie Energy Drink,https://images.publixcdn.com/pct/images/products/340000/341845-600x600-A.jpg,italian,false
+Green Giant Vegetables,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Line_Item_07_867105_261725.jpg,italian,false
+Hatozaki Small Batch Japanese Whisky,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611liq_01_img_1175684129.jpg,italian,false
+Hawk Crest Cabernet Sauvignon Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_03_Feature_02_260094_255313.jpg,italian,false
+Hillshire Farm Stuffed Croissants,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Line_Item_02_341875_264069.jpg,italian,false
+Hunt's Tomato Ketchup,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Feature_06_254972_UL_261226.jpg,italian,false
+I&Love&You Meal Enhancer for Dogs,https://images.publixcdn.com/pct/images/products/320000/322038-600x600-A.jpg,italian,false
+Jell-O Gelatin Snacks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Line_Item_07_193084_264319.jpg,italian,false
+Jif Peanut Butter,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Line_Item_01_10012_261425.jpg,italian,false
+Junior's Cheesecake,https://images.publixcdn.com/pct/images/products/280000/284409-600x600-A.jpg,italian,false
 Kellogg's Frosted Flakes Cereal,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_05_323852_252959.jpg,italian,false
-Publix Shredded Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_02-1_Feature_01_170818_251809.jpg,italian,false
-Built Sour Puff Protein Bar,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_03_337371_252459.jpg,italian,false
-6-Pack Pepsi Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_6_Pack_Pepsi_Products.jpg,italian,false
-Honeycrisp Apples,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_03-1_Feature_01_24960_252009.jpg,italian,false
-Armour Pepperoni,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_02-1_Feature_04_188118_251959.jpg,italian,false
-Kraft American Cheese Singles,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_11_71086_251709.jpg,italian,false
-Arm & Hammer Laundry Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_05_320853_252559.jpg,italian,false
-Smartfood Popcorn,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai2_Smartfood_Popcorn.jpg,italian,false
-Baby Seedless Cucumbers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_03-1_Feature_03_25800_252109.jpg,italian,false
-GreenWise Organic White Mushrooms,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_03-1_Feature_04_275692_252159.jpg,italian,false
-La Famiglia Delgrosso Sauce,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_02-1_Feature_02_189103_251859.jpg,italian,false
-Lychee Fruit,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_03-1_Feature_02_24026_252059.jpg,italian,false
-Sanpellegrino Ciao! Sparkling Water,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_02_323647_252409.jpg,italian,false
-Publix Shrimp Scampi,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Feature_04_251951_255128.jpg,italian,false
-Just Bare Chicken Breast Fillets,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Just_Bare_Chicken_Breast_Fillets.jpg,italian,false
-Sunset Angel Sweet Tomatoes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_06_Feature_022_255110_UL_256829_PackageShot.jpg,italian,false
-Blueberries,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_021_23957_257428_PackageShot.jpg,italian,false
-Southern Recipe Pork Rinds,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_03_333434_258428.jpg,italian,false
-Miami Twist Hummus,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Miami_Twist_Hummus.jpg,italian,false
-Honey Mango,https://images.publixcdn.com/pct/images/products/20000/024030-600x600-A.jpg,italian,false
-Mentos Mints,https://images.publixcdn.com/pct/images/products/40000/042783-600x600-A.jpg,italian,false
-Entenmann's Little Bites Muffins,https://images.publixcdn.com/pct/images/products/715000/716265-600x600-A.jpg,italian,false
-Takis Tortilla Chips,https://images.publixcdn.com/pct/images/products/930000/931208-600x600-A.jpg,italian,false
-Galbani Fresh Mozzarella Cheese,https://images.publixcdn.com/pct/images/products/275000/277747-600x600-A.jpg,italian,false
-Stahl-Meyer Hot Dogs,https://images.publixcdn.com/pct/images/products/270000/274755-600x600-A.jpg,italian,false
-AMC Theatres Perfectly Popcorn Microwave Popcorn,https://images.publixcdn.com/pct/images/products/290000/294597-600x600-A.jpg,italian,false
-Organic Valley Shredded Cheese,https://images.publixcdn.com/pct/images/products/125000/128766-600x600-A.jpg,italian,false
-Hostess Snacks,https://images.publixcdn.com/pct/images/products/200000/201404-600x600-A.jpg,italian,false
-Wise Cheez Doodles Corn Snacks,https://images.publixcdn.com/pct/images/products/310000/312504-600x600-A.jpg,italian,false
-Wickles Pickles,https://images.publixcdn.com/pct/images/products/200000/201371-600x600-A.jpg,italian,false
-Chomps Meat Single Stick,https://images.publixcdn.com/pct/images/products/325000/327341-600x600-A.jpg,italian,false
-Propel Electrolyte Water,https://images.publixcdn.com/pct/images/products/320000/323688-600x600-A.jpg,italian,false
-Opaa! Greek Yogurt Tzatziki Dip,https://images.publixcdn.com/pct/images/products/970000/971040-600x600-A.jpg,italian,false
-Sour Patch Kids Assorted Candy,https://images.publixcdn.com/pct/images/products/280000/283396-600x600-A.jpg,italian,false
-Sabra Hummus Snackers,https://images.publixcdn.com/pct/images/products/930000/930608-600x600-A.jpg,italian,false
-Ralston Family Farms Rice,https://images.publixcdn.com/pct/images/products/255000/255562-600x600-A.jpg,italian,false
-Gold Peak Tea,https://images.publixcdn.com/pct/images/products/395000/399604-600x600-A.jpg,italian,false
-Sabra Snackers,https://images.publixcdn.com/pct/images/products/225000/226028-600x600-A.jpg,italian,false
-GreenWise Granola,https://images.publixcdn.com/pct/images/products/235000/236769-600x600-A.jpg,italian,false
-Truly Grass Fed Irish Cheddar Wedge Cheese,https://images.publixcdn.com/pct/images/products/280000/284580-600x600-A.jpg,italian,false
-Vita Coco Treats Coconutmilk Beverage,https://images.publixcdn.com/pct/images/products/320000/323687-600x600-A.jpg,italian,false
-V8 Splash Beverage,https://images.publixcdn.com/pct/images/products/10000/011399-600x600-A.jpg,italian,false
-Tampico Punch,https://images.publixcdn.com/pct/images/products/25000/025389-600x600-A.jpg,italian,false
-Skinny Dipped Almonds,https://images.publixcdn.com/pct/images/products/245000/247603-600x600-A.jpg,italian,false
-Atalanta Imported Feta Cheese,https://images.publixcdn.com/pct/images/products/270000/272979-600x600-A.jpg,italian,false
-Canine Carry Outs Dog Snacks,https://images.publixcdn.com/pct/images/products/860000/862343-600x600-A.jpg,italian,false
-Tillamook Beef Jerky,https://images.publixcdn.com/pct/images/products/270000/271179-600x600-A.jpg,italian,false
-David Sunflower Seeds,https://images.publixcdn.com/pct/images/products/20000/023637-600x600-A.jpg,italian,false
-Arden's Garden Beverage,https://images.publixcdn.com/pct/images/products/330000/331191-600x600-A.jpg,italian,false
-Lay's Stax Potato Crisps,https://images.publixcdn.com/pct/images/products/335000/336490-600x600-A.jpg,italian,false
-Mama Mancini's Chicken Panini,https://images.publixcdn.com/pct/images/products/330000/333268-600x600-A.jpg,italian,false
-Bai Antioxidant Beverage,https://images.publixcdn.com/pct/images/products/285000/287951-600x600-A.jpg,italian,false
-Arnott's Tim Tam Cookies,https://images.publixcdn.com/pct/images/products/315000/315561-600x600-A.jpg,italian,false
-"6-Pack Jupia, Cawy, or Materva Soda",https://images.publixcdn.com/pct/images/products/365000/369994-600x600-A.jpg,italian,false
-Rienzi Organic Beans,https://images.publixcdn.com/pct/images/products/320000/321636-600x600-A.jpg,italian,false
-Beyond Plant-Based Product,https://images.publixcdn.com/pct/images/products/245000/246681-600x600-A.jpg,italian,false
-Allegro Marinade,https://images.publixcdn.com/pct/images/products/345000/349557-600x600-A.jpg,italian,false
-Flora Organic Bruschette Mini Toasts,https://images.publixcdn.com/pct/images/products/885000/889942-600x600-A.jpg,italian,false
-Vita Coco Coconut Juice Drink,https://images.publixcdn.com/pct/images/products/295000/295702-600x600-A.jpg,italian,false
-Kosmos Q BBQ Sauce,https://images.publixcdn.com/pct/images/products/325000/326805-600x600-A.jpg,italian,false
-Badia Adobo Seasoning,https://images.publixcdn.com/pct/images/products/175000/175098-600x600-A.jpg,italian,false
-Natural Care Flea & Tick Spray,https://images.publixcdn.com/pct/images/products/325000/328278-600x600-A.jpg,italian,false
-Kosmos Q Rub,https://images.publixcdn.com/pct/images/products/315000/319130-600x600-A.jpg,italian,false
-Tillamook Smoked Sausages,https://images.publixcdn.com/pct/images/products/295000/295771-600x600-A.jpg,italian,false
-Flora Organic Pasta,https://images.publixcdn.com/pct/images/products/285000/286589-600x600-A.jpg,italian,false
-Skinny Mixes Syrup,https://images.publixcdn.com/pct/images/products/335000/335070-600x600-A.jpg,italian,false
-Juanita's Nacho Cheese Sauce,https://images.publixcdn.com/pct/images/products/320000/321338-600x600-A.jpg,italian,false
-Rollin Greens Protein,https://images.publixcdn.com/pct/images/products/330000/333852-600x600-A.jpg,italian,false
-6-Pack 7UP Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_06_309883_261360.jpg,italian,false
-Airborne Dietary Supplements,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Line_Item_04_198776_263560.jpg,italian,false
-ALB Vodka,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_01_img_1627732540.jpg,italian,false
-Amazing Taste Seasoning Shakers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_011_223923_UL_253420.jpg,italian,false
-Arizona Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_03_310293_261210.jpg,italian,false
-Arm & Hammer Scent Booster,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_03_332691_UL_263861.jpg,italian,false
-Art of the Cooper Special Selection Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Line_Item_04_331768_254687.jpg,italian,false
-Bertolli Olive Oil,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Bertolli_Olive_Oil_32_oz_bot.jpg,italian,false
-Bite Me Not! Insect Repellent Spray Lotion,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Line_Item_06_323566_264560.jpg,italian,false
-Bonne Maman Preserves,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_09_120556_261510.jpg,italian,false
-Charmin Flushable Wipes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_01_963745_UL_263711.jpg,italian,false
-Chex Mix Snack,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_04_19128_261260.jpg,italian,false
-Cutter Insect Repellent Spray,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Cutter_Insect_Repellent_Spray.jpg,italian,false
-Dean's Dip,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_01_68013_262460.jpg,italian,false
-Eternal Water,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_02_965058_UL_260517.jpg,italian,false
-Ferrero Rocher Chocolate or Caramel Hazelnut Squares,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_03_330816_UL_260617.jpg,italian,false
-Frick's Ham Steak,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Line_Item_04_226516_255428.jpg,italian,false
-Friskies Party Mix Cat Treat,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_02_941045_UL_264661.jpg,italian,false
-Gardein Plant Based Entres,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_06_429618_262710.jpg,italian,false
-Glacau Vitaminwater,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_06_15384_UL_260867.jpg,italian,false
-Good Humor Frozen Dessert Bars or Ice Cream Sandwiches,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_06_64293_UL_262161.jpg,italian,false
-International Delight or Land O Lakes Creamer Singles,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_011_73822_UL_259079.jpg,italian,false
-Jaume Serra Cristalino Sparkling Brut Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Line_Item_06_795559_254781.jpg,italian,false
-"Jonny Pops, Diana's Real Bananas or Whole Fruit Fruit Bars",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_021_165858_UL_261761.jpg,italian,false
-Kidfresh Entres,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Kidfresh_Entrees.jpg,italian,false
-"Kodiak Power Waffles, Pancakes, or Protein-Packed French Toast Sticks",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_012_827218_UL_261661.jpg,italian,false
-Lay's Potato Chips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_07_825010_253919.jpg,italian,false
-Lay's Stax Potato Crisps,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Lays_Stax_Potato_Crisps.jpg,italian,false
-Lindsay Olives,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_08_227432_260216.jpg,italian,false
-Mateo's Gourmet Salsa,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_07_213952_260166.jpg,italian,false
-McCormick Grill Mates Seasoning,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_05_42289_260066.jpg,italian,false
-Meow Mix Cat Food,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_04_86365_UL_264811.jpg,italian,false
-12-Pack Michelob Ultra Pure Gold Light Lager,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Line_Item_03_244467_254641.jpg,italian,false
-12-Pack Michelob Ultra Pure Gold Light Lager,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_2071331547.jpg,italian,false
-Nabisco Mini Cookies,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_05_308890_UL_260767.jpg,italian,false
-"Nature Valley Granola or Wafer Bars, or Breakfast Biscuits",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_012_20441_UL_259179.jpg,italian,false
-Nature Valley Granola,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_06_197278_260116.jpg,italian,false
-6-Pack New Belgium Beer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_586744068.jpg,italian,false
-6-Pack New Belgium Beer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_05_279357_254317.jpg,italian,false
-AMC Theatres Microwave Popcorn,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_AMC_Theatres_Microwave_Popcorn_6_ct_pkg.jpg,italian,false
-Bloom Sparkling Energy Drink,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_01_325508_261110.jpg,italian,false
-Urgency Cabernet Sauvignon Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_02_259327_254061.jpg,italian,false
-Panoxyl Acne Foaming Wash,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Line_Item_03_937609_263510.jpg,italian,false
-Pearl Milling Company Pancake & Waffle Mix,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_03_7499_UL_259479.jpg,italian,false
-Perdue Breaded Chicken,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_09_166307_262860.jpg,italian,false
-Peter Pan Peanut Butter,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_08_10131_UL_261017.jpg,italian,false
-"Pillsbury Grands! Biscuits or Rolls, Crescents, or Cinni Stix or Ready To Bake! Cookie Dough",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Pillsbury_Grands_Biscuits_16_3_oz_or_Rolls.jpg,italian,false
-Publix Iced Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Iced_Tea_Unsweetened.jpg,italian,false
-Publix Omeprazole Acid Reducer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Line_Item_06_144768_263660.jpg,italian,false
-Publix Iced Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Iced_Tea_Sweetened.jpg,italian,false
-Publix Raspberry Iced Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Raspberry_Iced_Tea.jpg,italian,false
-Publix Green Iced Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Green_Iced_Tea.jpg,italian,false
-Publix Lemonade,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Lemonade.jpg,italian,false
-Cake Pops,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_03_85017_253669.jpg,italian,false
-Puncher's Chance Kentucky Straight Bourbon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_01_img_94009060.jpg,italian,false
-6-Pack Red Stripe Jamaican Lager,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_03_339030_254108.jpg,italian,false
-Reynolds Wrap Aluminum Foil,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Line_Item_01_87319_264310.jpg,italian,false
-Splenda Sweeteners,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_03_10523_259966.jpg,italian,false
-The Kryssos Co. Everything Crackers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_021_284703_UL_258229.jpg,italian,false
-Tide Rescue Laundry Stain Remover,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Line_Item_04_284905_264460.jpg,italian,false
-Tru Earth Laundry Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Line_Item_03_280050_264410.jpg,italian,false
-Wonder Buns,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_01_209785_259866.jpg,italian,false
-Wow Bao Entres,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Wow_Bao_Entrees.jpg,italian,false
-Yardley Bar Soap,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Line_Item_02_89699_263460.jpg,italian,false
-Popwell Prebiotic Flavored Soda,https://images.publixcdn.com/cms/images/publix/no-image.svg,italian,false
-Juanita's Cooking Sauce,https://images.publixcdn.com/cms/images/publix/no-image.svg,italian,false
-Propel Electrolyte Water,https://images.publixcdn.com/cms/images/publix/no-image.svg,italian,false
-Graza Mayo,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_04_339173_252509.jpg,italian,false
-Kraft Macaroni & Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_06_341785_252609.jpg,italian,false
-Firehook Crackers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_08_203743_252709.jpg,italian,false
-Heavenly Hunks Gluten-Free Bites,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_01_291011_252359.jpg,italian,false
-Built Sour Puff Protein Bar,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_03_337371_252459.jpg,italian,false
-Arm & Hammer Laundry Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_05_320853_252559.jpg,italian,false
-Smartfood Popcorn,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai2_Smartfood_Popcorn.jpg,italian,false
-Sanpellegrino Ciao! Sparkling Water,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_02_323647_252409.jpg,italian,false
-Any 1 Band-Aid Pro Heal Product,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_1_img_928943666.jpg,italian,false
-Bushmills Single Malt Irish Whiskey,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_2047396231.jpg,italian,false
-Any 1 Triscuit Snack Mix,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_1_img_1320483858.jpg,italian,false
-Porterhouse or T-Bone Steaks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_011_223923_UL_253420_PackageShot.jpg,italian,false
-Chobani Flip Greek Yogurt,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_04_824148_261960.jpg,italian,false
-Marie Callender's Bowls,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_08_133135_262360.jpg,italian,false
-Horizon Organic Milk,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_03_891349_261860.jpg,italian,false
-Digiorno Pizza,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_05_718889_262060.jpg,italian,false
-Kraft Macaroni & Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_06_341785_252609.jpg,italian,false
-Springer Mountain Farms Chicken Breast Strips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_12_263900_253309.jpg,italian,false
-Publix Shredded Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_02-1_Feature_01_170818_251809.jpg,italian,false
-Nellie's Free Range Eggs,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_10_353793_253209.jpg,italian,false
-Jennie-O Turkey Burgers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_09_166867_253159.jpg,italian,false
-Publix Meals for One,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_03_267096_255978.jpg,italian,false
-Jack Daniel's Pulled Pork,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_06_185386_256278.jpg,italian,false
-"Bob Evans Side, Family Size",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_06_199326_UL_256279.jpg,italian,false
-Giovanni Rana Pasta,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Line_Item_06_276827_256628.jpg,italian,false
-Just Bare Breaded Chicken,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_08_273094_262810.jpg,italian,false
-Kidfresh Entres,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Kidfresh_Entrees.jpg,italian,false
-Painterland Sisters Organic Skyr Yogurt,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_04_322342_UL_261961.jpg,italian,false
-Perdue Breaded Chicken,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_09_166307_262860.jpg,italian,false
-Chocolate and Almond Bretzel Pastry,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_05-1_Feature_01_93667_252259.jpg,italian,false
-White Mountain Bread,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_09_Feature_05_95066_258978.jpg,italian,false
-Caramel Pecan Crunch Decadent Cake,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Caramel_Pecan_Crunch_Decadent_Cake.jpg,italian,false
-S'mores Brownies,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_09_Feature_06_335353_259028.jpg,italian,false
-"Brioche Donuts, 4-Count",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_09_Feature_021_16492_258778.jpg,italian,false
-Hamburger Buns,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_09_Feature_03_95095_258878.jpg,italian,false
-Petite Bundt Cakes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_09_Feature_04_274296_258928.jpg,italian,false
-Cake Pops,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_03_85017_253669.jpg,italian,false
-Publix Chicken Tender Whole Sub,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_04_90356_253719.jpg,italian,false
-Firehook Crackers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_08_203743_252709.jpg,italian,false
-Fiorucci Antipasti,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Fiorucci_Antipasti.jpg,italian,false
-Southern Recipe Pork Rinds,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_03_333434_258428.jpg,italian,false
-Publix Oven-Roasted Turkey Breast,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_06_22712_UL_258629_PackageShot.jpg,italian,false
-Publix Smoked Rib Meal,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Smoked_Rib_Meal.jpg,italian,false
-Publix Mardi Gras Oven-Roasted Chicken,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_011_79775_258028_PackageShot.jpg,italian,false
-Miami Twist Hummus,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Miami_Twist_Hummus.jpg,italian,false
-Publix Chicken Caesar Salad,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_05_96436_258578.jpg,italian,false
-Boar's Head Smokemaster Ham,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_04_97688_UL_258479_PackageShot.jpg,italian,false
-Belgioioso Fresh Mozzarella Cheese,https://images.publixcdn.com/pct/images/products/170000/174406-600x600-A.jpg,italian,false
-Boar's Head Pepperoni,https://images.publixcdn.com/pct/images/products/810000/811463-600x600-A.jpg,italian,false
-Galbani Fresh Mozzarella Cheese,https://images.publixcdn.com/pct/images/products/275000/277747-600x600-A.jpg,italian,false
-Boar's Head Charcuterie Tray,https://images.publixcdn.com/pct/images/products/295000/295159-600x600-A.jpg,italian,false
-Belgioioso Snacking Cheese,https://images.publixcdn.com/pct/images/products/955000/959037-600x600-A.jpg,italian,false
-Publix Diced Pancetta,https://images.publixcdn.com/pct/images/products/960000/960669-600x600-A.jpg,italian,false
-Publix Cooked Ham,https://images.publixcdn.com/pct/images/products/870000/874481-600x600-A.jpg,italian,false
-Emmi Le Gruyre Cheese,https://images.publixcdn.com/pct/images/products/240000/241182-600x600-A.jpg,italian,false
-Opaa! Greek Yogurt Tzatziki Dip,https://images.publixcdn.com/pct/images/products/970000/971040-600x600-A.jpg,italian,false
-Sabra Hummus Snackers,https://images.publixcdn.com/pct/images/products/930000/930608-600x600-A.jpg,italian,false
-Belgioioso Crumbly Gorgonzola Cheese,https://images.publixcdn.com/pct/images/products/225000/227674-600x600-A.jpg,italian,false
-Boar's Head Lemon Pepper Chicken Breast,https://images.publixcdn.com/pct/images/products/0/002273-600x600-A.jpg,italian,false
-Belgioioso Fontina Cheese,https://images.publixcdn.com/pct/images/products/955000/959028-600x600-A.jpg,italian,false
-Sabra Snackers,https://images.publixcdn.com/pct/images/products/225000/226028-600x600-A.jpg,italian,false
-Wellington Water Crackers,https://images.publixcdn.com/pct/images/products/145000/148761-600x600-A.jpg,italian,false
-Publix French Brie Cheese,https://images.publixcdn.com/pct/images/products/95000/096502-600x600-A.jpg,italian,false
-Tabla Fresca Farmstand Salsa,https://images.publixcdn.com/pct/images/products/265000/269174-600x600-A.jpg,italian,false
-Fresh Cravings Five Layer Dip,https://images.publixcdn.com/pct/images/products/980000/982863-600x600-A.jpg,italian,false
-Atalanta Imported Feta Cheese,https://images.publixcdn.com/pct/images/products/270000/272979-600x600-A.jpg,italian,false
-La Bonne Vie Goat Cheese,https://images.publixcdn.com/pct/images/products/455000/456682-600x600-A.jpg,italian,false
-Mama Mancini's Chicken Panini,https://images.publixcdn.com/pct/images/products/330000/333268-600x600-A.jpg,italian,false
-Artisan Kitchens Egg Bites,https://images.publixcdn.com/pct/images/products/275000/276671-600x600-A.jpg,italian,false
-Fresh Cravings Bruschetta,https://images.publixcdn.com/pct/images/products/330000/332988-600x600-A.jpg,italian,false
-Mifroma Le Gruyre AOP Cheese,https://images.publixcdn.com/pct/images/products/320000/321355-600x600-A.jpg,italian,false
-Fresh Cravings Mexicali Dip & Spread,https://images.publixcdn.com/pct/images/products/220000/223286-600x600-A.jpg,italian,false
-Yancey's Fancy Cheese,https://images.publixcdn.com/pct/images/products/215000/219837-600x600-A.jpg,italian,false
-Boar's Head Sriracha Gouda Cheese,https://images.publixcdn.com/pct/images/products/290000/294750-600x600-A.jpg,italian,false
-Boar's Head Domestic Provolone Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_04_97688_UL_258479.jpg,italian,false
-La Bonne Vie Goat Cheese Pyramid,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_022_456882_UL_258329.jpg,italian,false
-Publix Veggie Jamaican-Style Patties,https://images.publixcdn.com/pct/images/products/95000/099595-600x600-A.jpg,italian,false
-Publix Iced Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Iced_Tea_Unsweetened.jpg,italian,false
-Publix Colby Jack Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_06_22712_UL_258629.jpg,italian,false
-Publix Iced Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Iced_Tea_Sweetened.jpg,italian,false
-Publix Raspberry Iced Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Raspberry_Iced_Tea.jpg,italian,false
-Publix Banana Pudding,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_012_96563_UL_258129.jpg,italian,false
-Publix Old-Fashioned Beans,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_011_72636_UL_258029.jpg,italian,false
-Publix Green Iced Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Green_Iced_Tea.jpg,italian,false
-Publix Lemonade,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Lemonade.jpg,italian,false
-The Kryssos Co. Everything Crackers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_08_Feature_021_284703_UL_258229.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_3_cpn.jpg,italian,false
-GreenWise Bouquet,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_08_268447_257928.jpg,italian,false
-Tulip Bouquet,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_08_83400_UL_257929.jpg,italian,false
-Peony Bunch,https://images.publixcdn.com/cms/images/publix/no-image.svg,italian,false
-Porterhouse or T-Bone Steaks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_011_223923_UL_253420_PackageShot.jpg,italian,false
-Reser's Main St Bistro Signature Sides,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_11_215228_253259.jpg,italian,false
-Springer Mountain Farms Chicken Breast Strips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_12_263900_253309.jpg,italian,false
-Publix 73% Lean Ground Beef Roll,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_01_318319_252759.jpg,italian,false
-Smithfield Hometown Original Pork Sausage,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_03_241072_252859.jpg,italian,false
-Chuck Tender Roast,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Feature_05_96015_255178.jpg,italian,false
-Publix Chicken Leg Quarters,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Feature_012_97426_254878_PackageShot.jpg,italian,false
-Just Bare Chicken Breast Fillets,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Just_Bare_Chicken_Breast_Fillets.jpg,italian,false
-GreenWise Angus Top Sirloin Steak,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_GreenWise_Angus_Top_Sirloin_Steak.jpg,italian,false
-Publix Boneless Lean Pork Loin Chops,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Boneless_Lean_Pork_Loin_Chops.jpg,italian,false
-Publix Pork Boston Butt Roast,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_011_99903_UL_255629_PackageShot.jpg,italian,false
-GreenWise Ground Chuck,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_05_69144_256178.jpg,italian,false
-Jack Daniel's Pulled Pork,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_06_185386_256278.jpg,italian,false
-Publix Seasoned Beef Meatballs,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_04_93802_256078.jpg,italian,false
-Publix Boneless Chicken Breast Tenderloins,https://images.publixcdn.com/pct/images/products/95000/099649-600x600-A.jpg,italian,false
-Publix Chicken Breast Fillets,https://images.publixcdn.com/pct/images/products/65000/069546-600x600-A.jpg,italian,false
-Publix Pork Italian Sausage,https://images.publixcdn.com/pct/images/products/195000/198699-600x600-A.jpg,italian,false
-Jimmy Dean Bacon,https://images.publixcdn.com/pct/images/products/215000/219106-600x600-A.jpg,italian,false
-Publix Chicken Breast Cutlets,https://images.publixcdn.com/pct/images/products/70000/074799-600x600-A.jpg,italian,false
-Perdue Chicken Breast,https://images.publixcdn.com/pct/images/products/95000/099606-600x600-A.jpg,italian,false
-Perdue Chicken Breast Tenderloins,https://images.publixcdn.com/pct/images/products/20000/021843-600x600-A.jpg,italian,false
-Publix Pork Italian Sausage,https://images.publixcdn.com/pct/images/products/250000/252169-600x600-A.jpg,italian,false
-Hillshire Farm Snacking Small Plates,https://images.publixcdn.com/pct/images/products/235000/235838-600x600-A.jpg,italian,false
-Maverick Ranch Organic Ground Beef,https://images.publixcdn.com/pct/images/products/180000/184037-600x600-A.jpg,italian,false
-Hatfield Ham Steak,https://images.publixcdn.com/pct/images/products/290000/292774-600x600-A.jpg,italian,false
-Inside Skirt Steak,https://images.publixcdn.com/pct/images/products/90000/093584-600x600-A.jpg,italian,false
-Chuck Tender Steak,https://images.publixcdn.com/pct/images/products/95000/096002-600x600-A.jpg,italian,false
-Publix Ground Turkey Breast,https://images.publixcdn.com/pct/images/products/195000/197394-600x600-A.jpg,italian,false
-GreenWise Lamb Shoulder Blade Chops,https://images.publixcdn.com/pct/images/products/15000/016369-600x600-A.jpg,italian,false
-Schweid & Sons Ground Beef,https://images.publixcdn.com/pct/images/products/315000/318772-600x600-A.jpg,italian,false
-Stahl-Meyer Hot Dogs,https://images.publixcdn.com/pct/images/products/270000/274755-600x600-A.jpg,italian,false
-Eye Round Steak,https://images.publixcdn.com/pct/images/products/95000/096065-600x600-A.jpg,italian,false
-Hormel Marinated Pork Loin Tenderloin,https://images.publixcdn.com/pct/images/products/885000/886214-600x600-A.jpg,italian,false
-Eye Round Steaks,https://images.publixcdn.com/pct/images/products/90000/093675-600x600-A.jpg,italian,false
-GreenWise Lamb Round Bone Shoulder Chops,https://images.publixcdn.com/pct/images/products/15000/016370-600x600-A.jpg,italian,false
-Petite Tender Medallion,https://images.publixcdn.com/pct/images/products/20000/020666-600x600-A.jpg,italian,false
-Chomps Meat Single Stick,https://images.publixcdn.com/pct/images/products/325000/327341-600x600-A.jpg,italian,false
-Eye Round Roast,https://images.publixcdn.com/pct/images/products/95000/096064-600x600-A.jpg,italian,false
-Murray's Boneless Chicken Breast,https://images.publixcdn.com/pct/images/products/75000/075049-600x600-A.jpg,italian,false
-Butcher's Organic Bone Broth,https://images.publixcdn.com/pct/images/products/245000/248964-600x600-A.jpg,italian,false
-GreenWise Split Chicken Breast,https://images.publixcdn.com/pct/images/products/0/002756-600x600-A.jpg,italian,false
-GreenWise Lamb Neck for Stew,https://images.publixcdn.com/pct/images/products/15000/016377-600x600-A.jpg,italian,false
-GreenWise Angus Chuck Roast,https://images.publixcdn.com/pct/images/products/65000/069074-600x600-A.jpg,italian,false
-Verde Farms Organic Ground Beef,https://images.publixcdn.com/pct/images/products/335000/339792-600x600-A.jpg,italian,false
-Tillamook Beef Jerky,https://images.publixcdn.com/pct/images/products/270000/271179-600x600-A.jpg,italian,false
-Chuck Tender Steaks,https://images.publixcdn.com/pct/images/products/25000/025998-600x600-A.jpg,italian,false
-GreenWise Angus Top Sirloin Cap Steak,https://images.publixcdn.com/pct/images/products/95000/098502-600x600-A.jpg,italian,false
-GreenWise Pork Loin Back Ribs,https://images.publixcdn.com/pct/images/products/70000/070452-600x600-A.jpg,italian,false
-Porterhouse or T-Bone Steaks,https://images.publixcdn.com/pct/images/products/95000/097372-600x600-A.jpg,italian,false
-Beyond Plant-Based Product,https://images.publixcdn.com/pct/images/products/245000/246681-600x600-A.jpg,italian,false
-GreenWise Angus Chuck Steaks,https://images.publixcdn.com/pct/images/products/65000/069056-600x600-A.jpg,italian,false
-Demakes Bros. Sliced Wagyu Beef,https://images.publixcdn.com/pct/images/products/340000/343385-600x600-A.jpg,italian,false
-Publix Beef Meatloaf Stuffed Peppers,https://images.publixcdn.com/pct/images/products/95000/096640-600x600-A.jpg,italian,false
-GreenWise Angus Chuck Eye Steak,https://images.publixcdn.com/pct/images/products/10000/011835-600x600-A.jpg,italian,false
-Publix Argentine-Style Chorizo Sausage,https://images.publixcdn.com/pct/images/products/315000/319823-600x600-A.jpg,italian,false
-GreenWise Angus Bottom Round Steaks,https://images.publixcdn.com/pct/images/products/65000/069057-600x600-A.jpg,italian,false
-Tillamook Smoked Sausages,https://images.publixcdn.com/pct/images/products/295000/295771-600x600-A.jpg,italian,false
-Petite Tender Beef Shoulder,https://images.publixcdn.com/pct/images/products/20000/020665-600x600-A.jpg,italian,false
-Clifty Farm Country Ham,https://images.publixcdn.com/pct/images/products/100000/100910-600x600-A.jpg,italian,false
-GreenWise Angus Bottom Round Roast,https://images.publixcdn.com/pct/images/products/65000/069060-600x600-A.jpg,italian,false
-GreenWise Angus Chuck Short Ribs,https://images.publixcdn.com/pct/images/products/65000/069020-600x600-A.jpg,italian,false
-GreenWise Angus Rump Roast,https://images.publixcdn.com/pct/images/products/10000/013545-600x600-A.jpg,italian,false
-Demakes Bros. Beef Skewers,https://images.publixcdn.com/pct/images/products/340000/343387-600x600-A.jpg,italian,false
-Texas Meat Company Marinated Pork or Chicken,https://images.publixcdn.com/pct/images/products/340000/342089-600x600-A.jpg,italian,false
-Texas Meat Company Marinated Beef,https://images.publixcdn.com/pct/images/products/340000/342843-600x600-A.jpg,italian,false
-GreenWise Lamb Shoulder Roast,https://images.publixcdn.com/pct/images/products/15000/019944-600x600-A.jpg,italian,false
-Publix Meatloaf Burgers,https://images.publixcdn.com/pct/images/products/90000/093801-600x600-A.jpg,italian,false
-Amazing Taste Seasoning Shakers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_011_223923_UL_253420.jpg,italian,false
-"Bob Evans Side, Family Size",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_06_199326_UL_256279.jpg,italian,false
-Frick's Ham Steak,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Line_Item_04_226516_255428.jpg,italian,false
-Giovanni Rana Pasta,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Line_Item_06_276827_256628.jpg,italian,false
-Hillshire Farm Lunch Meats,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Line_Item_02_20559_256428.jpg,italian,false
-Johnsonville Sausage Links,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Line_Item_03_81420_256478.jpg,italian,false
-Force of Nature Grass Fed Ground Beef,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Line_Item_05_332149_255478.jpg,italian,false
-Perdue Ground Chicken,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Line_Item_06_73810_255578.jpg,italian,false
-GreenWise Ground Chuck Burgers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_05_69176_UL_256179.jpg,italian,false
-Publix Seasoned Beef Meatloaf,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_04_96643_UL_256079.jpg,italian,false
-Publix BBQ Bacon Chicken Grillers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_03_90210_UL_255979.jpg,italian,false
-GreenWise Angus Top Sirloin Fillet,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_021_69128_UL_255829.jpg,italian,false
-Publix Boneless Lean Pork Loin Chops Regular,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_012_96138_UL_255729.jpg,italian,false
-Publix Colombian-Style Pork Sausage,https://images.publixcdn.com/pct/images/products/290000/293072-600x600-A.jpg,italian,false
-Publix Stuffed Jalapeo Peppers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Publix_Stuffed_Jalapeno_Peppers.jpg,italian,false
-Publix Potato Skins With Cream Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_012_91011_UL_253520.jpg,italian,false
-Ground Round,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_05_97390_253769.jpg,italian,false
-Ground Round Burgers or Slider Burgers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_05_97737_UL_253770.jpg,italian,false
-Shoulder London Broil,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Feature_05_97802_UL_255179.jpg,italian,false
-Publix Ground Pork,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_011_99903_UL_255629.jpg,italian,false
-Smithfield Bacon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Line_Item_01_74033_256378.jpg,italian,false
-Steakhouse Elite Ground Beef Burgers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Line_Item_05_290009_UL_255479.jpg,italian,false
-Publix Idaho Russet Potatoes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_02_23453_253619.jpg,italian,false
-Publix Classic Salad Blend,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_02_23695_252809.jpg,italian,false
-Honeycrisp Apples,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_03-1_Feature_01_24960_252009.jpg,italian,false
-Baby Seedless Cucumbers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_03-1_Feature_03_25800_252109.jpg,italian,false
-GreenWise Organic White Mushrooms,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_03-1_Feature_04_275692_252159.jpg,italian,false
-Lychee Fruit,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_03-1_Feature_02_24026_252059.jpg,italian,false
-Broccoli or Brussels Sprouts,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_06_Feature_06_248647_257128.jpg,italian,false
-Bulk Sweet Corn,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_06_Feature_03_23103_256928.jpg,italian,false
-Pero Family Farms Mini Sweet Peppers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_06_Feature_05_221823_UL_257029.jpg,italian,false
-Sunset Angel Sweet Tomatoes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_06_Feature_022_255110_UL_256829_PackageShot.jpg,italian,false
-Fresh Attitude Salads,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Fresh_Attitude_Salads.jpg,italian,false
-Vidalia Sweet Onions,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_06_Feature_04_23425_256978.jpg,italian,false
-River Gold Potatoes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_River_Gold_Potatoes.jpg,italian,false
-Bartlett Pears,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_05_23907_257678.jpg,italian,false
-Navel Oranges,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_06_24099_257778.jpg,italian,false
-Publix Pineapple Chunks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_03_25465_257528.jpg,italian,false
-Red Raspberries,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Red_Raspberries.jpg,italian,false
-Red Seedless Grapes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_04_25830_257578.jpg,italian,false
-Tree-Ripened Peaches or Nectarines,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Tree_Ripened_Peaches_or_Nectarines.jpg,italian,false
-Red or Black Plums,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_011_23770_257228.jpg,italian,false
-Blueberries,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_021_23957_257428_PackageShot.jpg,italian,false
-Simply Orange 100% Orange Juice,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_07_25919_257828.jpg,italian,false
-Organic Blueberries,https://images.publixcdn.com/pct/images/products/950000/952503-600x600-A.jpg,italian,false
-Publix Green Beans,https://images.publixcdn.com/pct/images/products/945000/946581-600x600-A.jpg,italian,false
-Tri-Color Peppers,https://images.publixcdn.com/pct/images/products/20000/023207-600x600-A.jpg,italian,false
-Honey Mango,https://images.publixcdn.com/pct/images/products/20000/024030-600x600-A.jpg,italian,false
-Publix Coleslaw Mix,https://images.publixcdn.com/pct/images/products/25000/025551-600x600-A.jpg,italian,false
-Bagged Asparagus,https://images.publixcdn.com/pct/images/products/245000/248884-600x600-A.jpg,italian,false
-Yellow Squash or Zucchini,https://images.publixcdn.com/pct/images/products/20000/024574-600x600-A.jpg,italian,false
-Tasteful Selections Nibbles Potatoes,https://images.publixcdn.com/pct/images/products/260000/264179-600x600-A.jpg,italian,false
-Small Red Seedless Watermelon,https://images.publixcdn.com/pct/images/products/230000/234215-600x600-A.jpg,italian,false
-Pomegranates,https://images.publixcdn.com/pct/images/products/20000/023694-600x600-A.jpg,italian,false
-Nutty and Fruity Dried Fruit,https://images.publixcdn.com/pct/images/products/280000/282495-600x600-A.jpg,italian,false
-Tropicana Pure Premium 100% Orange Juice,https://images.publixcdn.com/pct/images/products/20000/023707-600x600-A.jpg,italian,false
-Sugarbee Apples,https://images.publixcdn.com/pct/images/products/270000/272400-600x600-A.jpg,italian,false
-Okra,https://images.publixcdn.com/pct/images/products/945000/946566-600x600-A.jpg,italian,false
-GreenWise Organic Fuji Apples,https://images.publixcdn.com/pct/images/products/250000/254703-600x600-A.jpg,italian,false
-Wonderful No Shell Pistachios,https://images.publixcdn.com/pct/images/products/965000/967054-600x600-A.jpg,italian,false
-Bounduelle Bistro Bowls,https://images.publixcdn.com/pct/images/products/20000/024022-600x600-A.jpg,italian,false
-Sol-ti Supershot,https://images.publixcdn.com/pct/images/products/255000/258733-600x600-A.jpg,italian,false
-Suja Organic Digestion Wellness Shot,https://images.publixcdn.com/pct/images/products/255000/258385-600x600-A.jpg,italian,false
-Organicgirl Organic Salad,https://images.publixcdn.com/pct/images/products/20000/024844-600x600-A.jpg,italian,false
-Love Beets Beets,https://images.publixcdn.com/pct/images/products/235000/235911-600x600-A.jpg,italian,false
-Good Foods Avocado Mash,https://images.publixcdn.com/pct/images/products/250000/251398-600x600-A.jpg,italian,false
-Del Monte Fruit Naturals Snacks,https://images.publixcdn.com/pct/images/products/880000/881231-600x600-A.jpg,italian,false
-Bolthouse Farms 100% Juice Smoothie,https://images.publixcdn.com/pct/images/products/20000/023151-600x600-A.jpg,italian,false
-Crunchies Freeze Dried Fruit,https://images.publixcdn.com/pct/images/products/240000/242404-600x600-A.jpg,italian,false
-Koia Protein Plant-Based Shake,https://images.publixcdn.com/pct/images/products/245000/246615-600x600-A.jpg,italian,false
-221 B.C. Organic Kombucha,https://images.publixcdn.com/pct/images/products/245000/246678-600x600-A.jpg,italian,false
-Florida's Natural 100% Orange Juice,https://images.publixcdn.com/pct/images/products/930000/930412-600x600-A.jpg,italian,false
-Makoto Dressing,https://images.publixcdn.com/pct/images/products/25000/025865-600x600-A.jpg,italian,false
-Mariani Premium Walnuts,https://images.publixcdn.com/pct/images/products/330000/333287-600x600-A.jpg,italian,false
-Chick-Fil-A Salad Dressings,https://images.publixcdn.com/pct/images/products/290000/293233-600x600-A.jpg,italian,false
-Yucatan Guacamole,https://images.publixcdn.com/pct/images/products/20000/023661-600x600-A.jpg,italian,false
-Zico Pure Organic Coconut Water,https://images.publixcdn.com/pct/images/products/330000/331018-600x600-A.jpg,italian,false
-Nasoya Kimchi,https://images.publixcdn.com/pct/images/products/25000/025948-600x600-A.jpg,italian,false
-Bolthouse Farms Green Goodness Juice Smoothie,https://images.publixcdn.com/pct/images/products/935000/937567-600x600-A.jpg,italian,false
-Kevita Master Brew Kombucha,https://images.publixcdn.com/pct/images/products/220000/222691-600x600-A.jpg,italian,false
-Sofresco Cold Pressed Juice,https://images.publixcdn.com/pct/images/products/330000/331245-600x600-A.jpg,italian,false
-Hampton Farms Natural Peanut Butter,https://images.publixcdn.com/pct/images/products/335000/335207-600x600-A.jpg,italian,false
-David Sunflower Seeds,https://images.publixcdn.com/pct/images/products/20000/023637-600x600-A.jpg,italian,false
-Arden's Garden Beverage,https://images.publixcdn.com/pct/images/products/330000/331191-600x600-A.jpg,italian,false
-Marzetti Classic Ranch,https://images.publixcdn.com/pct/images/products/330000/333742-600x600-A.jpg,italian,false
-Daiya Cheese Alternative Cheddar Style,https://images.publixcdn.com/pct/images/products/20000/024968-600x600-A.jpg,italian,false
-California Sun-Dry Sun-Dried Tomatoes,https://images.publixcdn.com/pct/images/products/20000/023301-600x600-A.jpg,italian,false
-GreenWise Organic Tofu,https://images.publixcdn.com/pct/images/products/245000/247429-600x600-A.jpg,italian,false
-Magic Mind Original Shot,https://images.publixcdn.com/pct/images/products/330000/331228-600x600-A.jpg,italian,false
-Boil The Bag Peanuts,https://images.publixcdn.com/pct/images/products/315000/318634-600x600-A.jpg,italian,false
-Orchard Valley Harvest Peanuts,https://images.publixcdn.com/pct/images/products/330000/334475-600x600-A.jpg,italian,false
-"Love, Corn Delicious Crunchy Corn Snacks",https://images.publixcdn.com/pct/images/products/335000/335224-600x600-A.jpg,italian,false
-Cosmic Crisp Apples,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Cosmic_Crisp_Apples.jpg,italian,false
-Organic Peaches or Nectarines,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_012_23524_UL_257329.jpg,italian,false
-Organic Plums,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_011_23515_UL_257229.jpg,italian,false
-Red 'n Tasty Tomatoes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_06_Feature_022_255110_UL_256829.jpg,italian,false
-Beets,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_06_Feature_06_24186_UL_257129.jpg,italian,false
-Asparagus,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_06_Feature_011_23070_256678_PackageShot.jpg,italian,false
-Organic Cotton Candy Grapes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_05_24684_UL_257679.jpg,italian,false
-Pero Family Farms Mini Sweet Peppers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_06_Feature_05_23219_257028.jpg,italian,false
-GreenWise Organic Red or White Seedless Grapes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_04_23505_UL_257579.jpg,italian,false
-Simply Juice Drink or Lemonade,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_07_Feature_07_24465_UL_257829.jpg,italian,false
-Publix Tuscan Lemon Herb Salad,https://images.publixcdn.com/cms/images/publix/no-image.svg,italian,false
-The Original Bourbon Marinated Salmon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Feature_02_99789_254928.jpg,italian,false
-White Shrimp,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Feature_03_99086_255028.jpg,italian,false
-Publix Meals for One,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_03_267096_255978.jpg,italian,false
-Lobster Tails,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Feature_022_99499_255928.jpg,italian,false
-Publix Cooked Shrimp,https://images.publixcdn.com/pct/images/products/120000/123856-600x600-A.jpg,italian,false
-Inland Market Seafood Cheese Spread,https://images.publixcdn.com/pct/images/products/70000/071644-600x600-A.jpg,italian,false
-Publix White Shrimp,https://images.publixcdn.com/pct/images/products/120000/123757-600x600-A.jpg,italian,false
-Cooked Shrimp,https://images.publixcdn.com/pct/images/products/80000/080770-600x600-A.jpg,italian,false
-GreenWise White Shrimp,https://images.publixcdn.com/pct/images/products/175000/179535-600x600-A.jpg,italian,false
-GreenWise Peeled & Deveined White Shrimp,https://images.publixcdn.com/pct/images/products/130000/134780-600x600-A.jpg,italian,false
-GreenWise White Shrimp,https://images.publixcdn.com/pct/images/products/75000/079718-600x600-A.jpg,italian,false
-Annasea Ahi Tuna Poke Kit,https://images.publixcdn.com/pct/images/products/265000/268857-600x600-A.jpg,italian,false
-Catfish Fillets,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Line_Item_01_96864_255278.jpg,italian,false
-Bluehouse Atlantic Salmon Fillets,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Line_Item_02_14714_255328.jpg,italian,false
-"White Shrimp, Peeled & Deveined, Jumbo",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Feature_03_99047_UL_255029.jpg,italian,false
-Publix Salmon Meals for One,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai2_Publix_Salmon_Meals_for_One.jpg,italian,false
-Stuffed Clams,https://images.publixcdn.com/pct/images/products/95000/096973-600x600-A.jpg,italian,false
-Vita Classic Smoked Atlantic Salmon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Line_Item_03_2101_255378.jpg,italian,false
-Coastal Vibes Sauvignon Blanc Wine,https://images.publixcdn.com/pct/images/products/275000/279471-600x600-A.jpg,italian,false
-Sunscape Pinot Grigio Wine,https://images.publixcdn.com/pct/images/products/280000/280115-600x600-A.jpg,italian,false
-The Skinny Vine Red Blend Wine,https://images.publixcdn.com/pct/images/products/295000/295232-600x600-A.jpg,italian,false
-Sunscape Pinot Grigio Wine,https://images.publixcdn.com/pct/images/products/290000/291212-600x600-A.jpg,italian,false
-Art of the Cooper Special Selection Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Line_Item_04_331768_254687.jpg,italian,false
-Decoy Cabernet Sauvignon Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_06_958647_254375.jpg,italian,false
-Decoy Chardonnay or Sauvignon Blanc Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_06_958636_UL_254376.jpg,italian,false
-Jaume Serra Cristalino Sparkling Brut Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Line_Item_06_795559_254781.jpg,italian,false
-Kendall-Jackson Cabernet Sauvignon Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_04_17696_UL_254211.jpg,italian,false
-Kendall-Jackson Chardonnay Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_04_17580_254200.jpg,italian,false
-12-Pack Michelob Ultra Pure Gold Light Lager,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Line_Item_03_244467_254641.jpg,italian,false
-18-Pack Michelob Ultra Beer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_01_131679_253969.jpg,italian,false
-6-Pack New Belgium Beer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_05_279357_254317.jpg,italian,false
-12-Pack Ntrl Vodka Seltzer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Line_Item_02_335442_254627.jpg,italian,false
-Urgency Cabernet Sauvignon Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_02_259327_254061.jpg,italian,false
-12-Pack Peroni Nastro Azzurro Beer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_03_820941_UL_254109.jpg,italian,false
-6-Pack Red Stripe Jamaican Lager,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_03_339030_254108.jpg,italian,false
-12-Pack Sierra Nevada Brewing Co. Beer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_05_451001_UL_254284.jpg,italian,false
-12-Pack White Claw Hard Seltzer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_12_Pack_White_Claw_Hard_Seltzer.jpg,italian,false
-Yellow Tail Chardonnay Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Line_Item_05_17292_254734.jpg,italian,false
-12-Pack Yuengling Traditional Lager,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_12_Pack_Yuengling_Traditional_Lager.jpg,italian,false
-Greenfield Natural Meat Co. Bacon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Greenfield_Natural_Meat_Co_Bacon.jpg,italian,false
-Cabot Sweet Cream Butter,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Cabot_Sweet_Cream_Butter.jpg,italian,false
-Chobani Flip Greek Yogurt,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_04_824148_261960.jpg,italian,false
-Horizon Organic Milk,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_03_891349_261860.jpg,italian,false
-Publix Shredded Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_02-1_Feature_01_170818_251809.jpg,italian,false
-Nellie's Free Range Eggs,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_10_353793_253209.jpg,italian,false
-Armour Pepperoni,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_02-1_Feature_04_188118_251959.jpg,italian,false
-Kraft American Cheese Singles,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_11_71086_251709.jpg,italian,false
-Publix Crumbled Cheese,https://images.publixcdn.com/pct/images/products/80000/084157-600x600-A.jpg,italian,false
-Organic Valley Shredded Cheese,https://images.publixcdn.com/pct/images/products/125000/128766-600x600-A.jpg,italian,false
-Truly Grass Fed Irish Cheddar Wedge Cheese,https://images.publixcdn.com/pct/images/products/280000/284580-600x600-A.jpg,italian,false
-Blue Diamond Almonds Almond Breeze Almondmilk,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_03_822795_UL_261861.jpg,italian,false
-Dean's Dip,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_01_68013_262460.jpg,italian,false
-Disney String Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Line_Item_05_258664_256578.jpg,italian,false
-Painterland Sisters Organic Skyr Yogurt,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_04_322342_UL_261961.jpg,italian,false
-Philadelphia Cream Cheese Spread,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_02_67535_262510.jpg,italian,false
-"Pillsbury Grands! Biscuits or Rolls, Crescents, or Cinni Stix or Ready To Bake! Cookie Dough",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Pillsbury_Grands_Biscuits_16_3_oz_or_Rolls.jpg,italian,false
-Tillamook Shredded Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_05_Line_Item_04_264406_256528.jpg,italian,false
-Mayfield Creamery Ice Cream,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Mayfield_Creamery_Ice_Cream.jpg,italian,false
-Marie Callender's Bowls,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_08_133135_262360.jpg,italian,false
-Gorton's Shrimp,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Gortons_Shrimp.jpg,italian,false
-Digiorno Pizza,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_05_718889_262060.jpg,italian,false
-Talenti Gelato,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Talenti_Gelato.jpg,italian,false
-Jennie-O Turkey Burgers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_09_166867_253159.jpg,italian,false
-Publix Peeled & Deveined White Shrimp,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_07_123784_254455.jpg,italian,false
-Publix Shrimp Scampi,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_04_Feature_04_251951_255128.jpg,italian,false
-Stouffer's for Two Entres,https://images.publixcdn.com/pct/images/products/335000/339935-600x600-A.jpg,italian,false
-Alexia Potatoes or Onion Rings,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_07_903068_UL_262261.jpg,italian,false
-"Canyon Bakehouse Bread, Bagels or Rolls",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_2_img_1921477134.jpg,italian,false
-Dole Whip,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_3_img_1049013212.jpg,italian,false
-Gardein Plant Based Entres,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_06_429618_262710.jpg,italian,false
-Good Humor Frozen Dessert Bars or Ice Cream Sandwiches,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_06_64293_UL_262161.jpg,italian,false
-"Healthy Choice, Marie Callender's, or Dolly Parton's Entres",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_08_40804_UL_262361.jpg,italian,false
-Innovasian Cuisine Side Dish,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_05_199723_262660.jpg,italian,false
-"Jonny Pops, Diana's Real Bananas or Whole Fruit Fruit Bars",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_021_165858_UL_261761.jpg,italian,false
-Just Bare Breaded Chicken,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_08_273094_262810.jpg,italian,false
-Kidfresh Entres,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Kidfresh_Entrees.jpg,italian,false
-"Kodiak Power Waffles, Pancakes, or Protein-Packed French Toast Sticks",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Feature_012_827218_UL_261661.jpg,italian,false
-Michael Angelo's Large Family Entree,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_3_img_1790550492.jpg,italian,false
-Michael Angelo's Family Size Entres,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_07_183799_262760.jpg,italian,false
-Any 1 Mrs. T's Pierogies 12.84 32-oz and Any 1 Publix Bacon 12 24-oz,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_3_img_1312724208.jpg,italian,false
-"Applegate Organic Beef Hot Dogs, Organic Chicken Strips or Nuggets",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_1_img_1134206500.jpg,italian,false
-Perdue Breaded Chicken,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_12_Line_Item_09_166307_262860.jpg,italian,false
-Wow Bao Entres,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Wow_Bao_Entrees.jpg,italian,false
-California Pizza Kitchen Singles Pizza,https://images.publixcdn.com/cms/images/publix/no-image.svg,italian,false
-12-Pack Pepsi Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_06_304043_253869.jpg,italian,false
-Ken's Steak House Dressing,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_06_348981_259716.jpg,italian,false
-Pearl Milling Company Syrup,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Pearl_Milling_Company_Syrup.jpg,italian,false
-Post Great Grains Cereal,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_04_8583_259572.jpg,italian,false
-General Mills Cheerios Cereal,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_General_Mills_Cheerios_Cereal.jpg,italian,false
-Muir Glen Tomatoes or Tomato Sauce or Paste,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Muir_Glen_Tomatoes.jpg,italian,false
-Gatorade Thirst Quencher,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Gatorade_Thirst_Quencher.jpg,italian,false
-Bertolli Sauce,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Bertolli_Sauce.jpg,italian,false
-Maxwell House Ground Coffee,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Maxwell_House_Ground_Coffee.jpg,italian,false
-Progresso Soup,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_07_4242_259816.jpg,italian,false
-Nature's Own Honey Wheat Bread,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_08_303745_261016.jpg,italian,false
-Publix Spring Water,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_02_14598_260516.jpg,italian,false
-Spindrift Sparkling Water,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_06_259418_260866.jpg,italian,false
-Frito Lay Simply Snacks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_04_309772_260716.jpg,italian,false
-12-Pack Coca-Cola Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_12_Pack_Coca_Cola_Products.jpg,italian,false
-On The Border Tortilla Chips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_On_The_Border_Tortilla_Chips.jpg,italian,false
-Nabisco Ritz Toasted Chips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_05_310140_260766.jpg,italian,false
-Planters Peanuts,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Planters_Peanuts.jpg,italian,false
-Kinder Bueno Chocolate Bites,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_03_279955_260616.jpg,italian,false
-Juicy Juice 100% Juice,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_08_130189_253109.jpg,italian,false
-Lipton Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_08_311813_251559.jpg,italian,false
-Graza Mayo,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_04_339173_252509.jpg,italian,false
-Golden Home Pizza Crust,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_02-1_Feature_03_289501_251909.jpg,italian,false
-Kraft Macaroni & Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_06_341785_252609.jpg,italian,false
-Belvita Breakfast Biscuits,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_04_314213_252909.jpg,italian,false
-Heavenly Hunks Gluten-Free Bites,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_01_291011_252359.jpg,italian,false
-Kraft Barbecue Sauce,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_10_5789_251659.jpg,italian,false
-Kellogg's Frosted Flakes Cereal,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_05_323852_252959.jpg,italian,false
-Starbucks Frappuccino Chilled Coffee Drink,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_09_808938_251609.jpg,italian,false
-6-Pack Pepsi Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_6_Pack_Pepsi_Products.jpg,italian,false
-Smartfood Popcorn,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai2_Smartfood_Popcorn.jpg,italian,false
-Frito Lay Snacks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_07_300826_251509.jpg,italian,false
-La Famiglia Delgrosso Sauce,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_02-1_Feature_02_189103_251859.jpg,italian,false
-Sanpellegrino Ciao! Sparkling Water,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_02_323647_252409.jpg,italian,false
-GreenWise Organic Coconut Aminos,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_03_Feature_08_298339_254502.jpg,italian,false
-Publix Premium Ground Coffee,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_09_Feature_022_117750_258828.jpg,italian,false
-Mentos Mints,https://images.publixcdn.com/pct/images/products/40000/042783-600x600-A.jpg,italian,false
-Entenmann's Little Bites Muffins,https://images.publixcdn.com/pct/images/products/715000/716265-600x600-A.jpg,italian,false
-Takis Tortilla Chips,https://images.publixcdn.com/pct/images/products/930000/931208-600x600-A.jpg,italian,false
-10-Pack Pepsi Products,https://images.publixcdn.com/pct/images/products/315000/316075-600x600-A.jpg,italian,false
-Gatorade Thirst Quencher,https://images.publixcdn.com/pct/images/products/115000/118455-600x600-A.jpg,italian,false
-Gatorlyte Electrolyte Beverage,https://images.publixcdn.com/pct/images/products/275000/277913-600x600-A.jpg,italian,false
-Pure Leaf Tea,https://images.publixcdn.com/pct/images/products/395000/399800-600x600-A.jpg,italian,false
-AMC Theatres Perfectly Popcorn Microwave Popcorn,https://images.publixcdn.com/pct/images/products/290000/294597-600x600-A.jpg,italian,false
-Caf Bustelo Instant Espresso Coffee,https://images.publixcdn.com/pct/images/products/865000/865119-600x600-A.jpg,italian,false
-Pepsi Products,https://images.publixcdn.com/pct/images/products/315000/315280-600x600-A.jpg,italian,false
-Hostess Snacks,https://images.publixcdn.com/pct/images/products/200000/201404-600x600-A.jpg,italian,false
-Wise Cheez Doodles Corn Snacks,https://images.publixcdn.com/pct/images/products/310000/312504-600x600-A.jpg,italian,false
-Wickles Pickles,https://images.publixcdn.com/pct/images/products/200000/201371-600x600-A.jpg,italian,false
-Nissin Original Chow Mein Noodles,https://images.publixcdn.com/pct/images/products/170000/171003-600x600-A.jpg,italian,false
-Propel Electrolyte Water,https://images.publixcdn.com/pct/images/products/320000/323688-600x600-A.jpg,italian,false
-Sour Patch Kids Assorted Candy,https://images.publixcdn.com/pct/images/products/280000/283396-600x600-A.jpg,italian,false
-Martin's Rolls,https://images.publixcdn.com/pct/images/products/305000/309950-600x600-A.jpg,italian,false
-Folgers Instant Coffee Crystals,https://images.publixcdn.com/pct/images/products/5000/008829-600x600-A.jpg,italian,false
-Ralston Family Farms Rice,https://images.publixcdn.com/pct/images/products/255000/255562-600x600-A.jpg,italian,false
-Gold Peak Tea,https://images.publixcdn.com/pct/images/products/395000/399604-600x600-A.jpg,italian,false
-GreenWise Granola,https://images.publixcdn.com/pct/images/products/235000/236769-600x600-A.jpg,italian,false
-4-Pack Poppi Prebiotic Soda,https://images.publixcdn.com/pct/images/products/365000/366328-600x600-A.jpg,italian,false
-Vita Coco Treats Coconutmilk Beverage,https://images.publixcdn.com/pct/images/products/320000/323687-600x600-A.jpg,italian,false
-V8 Splash Beverage,https://images.publixcdn.com/pct/images/products/10000/011399-600x600-A.jpg,italian,false
-Tampico Punch,https://images.publixcdn.com/pct/images/products/25000/025389-600x600-A.jpg,italian,false
-Skinny Dipped Almonds,https://images.publixcdn.com/pct/images/products/245000/247603-600x600-A.jpg,italian,false
-Late July Snacks Tortilla Chips,https://images.publixcdn.com/pct/images/products/185000/188072-600x600-A.jpg,italian,false
-Ritz Cracker Sandwiches,https://images.publixcdn.com/pct/images/products/295000/298887-600x600-A.jpg,italian,false
-Nabisco Cookies or Crackers Variety Pack,https://images.publixcdn.com/pct/images/products/310000/314804-600x600-A.jpg,italian,false
-Lay's Stax Potato Crisps,https://images.publixcdn.com/pct/images/products/335000/336490-600x600-A.jpg,italian,false
-Bai Antioxidant Beverage,https://images.publixcdn.com/pct/images/products/285000/287951-600x600-A.jpg,italian,false
-Arnott's Tim Tam Cookies,https://images.publixcdn.com/pct/images/products/315000/315561-600x600-A.jpg,italian,false
-"6-Pack Jupia, Cawy, or Materva Soda",https://images.publixcdn.com/pct/images/products/365000/369994-600x600-A.jpg,italian,false
-Folgers Instant Coffee Crystals,https://images.publixcdn.com/pct/images/products/5000/008830-600x600-A.jpg,italian,false
-Rienzi Organic Beans,https://images.publixcdn.com/pct/images/products/320000/321636-600x600-A.jpg,italian,false
-Allegro Marinade,https://images.publixcdn.com/pct/images/products/345000/349557-600x600-A.jpg,italian,false
-Flora Organic Bruschette Mini Toasts,https://images.publixcdn.com/pct/images/products/885000/889942-600x600-A.jpg,italian,false
-Vita Coco Coconut Juice Drink,https://images.publixcdn.com/pct/images/products/295000/295702-600x600-A.jpg,italian,false
-Kosmos Q BBQ Sauce,https://images.publixcdn.com/pct/images/products/325000/326805-600x600-A.jpg,italian,false
-GreenWise Organic Coffee,https://images.publixcdn.com/pct/images/products/970000/972355-600x600-A.jpg,italian,false
-Badia Adobo Seasoning,https://images.publixcdn.com/pct/images/products/175000/175098-600x600-A.jpg,italian,false
-Kosmos Q Rub,https://images.publixcdn.com/pct/images/products/315000/319130-600x600-A.jpg,italian,false
-Flora Organic Pasta,https://images.publixcdn.com/pct/images/products/285000/286589-600x600-A.jpg,italian,false
-Skinny Mixes Syrup,https://images.publixcdn.com/pct/images/products/335000/335070-600x600-A.jpg,italian,false
-Juanita's Nacho Cheese Sauce,https://images.publixcdn.com/pct/images/products/320000/321338-600x600-A.jpg,italian,false
-Rollin Greens Protein,https://images.publixcdn.com/pct/images/products/330000/333852-600x600-A.jpg,italian,false
-Gatorade Thirst Quencher,https://images.publixcdn.com/pct/images/products/340000/342532-600x600-A.jpg,italian,false
-6-Pack 7UP Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_06_309883_261360.jpg,italian,false
-Arizona Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_03_310293_261210.jpg,italian,false
-Bertolli Olive Oil,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_2_img_215199389.jpg,italian,false
-Bertolli Olive Oil,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Bertolli_Olive_Oil_32_oz_bot.jpg,italian,false
-Bonne Maman Preserves,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_09_120556_261510.jpg,italian,false
-Chex Mix Snack,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_04_19128_261260.jpg,italian,false
-Clearly Canadian Original or Zero,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_1_img_119437528.jpg,italian,false
-6-Pack Coca-Cola Soft Drink Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_011_790619_UL_260317.jpg,italian,false
-Buy Any 1 Coca-Cola 20-oz Product and Get Any 1 Sprite Branded 20-oz Free,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_3_img_1483530427.jpg,italian,false
-Coca-Cola Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_02_304859_261160.jpg,italian,false
-Dasani,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_3_img_344992993.jpg,italian,false
-Dasani,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_3_img_167283005.jpg,italian,false
-Dole Fruit Cups,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_02_860113_259916.jpg,italian,false
-Duke's Mayonnaise,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_1_img_2001001230.jpg,italian,false
-Eternal Water,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_02_965058_UL_260517.jpg,italian,false
-Ferrero Rocher Chocolate or Caramel Hazelnut Squares,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_03_330816_UL_260617.jpg,italian,false
-Gatorade Thirst Quencher,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_05_12412_259666.jpg,italian,false
-Gatorade Thirst Quencher,https://images.publixcdn.com/pct/images/products/275000/277498-600x600-A.jpg,italian,false
-Glacau Vitaminwater,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_06_15384_UL_260867.jpg,italian,false
-Any 1 Hellmann's Mayonnaise,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_2_img_597794346.jpg,italian,false
-"$5 off When You Spend $15 on Participating Honey Maid Graham Crackers, Hershey's Candy Bars",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_3_img_1420585605.jpg,italian,false
-International Delight or Land O Lakes Creamer Singles,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_011_73822_UL_259079.jpg,italian,false
-Kellogg's Frosted Flakes Cereal,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_09_11275_260266.jpg,italian,false
-Kraft Grated Cheese,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_021_67593_UL_259279.jpg,italian,false
-Lance Sandwich Crackers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_3_img_1633327620.jpg,italian,false
-Lay's Potato Chips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_01_Feature_07_825010_253919.jpg,italian,false
-Lay's Stax Potato Crisps,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Lays_Stax_Potato_Crisps.jpg,italian,false
-Lily's Baking Chips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_04_233440_260016.jpg,italian,false
-Lindsay Olives,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_08_227432_260216.jpg,italian,false
-Mateo's Gourmet Salsa,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_07_213952_260166.jpg,italian,false
-McCormick Grill Mates Seasoning,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_05_42289_260066.jpg,italian,false
-Nabisco Mini Cookies,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_05_308890_UL_260767.jpg,italian,false
-"Nature Valley Granola or Wafer Bars, or Breakfast Biscuits",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_012_20441_UL_259179.jpg,italian,false
-Nature Valley Granola,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_06_197278_260116.jpg,italian,false
-On The Border Salsa or Queso,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_012_340684_UL_260417.jpg,italian,false
-Any 1 Triscuit Snack Mix,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_1_img_1320483858.jpg,italian,false
-Goldfish,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_3_img_1824500794.jpg,italian,false
-AMC Theatres Microwave Popcorn,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_AMC_Theatres_Microwave_Popcorn_6_ct_pkg.jpg,italian,false
-Bloom Sparkling Energy Drink,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_01_325508_261110.jpg,italian,false
-Pearl Milling Company Pancake & Waffle Mix,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_03_7499_UL_259479.jpg,italian,false
-Peet's Ground or Whole Bean Coffee or K-Cups,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_04_820674_UL_259573.jpg,italian,false
-Peter Pan Peanut Butter,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Feature_08_10131_UL_261017.jpg,italian,false
-4-Pack Poppi Prebiotic Soda,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_4_Pack_Poppi_Prebiotic_Soda.jpg,italian,false
-Publix Pasta,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Feature_022_136_UL_259379.jpg,italian,false
-Pure Leaf Tea,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Pure_Leaf_Tea_18_5_oz_bot.jpg,italian,false
-Red Bull,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_2_img_744035086.jpg,italian,false
-Simple Mills Crackers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_07_369296_261410.jpg,italian,false
-Smartwater,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_3_img_647304644.jpg,italian,false
-Sparkling Ice Caffeine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_2_img_947212653.jpg,italian,false
-Splenda Sweeteners,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_03_10523_259966.jpg,italian,false
-Triscuit or Nabisco Wheat Thins Crackers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_08_300561_261460.jpg,italian,false
-Utz Potato Chips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_11_Line_Item_05_349421_261310.jpg,italian,false
-Velveeta,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_2_img_720078449.jpg,italian,false
-Wise Variety Pack,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_1_img_1540515001.jpg,italian,false
-Wonder Buns,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_10_Line_Item_01_209785_259866.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_2_cpn_96.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_2_cpn_97.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_2_cpn_98.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_2_cpn_99.jpg,italian,false
-Popwell Prebiotic Flavored Soda,https://images.publixcdn.com/cms/images/publix/no-image.svg,italian,false
-Juanita's Cooking Sauce,https://images.publixcdn.com/cms/images/publix/no-image.svg,italian,false
-Propel Electrolyte Water,https://images.publixcdn.com/cms/images/publix/no-image.svg,italian,false
-Vital Proteins Collagen Peptides,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Feature_05_247402_263310.jpg,italian,false
-Nature's Truth Supplements,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Feature_03_290788_263210.jpg,italian,false
-Built Sour Puff Protein Bar,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_03_337371_252459.jpg,italian,false
-Oceanblue Professional Dietary Supplement,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_06-1_Feature_01_981019_252309.jpg,italian,false
-Rxbar Protein Bar,https://images.publixcdn.com/pct/images/products/825000/825471-600x600-A.jpg,italian,false
-Lenny & Larry's The Complete Cookie,https://images.publixcdn.com/pct/images/products/315000/317825-600x600-A.jpg,italian,false
-5-Hour Energy Dietary Supplement,https://images.publixcdn.com/pct/images/products/985000/985832-600x600-A.jpg,italian,false
-Nervive Pain Relieving Liquid,https://images.publixcdn.com/pct/images/products/340000/340583-600x600-A.jpg,italian,false
-Airborne Dietary Supplements,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Line_Item_04_198776_263560.jpg,italian,false
-Any 1 Band-Aid Pro Heal Product,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_1_img_928943666.jpg,italian,false
-Liquid I.V. Hydration Multiplier,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Line_Item_05_273268_263610.jpg,italian,false
-"Any 1 MiraLax 8.3 26.9-oz or Mix in Pax 10 20-ct., Alka-Seltzer Chews 110 120-ct., Alka-Seltzer",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_img_829002143.jpg,italian,false
-Nervive Max Strength Topical Pain Relief,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_6_img_1697800022.jpg,italian,false
-Nervive Max Strength Topical Pain Relief,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_8_img_418544428.jpg,italian,false
-Any 1 Neutrogena Sun Product,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_7_img_1298115293.jpg,italian,false
-Lamisil Antifungal Foot Cream,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_img_1237693.jpg,italian,false
-Any 1 Afrin Nasal Spray,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_img_1239483104.jpg,italian,false
-Grns Superfoods Greens Gummies,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_1_img_99676294.jpg,italian,false
-Power Crunch Protein Energy Bar,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Feature_05_314925_UL_263311.jpg,italian,false
-Any 1 Prilosec OTC Acid Reducer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_6_img_2118612778.jpg,italian,false
-Publix Omeprazole Acid Reducer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Line_Item_06_144768_263660.jpg,italian,false
-"Any 1 Vicks DayQuil, NyQuil or Formula 44 12 24-oz, 24 48-ct. or DayQuil/NyQuil Kids 2-pk. 8-oz",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_6_img_246877455.jpg,italian,false
-Any 1 Vicks VapoFreeze Spray or Topical Pain Reliever Cream 3-oz,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_6_img_482197027.jpg,italian,false
-Any 1 Vicks PainQuil Liquid Pain Reliever,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_6_img_1662783147.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_1_cpn.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_7_cpn_99.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_7_cpn_98.jpg,italian,false
-1800 Blanco Tequila,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_1800_Blanco_Tequila.jpg,italian,false
-1800 Reposado Tequila,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_01_img_1794010499.jpg,italian,false
-Admiral Nelson's Spiced Rum,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_1240639066.jpg,italian,false
-ALB Vodka,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_01_img_1627732540.jpg,italian,false
-Bacard Rum,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_04_img_232380420.jpg,italian,false
-Bombay Sapphire Gin,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_04_img_1655344756.jpg,italian,false
-Buffalo Trace Bourbon Cream Liqueur,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_607117289.jpg,italian,false
-Burnett's Vodka,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_495251926.jpg,italian,false
-Bushmills Single Malt Irish Whiskey,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_2047396231.jpg,italian,false
-Captain Morgan Rum,https://images.publixcdn.com/pct/images/products/875000/876794-600x600-A.jpg,italian,false
-D'Uss VSOP Cognac,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_329147376.jpg,italian,false
-Diplomtico Reserva Exclusiva Rum,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_423332531.jpg,italian,false
-Diplomatico Mantuano Rum,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Diplomatico_Mantuano_Rum_750_mL.jpg,italian,false
-Empress 1908 Gin,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_474692675.jpg,italian,false
-"4-Pack Fever-Tree Products, 6.8-oz bot.",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_04_img_1861716167.jpg,italian,false
-Fireball Cinnamon Whisky,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_04_img_436660679.jpg,italian,false
-Jim Beam Flavored Bourbon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Jim_Beam_Flavored_Bourbon.jpg,italian,false
-Jim Beam White Label Bourbon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_928164203.jpg,italian,false
-Johnnie Walker Black Label Blended Scotch,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_191166224.jpg,italian,false
-Jose Cuervo Especial Tequila,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_94556950.jpg,italian,false
-Kendall-Jackson Chardonnay Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_221142880.jpg,italian,false
-Larceny Small Batch Bourbon Whiskey,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_2095255123.jpg,italian,false
-Licor 43 Liqueur,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_394648544.jpg,italian,false
-Luxus Vodka,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_1608475631.jpg,italian,false
-Margaritaville Silver Tequila,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_1608142395.jpg,italian,false
-12-Pack Michelob Ultra Pure Gold Light Lager,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_2071331547.jpg,italian,false
-New Amsterdam Vodka,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_1844257106.jpg,italian,false
-6-Pack New Belgium Beer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_586744068.jpg,italian,false
-On The Rocks Cosmopolitan Cocktail,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_1659938812.jpg,italian,false
-Pendleton Canadian Whisky,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_1186353045.jpg,italian,false
-Puncher's Chance Kentucky Straight Bourbon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_01_img_94009060.jpg,italian,false
-Svedka Vodka,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_1822580716.jpg,italian,false
-Tanqueray Gin,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_01_img_1500825429.jpg,italian,false
-Vidamigos Blanco Tequila,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_04_img_620542623.jpg,italian,false
-Vidamigos Aejo Tequila,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Vidamigos_Anejo_Tequila_750_mL.jpg,italian,false
-Vidamigos Reposado Tequila,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Vidamigos_Reposado_Tequila_750_mL.jpg,italian,false
-Western Son Vodka,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_1538646033.jpg,italian,false
-Widow Jane Straight Bourbon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_02_img_2100271774.jpg,italian,false
-Wild Turkey 101 Bourbon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_04_img_873807394.jpg,italian,false
-Wild Turkey 81 Bourbon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Wild_Turkey_81_Bourbon_1_75_L.jpg,italian,false
-Yellowstone Old Fashioned Cocktails,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604liq_03_img_1409076213.jpg,italian,false
-12-Pack Yuengling Traditional Lager,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_12_Pack_Yuengling_Traditional_Lager.jpg,italian,false
-Plum Organics Baby Food,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_06_956832_264960.jpg,italian,false
-Beech-Nut Baby Food,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_07_292204_265010.jpg,italian,false
-Pampers Swaddlers Diapers,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_08_288937_265060.jpg,italian,false
-Pampers Baby Wipes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Pampers_Baby_Wipes_112_to_216_ct_pkg.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_cpn_99.jpg,italian,false
-Dove Bath Bars,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Feature_012_88014_UL_263011.jpg,italian,false
-Tresemm Shampoo or Conditioner,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Tresemme_Shampoo_or_Conditioner.jpg,italian,false
-Dove Men+Care Anti-Perspirant Deodorant,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Dove_MenCare_Anti_Perspirant_Deodorant.jpg,italian,false
-Crest Toothpaste,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Feature_02_32904_263160.jpg,italian,false
-Caress Body Wash,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Caress_Body_Wash.jpg,italian,false
-Tresemm Shampoo or Conditioner,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_With_Every_15_Purchase_of_Tresemme_Shampoo.jpg,italian,false
-Head & Shoulders Shampoo,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai2_Head_Shoulders_Shampoo.jpg,italian,false
-Crest 3D White Toothpaste,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_06_172873_251409.jpg,italian,false
-Always Ultra or Maxi Pads,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_05_115603_251359.jpg,italian,false
-Gillette Disposable Razors,https://images.publixcdn.com/pct/images/products/170000/172654-600x600-A.jpg,italian,false
-L. Organic Tampons,https://images.publixcdn.com/pct/images/products/270000/272217-600x600-A.jpg,italian,false
-Ivory Soap Bath Bars,https://images.publixcdn.com/pct/images/products/335000/336041-600x600-A.jpg,italian,false
-Therabreath Oral Rinse,https://images.publixcdn.com/pct/images/products/275000/279993-600x600-A.jpg,italian,false
-Colgate Optic White Toothpaste,https://images.publixcdn.com/pct/images/products/180000/184097-600x600-A.jpg,italian,false
-Hello Deodorant,https://images.publixcdn.com/pct/images/products/320000/324573-600x600-A.jpg,italian,false
-Pantene Hair Spray,https://images.publixcdn.com/pct/images/products/335000/336293-600x600-A.jpg,italian,false
-Any 1 Always Discreet Pads 28 66-ct. or Underwear 10 32-ct.,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_5_img_1719769571.jpg,italian,false
-Always Daily Protect Liners 48 60-ct. or Daily Fresh Liners 72-ct.,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_5_img_1400460252.jpg,italian,false
-Any 2 Axe Deodorant or Body Spray,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_6_img_1651445654.jpg,italian,false
-"Colgate Optic White Advanced 3.2-oz, Charcoal or Sensitivity 3.8-oz Toothpaste",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_8_img_679058045.jpg,italian,false
-Crest 3D White or Pro-Health Mouthwash or Oral Rinse,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Crest_3D_White_or_Pro_Health_Mouthwash.jpg,italian,false
-"Crest Pro-Health Gum Toothpaste, or Plus",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Crest_Pro_Health_Gum_Toothpaste.jpg,italian,false
-Degree Whole Body Spray,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_6_img_112292972.jpg,italian,false
-Any 2 Dove Men+Care: Body Wash 18 30-oz or Bar Soap 6-ct.,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_6_img_501950550.jpg,italian,false
-Any 1 Dove Bar Soap,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_6_img_1980757842.jpg,italian,false
-Any 1 Dove Body Wash,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_6_img_917247536.jpg,italian,false
-Any 1 Dove Men+Care Antiperspirant Deodorant,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_6_img_245413318.jpg,italian,false
-Any 1 Gillette or Venus Cartridge Refill,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_img_281371709.jpg,italian,false
-Gillette Mach3 or Venus Disposable Razors 3-ct. or Venus Comfortglide White Tea 2-ct.,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_8_img_1052327479.jpg,italian,false
-Any 1 Gillette or Venus Razor,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_img_1808269527.jpg,italian,false
-Any 1 Gillette or Venus Disposable Razor,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_img_1206774994.jpg,italian,false
-Hawaiian Tropic Sun Care Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Line_Item_01_129405_263410.jpg,italian,false
-Hello Deodorant,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_8_img_572216178.jpg,italian,false
-"L. Pads 36 or 42-ct., Liners 100-ct. or Tampons 25 30-ct.",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_8_img_182533887.jpg,italian,false
-"Any 1 Listerine Mouthwash 500-mL or larger, Pocketpaks 72-ct. or Pocketmist 2-ct.",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_7_img_423110837.jpg,italian,false
-Any 2 Method Body Wash,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_8_img_1828483174.jpg,italian,false
-"Any 3 Native: Deodorant 2.4 3.5-oz, Body Wash or Lotions 16.5 36-oz OR Shampoo or Conditioner",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_5_img_1258027488.jpg,italian,false
-Ivory Body Wash 35-oz or Bar Soap 10-ct.,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_8_img_498761689.jpg,italian,false
-Vanicream,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_8_img_1386159312.jpg,italian,false
-TheraBreath Rinse,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_8_img_534018219.jpg,italian,false
-Panoxyl Acne Foaming Wash,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Line_Item_03_937609_263510.jpg,italian,false
-Pantene Hairspray,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_8_img_759765735.jpg,italian,false
-"Any 1 Pantene Pro-V Miracles, Head & Shoulders Bare or Clinical, Herbal Essences Pure Plants Blend",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_img_662165531.jpg,italian,false
-"Any 2 Pantene, Head & Shoulders or Herbal Essences Classics Products",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_img_1426847191.jpg,italian,false
-Poise Pads 14 20-ct. or 28 or 30-ct. or Liners 44 or 48-ct.,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_img_1414323970.jpg,italian,false
-"Tresemm Root Touch Up, or Styling Products",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Feature_011_31733_UL_262911.jpg,italian,false
-Yardley Bar Soap,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_13_Line_Item_02_89699_263460.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_cpn_98.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_5_cpn.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_7_cpn_96.jpg,italian,false
-Paper Coupon,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_7_cpn_97.jpg,italian,false
-Handi-foil Pans,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_05_255077_264910.jpg,italian,false
-Gain Laundry Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_06_340855_264110.jpg,italian,false
-Solo Plastic Cups,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_05_855601_264010.jpg,italian,false
-Finish Automatic Dishwasher Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_08_337455_264260.jpg,italian,false
-Sparkle Paper Towels,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_02_325600_263810.jpg,italian,false
-Kleenex Facial Tissues,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_04_282270_263960.jpg,italian,false
-Angel Soft Bathroom Tissue,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_01_280492_263710.jpg,italian,false
-Arm & Hammer Laundry Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Arm_Hammer_Laundry_Detergent.jpg,italian,false
-Lysol Cleaners,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_07_80868_264210.jpg,italian,false
-Duracell Power Boost Alkaline Batteries,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_03_340330_264760.jpg,italian,false
-Philips LED Light Bulbs,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_01_979927_264610.jpg,italian,false
-Brawny Paper Towels,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_06_281496_253009.jpg,italian,false
-Tide Laundry Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_02_280096_251159.jpg,italian,false
-Cascade Dishwasher Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_03_195594_251209.jpg,italian,false
-Quilted Northern Bathroom Tissue,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_08-1_Feature_07_975381_253059.jpg,italian,false
-Arm & Hammer Laundry Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_07-1_Feature_05_320853_252559.jpg,italian,false
-Charmin Bathroom Tissue,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_01_326618_251109.jpg,italian,false
-"$10 off When You Spend $40 on: Align, Always, Aussie, Bounce, Bounty, Cascade, Charmin, Crest, Dawn",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_5_img_1288637128.jpg,italian,false
-Arm & Hammer Scent Booster,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_03_332691_UL_263861.jpg,italian,false
-Bite Me Not! Insect Repellent Spray Lotion,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Line_Item_06_323566_264560.jpg,italian,false
-Charmin Flushable Wipes,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_01_963745_UL_263711.jpg,italian,false
-Cutter Insect Repellent Spray,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Cutter_Insect_Repellent_Spray.jpg,italian,false
-Dawn Dishwashing Liquid,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Flex_Area_01-1_Feature_03_324795_UL_251210.jpg,italian,false
-Any 1 Downy Beads,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_5_img_2084254115.jpg,italian,false
-Gain Fabric Softener or Rinse,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_06_242432_UL_264111.jpg,italian,false
-Any 1 Gain Flings Laundry Detergent 76-ct. or Liquid Laundry Detergent 133 or 177-oz,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_5_img_1615790669.jpg,italian,false
-Glad Forceflex Tall Kitchen Bags,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Line_Item_02_267238_264360.jpg,italian,false
-O-Cedar EasyWring Spin Mop System,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_4_img_318678049.jpg,italian,false
-Reynolds Wrap Aluminum Foil,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Line_Item_01_87319_264310.jpg,italian,false
-Tide Rescue Laundry Stain Remover,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Line_Item_04_284905_264460.jpg,italian,false
-"Any 1 Tide Pods 76-ct. or Power Pods 45-ct. OR Liquid Detergent 117, 125 or 132-oz",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260530ES_5_img_1212530891.jpg,italian,false
-Tru Earth Laundry Detergent,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Line_Item_03_280050_264410.jpg,italian,false
-Vanity Fair Napkins,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_14_Feature_05_87460_UL_264011.jpg,italian,false
-Milk-Bone Dog Snacks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_02_884278_264660.jpg,italian,false
-Purina Tidy Cats Cat Litter,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_ai1_Purina_Tidy_Cats_Cat_Litter.jpg,italian,false
-Canine Carry Outs Dog Snacks,https://images.publixcdn.com/pct/images/products/860000/862343-600x600-A.jpg,italian,false
-Natural Care Flea & Tick Spray,https://images.publixcdn.com/pct/images/products/325000/328278-600x600-A.jpg,italian,false
-Friskies Party Mix Cat Treat,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_02_941045_UL_264661.jpg,italian,false
-Meow Mix Cat Food,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260604_Page_15_Feature_04_86365_UL_264811.jpg,italian,false
+Kellogg's Rice Krispies Treats,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Line_Item_09_322845_261825.jpg,italian,false
+"Kind Bars, Value Pack",https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Feature_04_282697_UL_261037.jpg,italian,false
+Kraft Macaroni & Cheese,https://images.publixcdn.com/pct/images/products/340000/341785-600x600-A.jpg,italian,false
+La Choy Rice Noodles,https://images.publixcdn.com/pct/images/products/10000/012786-600x600-A.jpg,italian,false
+La Choy Yum Yum Sauce,https://images.publixcdn.com/pct/images/products/280000/283871-600x600-A.jpg,italian,false
+La Choy Chow Mein Noodles,https://images.publixcdn.com/pct/images/products/10000/012812-600x600-A.jpg,italian,false
+La Choy Chow Mein Noodles,https://images.publixcdn.com/pct/images/products/10000/012784-600x600-A.jpg,italian,false
+Land O Lakes Cheese Sticks,https://images.publixcdn.com/pct/images/products/45000/047786-600x600-A.jpg,italian,false
+Lantana Hummus,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_08_Feature_022_968861_UL_259487.jpg,italian,false
+Little Debbie Muffins,https://images.publixcdn.com/pct/images/products/715000/716801-600x600-A.jpg,italian,false
+Magic Mind Mental Performance Shot,https://images.publixcdn.com/pct/images/products/330000/331227-600x600-A.jpg,italian,false
+Mano's Authentic Pita Chips,https://images.publixcdn.com/pct/images/products/290000/293423-600x600-A.jpg,italian,false
+McCormick Gourmet Spices or Extracts,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Line_Item_04_46581_261575.jpg,italian,false
+Mighty Spark Chicken Snack Sticks,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_05_Line_Item_03_263538_257786.jpg,italian,false
+Mission Tortilla Chips,https://images.publixcdn.com/pct/images/products/340000/340723-600x600-A.jpg,italian,false
+Mission Flour Tortillas,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Line_Item_03_68163_261525.jpg,italian,false
+Mother Organic Kombucha,https://images.publixcdn.com/pct/images/products/245000/246603-600x600-A.jpg,italian,false
+Mrs. Cubbison's Croutons or Salad Crisps,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Feature_012_427745_UL_260787.jpg,italian,false
+Nabisco Family Size Oreo Cookies,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Line_Item_07_314517_262969.jpg,italian,false
+New England Coffee: Ground or Pods,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Feature_05_906721_UL_261131.jpg,italian,false
+Nutty & Fruity Peach Wedges,https://images.publixcdn.com/pct/images/products/330000/334254-600x600-A.jpg,italian,false
+Ol Xtreme Wellness! Tortilla Wraps,https://images.publixcdn.com/pct/images/products/285000/285322-600x600-A.jpg,italian,false
+Blackberries,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_07_Feature_05_23962_UL_259037.jpg,italian,false
+Ash & Reed Cabernet Sauvignon Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_03_Line_Item_04_340573_256045.jpg,italian,false
+Invivo X Ros Wine,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_03_Line_Item_06_332003_256139.jpg,italian,false
+Beach Juice Hard Punch,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_a1_Beach_Juice_Hard_Punch.jpg,italian,false
+Bear & Burton's Wagyu Beef Tallow or W Sauce,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_12_Feature_011_295621_UL_260687.jpg,italian,false
+Dr. Squatch Bar Soap,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_15_Line_Item_01_323224_264969.jpg,italian,false
+Sublime Desserts Macarons,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Feature_011_293455_UL_263120.jpg,italian,false
+4-Pack Waterbird Vodka,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_03_Line_Item_02_323969_255985.jpg,italian,false
+6-Pack Pepsi Products,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Line_Item_02_429129_262719.jpg,italian,false
+Perdue Air Fryer Ready Wings,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Line_Item_08_299000_264369.jpg,italian,false
+Philly Gourmet Sandwich Steaks,https://images.publixcdn.com/pct/images/products/80000/080130-600x600-A.jpg,italian,false
+Pillsbury Toaster Strudel Pastries,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Line_Item_04_41105_264169.jpg,italian,false
+Pilon Espresso Ground Coffee,https://images.publixcdn.com/pct/images/products/300000/304238-600x600-A.jpg,italian,false
+Popsicle Ice Pops or Fudgsicle Fudge Bars or Magnum Ice Cream Bars,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Feature_03_182691_UL_263420.jpg,italian,false
+Pretzilla Soft Pretzel Bites,https://images.publixcdn.com/pct/images/products/295000/299981-600x600-A.jpg,italian,false
+Pretzilla Soft Pretzel Burger Buns,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_08_Feature_012_266135_UL_259337.jpg,italian,false
+Publix Pork Loin Rib Chops Thinly-Sliced,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Flex_Area_01-1_Feature_02_96159_UL_251160.jpg,italian,false
+Purex Crystals In-Wash Fragrance Booster,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_16_Feature_03_972798_UL_265420.jpg,italian,false
+Queso-Melt Cheese Dip,https://images.publixcdn.com/pct/images/products/120000/123330-600x600-A.jpg,italian,false
+Raid Ant & Roach Killer,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_16_Line_Item_05_29960_266169.jpg,italian,false
+Ripple Dairy-Free Plant-Based Milk,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Feature_02_826773_UL_263320.jpg,italian,false
+Smithfield Anytime Favorites Smoked Ham,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_04_Line_Item_05_214386_256936.jpg,italian,false
+So Good So You Probiotic Shot,https://images.publixcdn.com/pct/images/products/265000/266693-600x600-A.jpg,italian,false
+Solaray Dietary Supplements,https://images.publixcdn.com/pct/images/products/275000/278870-600x600-A.jpg,italian,false
+Stur Water Enhancer,https://images.publixcdn.com/pct/images/products/200000/204518-600x600-A.jpg,italian,false
+Suave Shampoo or Conditioner,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_15_Line_Item_02_949552_265019.jpg,italian,false
+Sue Bee Honey,https://images.publixcdn.com/pct/images/products/5000/005987-600x600-A.jpg,italian,false
+Suja Organic Juice Drink,https://images.publixcdn.com/pct/images/products/200000/204881-600x600-A.jpg,italian,false
+Sunny D Citrus Punch,https://images.publixcdn.com/pct/images/products/245000/247711-600x600-A.jpg,italian,false
+Tabasco Sauce,https://images.publixcdn.com/pct/images/products/5000/005861-600x600-A.jpg,italian,false
+Taco Bell Cravings Kit,https://images.publixcdn.com/pct/images/products/315000/317674-600x600-A.jpg,italian,false
+Taco Bell Sauce,https://images.publixcdn.com/pct/images/products/10000/013047-600x600-A.jpg,italian,false
+Taco Bell Taco Seasoning Mix,https://images.publixcdn.com/pct/images/products/10000/012974-600x600-A.jpg,italian,false
+Taco Bell Salsa con Queso,https://images.publixcdn.com/pct/images/products/815000/819762-600x600-A.jpg,italian,false
+Taco Bell Cravings Kit,https://images.publixcdn.com/pct/images/products/115000/119134-600x600-A.jpg,italian,false
+Texas Roadhouse Mini Rolls,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Feature_012_331849_UL_263220.jpg,italian,false
+Three Dog Bakery Treats for Dogs,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_17_Feature_04_279396_UL_266420.jpg,italian,false
+Tostitos Tortilla Chips,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_01_Feature_07_864502_255171.jpg,italian,false
+TrFr Fruit,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_13_Line_Item_05_282274_262869.jpg,italian,false
+Crispy Just Baked Original Roti,https://images.publixcdn.com/pct/images/products/325000/329656-600x600-A.jpg,italian,false
+Tyson Grilled Chicken Bites,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_14_Line_Item_09_329122_264419.jpg,italian,false
+Velveeta Cheese Dip,https://images.publixcdn.com/pct/images/products/315000/317683-600x600-A.jpg,italian,false
+Vitafusion Dietary Supplements,https://akimages.shoplocal.com/dyn_li/235.0.90.0/Retailers/Publix/260611_Page_15_Line_Item_05_981820_265169.jpg,italian,false
+Wise Potato Chips,https://images.publixcdn.com/pct/images/products/395000/399589-600x600-A.jpg,italian,false
+Yee Haw Premium Pickles,https://images.publixcdn.com/pct/images/products/330000/331359-600x600-A.jpg,italian,false
