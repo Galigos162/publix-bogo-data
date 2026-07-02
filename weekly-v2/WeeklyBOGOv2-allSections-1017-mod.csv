@@ -1,0 +1,223 @@
+name,imgSrc,categories,dealType,digitalCoupon,isSelected
+Perdue Boneless Skinless Chicken Breasts,/images/perdue_boneless_skinless_chicken_breasts.jpg,Meat,BOGO,,false
+General Mills Cheerios Cereal,/images/general_mills_cheerios_cereal.jpg,Grocery,BOGO,Save $1.00 with digital coupon,false
+Prego Italian Sauce,/images/prego_italian_sauce.jpg,Grocery,BOGO,,false
+Maxwell House Ground Coffee,/images/maxwell_house_ground_coffee.jpg,Grocery,BOGO,,false
+Pompeian Imported Olive Oil,/images/pompeian_imported_olive_oil.jpg,Grocery,BOGO,,false
+Mott's Juice,/images/motts_juice.jpg,Grocery,BOGO,,false
+Green Giant Vegetables,/images/green_giant_vegetables.jpg,Grocery,BOGO,,false
+Nature's Own Butterbread,/images/natures_own_butterbread.jpg,Grocery,BOGO,,false
+A.1. Sauce,/images/a1_sauce.jpg,Grocery,BOGO,,false
+Hunt's Tomatoes,/images/hunts_tomatoes.jpg,Grocery,BOGO,,false
+Caprisun Juice Drink Blend,/images/caprisun_juice_drink_blend.jpg,Grocery,BOGO,,false
+Zephyrhills Florida Spring Water,/images/zephyrhills_florida_spring_water.jpg,Grocery,BOGO,,false
+Snyder's of Hanover Pretzels,/images/snyders_of_hanover_pretzels.jpg,Grocery,BOGO,,false
+Fruit Gushers Fruit Flavored Snacks,/images/fruit_gushers_fruit_flavored_snacks.jpg,Grocery,BOGO,Save $0.50 with digital coupon,false
+Werther's Original Caramel Hard Candies,/images/werthers_original_caramel_hard_candies.jpg,Grocery,BOGO,,false
+Tostitos Tortilla Chips,/images/tostitos_tortilla_chips.jpg,Grocery,BOGO,,false
+Waterloo Sparkling Water,/images/waterloo_sparkling_water.jpg,Grocery,BOGO,,false
+Superpretzel Soft Pretzels,/images/superpretzel_soft_pretzels.jpg,Frozen Food,BOGO,,false
+Yoplait Go-Gurt,/images/yoplait_gogurt.jpg,Dairy,BOGO,,false
+Natural Bliss Coffee Creamer,/images/natural_bliss_coffee_creamer.jpg,Dairy,BOGO,,false
+Celentano Pasta,/images/celentano_pasta.jpg,Frozen Food,BOGO,,false
+Sara Lee Pound Cake,/images/sara_lee_pound_cake.jpg,Frozen Food,BOGO,,false
+Haagen-Dazs Ice Cream Bars,/images/haagendazs_ice_cream_bars.jpg,Frozen Food,BOGO,,false
+Edy's Ice Cream,/images/edys_ice_cream.jpg,Frozen Food,BOGO,,false
+Digiorno Stuffed Crust Pizza,/images/digiorno_stuffed_crust_pizza.jpg,Protein|Frozen Food,BOGO,,false
+Yasso Frozen Greek Yogurt Bars,/images/yasso_frozen_greek_yogurt_bars.jpg,Frozen Food,BOGO,,false
+Right Guard Deodorant,/images/right_guard_deodorant.jpg,Beauty & Personal Care,BOGO,,false
+Colgate Total Toothpaste,/images/colgate_total_toothpaste.jpg,Beauty & Personal Care,BOGO,,false
+All Laundry Detergent,/images/all_laundry_detergent.jpg,Non-Foods,BOGO,,false
+Chinet Classic White Dinner Plates,/images/chinet_classic_white_dinner_plates.jpg,Non-Foods,BOGO,,false
+Viva Paper Towels,/images/viva_paper_towels.jpg,Non-Foods,BOGO,,false
+Finish Automatic Dishwasher Detergent,/images/finish_automatic_dishwasher_detergent.jpg,Non-Foods,BOGO,,false
+Lysol Laundry Sanitizer,/images/lysol_laundry_sanitizer.jpg,Non-Foods,BOGO,,false
+Pit Boss BBQ Hardwood Pellets,/images/pit_boss_bbq_hardwood_pellets.jpg,Non-Foods,BOGO,,false
+Clorox Clean-Up Cleaner + Bleach,/images/clorox_cleanup_cleaner_bleach.jpg,Non-Foods,BOGO,,false
+Honest Clean Conscious Diapers,/images/honest_clean_conscious_diapers.jpg,Baby,BOGO,,false
+Friskies Party Mix Cat Treats,/images/friskies_party_mix_cat_treats.jpg,Pet,BOGO,,false
+Purina Busy Bone Dog Treats,/images/purina_busy_bone_dog_treats.jpg,Pet,BOGO,,false
+Gerber Fruit Smoothie,/images/gerber_fruit_smoothie.jpg,Baby,BOGO,,false
+Gerber Baby Food,/images/gerber_baby_food.jpg,Baby,BOGO,,false
+General Electric Light Bulbs,/images/general_electric_light_bulbs.jpg,Non-Foods,BOGO,,false
+Handi-foil Pans,/images/handifoil_pans.jpg,Housewares,BOGO,,false
+Publix Alkaline Water,/images/publix_alkaline_water.jpg,Grocery,BOGO,,false
+Churu Cat Treat,/images/churu_cat_treat.jpg,Pet,BOGO,,false
+Meow Mix Cat Food,/images/meow_mix_cat_food.jpg,Pet,BOGO,,false
+Dasani Purified Water,/images/dasani_purified_water.jpg,Grocery,BOGO,,false
+Tyson Breaded Chicken,/images/tyson_breaded_chicken.jpg,Protein|Frozen Food,BOGO,,false
+Kellogg's Special K Cereal,/images/kelloggs_special_k_cereal.jpg,Grocery,BOGO,,false
+Pop-Tarts Toaster Pastries,/images/poptarts_toaster_pastries.jpg,Grocery,BOGO,,false
+Dot's Homestyle Pretzels,/images/dots_homestyle_pretzels.jpg,Grocery,BOGO,,false
+Nutrish Dog Treats,/images/nutrish_dog_treats.jpg,Pet,BOGO,,false
+Rachael Ray Nutrish Dog Food,/images/rachael_ray_nutrish_dog_food.jpg,Pet,BOGO,,false
+Kinder's BBQ Sauce,/images/kinders_bbq_sauce.jpg,Grocery,BOGO,,false
+Cheez-It Baked Snack Crackers,/images/cheezit_baked_snack_crackers.jpg,Grocery,BOGO,,false
+Cap'N Crunch Cereal,/images/capn_crunch_cereal.jpg,Grocery,BOGO,,false
+Polaner Preserves,/images/polaner_preserves.jpg,Grocery,BOGO,,false
+Bai Antioxidant Beverage,/images/bai_antioxidant_beverage.jpg,Grocery,BOGO,,false
+Butcher Shop Dog Chews Treats,/images/butcher_shop_dog_chews_treats.jpg,Pet,BOGO,,false
+Arm & Hammer Cat Litter,/images/arm_hammer_cat_litter.jpg,Pet,BOGO,,false
+Sticky Fingers Barbecue Sauce,/images/sticky_fingers_barbecue_sauce.jpg,Grocery,BOGO,,false
+Publix Peeled & Deveined White Shrimp,/images/publix_peeled_deveined_white_shrimp.jpg,Frozen Food,BOGO,,false
+Publix Shrimp,/images/publix_shrimp.jpg,Frozen Food,BOGO,,false
+Strawberries,/images/strawberries.jpg,Produce,BOGO,,false
+Hot House Cucumbers,/images/hot_house_cucumbers.jpg,Produce,BOGO,,false
+GT's Alive Ancient Mushroom Elixir,/images/gts_alive_ancient_mushroom_elixir.jpg,Produce,BOGO,,false
+Sabra Hummus,/images/sabra_hummus.jpg,Deli,BOGO,,false
+Castello Cheese,/images/castello_cheese.jpg,Deli,BOGO,,false
+Snack Factory Pretzel Crisps,/images/snack_factory_pretzel_crisps.jpg,Deli,BOGO,,false
+Vanity Fair Napkins,/images/vanity_fair_napkins.jpg,Non-Foods,BOGO,,false
+Dragon Fruit,/images/dragon_fruit.jpg,Produce,BOGO,,false
+French's Mustard,/images/frenchs_mustard.jpg,Grocery,BOGO,,false
+Calbee Harvest Snaps,/images/calbee_harvest_snaps.jpg,Produce,BOGO,,false
+Athenos Traditional Crumbled Feta Cheese,/images/athenos_traditional_crumbled_feta_cheese.jpg,Deli,BOGO,,false
+Chayote Squash,/images/chayote_squash.jpg,Produce,BOGO,,false
+Sol-ti Supershot,/images/solti_supershot.jpg,Produce,BOGO,,false
+Good Foods Traditional Chunky Guacamole,/images/good_foods_traditional_chunky_guacamole.jpg,Produce,BOGO,,false
+Hormel Bacon,/images/hormel_bacon.jpg,Meat,BOGO,,false
+Crunch Candy Bar,/images/crunch_candy_bar.jpg,Grocery,BOGO,,false
+Bertolli Olive Oil,/images/bertolli_olive_oil.jpg,Grocery,BOGO,,false
+Frank's Redhot Sauce,/images/franks_redhot_sauce.jpg,Grocery,BOGO,,false
+Panera Bread Mac & Cheese Bowl,/images/panera_bread_mac_cheese_bowl.jpg,Deli,BOGO,,false
+Galbani Mozzarella Cheese,/images/galbani_mozzarella_cheese.jpg,Deli,BOGO,,false
+Late July Snacks Organic Tortilla Chips,/images/late_july_snacks_organic_tortilla_chips.jpg,Grocery,BOGO,,false
+Polly-O Ricotta Cheese,/images/pollyo_ricotta_cheese.jpg,Dairy,BOGO,,false
+Hormel Natural Choice Lunch Meats,/images/hormel_natural_choice_lunch_meats.jpg,Meat,BOGO,,false
+Welch's Sparkling Juice Cocktail,/images/welchs_sparkling_juice_cocktail.jpg,Grocery,BOGO,,false
+Chef Woo Ramen,/images/chef_woo_ramen.jpg,Grocery,BOGO,,false
+Emmi Le Gruyere Cheese,/images/emmi_le_gruyere_cheese.jpg,Deli,BOGO,,false
+President Feta Cheese,/images/president_feta_cheese.jpg,Deli,BOGO,,false
+Simply Pop Prebiotic Soda,/images/simply_pop_prebiotic_soda.jpg,Grocery,BOGO,,false
+Seneca Apple Chips,/images/seneca_apple_chips.jpg,Produce,BOGO,,false
+Chocolove Chocolate Bar,/images/chocolove_chocolate_bar.jpg,Grocery,BOGO,,false
+Helados Mexico Ice Cream Bars,/images/helados_mexico_ice_cream_bars.jpg,Frozen Food,BOGO,,false
+Greenfield Egg Bites,/images/greenfield_egg_bites.jpg,Frozen Food,BOGO,,false
+Bertolli Olives,/images/bertolli_olives.jpg,Grocery,BOGO,,false
+Sabra Guacamole,/images/sabra_guacamole.jpg,Deli,BOGO,,false
+Stonefire Naan Rounds,/images/stonefire_naan_rounds.jpg,Deli,BOGO,,false
+Bertolli Vinegar,/images/bertolli_vinegar.jpg,Grocery,BOGO,,false
+Pretzilla Soft Pretzel Bites,/images/pretzilla_soft_pretzel_bites.jpg,Deli,BOGO,,false
+Skinny Girl Dressing,/images/skinny_girl_dressing.jpg,Grocery,BOGO,,false
+Garden Fresh Gourmet Salsa,/images/garden_fresh_gourmet_salsa.jpg,Deli,BOGO,,false
+Wild Planet Wild Skipjack Tuna,/images/wild_planet_wild_skipjack_tuna.jpg,Seafood|Grocery,BOGO,,false
+Louisiana Sauce,/images/louisiana_sauce.jpg,Grocery,BOGO,,false
+WTRMLN WTR Hydration,/images/wtrmln_wtr_hydration.jpg,Produce,BOGO,,false
+Flora Fine Foods Italian Toast,/images/flora_fine_foods_italian_toast.jpg,Grocery,BOGO,,false
+Mighty Sparks Mini Stick,/images/mighty_sparks_mini_stick.jpg,Meat,BOGO,,false
+Beyond Plant-Based Product,/images/beyond_plantbased_product.jpg,Meat,BOGO,,false
+Kraft Macaroni & Cheese,/images/kraft_macaroni_cheese.jpg,Grocery,BOGO,,false
+Hoist Sports Drink,/images/hoist_sports_drink.jpg,Grocery,BOGO,,false
+Every Man Jack Body Wash,/images/every_man_jack_body_wash.jpg,Beauty & Personal Care,BOGO,,false
+Chunk Nibbles Snack,/images/chunk_nibbles_snack.jpg,Deli,BOGO,,false
+Matter Compostable Bags,/images/matter_compostable_bags.jpg,Non-Foods,BOGO,,false
+Pascha Organic Baking Chips,/images/pascha_organic_baking_chips.jpg,Grocery,BOGO,,false
+G Hughes Yum Yum Sauce,/images/g_hughes_yum_yum_sauce.jpg,Grocery,BOGO,,false
+Toom Garlic Dip,/images/toom_garlic_dip.jpg,Deli,BOGO,,false
+Old Trapper Meat Snacks,/images/old_trapper_meat_snacks.jpg,Meat,BOGO,,false
+Boursin Crumbles,/images/boursin_crumbles.jpg,Deli,BOGO,,false
+8-Pack Absolut Vodka,/images/8pack_absolut_vodka.jpg,Liquor,BOGO,,false
+Blender Bites 1 Step Smoothie,/images/blender_bites_1_step_smoothie.jpg,Frozen Food,BOGO,,false
+Flora Organic Beans,/images/flora_organic_beans.jpg,Grocery,BOGO,,false
+Every Man Jack Shampoo or Conditioner,/images/every_man_jack_shampoo_or_conditioner.jpg,Beauty & Personal Care,BOGO,,false
+Tuscanini Gourmet Pizza,/images/tuscanini_gourmet_pizza.jpg,Frozen Food,BOGO,,false
+Tuscanini Personal Pizza,/images/tuscanini_personal_pizza.jpg,Frozen Food,BOGO,,false
+Every Man Jack Beard Products,/images/every_man_jack_beard_products.jpg,Beauty & Personal Care,BOGO,,false
+Tuscanini Eggplant Cutlet,/images/tuscanini_eggplant_cutlet.jpg,Frozen Food,BOGO,,false
+Tuscanini Mini Calzones,/images/tuscanini_mini_calzones.jpg,Frozen Food,BOGO,,false
+6-Pack 7UP Products,/images/6pack_7up_products.jpg,Grocery,BOGO,,false
+"Belvita Breakfast Biscuits, Value Pack",/images/belvita_breakfast_biscuits_value_pack.jpg,Grocery,BOGO,,false
+Blue Diamond Almonds,/images/blue_diamond_almonds.jpg,Grocery,BOGO,,false
+12-Pack Bud Light Lime Beer,/images/12pack_bud_light_lime_beer.jpg,Beer & Wine,BOGO,,false
+Cape Cod Kettle Cooked Potato Chips,/images/cape_cod_kettle_cooked_potato_chips.jpg,Grocery,BOGO,,false
+Charmin Flushable Wipes,/images/charmin_flushable_wipes.jpg,Non-Foods,BOGO,,false
+"Chex Mix, Gardetto's, or Bugles Snacks",/images/chex_mix_gardettos_or_bugles_snacks.jpg,Grocery,BOGO,Save $0.75 with digital coupon,false
+Clearly Canadian Sparkling Water Beverage,/images/clearly_canadian_sparkling_water_beverage.jpg,Grocery,BOGO,,false
+Community Coffee Ground Coffee,/images/community_coffee_ground_coffee.jpg,Grocery,BOGO,,false
+Crystal Light Drink Mix,/images/crystal_light_drink_mix.jpg,Grocery,BOGO,,false
+Dolly Parton's Desserts or Hershey's Cake Bites,/images/dolly_partons_desserts_or_hersheys_cake_bites.jpg,Frozen Food,BOGO,,false
+Eckrich Polska Kielbasa,/images/eckrich_polska_kielbasa.jpg,Meat,BOGO,,false
+Entenmann's Loaf Cake,/images/entenmanns_loaf_cake.jpg,Grocery,BOGO,,false
+Entenmann's Little Bites Muffins,/images/entenmanns_little_bites_muffins.jpg,Grocery,BOGO,,false
+Eternal Spring Water,/images/eternal_spring_water.jpg,Grocery,BOGO,,false
+Gatorade Thirst Quencher,/images/gatorade_thirst_quencher.jpg,Grocery,BOGO,,false
+General Electric LED Night Light,/images/general_electric_led_night_light.jpg,Non-Foods,BOGO,,false
+"Gerber Graduates Puffs, Teethers, Bars, Lil' Crunchies, Yogurt Melts, or Cookies",/images/gerber_graduates_puffs_teethers_bars_lil_crunchies_yogurt_melts_or_cookies.jpg,Baby,BOGO,,false
+Gordo's Cheese Dip,/images/gordos_cheese_dip.jpg,Dairy,BOGO,,false
+Hebrew National Kosher Beef Franks,/images/hebrew_national_kosher_beef_franks.jpg,Meat,BOGO,,false
+Heinz Tomato Ketchup or Simply Heinz,/images/heinz_tomato_ketchup_or_simply_heinz.jpg,Grocery,BOGO,,false
+Hellmann's Mayonnaise,/images/hellmanns_mayonnaise.jpg,Grocery,BOGO,Save $2.00 with digital coupon,false
+Hidden Valley Dressing,/images/hidden_valley_dressing.jpg,Grocery,BOGO,Save $0.50 with digital coupon,false
+Kinder's Party Wings Chicken Wings,/images/kinders_party_wings_chicken_wings.jpg,Protein|Frozen Food,BOGO,,false
+"King's Hawaiian Hot Dog, Hamburger, or Sliders Buns; or Pretzel Bites",/images/kings_hawaiian_hot_dog_hamburger_or_sliders_buns_or_pretzel_bites.jpg,Deli,BOGO,,false
+Kraft Shredded Cheese,/images/kraft_shredded_cheese.jpg,Dairy,BOGO,,false
+Kraft Cheese Singles,/images/kraft_cheese_singles.jpg,Dairy,BOGO,,false
+La Banderita Tortillas,/images/la_banderita_tortillas.jpg,Grocery,BOGO,,false
+La Bonne Vie Brie Mini Cheese,/images/la_bonne_vie_brie_mini_cheese.jpg,Deli,BOGO,,false
+6-Pack Landshark Island Style Lager,/images/6pack_landshark_island_style_lager.jpg,Beer & Wine,BOGO,,false
+Lemon Perfect Hydrating Lemon Water,/images/lemon_perfect_hydrating_lemon_water.jpg,Grocery,BOGO,,false
+Luzianne Tea Bags,/images/luzianne_tea_bags.jpg,Grocery,BOGO,,false
+Made by James Chardonnay Wine,/images/made_by_james_chardonnay_wine.jpg,Beer & Wine,BOGO,,false
+Maison de Madeleine Brut Wine,/images/maison_de_madeleine_brut_wine.jpg,Beer & Wine,BOGO,,false
+Mentos Sugar Free Gum,/images/mentos_sugar_free_gum.jpg,Grocery,BOGO,,false
+12-Pack Mike's Hard Premium Malt Beverage,/images/12pack_mikes_hard_premium_malt_beverage.jpg,Beer & Wine,BOGO,,false
+Mott's Applesauce,/images/motts_applesauce.jpg,Grocery,BOGO,,false
+Mucinex Instasoothe Medicated Drops,/images/mucinex_instasoothe_medicated_drops.jpg,Health & Nutrition,BOGO,,false
+Nabisco Oreo Cookies,/images/nabisco_oreo_cookies.jpg,Grocery,BOGO,,false
+Nature Valley Bars,/images/nature_valley_bars.jpg,Grocery,BOGO,,false
+Nestle Drumstick Sundae Cones or Mini or Lil' Drums; or Frollies Fruity Ice Pops,/images/nestle_drumstick_sundae_cones_or_mini_or_lil_drums_or_frollies_fruity_ice_pops.jpg,Frozen Food,BOGO,,false
+Off! Clean Feel Insect Repellent,/images/off_clean_feel_insect_repellent.jpg,Non-Foods,BOGO,Save $0.75 with digital coupon,false
+4-Pack IBC Soda Products,/images/4pack_ibc_soda_products.jpg,Grocery,BOGO,,false
+Clamato Tomato Cocktail,/images/clamato_tomato_cocktail.jpg,Grocery,BOGO,,false
+Sweet Tamarind,/images/sweet_tamarind.jpg,Produce,BOGO,,false
+"Le Sueur Vegetables, 14.5 or Libby's Microwavable Vegetables or Read 3 Bean Salad Cups",/images/le_sueur_vegetables_145_or_libbys_microwavable_vegetables_or_read_3_bean_salad_cups.jpg,Grocery,BOGO,,false
+Blues Hog Sauce,/images/blues_hog_sauce.jpg,Grocery,BOGO,,false
+Outshine Fruit Bars,/images/outshine_fruit_bars.jpg,Frozen Food,BOGO,,false
+Pam Cooking Spray,/images/pam_cooking_spray.jpg,Grocery,BOGO,,false
+6-Pack Peroni Nastro Azzurro Beer,/images/6pack_peroni_nastro_azzurro_beer.jpg,Beer & Wine,BOGO,,false
+Pop-Secret Premium Popcorn,/images/popsecret_premium_popcorn.jpg,Grocery,BOGO,,false
+Post Honey Bunches of Oats Cereal,/images/post_honey_bunches_of_oats_cereal.jpg,Grocery,BOGO,,false
+Chocolate Chip Cookies,/images/chocolate_chip_cookies.jpg,Bakery,BOGO,,false
+Publix Ibuprofen Pain Reliever,/images/publix_ibuprofen_pain_reliever.jpg,Health & Nutrition,BOGO,,false
+Purina Beneful Dog Food,/images/purina_beneful_dog_food.jpg,Pet,BOGO,,false
+Quaker Oats,/images/quaker_oats.jpg,Grocery,BOGO,,false
+Reddi Wip Dairy Whipped Topping,/images/reddi_wip_dairy_whipped_topping.jpg,Dairy,BOGO,,false
+Resolve Carpet Cleaner,/images/resolve_carpet_cleaner.jpg,Non-Foods,BOGO,Save $1.50 with digital coupon,false
+Rice-A-Roni Rice,/images/ricearoni_rice.jpg,Grocery,BOGO,,false
+Rosina Meatballs,/images/rosina_meatballs.jpg,Protein|Frozen Food,BOGO,,false
+Sensible Portions Garden Veggie Straws,/images/sensible_portions_garden_veggie_straws.jpg,Grocery,BOGO,,false
+Skinny Pop Popcorn,/images/skinny_pop_popcorn.jpg,Grocery,BOGO,,false
+Smoky Park Smoked Cheese,/images/smoky_park_smoked_cheese.jpg,Deli,BOGO,,false
+Snapple Tea,/images/snapple_tea.jpg,Grocery,BOGO,,false
+Snickers or Twix Ice Cream Bars or Talenti Gelato or Sorbetto,/images/snickers_or_twix_ice_cream_bars_or_talenti_gelato_or_sorbetto.jpg,Frozen Food,BOGO,,false
+Snuggle or All Fabric Softener,/images/snuggle_or_all_fabric_softener.jpg,Non-Foods,BOGO,,false
+Swanson White Premium Chunk Chicken Breast,/images/swanson_white_premium_chunk_chicken_breast.jpg,Protein|Grocery,BOGO,,false
+Tailor Made Cabernet Sauvignon Wine,/images/tailor_made_cabernet_sauvignon_wine.jpg,Beer & Wine,BOGO,,false
+6-Pack Terrapin Beer Co. Beer,/images/6pack_terrapin_beer_co_beer.jpg,Beer & Wine,BOGO,,false
+Thomas' English Muffins,/images/thomas_english_muffins.jpg,Grocery,BOGO,,false
+Truvia Sweeteners,/images/truvia_sweeteners.jpg,Grocery,BOGO,,false
+Tyson Chicken Sliders,/images/tyson_chicken_sliders.jpg,Frozen Food,BOGO,,false
+Velveeta Shells & Cheese Dinner,/images/velveeta_shells_cheese_dinner.jpg,Grocery,BOGO,,false
+Vlasic Pickles,/images/vlasic_pickles.jpg,Grocery,BOGO,,false
+Walker's Shortbread Cookies,/images/walkers_shortbread_cookies.jpg,Grocery,BOGO,,false
+Wise Potato Chips,/images/wise_potato_chips.jpg,Grocery,BOGO,,false
+Wish-Bone Dressing,/images/wishbone_dressing.jpg,Grocery,BOGO,,false
+Yellow Yak Dog Treats,/images/yellow_yak_dog_treats.jpg,Pet,BOGO,,false
+12-Pack Zevia Zero Sugar Soda,/images/12pack_zevia_zero_sugar_soda.jpg,Grocery,BOGO,,false
+Ziploc Seal Top Bags,/images/ziploc_seal_top_bags.jpg,Non-Foods,BOGO,,false
+12-Pack Coca-Cola Products,/images/12pack_cocacola_products.jpg,Grocery,B2G2,,false
+Sofresco Cold Pressed Juice,/images/sofresco_cold_pressed_juice.jpg,Produce,B2G2,,false
+Pepperidge Farm Cookies,/images/pepperidge_farm_cookies.jpg,Grocery,B2G1,,false
+8-Pack Coca-Cola Soft Drink Products,/images/8pack_cocacola_soft_drink_products.jpg,Grocery,B2G2,,false
+6-Pack Coca-Cola Soft Drink Products,/images/6pack_cocacola_soft_drink_products.jpg,Grocery,B2G1,,false
+12-Pack Pepsi Products,/images/12pack_pepsi_products.jpg,Grocery,B2G1,Save $3.00 with digital coupon,false
+Vita Coco Coconut Water,/images/vita_coco_coconut_water.jpg,Grocery,B2G1,,false
+Pepsi Products,/images/pepsi_products.jpg,Grocery,B2G1,,false
+Alani Nu Energy Drink,/images/alani_nu_energy_drink.jpg,Grocery,B2G1,,false
+Poppi Prebiotic Soda,/images/poppi_prebiotic_soda.jpg,Grocery,B2G2,,false
+12-Pack 7UP Products,/images/12pack_7up_products.jpg,Grocery,B2G2,,false
+Coca-Cola Products,/images/cocacola_products.jpg,Grocery,B2G2,,false
+10-Pack Pepsi Products,/images/10pack_pepsi_products.jpg,Grocery,B2G1,,false
+Pure Leaf Tea,/images/pure_leaf_tea.jpg,Grocery,B2G2,,false
+Red Bull Energy Drink,/images/red_bull_energy_drink.jpg,Grocery,B2G1,,false
+Utz Potato Chips,/images/utz_potato_chips.jpg,Grocery,B2G2,,false
