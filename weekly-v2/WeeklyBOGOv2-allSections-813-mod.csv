@@ -90,13 +90,14 @@ Publix Pork Loin Center Rib Roast,/images/publix_pork_loin_center_rib_roast.jpg,
 Nesquik Ready-to-Drink Chocolate Milk,/images/nesquik_readytodrink_chocolate_milk.jpg,Grocery,BOGO,,false
 Mambo Beef Empanadas,/images/mambo_beef_empanadas.jpg,Frozen Food,BOGO,,false
 Phorm Energy Drink,/images/phorm_energy_drink.jpg,Grocery,BOGO,,false
+Maeve Truffle Bar,/images/maeve_truffle_bar.svg,Grocery,BOGO,,false
 The Humble Co. Cotton Swabs,/images/the_humble_co_cotton_swabs.jpg,Beauty & Personal Care,BOGO,,false
 Violife Just Like Sour Cream Alternative,/images/violife_just_like_sour_cream_alternative.jpg,Dairy,BOGO,,false
 Wellshire Lunch Meats,/images/wellshire_lunch_meats.jpg,Meat,BOGO,,false
 Art of the Cooper Special Selection Wine,/images/art_of_the_cooper_special_selection_wine.jpg,Beer & Wine,BOGO,,false
 6-Pack Bell's Beer,/images/6pack_bells_beer.jpg,Beer & Wine|Liquor,BOGO,,false
-Bic Mechanical Pencils,/images/bic_mechanical_pencils.jpg,Non-Foods,BOGO,,false
 "Bic Wite-Out Plus With Foam Brush or EZ Correct Correction Tape, White",/images/bic_witeout_plus_with_foam_brush_or_ez_correct_correction_tape_white.jpg,Non-Foods,BOGO,,false
+Bic Mechanical Pencils,/images/bic_mechanical_pencils.jpg,Non-Foods,BOGO,,false
 Cholula Hot Sauce,/images/cholula_hot_sauce.jpg,Grocery,BOGO,,false
 Chosen Foods Dressing or Classic Avocado Oil Mayo,/images/chosen_foods_dressing_or_classic_avocado_oil_mayo.jpg,Grocery,BOGO,,false
 Cooked Perfect Meatballs,/images/cooked_perfect_meatballs.jpg,Protein|Frozen Food,BOGO,,false
@@ -137,10 +138,10 @@ Nervive Pain Relieving Cream,/images/nervive_pain_relieving_cream.jpg,Health & N
 Night Hawk Entrees,/images/night_hawk_entrees.jpg,Frozen Food,BOGO,,false
 Oscar Mayer Wieners,/images/oscar_mayer_wieners.jpg,Meat,BOGO,,false
 Oscar Mayer Deli Fresh Lunch Meats,/images/oscar_mayer_deli_fresh_lunch_meats.jpg,Meat,BOGO,,false
-Killer Brownies,/images/killer_brownies.jpg,Deli,BOGO,,false
-The Original Bomb Pop or Halo Top Ice Cream,/images/the_original_bomb_pop_or_halo_top_ice_cream.jpg,Frozen Food,BOGO,,false
 AMC Theatres Microwave Popcorn,/images/amc_theatres_microwave_popcorn.jpg,Grocery,BOGO,,false
+Killer Brownies,/images/killer_brownies.jpg,Deli,BOGO,,false
 Organic Red Raspberries,/images/organic_red_raspberries.jpg,Produce,BOGO,,false
+The Original Bomb Pop or Halo Top Ice Cream,/images/the_original_bomb_pop_or_halo_top_ice_cream.jpg,Frozen Food,BOGO,,false
 Pepperidge Farm Buns,/images/pepperidge_farm_buns.jpg,Grocery,BOGO,,false
 Peter Pan Peanut Butter: Crunchy or Creamy; or 100% Natural Creamy Peanut Butter Spread,/images/peter_pan_peanut_butter_crunchy_or_creamy_or_100_natural_creamy_peanut_butter_spread.jpg,Grocery,BOGO,,false
 Pilot Acroball Ball Point Pen,/images/pilot_acroball_ball_point_pen.jpg,Non-Foods,BOGO,,false
@@ -163,7 +164,6 @@ Voortman Wafers,/images/voortman_wafers.jpg,Grocery,BOGO,,false
 Water Wipes Baby Wipes,/images/water_wipes_baby_wipes.jpg,Baby,BOGO,,false
 Weber Ranch 1902 Vodka,/images/weber_ranch_1902_vodka.jpg,Liquor,BOGO,,false
 "Westcott Kids 5"" Scissor, Blunt or Pointed",/images/westcott_kids_5_scissor_blunt_or_pointed.jpg,Non-Foods,BOGO,,false
-Maeve Truffle Bar,/images/maeve_truffle_bar.svg,Grocery,BOGO,,false
 Gatorade Thirst Quencher,/images/gatorade_thirst_quencher.jpg,Grocery,B2G2,,false
 Power Crunch Protein Energy Bar,/images/power_crunch_protein_energy_bar.jpg,Protein|Health & Nutrition,B2G1,,false
 Snack Factory Pretzel Crisps,/images/snack_factory_pretzel_crisps.jpg,Deli,B2G1,,false
@@ -181,15 +181,15 @@ Vita Coco Coconut Water,/images/vita_coco_coconut_water.jpg,Grocery,B2G1,,false
 Poppi Prebiotic Soda,/images/poppi_prebiotic_soda.jpg,Grocery,B2G1,,false
 Pepsi Products,/images/pepsi_products.jpg,Grocery,B2G2,,false
 12-Pack 7UP Products,/images/12pack_7up_products.jpg,Grocery,B2G1,,false
-8-Pack Coca-Cola Soft Drink Products,/images/8pack_cocacola_soft_drink_products.jpg,Grocery,B2G2,,false
 12-Pack Coca-Cola Products,/images/12pack_cocacola_products.jpg,Grocery,B2G1,,false
+8-Pack Coca-Cola Soft Drink Products,/images/8pack_cocacola_soft_drink_products.jpg,Grocery,B2G2,,false
 Pepperidge Farm Cookies,/images/pepperidge_farm_cookies.jpg,Grocery,B2G1,,false
 Pure Leaf Tea,/images/pure_leaf_tea.jpg,Grocery,B2G1,,false
 Red Bull Energy Drink,/images/red_bull_energy_drink.jpg,Grocery,B2G1,,false
 1800 Blanco Tequila,/images/1800_blanco_tequila.jpg,Liquor,B2G1,,false
 Disaronno Originale Liqueur,/images/disaronno_originale_liqueur.jpg,Liquor,B2G1,,false
 Disaronno Liqueur Cream,/images/disaronno_liqueur_cream.jpg,Liquor,B2G1,,false
-Four Roses Small Batch Bourbon,/images/four_roses_small_batch_bourbon.jpg,Liquor,B2G1,,false
 Four Roses 104 Proof Small Batch Select Bourbon,/images/four_roses_104_proof_small_batch_select_bourbon.jpg,Liquor,B2G1,,false
+Four Roses Small Batch Bourbon,/images/four_roses_small_batch_bourbon.jpg,Liquor,B2G1,,false
 Jose Cuervo Especial Tequila,/images/jose_cuervo_especial_tequila.jpg,Liquor,B2G1,,false
 Suntory Toki Whisky,/images/suntory_toki_whisky.jpg,Liquor,B2G1,,false

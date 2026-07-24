@@ -72,6 +72,7 @@ La Banderita Carb Counter Flour Tortillas,/images/la_banderita_carb_counter_flou
 Roger Wood Smoked Sausage,/images/roger_wood_smoked_sausage.jpg,Meat,BOGO,,false
 8-Pack 7UP Products,/images/8pack_7up_products.jpg,Grocery,BOGO,,false
 Belgioioso Crumbly Gorgonzola Cheese,/images/belgioioso_crumbly_gorgonzola_cheese.jpg,Deli,BOGO,,false
+Gold Peak Tea,/images/gold_peak_tea.jpg,Grocery,BOGO,,false
 Sofresco Cold Pressed Juice,/images/sofresco_cold_pressed_juice.jpg,Produce,BOGO,,false
 6-Pack 7UP Products,/images/6pack_7up_products.jpg,Grocery,BOGO,,false
 Pirucream Bites Bite-Sized Wafer Rolls,/images/pirucream_bites_bitesized_wafer_rolls.jpg,Grocery,BOGO,,false
@@ -86,6 +87,7 @@ Publix Tea Bags,/images/publix_tea_bags.jpg,Grocery,BOGO,,false
 King Arthur 00 Pizza Flour,/images/king_arthur_00_pizza_flour.jpg,Grocery,BOGO,,false
 Publix Pork Loin Center Rib Roast,/images/publix_pork_loin_center_rib_roast.jpg,Meat,BOGO,,false
 Nesquik Ready-to-Drink Chocolate Milk,/images/nesquik_readytodrink_chocolate_milk.jpg,Grocery,BOGO,,false
+Maeve Truffle Bar,/images/maeve_truffle_bar.svg,Grocery,BOGO,,false
 The Humble Co. Cotton Swabs,/images/the_humble_co_cotton_swabs.jpg,Beauty & Personal Care,BOGO,,false
 Violife Just Like Sour Cream Alternative,/images/violife_just_like_sour_cream_alternative.jpg,Dairy,BOGO,,false
 Eucerin Sunscreen Lotion,/images/eucerin_sunscreen_lotion.jpg,Beauty & Personal Care,BOGO,,false
@@ -123,12 +125,12 @@ Nature's Own Honey Wheat Bread,/images/natures_own_honey_wheat_bread.jpg,Grocery
 "Nerds Gummy Clusters or Big Chew, Trolli Sour Brite Crawlers, or Sweetarts Mini Chewy Candy",/images/nerds_gummy_clusters_or_big_chew_trolli_sour_brite_crawlers_or_sweetarts_mini_chewy_candy.jpg,Grocery,BOGO,,false
 Nervive Pain Relieving Cream,/images/nervive_pain_relieving_cream.jpg,Health & Nutrition,BOGO,,false
 Night Hawk Entrees,/images/night_hawk_entrees.jpg,Frozen Food,BOGO,,false
-Oscar Mayer Wieners,/images/oscar_mayer_wieners.jpg,Meat,BOGO,,false
 Oscar Mayer Deli Fresh Lunch Meats,/images/oscar_mayer_deli_fresh_lunch_meats.jpg,Meat,BOGO,,false
-Ammerlander Cheese,/images/ammerlander_cheese.jpg,Deli,BOGO,,false
-Killer Brownies,/images/killer_brownies.jpg,Deli,BOGO,,false
-AMC Theatres Microwave Popcorn,/images/amc_theatres_microwave_popcorn.jpg,Grocery,BOGO,,false
+Oscar Mayer Wieners,/images/oscar_mayer_wieners.jpg,Meat,BOGO,,false
 The Original Bomb Pop or Halo Top Ice Cream,/images/the_original_bomb_pop_or_halo_top_ice_cream.jpg,Frozen Food,BOGO,,false
+Killer Brownies,/images/killer_brownies.jpg,Deli,BOGO,,false
+Ammerlander Cheese,/images/ammerlander_cheese.jpg,Deli,BOGO,,false
+AMC Theatres Microwave Popcorn,/images/amc_theatres_microwave_popcorn.jpg,Grocery,BOGO,,false
 Pepperidge Farm Buns,/images/pepperidge_farm_buns.jpg,Grocery,BOGO,,false
 Peter Pan Peanut Butter: Crunchy or Creamy; or 100% Natural Creamy Peanut Butter Spread,/images/peter_pan_peanut_butter_crunchy_or_creamy_or_100_natural_creamy_peanut_butter_spread.jpg,Grocery,BOGO,,false
 Pompeian Imported Olive Oil,/images/pompeian_imported_olive_oil.jpg,Grocery,BOGO,,false
@@ -149,7 +151,6 @@ Totino's Pizza Rolls or Pizza,/images/totinos_pizza_rolls_or_pizza.jpg,Frozen Fo
 Voortman Wafers,/images/voortman_wafers.jpg,Grocery,BOGO,,false
 Wellshire Lunch Meats,/images/wellshire_lunch_meats.jpg,Meat,BOGO,,false
 "Westcott Kids 5"" Scissor, Blunt or Pointed",/images/westcott_kids_5_scissor_blunt_or_pointed.jpg,Non-Foods,BOGO,,false
-Maeve Truffle Bar,/images/maeve_truffle_bar.svg,Grocery,BOGO,,false
 Gatorade Thirst Quencher,/images/gatorade_thirst_quencher.jpg,Grocery,B2G2,,false
 Power Crunch Protein Energy Bar,/images/power_crunch_protein_energy_bar.jpg,Protein|Health & Nutrition,B2G1,,false
 Snack Factory Pretzel Crisps,/images/snack_factory_pretzel_crisps.jpg,Deli,B2G1,,false
