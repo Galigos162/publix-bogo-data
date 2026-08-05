@@ -9,7 +9,7 @@ Juicy Juice 100% Juice,/images/juicy_juice_100_juice.jpg,Grocery,BOGO,,false
 Purely Elizabeth. Superfood Oatmeal,/images/purely_elizabeth_superfood_oatmeal.jpg,Protein|Grocery,BOGO,,false
 Pearl Milling Company Syrup,/images/pearl_milling_company_syrup.jpg,Grocery,BOGO,,false
 Community Coffee Ground Coffee,/images/community_coffee_ground_coffee.jpg,Grocery,BOGO,,false
-Ken's Steak House Dressing,/images/kens_steak_house_dressing.jpg,Grocery,BOGO,,false
+Ken's Steak House Dressing & Marinade,/images/kens_steak_house_dressing_marinade.jpg,Grocery,BOGO,,false
 Nature's Own Bread,/images/natures_own_bread.jpg,Grocery,BOGO,,false
 Jocko Molk Protein Shake,/images/jocko_molk_protein_shake.jpg,Grocery,BOGO,,false
 Utz Potato Chips,/images/utz_potato_chips.jpg,Grocery,BOGO,,false
@@ -30,7 +30,7 @@ Zep Home Pro Cleaners,/images/zep_home_pro_cleaners.jpg,Non-Foods,BOGO,Save $2.0
 Charmin Bathroom Tissue,/images/charmin_bathroom_tissue.jpg,Non-Foods,BOGO,,false
 Purex Laundry Detergent,/images/purex_laundry_detergent.jpg,Non-Foods,BOGO,,false
 Tide or Gain Laundry Detergent,/images/tide_or_gain_laundry_detergent.jpg,Non-Foods,BOGO,,false
-Royal Oak Charcoal,/images/royal_oak_charcoal.jpg,Non-Foods,BOGO,,false
+Royal Oak Hardwood Lump Charcoal,/images/royal_oak_hardwood_lump_charcoal.jpg,Non-Foods,BOGO,,false
 Arm & Hammer Cat Litter,/images/arm_hammer_cat_litter.jpg,Pet,BOGO,,false
 Snapware Food Storage Containers,/images/snapware_food_storage_containers.jpg,Housewares,BOGO,,false
 Beech-Nut Baby Food,/images/beechnut_baby_food.jpg,Baby,BOGO,,false
@@ -50,9 +50,9 @@ Duke's Smoked Shorty Sausages,/images/dukes_smoked_shorty_sausages.jpg,Dairy,BOG
 Pitaya Foods Organic Fruit Bite-Sized Pieces,/images/pitaya_foods_organic_fruit_bitesized_pieces.jpg,Frozen Food,BOGO,,false
 Tombstone Pizza,/images/tombstone_pizza.jpg,Frozen Food,BOGO,,false
 Back to Nature Nuts,/images/back_to_nature_nuts.jpg,Grocery,BOGO,,false
-Pace Chunky Salsa,/images/pace_chunky_salsa.jpg,Grocery,BOGO,,false
+"Pace Salsa, Picante Sauce, or Dip",/images/pace_salsa_picante_sauce_or_dip.jpg,Grocery,BOGO,,false
 Vlasic Pickles,/images/vlasic_pickles.jpg,Grocery,BOGO,,false
-General Mills Cheerios Cereal,/images/general_mills_cheerios_cereal.jpg,Grocery,BOGO,Save $1.00 with digital coupon,false
+General Mills Cereal-All,/images/general_mills_cerealall.jpg,Grocery,BOGO,Save $1.00 with digital coupon,false
 Purina Beggin' Dog Treats,/images/purina_beggin_dog_treats.jpg,Pet,BOGO,,false
 Wow Bao Dumplings Soup,/images/wow_bao_dumplings_soup.jpg,Frozen Food,BOGO,,false
 Hungry-Man Entrees,/images/hungryman_entrees.jpg,Frozen Food,BOGO,,false
@@ -73,7 +73,7 @@ Snack Pack Pudding,/images/snack_pack_pudding.jpg,Grocery,BOGO,,false
 Natural Bliss Coffee Creamer,/images/natural_bliss_coffee_creamer.jpg,Dairy,BOGO,,false
 Pam Cooking Spray,/images/pam_cooking_spray.jpg,Grocery,BOGO,,false
 Cabot Shredded Cheese,/images/cabot_shredded_cheese.jpg,Dairy,BOGO,,false
-Frito Lay Snacks,/images/frito_lay_snacks.jpg,Grocery,BOGO,,false
+"Frito Lay Snacks, Minis",/images/frito_lay_snacks_minis.jpg,Grocery,BOGO,,false
 Mrs. T's Pierogies,/images/mrs_ts_pierogies.jpg,Frozen Food,BOGO,,false
 Donut Shop K-Cup Coffee,/images/donut_shop_kcup_coffee.jpg,Grocery,BOGO,,false
 Celentano Pasta,/images/celentano_pasta.jpg,Frozen Food,BOGO,,false
@@ -93,7 +93,7 @@ GT's Synergy The Real Kombucha,/images/gts_synergy_the_real_kombucha.jpg,Produce
 Baby Seedless Cucumbers,/images/baby_seedless_cucumbers.jpg,Produce,BOGO,,false
 Classic Dozen Roses,/images/classic_dozen_roses.jpg,Floral,BOGO,,false
 Fresh Express Salad Blends,/images/fresh_express_salad_blends.jpg,Produce,BOGO,,false
-Pretzilla Soft Pretzel Bites,/images/pretzilla_soft_pretzel_bites.jpg,Deli,BOGO,,false
+Pretzilla Pretzel Bites,/images/pretzilla_pretzel_bites.jpg,Deli,BOGO,,false
 Casa Flores Serrano Ham,/images/casa_flores_serrano_ham.jpg,Deli,BOGO,,false
 La Banderita Flour Tortillas,/images/la_banderita_flour_tortillas.jpg,Grocery,BOGO,,false
 Mission Flour Tortillas,/images/mission_flour_tortillas.jpg,Grocery,BOGO,,false
@@ -166,7 +166,7 @@ Crystal Light Drink Mix,/images/crystal_light_drink_mix.jpg,Grocery,BOGO,,false
 Dole Fruit,/images/dole_fruit.jpg,Grocery,BOGO,,false
 Downy Wrinkle Releaser Fabric Spray,/images/downy_wrinkle_releaser_fabric_spray.jpg,Non-Foods,BOGO,,false
 El Monterey Burritos,/images/el_monterey_burritos.jpg,Frozen Food,BOGO,,false
-Entenmann's Little Bites Muffins,/images/entenmanns_little_bites_muffins.jpg,Grocery,BOGO,,false
+Entenmann's Products,/images/entenmanns_products.jpg,Grocery,BOGO,,false
 Evol. Entree,/images/evol_entree.jpg,Protein|Frozen Food,BOGO,,false
 6-Pack Founders Beer,/images/6pack_founders_beer.jpg,Beer & Wine,BOGO,,false
 Fresh Gourmet Salad Topping,/images/fresh_gourmet_salad_topping.jpg,Grocery,BOGO,,false
