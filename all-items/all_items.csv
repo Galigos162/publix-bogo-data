@@ -67,8 +67,6 @@ Cacique Ranchero Chunk Cheese,cacique_ranchero_chunk_cheese.jpg,Meat,FALSE
 7UP Products,7up_products.jpg,Grocery,FALSE
 Sunny D Citrus Punch,sunny_d_citrus_punch.jpg,Grocery,FALSE
 Doctor D's Organic Sparkling Probiotic Drink,doctor_ds_organic_sparkling_probiotic_drink.jpg,Produce,FALSE
-Tsamma 100% Watermelon Juice Blend,tsamma_100_watermelon_juice_blend.jpg,,FALSE
-So Good So You Probiotic Shot,so_good_so_you_probiotic_shot.jpg,Produce,FALSE
 Wise Cheez Doodles Corn Snacks,wise_cheez_doodles_corn_snacks.jpg,Grocery,FALSE
 Graza Olive Oil,graza_olive_oil.jpg,,FALSE
 Roar Organic Vitamin Enhanced Beverage,roar_organic_vitamin_enhanced_beverage.jpg,Grocery,FALSE
@@ -186,7 +184,7 @@ Stone & Skillet English Muffins,stone_skillet_english_muffins.jpg,,FALSE
 Pero Family Farms Mini Sweet Peppers,pero_family_farms_mini_sweet_peppers.jpg,Produce,FALSE
 Coca-Cola Products,cocacola_products.jpg,Grocery,FALSE
 La Banderita Flour Tortillas,la_banderita_flour_tortillas.jpg,Grocery,FALSE
-LesserEvil Popcorn,lesserevil_popcorn.jpg,,FALSE
+LesserEvil Popcorn,lesserevil_popcorn.jpg,Grocery,FALSE
 Slim Jim Sticks,slim_jim_sticks.jpg,Dairy,FALSE
 New York Croutons,new_york_croutons.jpg,,FALSE
 Hatfield Ham Steak,hatfield_ham_steak.jpg,Meat,FALSE
@@ -384,7 +382,6 @@ Joss Everett Tennessee Whiskey,joss_everett_tennessee_whiskey.jpg,Liquor,false
 Maison de Madeleine Brut Wine,maison_de_madeleine_brut_wine.jpg,Beer & Wine,false
 Margaritaville Shrimp Appetizers,margaritaville_shrimp_appetizers.jpg,Frozen Food,false
 McCormick Red Cap Spices,mccormick_red_cap_spices.jpg,,false
-Mrs. Butterworth's Syrup,mrs_butterworths_syrup.jpg,Grocery,false
 Natura Pinot Noir Wine,natura_pinot_noir_wine.jpg,Beer & Wine,false
 Ocean Spray Juice Cocktail,ocean_spray_juice_cocktail.jpg,Grocery,false
 Ore-Ida Potatoes or Tots,oreida_potatoes_or_tots.jpg,Frozen Food,false
@@ -441,7 +438,7 @@ Siete Grain Free Cookies,siete_grain_free_cookies.jpg,Grocery,false
 Spindrift Sparkling Water,spindrift_sparkling_water.jpg,Grocery,false
 Freschetta Pizza,freschetta_pizza.jpg,Frozen Food,false
 Gorton's Fish Fillets or Sticks,gortons_fish_fillets_or_sticks.jpg,Frozen Food,false
-Happy Egg Co. Brown Eggs,happy_egg_co_brown_eggs.jpg,,false
+Happy Egg Co. Brown Eggs,happy_egg_co_brown_eggs.jpg,Dairy,false
 Nature's Bounty Supplements,natures_bounty_supplements.jpg,,false
 Lenny & Larry's The Complete Cookie,lenny_larrys_the_complete_cookie.jpg,Health & Nutrition,false
 Persil Laundry Detergent,persil_laundry_detergent.jpg,,false
@@ -864,7 +861,6 @@ Clearly Canadian Sparkling Water Beverage,clearly_canadian_sparkling_water_bever
 So Good So You Organic Probiotic Juice Shot,so_good_so_you_organic_probiotic_juice_shot.jpg,Produce,false
 Olive Garden Italian Kitchen Croutons,olive_garden_italian_kitchen_croutons.jpg,,false
 Dandy Celery Sticks,dandy_celery_sticks.jpg,Produce,false
-Nature's Own Perfectly Crafted Hot Dog Rolls,natures_own_perfectly_crafted_hot_dog_rolls.jpg,,false
 Humm Kombucha,humm_kombucha.jpg,Produce,false
 La Banderita Tortilla Chips,la_banderita_tortilla_chips.jpg,Grocery,false
 Cholula Hot Sauce,cholula_hot_sauce.jpg,Grocery,false
@@ -1112,7 +1108,7 @@ Keebler Family Size Cookies,keebler_family_size_cookies.jpg,,false
 McCormick Cocktail Sauce for Seafood,mccormick_cocktail_sauce_for_seafood.jpg,,false
 McCormick Gourmet Spices or Extracts,mccormick_gourmet_spices_or_extracts.jpg,,false
 Mezzetta Pepper Rings,mezzetta_pepper_rings.jpg,,false
-Mrs. Butterworth's or Log Cabin Syrup,mrs_butterworths_or_log_cabin_syrup.jpg,,false
+Mrs. Butterworth's or Log Cabin Syrup,mrs_butterworths_or_log_cabin_syrup.jpg,Grocery,false
 Nathan's Famous Beef Franks,nathans_famous_beef_franks.jpg,,false
 Nutrish Food for Cats,nutrish_food_for_cats.jpg,Pet,false
 "Orgain Creatine, Unflavored",orgain_creatine_unflavored.jpg,,false
@@ -1225,7 +1221,7 @@ Friskies Cat Food,friskies_cat_food.jpg,Pet,false
 General Mills Cereal-All,general_mills_cerealall.jpg,Grocery,false
 Heluva Good! Dip,heluva_good_dip.jpg,,false
 Hormel Chili,hormel_chili.jpg,,false
-Johnsonville Sausage Links,johnsonville_sausage_links.jpg,,false
+Johnsonville Sausage Links,johnsonville_sausage_links.jpg,Meat,false
 Johnsonville Brats,johnsonville_brats.jpg,,false
 Kinder's Party Wings Chicken Wings,kinders_party_wings_chicken_wings.jpg,Frozen Food,false
 Kraft Shredded Cheese,kraft_shredded_cheese.jpg,Dairy,false
@@ -1327,7 +1323,7 @@ Flipz Covered Pretzels,flipz_covered_pretzels.jpg,,false
 Galbani Ricotta Cheese,galbani_ricotta_cheese.jpg,Dairy,false
 Golden Blossom or Southern Blossom Pure & Unfiltered Honey,golden_blossom_or_southern_blossom_pure_unfiltered_honey.jpg,,false
 Jell-O Instant Pudding & Pie Filling,jello_instant_pudding_pie_filling.jpg,Grocery,false
-Fruit Gushers Fruit Flavored Snacks,fruit_gushers_fruit_flavored_snacks.jpg,Grocery,false
+Betty Crocker Fruit Snacks,betty_crocker_fruit_snacks.jpg,Grocery,false
 Nutella & Go! Snacks,nutella_go_snacks.jpg,,false
 Organic Valley Protein Plus Ultra-Filtered Milk,organic_valley_protein_plus_ultrafiltered_milk.jpg,,false
 Lychee Fruit,lychee_fruit.jpg,,false
@@ -1755,7 +1751,6 @@ Evolve Grain-Free Dog Food,evolve_grainfree_dog_food.jpg,Pet,false
 Gamesa Marias Cookies,gamesa_marias_cookies.jpg,Grocery,false
 Justin Sauvignon Blanc Wine,justin_sauvignon_blanc_wine.jpg,Beer & Wine,false
 Nutella Hazelnut Spread,nutella_hazelnut_spread.jpg,Grocery,false
-Demakes Bros. Skewers,demakes_bros_skewers.jpg,Meat,false
 Actual Veggies Veggie Burger,actual_veggies_veggie_burger.jpg,Frozen Food,false
 Legacy Foods Skillet Meals,legacy_foods_skillet_meals.jpg,Frozen Food,false
 Purina Cat Chow or Kitten Chow Cat Food,purina_cat_chow_or_kitten_chow_cat_food.jpg,Pet,false
@@ -2079,7 +2074,6 @@ Natrol Supplements,natrol_supplements.jpg,Health & Nutrition,false
 Orchard Valley Harvest Mix,orchard_valley_harvest_mix.jpg,Produce,false
 Better Butter Butter,better_butter_butter.jpg,Dairy,false
 Kendamil Toddler Drink,kendamil_toddler_drink.jpg,Baby,false
-Jocko Molk Protein Shake,jocko_molk_protein_shake.jpg,Grocery,false
 Van Holten's Pickles,van_holtens_pickles.jpg,Deli,false
 Pitaya Foods Organic Fruit Bite-Sized Pieces,pitaya_foods_organic_fruit_bitesized_pieces.jpg,Frozen Food,false
 Colts Chocolate Co Chocolates,colts_chocolate_co_chocolates.jpg,Grocery,false
@@ -2156,7 +2150,6 @@ Milk-Bone Comfort Chews Dog Treats,milkbone_comfort_chews_dog_treats.jpg,Pet,fal
 Elit The Taste of Dubai Milk Chocolate,elit_the_taste_of_dubai_milk_chocolate.jpg,Grocery,false
 Riceworks Gourmet Rice Snacks,riceworks_gourmet_rice_snacks.jpg,Grocery,false
 Big Tree Farms Organic Coconut Sugar,big_tree_farms_organic_coconut_sugar.jpg,Grocery,false
-Tim Hortons K-Cup Coffee,tim_hortons_kcup_coffee.jpg,Grocery,false
 Righthide Hand-Crafted Dog Chews,righthide_handcrafted_dog_chews.jpg,Pet,false
 Chifles Plantain Snack Pack,chifles_plantain_snack_pack.jpg,Grocery,false
 Enjoy Life 100% Real Chocolate Mini Chips,enjoy_life_100_real_chocolate_mini_chips.jpg,Grocery,false
@@ -2292,7 +2285,6 @@ General Mills Lucky Charms Cereal,general_mills_lucky_charms_cereal.jpg,Grocery,
 Ghirardelli Premium Brownie Mix,ghirardelli_premium_brownie_mix.jpg,Grocery,false
 Premier Protein Protein Shake,premier_protein_protein_shake.jpg,Protein,false
 Magic Spoon Cereal,magic_spoon_cereal.jpg,Protein,false
-Orville Redenbacher's Gourmet Popcorn,orville_redenbachers_gourmet_popcorn.jpg,Protein,false
 Nabisco Family Size Oreo or Chips Ahoy! Cookies,nabisco_family_size_oreo_or_chips_ahoy_cookies.jpg,Grocery,false
 Birds Eye Voila! Family Size Skillet Meals,birds_eye_voila_family_size_skillet_meals.jpg,Frozen Food,false
 Mrs. Paul's Fish Entrees,mrs_pauls_fish_entrees.jpg,Frozen Food,false
@@ -2350,7 +2342,6 @@ Landana Gouda Chunk Cheese,landana_gouda_chunk_cheese.jpg,Deli,false
 Smash Foods Fruit Spread,smash_foods_fruit_spread.jpg,Grocery,false
 Quaker Chewy Protein Granola Bars,quaker_chewy_protein_granola_bars.jpg,Grocery,false
 Old El Paso Taco Sauce,old_el_paso_taco_sauce.jpg,Grocery,false
-"Chex Mix Snack Mix, Bugles, or Gardetto's",chex_mix_snack_mix_bugles_or_gardettos.jpg,Grocery,false
 Dawn Sponge,dawn_sponge.jpg,Non-Foods,false
 Fisher Chef's Naturals Pecans or Walnuts,fisher_chefs_naturals_pecans_or_walnuts.jpg,Grocery,false
 General Mills Cheerios Protein Cereal,general_mills_cheerios_protein_cereal.jpg,Grocery,false
@@ -2393,12 +2384,9 @@ Flora Italian Puff Pastry,flora_italian_puff_pastry.svg,Grocery,false
 Publix Tea or Lemonade,publix_tea_or_lemonade.jpg,Deli,false
 Nature's Own Perfectly Crafted Bread,natures_own_perfectly_crafted_bread.jpg,Grocery,false
 Lavazza Ground Coffee,lavazza_ground_coffee.jpg,Grocery,false
-Nabisco Honey Maid Grahams,nabisco_honey_maid_grahams.jpg,Grocery,false
 Unreal Dark Chocolate Bars,unreal_dark_chocolate_bars.jpg,Grocery,false
-Chex Mix Snack Mix,chex_mix_snack_mix.jpg,Grocery,false
 Gorton's Fish Sticks or Fillets,gortons_fish_sticks_or_fillets.jpg,Frozen Food,false
 Stouffer's Family Size Entree,stouffers_family_size_entree.jpg,Frozen Food,false
-Nature Made Dietary Supplement,nature_made_dietary_supplement.jpg,Health & Nutrition,false
 Every Man Jack Men's Products,every_man_jack_mens_products.jpg,Beauty & Personal Care,false
 Hask Hair Care Products,hask_hair_care_products.jpg,Beauty & Personal Care,false
 Oxiclean Bathroom Cleaner,oxiclean_bathroom_cleaner.jpg,Non-Foods,false
@@ -2408,7 +2396,6 @@ Boogie Baby Products,boogie_baby_products.jpg,Baby,false
 Edwards Pie Slices,edwards_pie_slices.jpg,Frozen Food,false
 Taste Republic Tortelloni Pasta,taste_republic_tortelloni_pasta.jpg,Frozen Food,false
 Candy Pop Popcorn,candy_pop_popcorn.jpg,Grocery,false
-Lesserevil Popcorn,lesserevil_popcorn.jpg,Grocery,false
 Amylu Breakfast Bites,amylu_breakfast_bites.jpg,Frozen Food,false
 Hungry Jack Complete Pancake & Waffle Mix,hungry_jack_complete_pancake_waffle_mix.jpg,Grocery,false
 Wonder Bagels,wonder_bagels.jpg,Grocery,false
@@ -2429,7 +2416,6 @@ Tsamma 100% Watermelon Juice,tsamma_100_watermelon_juice.jpg,Produce,false
 Koia Protein,koia_protein.jpg,Produce,false
 Athenos Feta Cheese Chunk,athenos_feta_cheese_chunk.jpg,Dairy,false
 Texas Pete Sauce,texas_pete_sauce.jpg,Grocery,false
-Johnsonville Sausage Link,johnsonville_sausage_link.jpg,Meat,false
 Godiva Dark Chocolate Bar,godiva_dark_chocolate_bar.jpg,Grocery,false
 Publix Young Turkey Breast,publix_young_turkey_breast.jpg,Meat,false
 Unique Pretzels,unique_pretzels.jpg,Grocery,false
@@ -2454,7 +2440,6 @@ Breakstone's Cottage Cheese or Sour Cream,breakstones_cottage_cheese_or_sour_cre
 "Carbona 2-in-1 Carpet Cleaner, Oxy Powered",carbona_2in1_carpet_cleaner_oxy_powered.jpg,Non-Foods,false
 Entenmann's Little Bites,entenmanns_little_bites.jpg,Grocery,false
 Essentia Water,essentia_water.jpg,Grocery,false
-"Happy Egg Co. Large Brown Eggs, Free Range, Grade A",happy_egg_co_large_brown_eggs_free_range_grade_a.jpg,Dairy,false
 Hershey's Syrup,hersheys_syrup.jpg,Grocery,false
 Innovasian Cuisine Side Dish,innovasian_cuisine_side_dish.jpg,Frozen Food,false
 King's Hawaiian Hot Dog or Hamburger Buns,kings_hawaiian_hot_dog_or_hamburger_buns.jpg,Deli,false
