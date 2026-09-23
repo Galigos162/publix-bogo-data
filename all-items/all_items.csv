@@ -37,12 +37,12 @@ Mutti Tomatoes,mutti_tomatoes.jpg,,FALSE
 Drizzilicious Drizzled Popcorn,drizzilicious_drizzled_popcorn.jpg,,FALSE
 Kashi Granola,kashi_granola.jpg,,FALSE
 Kellogg's Cereal-All,kelloggs_cerealall.jpg,Grocery,FALSE
-Palmolive Ultra Dish Liquid,palmolive_ultra_dish_liquid.jpg,,FALSE
-Fatty Smoked Meat Sticks,fatty_smoked_meat_sticks.jpg,,FALSE
+Palmolive Ultra Dish Liquid,palmolive_ultra_dish_liquid.jpg,Non-Foods,FALSE
+Fatty Smoked Meat Sticks,fatty_smoked_meat_sticks.jpg,Meat,FALSE
 Bellafina Baby Bell Peppers,bellafina_baby_bell_peppers.jpg,,FALSE
 Lysol Laundry Sanitizer,lysol_laundry_sanitizer.jpg,Non-Foods,FALSE
 Rockit Apples,rockit_apples.jpg,Produce,FALSE
-Quest Protein Milkshake,quest_protein_milkshake.jpg,,FALSE
+Quest Protein Milkshake,quest_protein_milkshake.jpg,Protein,FALSE
 Classico Pasta Sauce,classico_pasta_sauce.jpg,Grocery,FALSE
 Lysol Disinfectant Spray,lysol_disinfectant_spray.jpg,Non-Foods,FALSE
 Minute Maid Drink,minute_maid_drink.jpg,,FALSE
@@ -98,7 +98,7 @@ Fage Greek Strained Yogurt,fage_greek_strained_yogurt.jpg,Dairy,FALSE
 Glaceau Smartwater,glaceau_smartwater.jpg,Grocery,FALSE
 6-Pack Golden Road Brewing Beer,6pack_golden_road_brewing_beer.jpg,Beer & Wine,FALSE
 Hefty Press to Close Bags,hefty_press_to_close_bags.jpg,Non-Foods,FALSE
-Hormel Black Label Bacon,hormel_black_label_bacon.jpg,,FALSE
+Hormel Black Label Bacon,hormel_black_label_bacon.jpg,Meat,FALSE
 La Colombe Cold Brew Coffee,la_colombe_cold_brew_coffee.jpg,Dairy,FALSE
 Lance Sandwich Crackers,lance_sandwich_crackers.jpg,Grocery,FALSE
 Lawry's 15 Minute Marinade,lawrys_15_minute_marinade.jpg,Grocery,FALSE
@@ -163,7 +163,7 @@ General Electric Light Bulbs,general_electric_light_bulbs.jpg,Non-Foods,FALSE
 Natural Delights Organic Coconut Mini Medjools Dates,natural_delights_organic_coconut_mini_medjools_dates.jpg,,FALSE
 Sol-ti Supershot,solti_supershot.jpg,Produce,FALSE
 Brawny Paper Towels,brawny_paper_towels.jpg,Non-Foods,FALSE
-Jelly Belly Jelly Beans,jelly_belly_jelly_beans.jpg,,FALSE
+Jelly Belly Jelly Beans,jelly_belly_jelly_beans.jpg,Grocery,FALSE
 Manischewitz Matzo Ball & Soup Mix,manischewitz_matzo_ball_soup_mix.jpg,,FALSE
 Temp Tee Whipped Cream Cheese,temp_tee_whipped_cream_cheese.jpg,,FALSE
 Godiva Chocolate Truffles,godiva_chocolate_truffles.jpg,,FALSE
@@ -193,7 +193,7 @@ Belgioioso Shredded Parmesan Cheese,belgioioso_shredded_parmesan_cheese.jpg,,FAL
 G.H. Cretors Popcorn,gh_cretors_popcorn.jpg,Grocery,FALSE
 Herdez Salsa,herdez_salsa.jpg,,FALSE
 Kozy Shack Pudding,kozy_shack_pudding.jpg,Dairy,FALSE
-Suja Organic Juice Drink,suja_organic_juice_drink.jpg,,FALSE
+Suja Organic Juice Drink,suja_organic_juice_drink.jpg,Produce,FALSE
 Mahatma Extra Long Grain Enriched Rice,mahatma_extra_long_grain_enriched_rice.jpg,Grocery,FALSE
 Tru Fru Fruit,tru_fru_fruit.jpg,,FALSE
 Junior Mints,junior_mints.jpg,,FALSE
@@ -236,7 +236,7 @@ Dove Anti-Perspirant/Deodorant,dove_antiperspirantdeodorant.jpg,Beauty & Persona
 Duke's Mayonnaise,dukes_mayonnaise.jpg,Grocery,FALSE
 Duncan Hines Brownie Mix,duncan_hines_brownie_mix.jpg,Grocery,FALSE
 Essentia Purified Drinking Water,essentia_purified_drinking_water.jpg,Grocery,FALSE
-Famous Amos Cookies,famous_amos_cookies.jpg,,FALSE
+Famous Amos Cookies,famous_amos_cookies.jpg,Grocery,FALSE
 Friskies Party Mix Cat Treats,friskies_party_mix_cat_treats.jpg,Pet,FALSE
 Gardein Plant-Based Entres,gardein_plantbased_entres.jpg,,FALSE
 Ghost Energy Drink,ghost_energy_drink.jpg,Grocery,FALSE
@@ -291,7 +291,7 @@ Publix Pineapple Chunks,publix_pineapple_chunks.jpg,Produce,false
 Belton Farm Red Fox Leicester Cheese,belton_farm_red_fox_leicester_cheese.jpg,,false
 Beehive Cheese,beehive_cheese.jpg,Deli,false
 Keurig Coffee Collective K-Cup Pods,keurig_coffee_collective_kcup_pods.jpg,,false
-Atalanta Halloumi Cheese,atalanta_halloumi_cheese.jpg,,false
+Atalanta Halloumi Cheese,atalanta_halloumi_cheese.jpg,Deli,false
 Topcraft Vodka,topcraft_vodka.jpg,Liquor,false
 Buzzballz Biggies Berry Cherry Limeade,buzzballz_biggies_berry_cherry_limeade.jpg,,false
 Pastazara Organic Pasta,pastazara_organic_pasta.jpg,Grocery,false
@@ -546,7 +546,7 @@ Sun Drop Citrus Soda,sun_drop_citrus_soda.jpg,Grocery,false
 Wonder Bread,wonder_bread.jpg,Grocery,false
 Pillsbury Brownie or Cake Mix,pillsbury_brownie_or_cake_mix.jpg,Grocery,false
 Olive Garden Salad Dressing,olive_garden_salad_dressing.jpg,,false
-Annie Chun's Noodle Bowl,annie_chuns_noodle_bowl.jpg,,false
+Annie Chun's Noodle Bowl,annie_chuns_noodle_bowl.jpg,Protein,false
 Arnold or Brownberry Bread,arnold_or_brownberry_bread.jpg,Grocery,false
 Simply Organic Spices or Extracts,simply_organic_spices_or_extracts.jpg,Grocery,false
 Nabisco Newtons Cookies,nabisco_newtons_cookies.jpg,,false
@@ -664,7 +664,7 @@ Polaner Fruit Spread,polaner_fruit_spread.jpg,Grocery,false
 Promised Land Milk,promised_land_milk.jpg,Dairy,false
 Publix Tzatziki Dip,publix_tzatziki_dip.jpg,Deli,false
 Purely Elizabeth. Oatmeal,purely_elizabeth_oatmeal.jpg,Protein,false
-"Quaker Oats, Old Fashioned or Quick 1-Minute",quaker_oats_old_fashioned_or_quick_1minute.jpg,,false
+"Quaker Oats, Old Fashioned or Quick 1-Minute",quaker_oats_old_fashioned_or_quick_1minute.jpg,Grocery,false
 Rachael Ray Nutrish Dog Treats or Soup Bones Chew Bones,rachael_ray_nutrish_dog_treats_or_soup_bones_chew_bones.jpg,,false
 Saratoga Spring Water,saratoga_spring_water.jpg,Grocery,false
 Speed Stick Deodorant,speed_stick_deodorant.jpg,,false
@@ -763,7 +763,7 @@ Kidfresh Entres,kidfresh_entres.jpg,,false
 Mary's Gone Crackers Organic Crackers,marys_gone_crackers_organic_crackers.jpg,Grocery,false
 Ortega Taco Sauce or Seasoning or Taco Shells or Green Chiles,ortega_taco_sauce_or_seasoning_or_taco_shells_or_green_chiles.jpg,,false
 Easy-Off Heavy Duty Ultra Thick Eraser,easyoff_heavy_duty_ultra_thick_eraser.jpg,,false
-Jade Leaf Matcha Latte Tea,jade_leaf_matcha_latte_tea.jpg,,false
+Jade Leaf Matcha Latte Tea,jade_leaf_matcha_latte_tea.jpg,Grocery,false
 Oxiclean Laundry Treatments,oxiclean_laundry_treatments.jpg,,false
 Partake Cookies,partake_cookies.jpg,Grocery,false
 Pastene Tomatoes,pastene_tomatoes.jpg,Grocery,false
@@ -843,7 +843,7 @@ Rummo Pasta,rummo_pasta.jpg,Grocery,false
 Yucatan Guacamole,yucatan_guacamole.jpg,Produce,false
 Bosc Pears,bosc_pears.jpg,,false
 Zack's Mighty Rolled Tortilla Chips,zacks_mighty_rolled_tortilla_chips.jpg,,false
-Seattle's Best Coffee Ground Coffee,seattles_best_coffee_ground_coffee.jpg,,false
+Seattle's Best Coffee Ground Coffee,seattles_best_coffee_ground_coffee.jpg,Grocery,false
 Clearly Canadian Sparkling Water Beverage,clearly_canadian_sparkling_water_beverage.jpg,Grocery,false
 So Good So You Organic Probiotic Juice Shot,so_good_so_you_organic_probiotic_juice_shot.jpg,Produce,false
 Olive Garden Italian Kitchen Croutons,olive_garden_italian_kitchen_croutons.jpg,Grocery,false
@@ -922,7 +922,7 @@ Tajn Hot Sauce,tajn_hot_sauce.jpg,,false
 6-Pack Landshark Island Style Lager,6pack_landshark_island_style_lager.jpg,Beer & Wine,false
 4-Pack New Holland Dragon's Milk Beer,4pack_new_holland_dragons_milk_beer.jpg,Beer & Wine,false
 Mother Organic Kombucha,mother_organic_kombucha.jpg,Produce,false
-Yo Gusto Yogurt,yo_gusto_yogurt.jpg,,false
+Yo Gusto Yogurt,yo_gusto_yogurt.jpg,Dairy,false
 1000 Stories Cabernet Sauvignon Wine,1000_stories_cabernet_sauvignon_wine.jpg,Beer & Wine,false
 Urgency Chardonnay Wine,urgency_chardonnay_wine.jpg,Beer & Wine,false
 4-Pack On The Rocks Ready-to-Drink Cocktails,4pack_on_the_rocks_readytodrink_cocktails.jpg,Liquor,false
@@ -1006,7 +1006,7 @@ Lay's Baked Chips,lays_baked_chips.jpg,,false
 Ice Breakers Ice Cubes Gum,ice_breakers_ice_cubes_gum.jpg,,false
 Gulden's Mustard,guldens_mustard.jpg,Grocery,false
 Oscar Mayer Franks,oscar_mayer_franks.jpg,Meat,false
-Nonni's Biscotti,nonnis_biscotti.jpg,,false
+Nonni's Biscotti,nonnis_biscotti.jpg,Grocery,false
 Ile de France Paris Toasts,ile_de_france_paris_toasts.jpg,Deli,false
 Setton Farms Organic Pistachios,setton_farms_organic_pistachios.jpg,Produce,false
 La Choy Chow Mein Noodles,la_choy_chow_mein_noodles.jpg,,false
@@ -1090,7 +1090,7 @@ Hefty Foam Plates or Bowls,hefty_foam_plates_or_bowls.jpg,,false
 Huggies Wipes,huggies_wipes.jpg,,false
 Keebler Family Size Cookies,keebler_family_size_cookies.jpg,Grocery,false
 McCormick Cocktail Sauce for Seafood,mccormick_cocktail_sauce_for_seafood.jpg,,false
-McCormick Gourmet Spices or Extracts,mccormick_gourmet_spices_or_extracts.jpg,,false
+McCormick Gourmet Spices or Extracts,mccormick_gourmet_spices_or_extracts.jpg,Grocery,false
 Mezzetta Pepper Rings,mezzetta_pepper_rings.jpg,,false
 Mrs. Butterworth's or Log Cabin Syrup,mrs_butterworths_or_log_cabin_syrup.jpg,Grocery,false
 Nathan's Famous Beef Franks,nathans_famous_beef_franks.jpg,,false
@@ -1232,7 +1232,7 @@ Feastables Chocolate Bar,feastables_chocolate_bar.jpg,Grocery,false
 Butterball Turkey Burgers,butterball_turkey_burgers.jpg,Frozen Food,false
 Alessi Grinders,alessi_grinders.jpg,,false
 Ellsworth Cheddar Cheese Curds,ellsworth_cheddar_cheese_curds.jpg,,false
-Mighty Sesame Co. Tahini,mighty_sesame_co_tahini.jpg,,false
+Mighty Sesame Co. Tahini,mighty_sesame_co_tahini.jpg,Grocery,false
 Marieke Honey Clover Gouda Cheese,marieke_honey_clover_gouda_cheese.jpg,,false
 Phorm Energy Drink,phorm_energy_drink.jpg,Grocery,false
 Clairol Bold & Bright Hair Color,clairol_bold_bright_hair_color.jpg,,false
@@ -1268,7 +1268,7 @@ Dunkin' Double Espresso Coffee,dunkin_double_espresso_coffee.jpg,,false
 International Delight Coffee Creamer,international_delight_coffee_creamer.jpg,Dairy,false
 Made Good Organic Granola Bars,made_good_organic_granola_bars.jpg,,false
 Eggo Waffles,eggo_waffles.jpg,Frozen Food,false
-Nabisco Chips Ahoy! Cookies,nabisco_chips_ahoy_cookies.jpg,,false
+Nabisco Chips Ahoy! Cookies,nabisco_chips_ahoy_cookies.jpg,Grocery,false
 Kellogg's Nutri-Grain Breakfast Bars,kelloggs_nutrigrain_breakfast_bars.jpg,Grocery,false
 Hatfield Bacon,hatfield_bacon.jpg,Meat,false
 Local Hive Honey Hot Sauce,local_hive_honey_hot_sauce.jpg,Grocery,false
@@ -1282,7 +1282,7 @@ Milton's Crackers,miltons_crackers.jpg,,false
 Mio Water Enhancer,mio_water_enhancer.jpg,,false
 Lovetta Dubai Chocolate Bar,lovetta_dubai_chocolate_bar.jpg,Grocery,false
 Nabisco Oreo Cakesters,nabisco_oreo_cakesters.jpg,Grocery,false
-Greenfield Smoke Uncured Ham,greenfield_smoke_uncured_ham.jpg,,false
+Greenfield Smoke Uncured Ham,greenfield_smoke_uncured_ham.jpg,Meat,false
 Snapdragon Pho Ramen Soup,snapdragon_pho_ramen_soup.jpg,Grocery,false
 Snapdragon Ramen Soup,snapdragon_ramen_soup.jpg,Grocery,false
 Jarjoy Dessert,jarjoy_dessert.jpg,,false
@@ -1352,7 +1352,7 @@ Honeycrisp Apples,honeycrisp_apples.jpg,Produce,false
 Built Sour Puff Protein Bar,built_sour_puff_protein_bar.jpg,,false
 Southern Recipe Pork Rinds,southern_recipe_pork_rinds.jpg,Deli,false
 Miami Twist Hummus,miami_twist_hummus.jpg,Deli,false
-Mentos Mints,mentos_mints.jpg,,false
+Mentos Mints,mentos_mints.jpg,Grocery,false
 Takis Tortilla Chips,takis_tortilla_chips.jpg,Grocery,false
 Organic Valley Shredded Cheese,organic_valley_shredded_cheese.jpg,,false
 Propel Electrolyte Water,propel_electrolyte_water.jpg,,false
@@ -1364,7 +1364,7 @@ Skinny Dipped Almonds,skinny_dipped_almonds.jpg,Grocery,false
 V8 Splash Beverage,v8_splash_beverage.jpg,Grocery,false
 Canine Carry Outs Dog Snacks,canine_carry_outs_dog_snacks.jpg,,false
 Allegro Marinade,allegro_marinade.jpg,,false
-Tillamook Beef Jerky,tillamook_beef_jerky.jpg,,false
+Tillamook Beef Jerky,tillamook_beef_jerky.jpg,Meat,false
 David Sunflower Seeds,david_sunflower_seeds.jpg,Produce,false
 Rienzi Organic Beans,rienzi_organic_beans.jpg,,false
 Kosmos Q BBQ Sauce,kosmos_q_bbq_sauce.jpg,,false
@@ -1387,7 +1387,7 @@ International Delight or Land O Lakes Creamer Singles,international_delight_or_l
 Mateo's Gourmet Salsa,mateos_gourmet_salsa.jpg,,false
 McCormick Grill Mates Seasoning,mccormick_grill_mates_seasoning.jpg,Grocery,false
 AMC Theatres Microwave Popcorn,amc_theatres_microwave_popcorn.jpg,Grocery,false
-Bloom Sparkling Energy Drink,bloom_sparkling_energy_drink.jpg,,false
+Bloom Sparkling Energy Drink,bloom_sparkling_energy_drink.jpg,Grocery,false
 "Pillsbury Grands! Biscuits or Rolls, Crescents, or Cinni Stix",pillsbury_grands_biscuits_or_rolls_crescents_or_cinni_stix.jpg,Dairy,false
 Cake Pops,cake_pops.jpg,,false
 Publix Omeprazole Acid Reducer,publix_omeprazole_acid_reducer.jpg,,false
@@ -1491,7 +1491,7 @@ Edy's Ice Cream,edys_ice_cream.jpg,Frozen Food,false
 Pepperidge Farm Farmhouse Bread,pepperidge_farm_farmhouse_bread.jpg,Grocery,false
 Harry's Men's Products,harrys_mens_products.jpg,,false
 Glad Flex'N Seal Zipper Bags,glad_flexn_seal_zipper_bags.jpg,Non-Foods,false
-Publix Charcoal Briquets,publix_charcoal_briquets.jpg,,false
+Publix Charcoal Briquets,publix_charcoal_briquets.jpg,Non-Foods,false
 Scrubbing Bubbles Toilet Cleaning Gel,scrubbing_bubbles_toilet_cleaning_gel.jpg,,false
 Sharpie S-Gel Pens,sharpie_sgel_pens.jpg,,false
 Happy Tot or Happy Baby Baby Food,happy_tot_or_happy_baby_baby_food.jpg,Baby,false
@@ -2540,3 +2540,71 @@ El Cortijo Iberico Cheese Wedge,el_cortijo_iberico_cheese_wedge.jpg,Deli,false
 Heaven & Earth Falafel Balls,heaven_earth_falafel_balls.jpg,Frozen Food,false
 Flora Italian Cookies,flora_italian_cookies.svg,Grocery,false
 Mambo Tequenos,mambo_tequenos.jpg,Frozen Food,false
+Hostess Pastries,hostess_pastries.jpg,Grocery,false
+Reese's Peanut Butter Cups Snack Size Treats,reeses_peanut_butter_cups_snack_size_treats.jpg,Grocery,false
+Tru Fru Chocolate Covered Frozen Fruit,tru_fru_chocolate_covered_frozen_fruit.jpg,Frozen Food,false
+Bibigo Mini Wontons,bibigo_mini_wontons.jpg,Frozen Food,false
+Shamrock Farms Protein Shake,shamrock_farms_protein_shake.jpg,Dairy,false
+Ghirardelli Premium Cookie Dough,ghirardelli_premium_cookie_dough.jpg,Dairy,false
+Lysol Multi-Surface Cleaner,lysol_multisurface_cleaner.jpg,Non-Foods,false
+Paper Chef Parchment Paper,paper_chef_parchment_paper.jpg,Non-Foods,false
+Cesar Canine Cuisine Dog Food,cesar_canine_cuisine_dog_food.jpg,Pet,false
+Iams Proactive Cat Food,iams_proactive_cat_food.jpg,Pet,false
+Rubbermaid Food Storage Containers,rubbermaid_food_storage_containers.jpg,Housewares,false
+Publix Alkaline Long-Lasting Battery,publix_alkaline_longlasting_battery.jpg,Non-Foods,false
+Bonkers Purr Pops Cat Treats,bonkers_purr_pops_cat_treats.jpg,Pet,false
+Dumpling Daughter Secret Sauce,dumpling_daughter_secret_sauce.jpg,Grocery,false
+King's Hawaiian Cinnamon Bites,kings_hawaiian_cinnamon_bites.jpg,Deli,false
+Nature's Bakery Fig Bar,natures_bakery_fig_bar.jpg,Protein,false
+Pumpkin Cheesecake Bites,pumpkin_cheesecake_bites.jpg,Bakery,false
+Sapjack Organic Maple Syrup,sapjack_organic_maple_syrup.jpg,Grocery,false
+Cue Candle,cue_candle.jpg,Non-Foods,false
+Pacific Foods Organic Broth,pacific_foods_organic_broth.jpg,Grocery,false
+McIntosh Apples,mcintosh_apples.jpg,Produce,false
+Martin's Sweet Dinner Potato Rolls,martins_sweet_dinner_potato_rolls.jpg,Grocery,false
+Publix Crumbled Danish Blue Cheese,publix_crumbled_danish_blue_cheese.jpg,Deli,false
+Greenfield Protein Kit,greenfield_protein_kit.jpg,Meat,false
+Sartori Montamore Cheese,sartori_montamore_cheese.jpg,Deli,false
+Maeve Truffle Bar,maeve_truffle_bar.jpg,Grocery,false
+Mineragua Sparkling Mineral Water,mineragua_sparkling_mineral_water.jpg,Grocery,false
+Zatarain's Seasoning,zatarains_seasoning.jpg,Grocery,false
+Kellogg's Honey Smacks Cereal,kelloggs_honey_smacks_cereal.jpg,Grocery,false
+King's Hawaiian Ube Coconut Rolls,kings_hawaiian_ube_coconut_rolls.jpg,Deli,false
+Kellogg's Raisin Bran Protein Cereal,kelloggs_raisin_bran_protein_cereal.jpg,Grocery,false
+Kellogg's Cocoa Loops Cereal,kelloggs_cocoa_loops_cereal.jpg,Grocery,false
+Mifroma Swiss Raclette Slices,mifroma_swiss_raclette_slices.jpg,Deli,false
+Belgioioso Marinated Fresh Mozzarella,belgioioso_marinated_fresh_mozzarella.jpg,Deli,false
+"Carbe Diem! Pasta, 55% Less Net Carbs",carbe_diem_pasta_55_less_net_carbs.jpg,Protein,false
+Charleston Mixers,charleston_mixers.jpg,Liquor,false
+Creminelli Prosciutto,creminelli_prosciutto.jpg,Deli,false
+Deer Park or Pure Life Water,deer_park_or_pure_life_water.jpg,Grocery,false
+Evol. Entrees,evol_entrees.jpg,Frozen Food,false
+Feel Good Foods Gluten Free Pancake Balls,feel_good_foods_gluten_free_pancake_balls.jpg,Frozen Food,false
+Glaceau Smartwater Vapor Distilled Water + Electrolytes,glaceau_smartwater_vapor_distilled_water_electrolytes.jpg,Grocery,false
+Hatfield Pork Loin Filet,hatfield_pork_loin_filet.jpg,Meat,false
+Hot Pockets High Protein Stuffed Sandwiches,hot_pockets_high_protein_stuffed_sandwiches.jpg,Frozen Food,false
+Lawry's Seasoning,lawrys_seasoning.jpg,Grocery,false
+Magnum Ice Cream Bars or Ben & Jerry's Ice Cream,magnum_ice_cream_bars_or_ben_jerrys_ice_cream.jpg,Frozen Food,false
+Mambo Sofrito Blend,mambo_sofrito_blend.jpg,Frozen Food,false
+McCain French Fried Potatoes,mccain_french_fried_potatoes.jpg,Frozen Food,false
+"Milk-Bone Dog Snacks, Treats, or Chews",milkbone_dog_snacks_treats_or_chews.jpg,Pet,false
+Everyday Dose Coffee+,everyday_dose_coffee.jpg,Grocery,false
+Antonella's Cuban Crackers,antonellas_cuban_crackers.jpg,Grocery,false
+Dapple Baby Bottle & Dish Soap or Spray,dapple_baby_bottle_dish_soap_or_spray.jpg,Baby,false
+Brancott Estate Wine,brancott_estate_wine.jpg,Beer & Wine,false
+Scrub Free Bathroom Cleaner,scrub_free_bathroom_cleaner.jpg,Non-Foods,false
+Pillsbury Crescent Dinner Rolls or Cinnamon Rolls or Grands! Biscuits,pillsbury_crescent_dinner_rolls_or_cinnamon_rolls_or_grands_biscuits.jpg,Dairy,false
+Primal Kitchen Mayo 12-oz or Salad Dressing 8-oz,primal_kitchen_mayo_12oz_or_salad_dressing_8oz.jpg,Grocery,false
+Rico's Fried Pork Rinds,ricos_fried_pork_rinds.jpg,Grocery,false
+Solely Organic Fruit Gummies,solely_organic_fruit_gummies.jpg,Grocery,false
+Tyson Uncooked Crispy Chicken Nuggets,tyson_uncooked_crispy_chicken_nuggets.jpg,Frozen Food,false
+Vidamigos Tequila,vidamigos_tequila.jpg,Liquor,false
+Honeywell Air Filter,honeywell_air_filter.svg,Housewares,false
+Jade Leaf Matcha Concentrate,jade_leaf_matcha_concentrate.svg,Grocery,false
+Eat Fresco Entrees,eat_fresco_entrees.jpg,Deli,false
+Olipop Prebiotic Soda,olipop_prebiotic_soda.jpg,Protein,false
+Stacy's Organic Pita Chips,stacys_organic_pita_chips.jpg,Deli,false
+10-Pack Coca-Cola Soft Drink Products,10pack_cocacola_soft_drink_products.jpg,Grocery,false
+Tillamook Zero Sugar Smoked Sausage,tillamook_zero_sugar_smoked_sausage.jpg,Meat,false
+Once Upon A Farm Organic Soft Baked Bar,once_upon_a_farm_organic_soft_baked_bar.jpg,Grocery,false
+No.7 Skincare Products,no7_skincare_products.jpg,Beauty & Personal Care,false
