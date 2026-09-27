@@ -8,8 +8,8 @@ The full picture of how the three repos fit together is in `PROJECT_OVERVIEW.md`
 
 - **This repo is public.** Never commit personal data (emails, user IDs, anything from Firestore), keys, or tokens.
 - **Anything pushed to `main` is live on the site immediately.** There's no build step or staging. Renaming a folder, file, or column breaks the site and the email job. Those contracts are documented in `publix-bogo-tracker/CLAUDE.md`, so change them there and in the code in the same effort.
-- **Most files are generated.** They're written by the scripts in `Galigos162/publix-api-scrape-python` (`version2/`), which run on Denis's machine against this repo's local clone and are pushed as "Weekly BOGO update YYYY-MM-DD" commits (usually twice a day, Tue–Thu). Hand edits to generated files get overwritten by the next run; fix the script or the source file instead.
-- **The pipeline writes into the local clone and pushes `main`.** On the machine that runs it, keep that clone on `main` with no uncommitted work. For doc or other changes there, use a separate `git worktree` or clone.
+- **Most files are generated.** They're written by the scripts in `Galigos162/publix-api-scrape-python` (`version2/`), which run on the Dev Server (an older dedicated Windows 10 machine) against its clone of this repo and are pushed as "Weekly BOGO update YYYY-MM-DD" commits (usually twice a day, Tue–Thu). Hand edits to generated files get overwritten by the next run; fix the script or the source file instead.
+- **The pipeline writes into the Dev Server's clone and pushes `main`.** Keep that clone on `main` with no uncommitted work, and make doc or other changes from another clone (e.g. Denis's PC). Other clones only see new data after a `git pull`.
 
 ## Files
 
