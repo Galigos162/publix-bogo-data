@@ -1405,7 +1405,7 @@ Urgency Cabernet Sauvignon Wine,urgency_cabernet_sauvignon_wine.jpg,Beer & Wine,
 ALB Vodka,alb_vodka.jpg,Liquor,false
 Puncher's Chance Kentucky Straight Bourbon,punchers_chance_kentucky_straight_bourbon.jpg,Liquor,false
 Toschi Amarena Black Cherries,toschi_amarena_black_cherries.jpg,,false
-6-Pack Hyper Malt Non-Alcoholic Malt Drink,6pack_hyper_malt_nonalcoholic_malt_drink.jpg,,false
+6-Pack Hyper Malt Non-Alcoholic Malt Drink,6pack_hyper_malt_nonalcoholic_malt_drink.jpg,Grocery,false
 Flora Organic Pasta,flora_organic_pasta.jpg,Grocery,false
 Libby's Nectar,libbys_nectar.jpg,Grocery,false
 6-Pack Coca-Cola Soft Drink Products,6pack_cocacola_soft_drink_products.jpg,Grocery,false
@@ -2693,3 +2693,6 @@ Pantalones Organic Blanco Tequila,pantalones_organic_blanco_tequila.jpg,Liquor,f
 8-Pack Svedka Vodka Water,8pack_svedka_vodka_water.jpg,Liquor,false
 Acme Smoked Whitefish Spread,acme_smoked_whitefish_spread.jpg,Deli,false
 Juanita's Menudo,juanitas_menudo.jpg,Grocery,false
+Nabisco Oreo Chocolate Sandwich Cookies,nabisco_oreo_chocolate_sandwich_cookies.jpg,Grocery,false
+Nabisco Oreo Sandwich Chocolate Cookies,nabisco_oreo_sandwich_chocolate_cookies.jpg,Grocery,false
+Pirucream Rolled Wafer,pirucream_rolled_wafer.svg,Grocery,false
