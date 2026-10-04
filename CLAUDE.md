@@ -19,7 +19,7 @@ The full picture of how the three repos fit together is in `PROJECT_OVERVIEW.md`
 | `all-items/all_items.csv` (master item list) | `name,imgSrc,category,isSelected` | `check-new-bogo-items-v2.py` appends new items and fills blank categories; hand edits are OK | site, scraper scripts |
 | `images/` | — | `check-new-bogo-items-v2.py` downloads images for new items | site, email job (via `imgSrc`) |
 | `cutover-days/store_cutover_days.csv` | `storenumber,cutoverDay,validFrom,validTo` | `csv-formatting-v2.py` | site, email job |
-| `store-locations/zip_code_main_table.csv` | `zipcode,storenumber,name,address,city,state,shortname` | `version3/publix-location-api-scrape.py`, rolling runs that update it in place (only the zips each run checks; a guard stops large drops). Rows within a zip are nearest store first | site, email job, `publix-savings-api-scrape.py` (new stores) |
+| `store-locations/zip_code_main_table.csv` | `zipcode,storenumber,name,address,city,state,shortname` | `version3/publix-location-api-scrape.py`, rolling runs that update it in place (only the zips each run checks; a guard stops large drops). Rows within a zip are nearest store first | site, email job, `publix-savings-api-scrape-v3.py` (new stores) |
 | `name-aliases/name_aliases.csv` | `canonical,variant` | Edited by hand after reviewing `find_duplicate_candidates.py` output | scraper scripts |
 
 Format details that trip people up:
