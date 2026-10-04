@@ -15580,8 +15580,8 @@ zipcode,storenumber,name,address,city,state,shortname
 27208,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
 27208,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
 27208,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
-27208,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 27208,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27208,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 27208,2101,Rockfish Village,7483 Rockfish Rd,Fayetteville,NC,Rockfish Village
 27208,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
 27208,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
@@ -15600,8 +15600,8 @@ zipcode,storenumber,name,address,city,state,shortname
 27209,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
 27209,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 27209,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
-27209,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 27209,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
+27209,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
 27212,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
 27212,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 27212,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
@@ -15672,11 +15672,11 @@ zipcode,storenumber,name,address,city,state,shortname
 27229,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 27229,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 27229,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
-27229,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 27229,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 27229,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 27229,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 27229,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
+27229,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
 27231,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 27231,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
 27231,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
@@ -15790,8 +15790,8 @@ zipcode,storenumber,name,address,city,state,shortname
 27248,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 27248,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
 27248,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
-27248,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
 27248,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27248,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
 27248,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
 27248,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
 27248,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
@@ -15821,9 +15821,9 @@ zipcode,storenumber,name,address,city,state,shortname
 27252,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
 27252,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
 27252,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27252,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 27252,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 27252,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
-27252,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 27252,2101,Rockfish Village,7483 Rockfish Rd,Fayetteville,NC,Rockfish Village
 27252,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 27252,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
@@ -15898,8 +15898,8 @@ zipcode,storenumber,name,address,city,state,shortname
 27263,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 27263,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 27263,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
-27263,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
 27263,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27263,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
 27263,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 27263,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
 27265,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
@@ -15946,7 +15946,7 @@ zipcode,storenumber,name,address,city,state,shortname
 27281,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
 27281,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
 27281,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
-27281,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
+27281,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 27282,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 27282,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 27282,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
@@ -16133,7 +16133,6 @@ zipcode,storenumber,name,address,city,state,shortname
 27306,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 27306,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 27306,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
-27306,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 27306,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 27306,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 27306,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
@@ -16142,6 +16141,7 @@ zipcode,storenumber,name,address,city,state,shortname
 27306,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 27306,2017,Publix At Quail Commons,11525 Carmel Commons Blvd,Charlotte,NC,Quail Commons
 27306,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
+27306,1442,Ballantyne Town Center,11222 Providence Rd W,Charlotte,NC,Ballantyne Twn Ctr
 27310,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 27310,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 27310,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
@@ -16254,8 +16254,8 @@ zipcode,storenumber,name,address,city,state,shortname
 27317,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 27317,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 27317,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
-27317,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
 27317,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27317,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
 27317,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
 27317,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
 27317,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
@@ -17618,8 +17618,8 @@ zipcode,storenumber,name,address,city,state,shortname
 27589,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
 27589,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
 27589,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
-27589,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 27589,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27589,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 27589,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
 27589,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
 27589,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
@@ -18521,9 +18521,9 @@ zipcode,storenumber,name,address,city,state,shortname
 27842,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 27842,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
 27842,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
-27842,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 27842,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
 27842,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27842,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 27842,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
 27842,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27842,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
@@ -19750,10 +19750,10 @@ zipcode,storenumber,name,address,city,state,shortname
 28001,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28001,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28001,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
-28001,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28001,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28001,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28001,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
+28001,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
 28006,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28006,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28006,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
@@ -19773,7 +19773,6 @@ zipcode,storenumber,name,address,city,state,shortname
 28007,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28007,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28007,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
-28007,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28007,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28007,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28007,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
@@ -19784,6 +19783,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28007,1412,Cross Creek,8360 Charlotte Hwy,Indian Land,SC,Cross Creek
 28007,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28007,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
+28007,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28009,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28009,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28009,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
@@ -19798,7 +19798,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28009,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 28009,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28009,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
-28009,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
+28009,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28012,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28012,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28012,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
