@@ -1,215 +1,218 @@
 name,imgSrc,categories,dealType,digitalCoupon,isSelected
-McCormick Gourmet Spices or Extracts,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mccormick_gourmet_spices_or_extracts.jpg,Grocery,BOGO,,false
-Nature's Own Butterbread,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/natures_own_butterbread.jpg,Grocery,BOGO,,false
-Bertolli Sauce,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bertolli_sauce.jpg,Grocery,BOGO,,false
-Thomas' Bagels,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/thomas_bagels.jpg,Grocery,BOGO,,false
-Donut Shop K-Cup Coffee,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/donut_shop_kcup_coffee.jpg,Grocery,BOGO,,false
-New England Coffee: Ground or Pods,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/new_england_coffee_ground_or_pods.jpg,Grocery,BOGO,,false
-General Mills Cereal-All,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/general_mills_cerealall.jpg,Grocery,BOGO,Save $1.00 with digital coupon,false
+Progresso Broth,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/progresso_broth.jpg,Grocery,BOGO,Save $1.00 with digital coupon,false
+Betty Crocker Fruit Snacks,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/betty_crocker_fruit_snacks.jpg,Grocery,BOGO,,false
+"Dave's Killer Bread Organic Bagels, Breakfast Bread, or English Muffins",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/daves_killer_bread_organic_bagels_breakfast_bread_or_english_muffins.jpg,Grocery,BOGO,,false
+Betty Crocker Cookie Mix,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/betty_crocker_cookie_mix.jpg,Grocery,BOGO,,false
+Kraft Macaroni & Cheese,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kraft_macaroni_cheese.jpg,Grocery,BOGO,,false
 Bertolli Olive Oil,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bertolli_olive_oil.jpg,Grocery,BOGO,,false
-Hostess Pastries,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hostess_pastries.jpg,Grocery,BOGO,,false
-Waterloo Sparkling Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/waterloo_sparkling_water.jpg,Grocery,BOGO,,false
-Nabisco Oreo Cookies,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/nabisco_oreo_cookies.jpg,Grocery,BOGO,,false
-G.H. Cretors Popcorn,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/gh_cretors_popcorn.jpg,Grocery,BOGO,,false
-Reese's Peanut Butter Cups Snack Size Treats,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/reeses_peanut_butter_cups_snack_size_treats.jpg,Grocery,BOGO,,false
-6-Pack Pepsi Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/6pack_pepsi_products.jpg,Grocery,BOGO,,false
-Starbucks Coffee Creamer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/starbucks_coffee_creamer.jpg,Dairy,BOGO,,false
-Ghirardelli Premium Cookie Dough,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ghirardelli_premium_cookie_dough.jpg,Dairy,BOGO,,false
-Home Run Inn Pizza,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/home_run_inn_pizza.jpg,Frozen Food,BOGO,,false
-Shamrock Farms Protein Shake,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/shamrock_farms_protein_shake.jpg,Protein|Dairy,BOGO,,false
-I Can't Believe It's Not Butter! Spread,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/i_cant_believe_its_not_butter_spread.jpg,Dairy,BOGO,Save $1.00 with digital coupon,false
-Birds Eye Voila! Skillet Meals,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/birds_eye_voila_skillet_meals.jpg,Frozen Food,BOGO,,false
-Talenti Gelato,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/talenti_gelato.jpg,Frozen Food,BOGO,,false
-Bibigo Mini Wontons,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bibigo_mini_wontons.jpg,Protein|Frozen Food,BOGO,,false
-Tru Fru Chocolate Covered Frozen Fruit,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tru_fru_chocolate_covered_frozen_fruit.jpg,Frozen Food,BOGO,,false
-Nature's Bounty Dietary Supplements,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/natures_bounty_dietary_supplements.jpg,Health & Nutrition,BOGO,,false
-Purex Laundry Detergent,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/purex_laundry_detergent.jpg,Non-Foods,BOGO,,false
-Tide or Gain Laundry Detergent,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tide_or_gain_laundry_detergent.jpg,Non-Foods,BOGO,,false
-Lysol Multi-Surface Cleaner,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/lysol_multisurface_cleaner.jpg,Non-Foods,BOGO,,false
-Paper Chef Parchment Paper,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/paper_chef_parchment_paper.jpg,Non-Foods,BOGO,,false
-Publix Charcoal Briquets,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_charcoal_briquets.jpg,Non-Foods,BOGO,,false
-Palmolive Ultra Dish Liquid,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/palmolive_ultra_dish_liquid.jpg,Non-Foods,BOGO,Save $1.00 with digital coupon,false
-Rubbermaid Food Storage Containers,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/rubbermaid_food_storage_containers.jpg,Housewares,BOGO,,false
-Iams Proactive Cat Food,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/iams_proactive_cat_food.jpg,Pet,BOGO,,false
-Publix Alkaline Long-Lasting Battery,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_alkaline_longlasting_battery.jpg,Non-Foods,BOGO,,false
-Purina Tidy Cats Litter,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/purina_tidy_cats_litter.jpg,Pet,BOGO,,false
-Huggies Diapers,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/huggies_diapers.jpg,Baby,BOGO,,false
-Earth's Best Organic Baby Food,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/earths_best_organic_baby_food.jpg,Baby,BOGO,,false
-Cesar Canine Cuisine Dog Food,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cesar_canine_cuisine_dog_food.jpg,Pet,BOGO,,false
-Publix Alkaline Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_alkaline_water.jpg,Grocery,BOGO,,false
-Ole Xtreme Wellness! Tortilla Wraps,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ole_xtreme_wellness_tortilla_wraps.jpg,Protein|Grocery,BOGO,,false
-Wise Potato Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/wise_potato_chips.jpg,Grocery,BOGO,,false
-Cue Candle,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cue_candle.jpg,Non-Foods,BOGO,,false
-King's Hawaiian Cinnamon Bites,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kings_hawaiian_cinnamon_bites.jpg,Deli,BOGO,,false
-Pam Cooking Spray,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pam_cooking_spray.jpg,Grocery,BOGO,,false
-Pacific Foods Organic Broth,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pacific_foods_organic_broth.jpg,Grocery,BOGO,,false
-Juicy Juice 100% Juice,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/juicy_juice_100_juice.jpg,Grocery,BOGO,,false
-"Chex Mix, Gardetto's, or Bugles Snacks",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/chex_mix_gardettos_or_bugles_snacks.jpg,Grocery,BOGO,Save $0.75 with digital coupon,false
-Pumpkin Cheesecake Bites,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pumpkin_cheesecake_bites.jpg,Bakery,BOGO,,false
-Bai Antioxidant Beverage,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bai_antioxidant_beverage.jpg,Grocery,BOGO,,false
-Dumpling Daughter Secret Sauce,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/dumpling_daughter_secret_sauce.jpg,Grocery,BOGO,,false
-Betty Crocker Fruit Snacks,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/betty_crocker_fruit_snacks.jpg,Grocery,BOGO,Save $0.50 with digital coupon,false
-Sapjack Organic Maple Syrup,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/sapjack_organic_maple_syrup.jpg,Grocery,BOGO,,false
-Nature's Bakery Fig Bar,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/natures_bakery_fig_bar.jpg,Protein|Grocery,BOGO,,false
-Ortega Taco Shells,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ortega_taco_shells.jpg,Grocery,BOGO,,false
-Pompeian Imported Olive Oil,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pompeian_imported_olive_oil.jpg,Grocery,BOGO,,false
-Sargento Shareables Cheese Snacks,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/sargento_shareables_cheese_snacks.jpg,Dairy,BOGO,,false
-Nabisco Chips Ahoy! Cookies,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/nabisco_chips_ahoy_cookies.jpg,Grocery,BOGO,,false
-Quaker Chewy Granola Bars,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/quaker_chewy_granola_bars.jpg,Grocery,BOGO,,false
-Cedar's Organic Hommus,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cedars_organic_hommus.jpg,Deli,BOGO,,false
-SMT Tomatoes,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/smt_tomatoes.jpg,Grocery,BOGO,,false
-Nature Valley Granola Bars or Wafer Bars or Biscuits,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/nature_valley_granola_bars_or_wafer_bars_or_biscuits.jpg,Grocery,BOGO,Save $0.50 with digital coupon,false
-Blue Diamond Almonds,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/blue_diamond_almonds.jpg,Grocery,BOGO,,false
-Lay's Stax Potato Crisps,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/lays_stax_potato_crisps.jpg,Grocery,BOGO,,false
-Glaceau Vitaminwater,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/glaceau_vitaminwater.jpg,Grocery,BOGO,,false
-Mini Cupcakes,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mini_cupcakes.jpg,Bakery,BOGO,,false
-Like Air Drizzled Rice Cakes,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/like_air_drizzled_rice_cakes.jpg,Deli,BOGO,,false
-McIntosh Apples,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mcintosh_apples.jpg,Produce,BOGO,,false
-So Good So You Organic Probiotic Juice Shot,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/so_good_so_you_organic_probiotic_juice_shot.jpg,Produce,BOGO,,false
-Fresh Attitude Salads,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/fresh_attitude_salads.jpg,Produce,BOGO,,false
-Tomato Medley,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tomato_medley.jpg,Produce,BOGO,,false
-Key West Sunset Bouquet,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/key_west_sunset_bouquet.jpg,Floral,BOGO,,false
-Tropicana Pure Premium 100% Orange Juice,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tropicana_pure_premium_100_orange_juice.jpg,Produce,BOGO,,false
-Snack Factory Pretzel Crisps,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/snack_factory_pretzel_crisps.jpg,Deli,BOGO,,false
-Emmi Le Gruyere Cheese,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/emmi_le_gruyere_cheese.jpg,Deli,BOGO,,false
-Joseph's Pita Bread,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/josephs_pita_bread.jpg,Deli,BOGO,,false
-Mission Flour Tortillas,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mission_flour_tortillas.jpg,Grocery,BOGO,,false
-Zephyrhills Spring Water or Pure Life Purified Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/zephyrhills_spring_water_or_pure_life_purified_water.jpg,Grocery,BOGO,,false
-Dragon Fruit,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/dragon_fruit.jpg,Produce,BOGO,,false
-Mentos Mints,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mentos_mints.jpg,Grocery,BOGO,,false
-Kellogg's Cereal-All,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kelloggs_cerealall.jpg,Grocery,BOGO,,false
-Entenmann's Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/entenmanns_products.jpg,Grocery,BOGO,,false
-Lemon Perfect Hydrating Lemon Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/lemon_perfect_hydrating_lemon_water.jpg,Grocery,BOGO,,false
-Oscar Mayer Franks,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/oscar_mayer_franks.jpg,Meat,BOGO,,false
-Bolthouse Farms 100% Juice Smoothie,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bolthouse_farms_100_juice_smoothie.jpg,Produce,BOGO,,false
-Martin's Sweet Dinner Potato Rolls,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/martins_sweet_dinner_potato_rolls.jpg,Grocery,BOGO,,false
-Hillshire Farm Lunch Meats,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hillshire_farm_lunch_meats.jpg,Meat,BOGO,,false
-Zico Pure Organic Coconut Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/zico_pure_organic_coconut_water.jpg,Produce,BOGO,,false
-Famous Amos Cookies,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/famous_amos_cookies.jpg,Grocery,BOGO,,false
-Suja Organic Juice Drink,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/suja_organic_juice_drink.jpg,Produce,BOGO,,false
-Bare Baked Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bare_baked_chips.jpg,Produce,BOGO,,false
-Jelly Belly Jelly Beans,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/jelly_belly_jelly_beans.jpg,Grocery,BOGO,,false
-Philly Gourmet Sandwich Steaks,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/philly_gourmet_sandwich_steaks.jpg,Meat,BOGO,,false
-8-Pack 7UP Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/8pack_7up_products.jpg,Grocery,BOGO,,false
-Hippeas Organic Chickpea Puffs,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hippeas_organic_chickpea_puffs.jpg,Grocery,BOGO,,false
-Lindy's Homemade Italian Ice,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/lindys_homemade_italian_ice.jpg,Frozen Food,BOGO,,false
-Banquet Brown'N Serve Sausage Links,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/banquet_brownn_serve_sausage_links.jpg,Meat,BOGO,,false
-6-Pack 7UP Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/6pack_7up_products.jpg,Grocery,BOGO,,false
-Impossible Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/impossible_products.jpg,Meat,BOGO,,false
-12-Pack Zevia Zero Sugar Soda,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/12pack_zevia_zero_sugar_soda.jpg,Grocery,BOGO,,false
-Greenfield Smoke Uncured Ham,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/greenfield_smoke_uncured_ham.jpg,Meat,BOGO,,false
-Uncle John's Pride Smoked Sausage,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/uncle_johns_pride_smoked_sausage.jpg,Meat,BOGO,,false
-Mama Mancini's Chicken Panini,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mama_mancinis_chicken_panini.jpg,Deli,BOGO,,false
-Tillamook Beef Jerky,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tillamook_beef_jerky.jpg,Meat,BOGO,,false
-Publix Crumbled Danish Blue Cheese,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_crumbled_danish_blue_cheese.jpg,Deli,BOGO,,false
-Nature's Premium Fruit Bites,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/natures_premium_fruit_bites.jpg,Frozen Food,BOGO,,false
-Fatty Smoked Meat Sticks,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/fatty_smoked_meat_sticks.jpg,Meat,BOGO,,false
-Banquet Sausage Links,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/banquet_sausage_links.jpg,Meat,BOGO,,false
-General Electric Light Bulbs,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/general_electric_light_bulbs.jpg,Housewares,BOGO,,false
-Greenfield Protein Kit,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/greenfield_protein_kit.jpg,Meat,BOGO,,false
-Jade Leaf Matcha Latte Tea,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/jade_leaf_matcha_latte_tea.jpg,Grocery,BOGO,,false
-Sartori Montamore Cheese,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/sartori_montamore_cheese.jpg,Deli,BOGO,,false
-La Colombe Coffee,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/la_colombe_coffee.jpg,Grocery,BOGO,,false
-Seattle's Best Coffee Ground Coffee,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/seattles_best_coffee_ground_coffee.jpg,Grocery,BOGO,,false
-Libby's Nectar,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/libbys_nectar.jpg,Grocery,BOGO,,false
-Maeve Truffle Bar,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/maeve_truffle_bar.jpg,Grocery,BOGO,,false
-Casa Flores Salchichon,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/casa_flores_salchichon.jpg,Deli,BOGO,,false
-Tillamook Zero Sugar Smoked Sausage,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tillamook_zero_sugar_smoked_sausage.jpg,Meat,BOGO,,false
-Frutero Ice Cream,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/frutero_ice_cream.jpg,Frozen Food,BOGO,,false
-Kellogg's Honey Smacks Cereal,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kelloggs_honey_smacks_cereal.jpg,Grocery,BOGO,,false
-King's Hawaiian Ube Coconut Rolls,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kings_hawaiian_ube_coconut_rolls.jpg,Deli,BOGO,,false
-Quaker Instant Oatmeal or Instant Grits,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/quaker_instant_oatmeal_or_instant_grits.jpg,Grocery,BOGO,,false
-Mighty Sesame Co. Tahini,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mighty_sesame_co_tahini.jpg,Grocery,BOGO,,false
-Kellogg's Raisin Bran Protein Cereal,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kelloggs_raisin_bran_protein_cereal.jpg,Grocery,BOGO,,false
-Kellogg's Cocoa Loops Cereal,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kelloggs_cocoa_loops_cereal.jpg,Grocery,BOGO,,false
-Mifroma Swiss Raclette Slices,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mifroma_swiss_raclette_slices.jpg,Deli,BOGO,,false
-Once Upon A Farm Organic Soft Baked Bar,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/once_upon_a_farm_organic_soft_baked_bar.jpg,Grocery,BOGO,,false
-La Chona Panela Cheese,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/la_chona_panela_cheese.jpg,Dairy,BOGO,,false
-Annie Chun's Noodle Bowl,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/annie_chuns_noodle_bowl.jpg,Protein|Grocery,BOGO,,false
-Belgioioso Marinated Fresh Mozzarella,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/belgioioso_marinated_fresh_mozzarella.jpg,Deli,BOGO,,false
-Borden Cheese Singles,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/borden_cheese_singles.jpg,Dairy,BOGO,,false
-Campbell's Soup,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/campbells_soup.jpg,Grocery,BOGO,,false
-"Carbe Diem! Pasta, 55% Less Net Carbs",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/carbe_diem_pasta_55_less_net_carbs.jpg,Protein|Grocery,BOGO,,false
-Cheez-It Baked Snack Crackers,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cheezit_baked_snack_crackers.jpg,Grocery,BOGO,,false
-Clearly Canadian Sparkling Water Beverage,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/clearly_canadian_sparkling_water_beverage.jpg,Grocery,BOGO,,false
-College Inn Broth,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/college_inn_broth.jpg,Grocery,BOGO,,false
-Creminelli Prosciutto,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/creminelli_prosciutto.jpg,Protein|Deli,BOGO,,false
-Crofter's Organic Fruit Spread,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/crofters_organic_fruit_spread.jpg,Grocery,BOGO,,false
-Cutter Insect Repellent Spray,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cutter_insect_repellent_spray.jpg,Non-Foods,BOGO,,false
-Deer Park or Pure Life Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/deer_park_or_pure_life_water.jpg,Grocery,BOGO,,false
-Ensure Max Protein Nutrition Shake,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ensure_max_protein_nutrition_shake.jpg,Protein|Health & Nutrition,BOGO,,false
-Evol. Entrees,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/evol_entrees.jpg,Protein|Frozen Food,BOGO,,false
-Fancy Feast Gems Cat Food,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/fancy_feast_gems_cat_food.jpg,Pet,BOGO,Save $1.00 with digital coupon,false
-Feel Good Foods Gluten Free Pancake Balls,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/feel_good_foods_gluten_free_pancake_balls.jpg,Frozen Food,BOGO,,false
-Folgers Ground Coffee,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/folgers_ground_coffee.jpg,Grocery,BOGO,,false
-Friskies Cat Food,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/friskies_cat_food.jpg,Pet,BOGO,,false
-Glaceau Smartwater Vapor Distilled Water + Electrolytes,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/glaceau_smartwater_vapor_distilled_water_electrolytes.jpg,Grocery,BOGO,,false
-6-Pack Golden Road Brewing Beer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/6pack_golden_road_brewing_beer.jpg,Beer & Wine,BOGO,,false
-Green Giant Frozen Vegetables,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/green_giant_frozen_vegetables.jpg,Frozen Food,BOGO,,false
-Hatfield Pork Loin Filet,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hatfield_pork_loin_filet.jpg,Protein|Meat,BOGO,,false
-Hellmann's Mayonnaise,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hellmanns_mayonnaise.jpg,Grocery,BOGO,,false
-Hidden Valley Dressing,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hidden_valley_dressing.jpg,Grocery,BOGO,,false
-Hormel Natural Choice Lunch Meats,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hormel_natural_choice_lunch_meats.jpg,Protein|Meat,BOGO,,false
-Hormel Black Label Bacon,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hormel_black_label_bacon.jpg,Meat,BOGO,,false
-Hot Pockets High Protein Stuffed Sandwiches,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hot_pockets_high_protein_stuffed_sandwiches.jpg,Frozen Food,BOGO,,false
-Kentucky Legend Smoked Ham,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kentucky_legend_smoked_ham.jpg,Protein|Meat,BOGO,,false
-King Stag Cabernet Sauvignon Wine,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/king_stag_cabernet_sauvignon_wine.jpg,Beer & Wine,BOGO,,false
-Kozy Shack Pudding,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kozy_shack_pudding.jpg,Dairy,BOGO,,false
-Lawry's Seasoning,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/lawrys_seasoning.jpg,Grocery,BOGO,,false
-Magnum Ice Cream Bars,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/magnum_ice_cream_bars.jpg,Frozen Food,BOGO,,false
+General Mills Cereal-All,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/general_mills_cerealall.jpg,Grocery,BOGO,Save $1.00 with digital coupon,false
+Prego Italian Sauce,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/prego_italian_sauce.jpg,Grocery,BOGO,,false
+Wish-Bone Dressing,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/wishbone_dressing.jpg,Grocery,BOGO,,false
+Lay's Potato Chips or Poppables Snacks,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/lays_potato_chips_or_poppables_snacks.jpg,Grocery,BOGO,,false
+Snyder's of Hanover Pretzels,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/snyders_of_hanover_pretzels.jpg,Grocery,BOGO,,false
+Turtles Bites Candies,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/turtles_bites_candies.jpg,Grocery,BOGO,,false
+Nabisco Handi-Snacks,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/nabisco_handisnacks.jpg,Grocery,BOGO,,false
+Planters Nuts,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/planters_nuts.jpg,Grocery,BOGO,,false
+Bodyarmor Flash I.V. Sports Drink,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bodyarmor_flash_iv_sports_drink.jpg,Grocery,BOGO,,false
+Sparkling Ice Flavored Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/sparkling_ice_flavored_water.jpg,Grocery,BOGO,,false
+Edy's Ice Cream,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/edys_ice_cream.jpg,Frozen Food,BOGO,,false
 Ben & Jerry's Ice Cream,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ben_jerrys_ice_cream.jpg,Frozen Food,BOGO,,false
-Maison de Madeleine Brut Wine,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/maison_de_madeleine_brut_wine.jpg,Beer & Wine,BOGO,,false
-Mambo Sofrito Blend,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mambo_sofrito_blend.jpg,Frozen Food,BOGO,,false
-Martha White Muffin Mix,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/martha_white_muffin_mix.jpg,Grocery,BOGO,,false
+Planet Oat Oatmilk Creamer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/planet_oat_oatmilk_creamer.jpg,Dairy,BOGO,,false
+Siggi's Skyr Yogurt,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/siggis_skyr_yogurt.jpg,Dairy|Protein,BOGO,,false
+Organic Valley Coffee Creamer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/organic_valley_coffee_creamer.jpg,Dairy,BOGO,,false
+Digiorno Cheese Stuffed Crust Pizza,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/digiorno_cheese_stuffed_crust_pizza.jpg,Frozen Food|Protein,BOGO,,false
+"Pillsbury Grands! Biscuits or Rolls, Crescents, or Cinni Stix",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pillsbury_grands_biscuits_or_rolls_crescents_or_cinni_stix.jpg,Dairy,BOGO,,false
+Mrs. Paul's Fish Entrees,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mrs_pauls_fish_entrees.jpg,Frozen Food,BOGO,Save $1.50 with digital coupon,false
+Bic Disposable Razors,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bic_disposable_razors.jpg,Beauty & Personal Care,BOGO,,false
+Poise Pads,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/poise_pads.jpg,Beauty & Personal Care,BOGO,Save $2.50 with digital coupon,false
+Crest Toothpaste,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/crest_toothpaste.jpg,Beauty & Personal Care,BOGO,,false
+Arm & Hammer Laundry Detergent,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/arm_hammer_laundry_detergent.jpg,Non-Foods,BOGO,Save $2.00 with digital coupon,false
+Carbona Carpet Cleaner,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/carbona_carpet_cleaner.jpg,Non-Foods,BOGO,,false
+CLR Lime and Rust Remover,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/clr_lime_and_rust_remover.jpg,Non-Foods,BOGO,,false
+Cottonelle Bathroom Tissue,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cottonelle_bathroom_tissue.jpg,Non-Foods,BOGO,,false
+Pinalen Multi-Purpose Cleaner,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pinalen_multipurpose_cleaner.jpg,Non-Foods,BOGO,,false
+Full Moon Dog Treats,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/full_moon_dog_treats.jpg,Pet,BOGO,,false
+Gerber Baby Food,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/gerber_baby_food.jpg,Baby,BOGO,,false
+Snapware Food Storage Containers,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/snapware_food_storage_containers.jpg,Housewares,BOGO,,false
+Blue Buffalo Dog Treats,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/blue_buffalo_dog_treats.jpg,Pet,BOGO,,false
+Tuscany Candle,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tuscany_candle.jpg,Non-Foods,BOGO,,false
+Meow Mix Cat Food,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/meow_mix_cat_food.jpg,Pet,BOGO,,false
+Goodcook Ceramic Soup Mug,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/goodcook_ceramic_soup_mug.jpg,Housewares,BOGO,,false
+Publix Alkaline Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_alkaline_water.jpg,Grocery,BOGO,,false
+Mars Minis Mix Chocolates,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mars_minis_mix_chocolates.jpg,Grocery,BOGO,,false
+Publix Pork Shoulder Country Ribs,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_pork_shoulder_country_ribs.jpg,Meat,BOGO,,false
+Quaker Life Cereal,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/quaker_life_cereal.jpg,Grocery,BOGO,,false
+Gia Russa Select Pasta Sauce,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/gia_russa_select_pasta_sauce.jpg,Grocery,BOGO,,false
+Publix Pork Whole Shoulder,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_pork_whole_shoulder.jpg,Meat|Protein,BOGO,,false
+Publix Hummus,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_hummus.jpg,Deli,BOGO,,false
+Seapak Shrimp & Seafood Co. Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/seapak_shrimp_seafood_co_products.jpg,Frozen Food|Protein,BOGO,,false
+Sara Lee Honey Wheat Bread,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/sara_lee_honey_wheat_bread.jpg,Grocery,BOGO,,false
+Banza Pasta,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/banza_pasta.jpg,Grocery,BOGO,,false
+Tortilleria Mi Nina Tortilla Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tortilleria_mi_nina_tortilla_chips.jpg,Deli,BOGO,,false
+Kraft Dressing,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kraft_dressing.jpg,Grocery,BOGO,,false
+Tootsie Roll Pops,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tootsie_roll_pops.jpg,Grocery,BOGO,,false
+Publix Salsa,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_salsa.jpg,Deli,BOGO,,false
+Cabot Sweet Cream Butter,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cabot_sweet_cream_butter.jpg,Dairy,BOGO,,false
+Kraft Cheese Singles,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kraft_cheese_singles.jpg,Dairy,BOGO,,false
+Publix Mild Guacamole,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_mild_guacamole.jpg,Deli,BOGO,,false
+Crunch Chocolate Candy Bar,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/crunch_chocolate_candy_bar.jpg,Grocery,BOGO,,false
+Publix Pork Boston Butt Roast,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_pork_boston_butt_roast.jpg,Meat,BOGO,,false
+Publix Buffalo-Style Chicken Breast Dip,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_buffalostyle_chicken_breast_dip.jpg,Deli,BOGO,,false
+Perdue Chicken Breast,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/perdue_chicken_breast.jpg,Meat,BOGO,,false
+Just Bare Chicken Breast Fillets,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/just_bare_chicken_breast_fillets.jpg,Meat,BOGO,,false
+Amazing Taste Seasoning Shakers,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/amazing_taste_seasoning_shakers.jpg,Meat,BOGO,,false
+Perdue Shortcuts Chicken Strips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/perdue_shortcuts_chicken_strips.jpg,Meat|Protein,BOGO,,false
+Classic Dozen Roses,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/classic_dozen_roses.jpg,Floral,BOGO,,false
+Hero Snack-Sized Gala Apples,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hero_snacksized_gala_apples.jpg,Produce,BOGO,,false
+Publix Tricolor Peppers,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_tricolor_peppers.jpg,Produce,BOGO,,false
+La Bonne Vie Cheese,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/la_bonne_vie_cheese.jpg,Deli,BOGO,,false
+Crispy Just Baked Original Roti,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/crispy_just_baked_original_roti.jpg,Deli,BOGO,,false
+New England Coffee: Ground or Pods,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/new_england_coffee_ground_or_pods.jpg,Grocery,BOGO,,false
+Mission Flour Tortillas,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mission_flour_tortillas.jpg,Grocery,BOGO,,false
+La Banderita Flour Tortillas,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/la_banderita_flour_tortillas.jpg,Grocery,BOGO,,false
+Entenmann's Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/entenmanns_products.jpg,Grocery,BOGO,,false
+Manwich Sloppy Joe Sauce,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/manwich_sloppy_joe_sauce.jpg,Grocery,BOGO,,false
+Hatfield Ham Steak,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hatfield_ham_steak.jpg,Meat,BOGO,,false
+Kellogg's Cereal-All,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kelloggs_cerealall.jpg,Grocery,BOGO,,false
+Stonefire Naan Flatbread,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/stonefire_naan_flatbread.jpg,Deli,BOGO,,false
+Cholula Hot Sauce,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cholula_hot_sauce.jpg,Grocery,BOGO,,false
+Flipz Chocolate Covered Pretzels,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/flipz_chocolate_covered_pretzels.jpg,Grocery,BOGO,,false
+Iberia Coconut Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/iberia_coconut_water.jpg,Grocery,BOGO,,false
+Health-Ade Organic Kombucha,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/healthade_organic_kombucha.jpg,Produce,BOGO,,false
+7UP Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/7up_products.jpg,Grocery,BOGO,,false
+Evian Natural Spring Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/evian_natural_spring_water.jpg,Grocery,BOGO,,false
+Badia Complete Seasoning,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/badia_complete_seasoning.jpg,Grocery,BOGO,,false
+Herdez Salsa Verde,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/herdez_salsa_verde.jpg,Grocery,BOGO,,false
+Mrs. Cubbison's Croutons,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mrs_cubbisons_croutons.jpg,Grocery,BOGO,,false
+Bazooka Candy Push Pops,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bazooka_candy_push_pops.jpg,Grocery,BOGO,,false
+So Good So You Organic Probiotic Juice Shot,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/so_good_so_you_organic_probiotic_juice_shot.jpg,Produce,BOGO,,false
+Coffee Mate Coffee Creamer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/coffee_mate_coffee_creamer.jpg,Grocery,BOGO,,false
+Bare Baked Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bare_baked_chips.jpg,Produce,BOGO,,false
+Roar Organic Vitamin Enhanced Beverage,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/roar_organic_vitamin_enhanced_beverage.jpg,Grocery,BOGO,,false
+Matlaw's New England Style Stuffed Clams,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/matlaws_new_england_style_stuffed_clams.jpg,Seafood,BOGO,,false
+Jack Daniel's Pulled Pork,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/jack_daniels_pulled_pork.jpg,Meat,BOGO,,false
+Polar Seltzer Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/polar_seltzer_water.jpg,Grocery,BOGO,,false
+Belgioioso Crumbly Gorgonzola Cheese,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/belgioioso_crumbly_gorgonzola_cheese.jpg,Deli,BOGO,,false
+WTRMLN WTR Hydration,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/wtrmln_wtr_hydration.jpg,Produce,BOGO,,false
+Butterball Turkey Breakfast Sausage Patties,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/butterball_turkey_breakfast_sausage_patties.jpg,Meat,BOGO,,false
+David Pumpkin Seeds,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/david_pumpkin_seeds.jpg,Produce,BOGO,,false
+Tampico Punch,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tampico_punch.jpg,Grocery,BOGO,,false
+Vita Coco Treats Coconutmilk Beverage,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/vita_coco_treats_coconutmilk_beverage.jpg,Grocery,BOGO,,false
+Scripto Multi-Purpose Lighter,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/scripto_multipurpose_lighter.jpg,Housewares,BOGO,,false
+Feastables Chocolate Bar,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/feastables_chocolate_bar.jpg,Grocery,BOGO,,false
+Bubbies Mochi Ice Cream,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bubbies_mochi_ice_cream.jpg,Frozen Food,BOGO,,false
+Arden's Garden Beverage,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ardens_garden_beverage.jpg,Produce,BOGO,,false
+Publix Crumbled Danish Blue Cheese,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_crumbled_danish_blue_cheese.jpg,Deli,BOGO,,false
+Delallo Pickled Giardiniera,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/delallo_pickled_giardiniera.jpg,Grocery,BOGO,,false
+Crunchies Freeze Dried Chocolate Strawberries,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/crunchies_freeze_dried_chocolate_strawberries.jpg,Produce,BOGO,,false
+Isadora Refried Beans,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/isadora_refried_beans.jpg,Grocery,BOGO,,false
+Gorgie Energy Drink,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/gorgie_energy_drink.jpg,Grocery,BOGO,,false
+King's Hawaiian Ube Coconut Rolls,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kings_hawaiian_ube_coconut_rolls.jpg,Deli,BOGO,,false
+Kellogg's Honey Smacks Cereal,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kelloggs_honey_smacks_cereal.jpg,Grocery,BOGO,,false
+Discoveries Organic Whole Bean Coffee,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/discoveries_organic_whole_bean_coffee.jpg,Grocery,BOGO,,false
+Free2b Sunflower Butter Sun Cups Minis,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/free2b_sunflower_butter_sun_cups_minis.jpg,Grocery,BOGO,,false
+Prime Planet Plantain Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/prime_planet_plantain_chips.jpg,Grocery,BOGO,,false
+Madhava Organic Coconut Sugar,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/madhava_organic_coconut_sugar.jpg,Grocery,BOGO,,false
+Vine to Bar Dark Chocolate Squares,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/vine_to_bar_dark_chocolate_squares.jpg,Grocery,BOGO,,false
+Chewsday Dental Chews,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/chewsday_dental_chews.jpg,Pet,BOGO,,false
+Kellogg's Cocoa Loops Cereal,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kelloggs_cocoa_loops_cereal.jpg,Grocery,BOGO,,false
+Cracking Good Cheese Co. Cheddar Cheese,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cracking_good_cheese_co_cheddar_cheese.jpg,Deli,BOGO,,false
+Katie's Pasta Sauce,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/katies_pasta_sauce.jpg,Grocery,BOGO,,false
+The Ginger People Dietary Supplement,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/the_ginger_people_dietary_supplement.jpg,Health & Nutrition,BOGO,,false
+Air Wick Scented Oil Warmer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/air_wick_scented_oil_warmer.jpg,Housewares,BOGO,,false
+Annie Chun's Noodle Bowl,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/annie_chuns_noodle_bowl.jpg,Grocery,BOGO,,false
+Arm & Hammer Fabric Softener Sheets,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/arm_hammer_fabric_softener_sheets.jpg,Non-Foods,BOGO,,false
+Bengal Flying Insect Killer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bengal_flying_insect_killer.jpg,Non-Foods,BOGO,,false
+Betty Crocker Frosting,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/betty_crocker_frosting.jpg,Grocery,BOGO,,false
+6-Pack Blue Moon Non-Alcoholic Wheat Brew,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/6pack_blue_moon_nonalcoholic_wheat_brew.jpg,Beer & Wine,BOGO,,false
+Bubly Sparkling Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bubly_sparkling_water.jpg,Grocery,BOGO,,false
+Cafe Bustelo K-Cup Coffee,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cafe_bustelo_kcup_coffee.jpg,Grocery,BOGO,,false
+Cambio Organic Coffee,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cambio_organic_coffee.jpg,Grocery,BOGO,,false
+Carbona Laundry Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/carbona_laundry_products.jpg,Non-Foods,BOGO,,false
+Country Crock Spread,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/country_crock_spread.jpg,Dairy,BOGO,,false
+Equal Sweetener Packets,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/equal_sweetener_packets.jpg,Grocery,BOGO,,false
+Evian Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/evian_water.jpg,Grocery,BOGO,,false
+Fresh Press Farms Oil,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/fresh_press_farms_oil.jpg,Grocery,BOGO,,false
+"Gulden's Mustard, Squeeze",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/guldens_mustard_squeeze.jpg,Grocery,BOGO,,false
+Halo Top Ice Cream or Kinder Bueno Frozen Dairy Dessert or Nutella Ice Cream,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/halo_top_ice_cream_or_kinder_bueno_frozen_dairy_dessert_or_nutella_ice_cream.jpg,Frozen Food,BOGO,,false
+Hamburger Helper Pasta,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hamburger_helper_pasta.jpg,Grocery,BOGO,,false
+Hatfield Smoked Bacon,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hatfield_smoked_bacon.jpg,Meat,BOGO,,false
+Hefty Press to Close Bags,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hefty_press_to_close_bags.jpg,Non-Foods,BOGO,,false
+Hormel Marinated Pork Tenderloin,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hormel_marinated_pork_tenderloin.jpg,Meat|Protein,BOGO,,false
+Hungry-Man Entrees,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/hungryman_entrees.jpg,Frozen Food,BOGO,,false
+Just Bare Chicken Tenderloins,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/just_bare_chicken_tenderloins.jpg,Meat|Protein,BOGO,,false
+Klondike Bars or Ice Cream Sandwiches,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/klondike_bars_or_ice_cream_sandwiches.jpg,Frozen Food,BOGO,,false
+Kraft Real Mayo Mayonnaise or Miracle Whip Dressing,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kraft_real_mayo_mayonnaise_or_miracle_whip_dressing.jpg,Grocery,BOGO,,false
+"Kraft Mac & Cheese or Cracker Barrel, or Velveeta Shells & Cheese",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kraft_mac_cheese_or_cracker_barrel_or_velveeta_shells_cheese.jpg,Grocery,BOGO,,false
+Lily's Toaster Grills Sandwich,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/lilys_toaster_grills_sandwich.jpg,Frozen Food,BOGO,,false
+Lunchables,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/lunchables.jpg,Dairy,BOGO,,false
+Made by James Chardonnay Wine,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/made_by_james_chardonnay_wine.jpg,Beer & Wine,BOGO,,false
 "McCain French Fried Potatoes, Onion Rings, or Hashbrowns",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mccain_french_fried_potatoes_onion_rings_or_hashbrowns.jpg,Frozen Food,BOGO,,false
-McCormick Grill Mates Seasoning,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mccormick_grill_mates_seasoning.jpg,Grocery,BOGO,,false
-"Milk-Bone Dog Snacks, Treats, or Chews",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/milkbone_dog_snacks_treats_or_chews.jpg,Pet,BOGO,,false
-Nature Valley Granola,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/nature_valley_granola.jpg,Grocery,BOGO,,false
-Nonni's Biscotti,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/nonnis_biscotti.jpg,Grocery,BOGO,,false
-Noosa Finest Yoghurt,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/noosa_finest_yoghurt.jpg,Protein|Dairy,BOGO,,false
-Everyday Dose Coffee+,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/everyday_dose_coffee.jpg,Grocery,BOGO,,false
-Bonkers Purr Pops Cat Treats,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bonkers_purr_pops_cat_treats.jpg,Pet,BOGO,,false
-Antonella's Cuban Crackers,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/antonellas_cuban_crackers.jpg,Grocery,BOGO,,false
-Dapple Baby Bottle & Dish Soap or Spray,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/dapple_baby_bottle_dish_soap_or_spray.jpg,Baby,BOGO,,false
-Brancott Estate Wine,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/brancott_estate_wine.jpg,Beer & Wine,BOGO,,false
-Scrub Free Bathroom Cleaner,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/scrub_free_bathroom_cleaner.jpg,Non-Foods,BOGO,,false
-Pepperidge Farm Farmhouse Bread,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pepperidge_farm_farmhouse_bread.jpg,Grocery,BOGO,,false
-Pillsbury Crescent Dinner Rolls or Cinnamon Rolls or Grands! Biscuits,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pillsbury_crescent_dinner_rolls_or_cinnamon_rolls_or_grands_biscuits.jpg,Dairy,BOGO,,false
-Primal Kitchen Mayo 12-oz or Salad Dressing 8-oz,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/primal_kitchen_mayo_12oz_or_salad_dressing_8oz.jpg,Grocery,BOGO,,false
-"Quaker Oats, Old Fashioned or Quick 1-Minute",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/quaker_oats_old_fashioned_or_quick_1minute.jpg,Grocery,BOGO,,false
-Quest Protein Milkshake,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/quest_protein_milkshake.jpg,Protein|Grocery,BOGO,,false
-Rico's Fried Pork Rinds,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ricos_fried_pork_rinds.jpg,Grocery,BOGO,,false
-Ruffles Potato Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ruffles_potato_chips.jpg,Grocery,BOGO,,false
-Skippy Peanut Butter,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/skippy_peanut_butter.jpg,Grocery,BOGO,,false
-Solely Organic Fruit Gummies,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/solely_organic_fruit_gummies.jpg,Grocery,BOGO,,false
-Tyson Grilled Chicken Bites,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tyson_grilled_chicken_bites.jpg,Protein|Frozen Food,BOGO,,false
-Tyson Uncooked Crispy Chicken Nuggets,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tyson_uncooked_crispy_chicken_nuggets.jpg,Protein|Frozen Food,BOGO,,false
-Vlasic Pickles,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/vlasic_pickles.jpg,Grocery,BOGO,,false
-4-Pack VMC Tequila,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/4pack_vmc_tequila.jpg,Beer & Wine,BOGO,,false
-Yo Gusto Yogurt,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/yo_gusto_yogurt.jpg,Dairy,BOGO,,false
-Jade Leaf Matcha Concentrate,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/jade_leaf_matcha_concentrate.svg,Grocery,BOGO,,false
-Coca-Cola de Mexico Singles,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cocacola_de_mexico_singles.jpg,Grocery,B2G1,,false
-Jarritos Soda,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/jarritos_soda.jpg,Grocery,B2G1,,false
-Eat Fresco Entrees,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/eat_fresco_entrees.jpg,Protein|Deli,B2G1,,false
-Olipop Prebiotic Soda,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/olipop_prebiotic_soda.jpg,Protein|Grocery,B2G1,,false
-Stacy's Organic Pita Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/stacys_organic_pita_chips.jpg,Deli,B2G1,,false
-Stacy's Pita Chips or Thins or Bagel Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/stacys_pita_chips_or_thins_or_bagel_chips.jpg,Deli,B2G1,,false
-Sabra Hummus,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/sabra_hummus.jpg,Deli,B2G1,,false
-Naked Juice Smoothie,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/naked_juice_smoothie.jpg,Produce,B2G1,,false
+McQueen and The Violet Fog Gin,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mcqueen_and_the_violet_fog_gin.jpg,Liquor,BOGO,,false
+Meow Mix Cat Treats,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/meow_mix_cat_treats.jpg,Pet,BOGO,,false
+6-Pack Michelob Ultra Zero Beer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/6pack_michelob_ultra_zero_beer.jpg,Beer & Wine,BOGO,,false
+Mrs. T's Pierogies,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mrs_ts_pierogies.jpg,Frozen Food,BOGO,,false
+Mueller's Pasta,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/muellers_pasta.jpg,Grocery,BOGO,,false
+Nature Valley Granola Bars or Wafer Bars or Biscuits,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/nature_valley_granola_bars_or_wafer_bars_or_biscuits.jpg,Grocery,BOGO,,false
+Nature's Own Honey Wheat Bread,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/natures_own_honey_wheat_bread.jpg,Grocery,BOGO,,false
+Nutpods Dairy Free Coffee Creamer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/nutpods_dairy_free_coffee_creamer.jpg,Dairy,BOGO,,false
+Nutrail Granola,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/nutrail_granola.jpg,Grocery,BOGO,,false
+Ocean Spray Juice,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ocean_spray_juice.jpg,Grocery,BOGO,,false
+Oscar Mayer Deli Fresh Lunch Meats,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/oscar_mayer_deli_fresh_lunch_meats.jpg,Meat,BOGO,,false
+Gemma di Luna Sparkling Prosecco Wine,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/gemma_di_luna_sparkling_prosecco_wine.jpg,Beer & Wine,BOGO,,false
+Cado Frozen Dessert,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cado_frozen_dessert.jpg,Frozen Food,BOGO,,false
+Sanders Chocolate,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/sanders_chocolate.jpg,Grocery,BOGO,,false
+Dan-O's Seasoning,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/danos_seasoning.jpg,Grocery,BOGO,,false
+AMC Theatres Microwave Popcorn,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/amc_theatres_microwave_popcorn.jpg,Grocery,BOGO,,false
+Allegro Marinade,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/allegro_marinade.jpg,Grocery,BOGO,,false
+Parm Crisps Family Size,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/parm_crisps_family_size.jpg,Deli|Protein,BOGO,,false
+6-Pack Pepsi Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/6pack_pepsi_products.jpg,Grocery,BOGO,,false
+Pringles Potato Crisps,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pringles_potato_crisps.jpg,Grocery,BOGO,,false
+Progresso Soup,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/progresso_soup.jpg,Grocery,BOGO,,false
+Publix Ibuprofen Pain Reliever Fever Reducer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_ibuprofen_pain_reliever_fever_reducer.jpg,Health & Nutrition,BOGO,,false
+Publix Pork Shoulder Country-Style Ribs - Boneless,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_pork_shoulder_countrystyle_ribs_boneless.jpg,Meat,BOGO,,false
+GreenWise Organic Grain Bars,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/greenwise_organic_grain_bars.jpg,Grocery,BOGO,,false
+Publix Pork Shoulder Blade Steaks,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_pork_shoulder_blade_steaks.jpg,Meat,BOGO,,false
+Publix Pork for Stew,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_pork_for_stew.jpg,Meat,BOGO,,false
+Publix Pork Shoulder Blade Steaks - Boneless,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_pork_shoulder_blade_steaks_boneless.jpg,Meat,BOGO,,false
+Two Dozen Cookies,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/two_dozen_cookies.jpg,Bakery,BOGO,,false
+Publix Pork Boston Butt Roast - Boneless,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_pork_boston_butt_roast_boneless.jpg,Meat,BOGO,,false
+"Publix Mild Italian Turkey Sausage, Bulk",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_mild_italian_turkey_sausage_bulk.jpg,Meat,BOGO,,false
+Pup-Peroni Dog Treats,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pupperoni_dog_treats.jpg,Pet,BOGO,,false
+Purina One Dog Food,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/purina_one_dog_food.jpg,Pet,BOGO,,false
+R.W. Knudsen Family Juice,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/rw_knudsen_family_juice.jpg,Grocery,BOGO,,false
+Ron Barcelo Rum,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ron_barcelo_rum.jpg,Liquor,BOGO,,false
+Rosina Meatballs,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/rosina_meatballs.jpg,Frozen Food|Protein,BOGO,,false
+Rustic River Bourbon Whiskey,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/rustic_river_bourbon_whiskey.jpg,Liquor,BOGO,,false
+6-Pack Shock Top Beer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/6pack_shock_top_beer.jpg,Beer & Wine,BOGO,,false
+Siete Tortilla Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/siete_tortilla_chips.jpg,Grocery,BOGO,,false
+"Siggi's Skyr Yogurt, Probiotic Whole-Milk Drinkable Yogurt, or Coconut Milk Yogurt Alternative",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/siggis_skyr_yogurt_probiotic_wholemilk_drinkable_yogurt_or_coconut_milk_yogurt_alternative.jpg,Dairy|Protein,BOGO,,false
+Steak-Umm Sandwich Steaks,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/steakumm_sandwich_steaks.jpg,Meat,BOGO,,false
+Sunset Angel Sweet Tomatoes,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/sunset_angel_sweet_tomatoes.jpg,Produce,BOGO,,false
+Tailor Made Cabernet Sauvignon Wine,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tailor_made_cabernet_sauvignon_wine.jpg,Beer & Wine,BOGO,,false
+Vanity Fair Napkins: Entertain,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/vanity_fair_napkins_entertain.jpg,Non-Foods,BOGO,,false
+Veggies Made Great Frittata,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/veggies_made_great_frittata.jpg,Frozen Food,BOGO,,false
+Yogi Organic Tea Bags,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/yogi_organic_tea_bags.jpg,Grocery,BOGO,,false
+Triscuit or Nabisco Wheat Thins Crackers,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/triscuit_or_nabisco_wheat_thins_crackers.jpg,Grocery,B2G1,,false
 6-Pack Coca-Cola Soft Drink Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/6pack_cocacola_soft_drink_products.jpg,Grocery,B2G2,,false
-Aquafina Pure Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/aquafina_pure_water.jpg,Grocery,B2G1,,false
-Lay's Potato Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/lays_potato_chips.jpg,Grocery,B2G1,,false
+Zephyrhills Spring Water or Pure Life Purified Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/zephyrhills_spring_water_or_pure_life_purified_water.jpg,Grocery,B2G1,,false
 10-Pack Coca-Cola Soft Drink Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/10pack_cocacola_soft_drink_products.jpg,Grocery,B2G1,,false
-Vita Coco Coconut Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/vita_coco_coconut_water.jpg,Grocery,B2G1,,false
-10-Pack Pepsi Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/10pack_pepsi_products.jpg,Grocery,B2G1,Save $10.00 with digital coupon,false
-Bloom Sparkling Energy Drink,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bloom_sparkling_energy_drink.jpg,Grocery,B2G2,,false
-Gatorlyte Electrolyte Beverage,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/gatorlyte_electrolyte_beverage.jpg,Grocery,B2G2,,false
-12-Pack 7UP Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/12pack_7up_products.jpg,Grocery,B2G1,,false
-6-Pack Poppi Prebiotic Soda,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/6pack_poppi_prebiotic_soda.jpg,Grocery,B2G1,,false
-Monster Energy Drink,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/monster_energy_drink.jpg,Grocery,B2G1,,false
-Boulder Canyon Potato Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/boulder_canyon_potato_chips.jpg,Grocery,B2G2,,false
-Coca-Cola Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cocacola_products.jpg,Grocery,B2G2,,false
-Gatorade Thirst Quencher,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/gatorade_thirst_quencher.jpg,Grocery,B2G2,,false
+Propel Water Beverage or Energy Boost Electrolyte Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/propel_water_beverage_or_energy_boost_electrolyte_water.jpg,Grocery,B2G1,,false
+Lipton Tea,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/lipton_tea.jpg,Grocery,B2G1,,false
+On The Border Tortilla Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/on_the_border_tortilla_chips.jpg,Grocery,B2G1,,false
 12-Pack Pepsi Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/12pack_pepsi_products.jpg,Grocery,B2G2,,false
-Pure Leaf Tea,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pure_leaf_tea.jpg,Grocery,B2G1,,false
+Coca-Cola Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cocacola_products.jpg,Grocery,B2G2,,false
+Bodyarmor Sports Drink,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bodyarmor_sports_drink.jpg,Grocery,B2G2,,false
+Pure Leaf Tea,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pure_leaf_tea.jpg,Grocery,B2G2,,false
+Vita Coco Coconut Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/vita_coco_coconut_water.jpg,Grocery,B2G1,,false
+Ruffles Potato Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ruffles_potato_chips.jpg,Grocery,B2G1,,false
+Stacy's Pita Chips or Thins or Bagel Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/stacys_pita_chips_or_thins_or_bagel_chips.jpg,Deli,B2G1,,false
+Starbucks Frappuccino Chilled Coffee Drink,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/starbucks_frappuccino_chilled_coffee_drink.jpg,Grocery,B2G1,,false
+12-Pack 7UP Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/12pack_7up_products.jpg,Grocery,B2G1,,false
+Big Easy Pop Organic Soda,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/big_easy_pop_organic_soda.jpg,Produce,B2G1,,false
+12-Pack Coca-Cola Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/12pack_cocacola_products.jpg,Grocery,B2G1,,false
+10-Pack Pepsi Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/10pack_pepsi_products.jpg,Grocery,B2G1,,false
+Poppi Prebiotic Soda,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/poppi_prebiotic_soda.jpg,Grocery,B2G1,,false
 Red Bull Energy Drink,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/red_bull_energy_drink.jpg,Grocery,B2G1,,false
+Ruffles or Doritos Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ruffles_or_doritos_chips.jpg,Grocery,B2G1,,false
+Starbucks Frappuccino Chilled Coffee Drink or Doubleshot Coffee Drink,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/starbucks_frappuccino_chilled_coffee_drink_or_doubleshot_coffee_drink.jpg,Grocery,B2G1,,false
