@@ -78,7 +78,6 @@ storenumber,cutoverDay,validFrom,validTo
 205,wednesday,2026-10-07,2026-10-13
 209,wednesday,2026-10-07,2026-10-13
 212,thursday,2026-10-08,2026-10-14
-215,thursday,,
 223,thursday,2026-10-08,2026-10-14
 226,wednesday,2026-10-07,2026-10-13
 227,thursday,2026-10-08,2026-10-14
@@ -103,7 +102,6 @@ storenumber,cutoverDay,validFrom,validTo
 294,thursday,2026-10-08,2026-10-14
 302,thursday,2026-10-08,2026-10-14
 303,thursday,2026-10-08,2026-10-14
-305,thursday,,
 306,thursday,2026-10-08,2026-10-14
 313,thursday,2026-10-08,2026-10-14
 324,thursday,2026-10-08,2026-10-14
@@ -173,7 +171,6 @@ storenumber,cutoverDay,validFrom,validTo
 458,thursday,2026-10-08,2026-10-14
 461,wednesday,2026-10-07,2026-10-13
 463,wednesday,2026-10-07,2026-10-13
-464,wednesday,,
 467,thursday,2026-10-08,2026-10-14
 468,wednesday,2026-10-07,2026-10-13
 469,wednesday,2026-10-07,2026-10-13
@@ -651,7 +648,6 @@ storenumber,cutoverDay,validFrom,validTo
 1098,thursday,2026-10-08,2026-10-14
 1099,thursday,2026-10-08,2026-10-14
 1101,thursday,2026-10-08,2026-10-14
-1103,thursday,,
 1104,thursday,2026-10-08,2026-10-14
 1105,thursday,2026-10-08,2026-10-14
 1106,thursday,2026-10-08,2026-10-14
