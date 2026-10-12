@@ -16,6 +16,7 @@ Annie's Organic Bunny Crackers or Grahams,Annie's Organic Baked Crackers
 Annie's Organic Bunny Crackers or Grahams,Annie's Organic Bunny Grahams or Baked Crackers
 Arm & Hammer Dish Soap,Arm & Hammer Ultra Dish Liquid
 Arm & Hammer Scent Booster,Arm & Hammer Scent Booster or Fabric Rinse
+Arm & Hammer Scent Booster or Sheets or Fabric Rinse,"Arm & Hammer Scent Booster, or Sheets or Fabric Rinse"
 Arnold or Brownberry Bread,Arnold Bread
 Arnold or Brownberry Bread,Arnold Country Style Bread
 Arnold or Brownberry Bread,Brownberry or Arnold Bread
@@ -52,6 +53,7 @@ Bolthouse Farms 100% Juice Smoothie,Bolthouse Farms Fruit Smoothie
 Botticelli Pasta Sauce,Botticelli Premium Pasta Sauce
 "Braswell's Jam, Jelly, Marmalade, Preserves, or Butter","Braswell's Jelly, Preserves, Jam, Marmalade, or Butter"
 Brillo Scrub Max Sponge,Brillo Scrub Max Sponges
+Brutus Bone Broth Made for Dogs,"Brutus Bone Broth, Made for Dogs"
 Butterball Turkey Breakfast Sausage Patties,Butterball Turkey Sausage Patties
 Cackalacky Sauce,Cackalacky BBQ Sauce
 Calbee Harvest Snaps,Calbee Harvest Snaps Snacks
@@ -81,6 +83,7 @@ Clif Bar Sustained Energy Bars,Clif Bar Sustained Energy Bar
 Clif Zbar,Clif Zbar Bars
 Clorox Cleaners,Clorox All Purpose Spray Cleaners
 Clorox Cleaners,Clorox Clean-Up Cleaner + Bleach
+Coffee Mate Coffee Creamer,Coffee-Mate Coffee Creamer
 Colts Chocolate Co Chocolates,Colts Chocolate Co. Chocolate
 Combat Ant or Roach Bait,Combat Large Roach Bait
 Combat Ant or Roach Bait,Combat Max Roach Killing Bait
@@ -99,6 +102,7 @@ Deer Park Natural Spring Water,Deer Park Spring Water
 Demakes Bros. Beef Skewers,Demakes Bros. Skewers
 "Dental Fresh Water Additive, or Veterinary Formula Pet Products",Veterinary Formula Shampoo or Ear Therapy
 Digiorno Stuffed Crust Pizza,Digiorno Cheese Stuffed Crust Pizza
+Dr Pepper or Mountain Dew Soft Drinks,Dr. Pepper or Mountain Dew Soft Drinks
 Dr. Praeger's Entrees,Dr. Praeger's Veggie Products
 Duke Cannon Products,Duke Cannon Men's Products
 Dunkin' Double Espresso Coffee,Dunkin' Double Espresso Coffee Beverage
@@ -125,6 +129,7 @@ Fire & Smoke Seasoning,Fire & Smoke Seasoning or Coatings
 Fisher Chef's Naturals Baking Nuts,Fisher Chef's Naturals Pecans or Walnuts
 Flora Organic Bruschette Mini Toasts,Flora Bruschette Mini Toasts
 Florida's Natural Drinks,Florida's Natural Limeade
+Frank's RedHot Sauce,Frank's Redhot Sauce
 Free2b Sunflower Butter Sun Cups Minis,Free2b Sun Cups
 French's Mustard,French's Classic Yellow Mustard
 French's Mustard,"French's Classic Yellow Mustard, Squeeze"
@@ -137,6 +142,7 @@ Friskies Party Mix Cat Treats,Friskies Party Mix Cat Treat
 Friskies Party Mix Cat Treats,Purina Friskies Party Mix Cat Treats
 "Frito Lay Snacks, Minis",Frito Lay Snacks
 Galbani Fresh Mozzarella Cheese,Galbani Mozzarella Cheese
+Gardein Plant-Based Entres,Gardein Plant Based Entres
 Gatorade Zero Beverage Powder,Gatorade Zero Powder
 General Mills Cereal-All,General Mills Cheerios Cereal
 General Mills Cereal-All,General Mills Cheerios Protein Cereal
@@ -144,10 +150,13 @@ General Mills Cereal-All,General Mills Cinnamon Toast Crunch Cereal
 General Mills Cereal-All,General Mills Giant Size Cereal
 General Mills Cereal-All,General Mills Lucky Charms Cereal
 Gevalia Ground Coffee,Gevalia K-Cup Coffee or Ground or Whole Bean
+Glad Storage or Freezer Bags,Glad Freezer or Storage Bags
 Glisten Dishwasher or Garbage Disposal Cleaner,Glisten Dishwasher Cleaner
+Gogo Squeez Applesauce On The Go,Gogo Squeez Applesauce On the Go
 Good Foods Traditional Chunky Guacamole,Good Foods Guacamole
 Good 'n' Fun Dog Treats,Good 'n' Fun Gourmet Dog Treats
 Gorgie Energy Drink,Georgie Energy Drink
+Gorton's Fish Sticks or Fillets,Gorton's Fish Fillets or Sticks
 Great American Cobbler Company Cobbler,Great American Cobbler Company Cobbler or Apple Crisp
 Green Giant Simply Steam Vegetables,Green Giant Frozen Vegetables or Actual Veggies Veggie Burger
 Greenies Dental Treats for Dogs,Greenies Dental Dog Treats
@@ -286,13 +295,14 @@ Nabisco Oreo Cookies,Nabisco Oreo Cookies or Cakesters
 Nabisco Oreo Cookies,Nabisco Oreo Sandwich Chocolate Cookies
 Nabisco Oreo Cookies,Nabisco Oreo Sandwich Cookies
 Nature Made Dietary Supplements,Nature Made Dietary Supplement
-Nature Valley Granola Bars or Wafer Bars or Biscuits,Nature Valley Granola Bars or Breakfast Biscuits
-Nature Valley Granola Bars or Wafer Bars or Biscuits,Nature Valley Bars
-Nature Valley Granola Bars or Wafer Bars or Biscuits,"Nature Valley Granola Bars, Wafer Bars, or Breakfast Biscuits"
-Nature Valley Granola Bars or Wafer Bars or Biscuits,Nature Valley Granola Bars
-Nature Valley Granola Bars or Wafer Bars or Biscuits,"Nature Valley Granola or Wafer Bars, or Breakfast Biscuits"
-Nature Valley Granola Bars or Wafer Bars or Biscuits,Nature Valley Bars or Biscuits
-Nature Valley Granola Bars or Wafer Bars or Biscuits,Nature Valley Crunchy Granola Bars
+"Nature Valley Granola Bars, Biscuits, or Wafer Bars",Nature Valley Granola Bars or Breakfast Biscuits
+"Nature Valley Granola Bars, Biscuits, or Wafer Bars",Nature Valley Bars
+"Nature Valley Granola Bars, Biscuits, or Wafer Bars",Nature Valley Granola Bars or Wafer Bars or Biscuits
+"Nature Valley Granola Bars, Biscuits, or Wafer Bars","Nature Valley Granola Bars, Wafer Bars, or Breakfast Biscuits"
+"Nature Valley Granola Bars, Biscuits, or Wafer Bars",Nature Valley Granola Bars
+"Nature Valley Granola Bars, Biscuits, or Wafer Bars","Nature Valley Granola or Wafer Bars, or Breakfast Biscuits"
+"Nature Valley Granola Bars, Biscuits, or Wafer Bars",Nature Valley Bars or Biscuits
+"Nature Valley Granola Bars, Biscuits, or Wafer Bars",Nature Valley Crunchy Granola Bars
 Nature's Bounty Dietary Supplements,Nature's Bounty Supplements
 Nature's Own Hamburger Butter Buns,Nature's Own Hamburger Buns
 Nature's Own Perfectly Crafted Bread,Nature's Own Perfectly Crafted Hot Dog Rolls
@@ -337,9 +347,10 @@ Pacific Foods Organic Broth,Pacific Foods Broth
 Palmer's Body Lotion,Palmer's Cocoa Butter Formula Body Lotion
 Panera Bread Soup,"Panera Bread Soups, Ready-to-Heat & Enjoy"
 Panoxyl Acne Products,Panoxyl Acne Foaming Wash
-parm crisps,"Parm Crisps Family Size, Original or Four Cheese"
-parm crisps,"Parm Crisps, Family Size"
-parm crisps,Parm Crisps Cheese Snack
+Parm Crisps,parm crisps
+Parm Crisps,"Parm Crisps Family Size, Original or Four Cheese"
+Parm Crisps,"Parm Crisps, Family Size"
+Parm Crisps,Parm Crisps Cheese Snack
 Partake Cookies,Partake Chocolate Chip Cookies
 Pedigree Dentastix Dog Treats,Pedigree Dentastix Treats for Dogs
 Pedigree Dog Food,Pedigree Food for Dogs
@@ -456,6 +467,7 @@ Softsoap or Irish Spring Body Wash,Softsoap Body Wash
 Sour Patch Kids Assorted Candy,Sour Patch Kids Gummies
 Sour Patch Kids Assorted Candy,Sour Patch Kids Soft & Chewy Candy
 Spindrift Sparkling Water,Spindrift Sparkling Water & Real Squeezed Fruit
+Spindrift Tea,Spindrift Green Tea
 Splenda Sweetener,Splenda Sweeteners
 Springer Mountain Farms Chicken Breasts,Springer Mountain Farms Chicken Breast
 Springer Mountain Farms Ground Chicken Breast,Springer Mountain Farms Ground Chicken
@@ -499,6 +511,7 @@ Triscuit or Nabisco Wheat Thins Crackers,Triscuit Crackers
 Truly Grass-Fed Irish Cheddar Wedge,Truly Grass Fed Irish Cheddar Wedge Cheese
 Truvia Sweeteners,Truvia Calorie-Free Sweetener
 Tsamma 100% Watermelon Juice,Tsamma 100% Watermelon Juice Blend
+Tuscanini Pizza,Tuscanini Gourmet Pizza
 Tyson Breaded Chicken,Tyson Breaded Chicken Strips
 Tyson Breaded Chicken,Tyson Chicken Bites
 Tyson Breaded Chicken,Tyson Chicken Nuggets
@@ -513,6 +526,7 @@ Van Holten's Pickles,Van Holten's Pickle
 "Vanity Fair Napkins: Everyday Casual or Extra Absorbent, or Entertain",Vanity Fair Napkins
 "Vanity Fair Napkins: Everyday Casual or Extra Absorbent, or Entertain",Vanity Fair Napkins: Entertain
 Velveeta Shells & Cheese,Velveeta Shells & Cheese Dinner
+Vidamigos Blanco Tequila,Vidamigos Tequila
 Village Candle Wax Melts,Village Candle Melts
 Vine to Bar Dark Chocolate,Vine to Bar Dark Chocolate Blended With Wellvine Wrapped Squares
 Violife Just Like Cheese,Violife Just Like Shreds and Slices
