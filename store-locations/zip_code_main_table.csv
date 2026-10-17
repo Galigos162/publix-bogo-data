@@ -21657,8 +21657,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28320,1703,Oak Island Marketplace,5003 E Oak Island Dr,Oak Island,NC,Oak Island Mktpl
 28320,1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,Publix Comm/Fed Pt
 28320,1806,Coventry Marketplace,955 Wood Duck Dr,Myrtle Beach,SC,Coventry Marketplace
+28320,2144,Palmetto Place,3435 W Palmetto St,Florence,SC,Palmetto Place
 28320,1568,Prince Creek Village Center,11920 Hwy 707 Ste A,Murrells Inlet,SC,Prince Creek
-28320,1619,Arboretum at Surf City,2765 NC Hwy 210 E,Hampstead,NC,Arboretum/Surf City
 28323,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28323,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
 28323,2101,Rockfish Village,7483 Rockfish Rd,Fayetteville,NC,Rockfish Village
@@ -21841,6 +21841,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28339,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 28340,2101,Rockfish Village,7483 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28340,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
+28340,2144,Palmetto Place,3435 W Palmetto St,Florence,SC,Palmetto Place
 28340,2029,Commons at Carolina Shores,9770 Ocean Hwy W,Calabash,NC,Carolina Shores
 28340,1510,Publix at Forest Square,2170 Oakheart Rd,Myrtle Beach,SC,Forest Square
 28340,1479,Coastal North Town Center,1576 Highway 17 N,North Myrtle Beach,SC,Coastal North
@@ -21853,7 +21854,6 @@ zipcode,storenumber,name,address,city,state,shortname
 28340,1478,Pawleys Island Plaza,10225 Ocean Hwy # 17,Pawleys Island,SC,Pawleys Island Plz
 28340,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
 28340,1580,Ogden Market Place,7144 Market St,Wilmington,NC,Ogden Market Place
-28340,1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,Publix Comm/Fed Pt
 28341,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 28341,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
 28341,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
@@ -21991,7 +21991,9 @@ zipcode,storenumber,name,address,city,state,shortname
 28350,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
 28351,2101,Rockfish Village,7483 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28351,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
+28351,2144,Palmetto Place,3435 W Palmetto St,Florence,SC,Palmetto Place
 28351,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28351,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28351,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28351,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28351,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
@@ -22002,8 +22004,6 @@ zipcode,storenumber,name,address,city,state,shortname
 28351,1412,Cross Creek,8360 Charlotte Hwy,Indian Land,SC,Cross Creek
 28351,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28351,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
-28351,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
-28351,1442,Ballantyne Town Center,11222 Providence Rd W,Charlotte,NC,Ballantyne Twn Ctr
 28352,2101,Rockfish Village,7483 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28352,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28352,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
@@ -26444,6 +26444,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28909,1773,Tribble Crossing,3620 Era Dr,Cumming,GA,Tribble Crossing
 28909,844,Village Shops of Flowery Branch,5900 Spout Springs Rd,Flowery Branch,GA,Flowery Branch
 28909,42,Freehome Village,12424 Cumming Hwy,Canton,GA,Freehome Village
+29001,2144,Palmetto Place,3435 W Palmetto St,Florence,SC,Palmetto Place
 29001,2001,Market at Spears Creek,185 Earth Rd,Columbia,SC,Spears Creek
 29001,587,North Pointe Shopping Center,10128 Two Notch Rd,Columbia,SC,North Pointe
 29001,1266,The Market at Cane Bay,1724 State Rd,Summerville,SC,Market/Cane Bay
@@ -26458,7 +26459,6 @@ zipcode,storenumber,name,address,city,state,shortname
 29001,483,Oakbrook Shopping Center,1575 Old Trolley Rd,Summerville,SC,Oakbrook
 29001,824,Palmetto Pavilion,8409 Dorchester Rd Ste 104,North Charleston,SC,Palmetto Pavilion
 29001,656,Columbiana Station,150 Harbison Blvd,Columbia,SC,Columbiana Station
-29001,17,Kennerly Crossing,7320 Broad River Rd,Irmo,SC,Kennerly Crossing
 29003,506,Eastgate Shopping Center,250 Eastgate Dr,Aiken,SC,Eastgate
 29003,2040,The Village at Woodside,1535 Silver Bluff Rd,Aiken,SC,The Village at Woodside
 29003,1637,Publix at Lake Crossing,5441 Platt Springs Rd,Lexington,SC,Lake Crossing
@@ -54893,6 +54893,7 @@ zipcode,storenumber,name,address,city,state,shortname
 33945,683,Southpointe Commons,5997 S Pointe Blvd Ste 106,Fort Myers,FL,Southpointe Commons
 33946,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
 33946,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
+33946,2091,Merchants Crossing,"1500 Placida Rd, Ste C",Englewood,FL,Merchants Crossing
 33946,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
 33946,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
 33946,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
@@ -54905,7 +54906,6 @@ zipcode,storenumber,name,address,city,state,shortname
 33946,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
 33946,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
 33946,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
-33946,802,Venice Shopping Center,535 Tamiami Trl S,Venice,FL,Venice
 33947,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
 33947,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
 33947,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
@@ -55691,7 +55691,7 @@ zipcode,storenumber,name,address,city,state,shortname
 34205,1342,Publix at Palmetto,1101 8th Ave W,Palmetto,FL,Palmetto
 34205,1897,Bayshore Gardens Shopping Center,6030 14th St W,Bradenton,FL,Bayshore Gardens
 34205,1004,Beachway Plaza,7310 Manatee Ave W,Bradenton,FL,Beachway Plaza
-34205,2099,Seaflower Village Center,7535 Cortez Rd W,Bradenton,FL,Seaflower Village Center
+34205,2099,SeaFlower Village Center,7535 Cortez Rd W,Bradenton,FL,SeaFlower Village Center
 34205,746,Rivers Edge,5001 E State Road 64,Bradenton,FL,Rivers Edge
 34205,1447,Lockwood Commons,4240 53rd Ave E,Bradenton,FL,Lockwood Commons
 34205,1432,Shoppes of Bay Isles,525 Bay Isles Pkwy,Longboat Key,FL,Bay Isles
@@ -55863,7 +55863,7 @@ zipcode,storenumber,name,address,city,state,shortname
 34221,798,Lakewood Ranch Gateway,1755 Lakewood Ranch Blvd,Bradenton,FL,Lakewood Ranch
 34221,1447,Lockwood Commons,4240 53rd Ave E,Bradenton,FL,Lockwood Commons
 34221,1897,Bayshore Gardens Shopping Center,6030 14th St W,Bradenton,FL,Bayshore Gardens
-34221,2099,Seaflower Village Center,7535 Cortez Rd W,Bradenton,FL,Seaflower Village Center
+34221,2099,SeaFlower Village Center,7535 Cortez Rd W,Bradenton,FL,SeaFlower Village Center
 34221,1723,White Eagle,13150 E State Rd 64,Bradenton,FL,White Eagle
 34221,681,Publix at Holmes Beach,3900 E Bay Dr,Holmes Beach,FL,Holmes Beach
 34222,1305,Parkwood Square,9005 US Highway 301 N,Parrish,FL,Parkwood Square
