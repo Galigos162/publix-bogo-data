@@ -1,5 +1,6 @@
 canonical,variant
 10-Pack Coca-Cola Products,10-Pack Coca-Cola Soft Drink Products
+4-Pack On The Rocks Ready-to-Drink Cocktails,4-Pack On The Rocks Cocktail
 4-Pack On The Rocks Ready-to-Drink Cocktails,4-Pack On The Rocks Ready-to-Drink Cocktail
 6-Pack Coca-Cola Soft Drink Products,6-Pack Coca-Cola Products
 6-Pack Heineken 0.0 Alcohol Free Beer,6-Pack Heineken 0.0 Beer
@@ -29,6 +30,7 @@ Athenos Traditional Crumbled Feta Cheese,Athenos Feta Chunk Cheese
 Athenos Traditional Crumbled Feta Cheese,Athenos Feta Crumbled Cheese
 Bachan's Japanese Barbecue or Dipping Sauce,Bachan's Japanese Barbecue Sauce
 Bagel Bites Pizza Snacks or Mini Bagel Dogs,Bagel Bites Pizza Snacks
+Bagel Bites Pizza Snacks or Mini Bagel Dogs,Bagel Bites Snacks
 Bai Antioxidant Beverage,Bai Antioxidant Infusion or Cocofusion Beverage
 Ball Park Franks,Ball Park Angus Beef Franks
 Banza Pasta,Banza Penne Pasta
@@ -59,10 +61,13 @@ Botticelli Pasta Sauce,Botticelli Premium Pasta Sauce
 "Braswell's Jam, Jelly, Marmalade, Preserves, or Butter","Braswell's Jelly, Preserves, Jam, Marmalade, or Butter"
 Brillo Scrub Max Sponge,Brillo Scrub Max Sponges
 Brutus Bone Broth Made for Dogs,"Brutus Bone Broth, Made for Dogs"
+Bush's Best Sidekicks Black or Pinto Beans,Bush's Best Sidekicks Black Beans
 Butterball Turkey Breakfast Sausage Patties,Butterball Turkey Sausage Patties
 Cacique Ranchero Queso Fresco Chunk Cheese,Cacique Ranchero Chunk Cheese
 Cackalacky Sauce,Cackalacky BBQ Sauce
 Calbee Harvest Snaps,Calbee Harvest Snaps Snacks
+Campbell's Soup,Campbell's Cream Soup
+Campbell's Spaghettios Pasta,Campbell's Spaghettios
 Caprisun Juice Drink Blend,"Caprisun Juice, Juice Drink Blend, or Roarin' Waters; or Country Time Lemonade"
 Carbona Carpet Cleaner,"Carbona 2-in-1 Carpet Cleaner, Oxy Powered"
 Casa Flores Manchego Cheese,Casa Flores Cheese
@@ -74,6 +79,7 @@ Cesar Dog Food,Cesar Canine Cuisine or Home Delights Dog Food
 "Chex Mix, Gardetto's, or Bugles Snacks",Chex Mix Snack
 "Chex Mix, Gardetto's, or Bugles Snacks",Chex Mix Snack Mix
 "Chex Mix, Gardetto's, or Bugles Snacks",General Mills Chex Mix Snack
+Chick-Fil-A Waffle Potato Chips,Chick-fil-A Waffle Chips
 Chifles Plantain Chips,Chifles Original Plantain Chips
 Chinet Classic White Dinner Plates,Chinet Classic White Plates
 Chiquita Green Plantains Tostones,Chiquita Green Plantains
@@ -110,6 +116,9 @@ Cutter Insect Repellent Spray,Cutter Insect Repellent Aerosol Spray
 Dan-O's Seasoning,Dan-O's Outlaw Seasoning
 Dapple Baby Care Products,"Dapple Baby Care Products, Bottle & Dish Soap or Spray"
 "Dave's Killer Bread Organic Bagels, Breakfast Bread, or English Muffins",Dave's Killer Bread Organic Bagels
+Dave's Killer Bread Organic Bars or Snack Bites,Dave's Killer Bread Organic Bars
+Dave's Killer Bread Organic Bars or Snack Bites,Dave's Killer Bread Organic Protein Bar
+Dave's Killer Bread Organic Bars or Snack Bites,Dave's Killer Bread Organic Snack Bites
 David Sunflower Seeds,David Seeds Sunflower Seeds
 David Sunflower Seeds,David's Seeds Sunflower Seeds
 Deer Park Natural Spring Water,Deer Park Spring Water
@@ -133,6 +142,7 @@ Entenmann's Products,Entenmann's Little Bites Snacks
 Entenmann's Products,Entenmann's Loaf Cake
 Entenmann's Products,Entenmann's Mini Cakes
 Entenmann's Products,Entenmann's Mini Snack Cakes
+Entremont Comte Cheese,Entremont Comt Cheese
 Eternal Spring Water,Eternal Naturally Alkaline Spring Water
 Eternal Spring Water,"Eternal Spring Water, Naturally Alkaline"
 Expo Dry Erase Markers,Expo Dry Eraser Markers
@@ -142,6 +152,7 @@ EZ Foil Pans,EZ Foil Pans With Lids
 Feel Good Foods Gluten Free Pancake Balls,Feel Good Foods Pancake Balls
 Ferrero Rocher Assorted Squares,Ferrero Rocher Chocolate or Caramel Hazelnut Squares
 Figs,Black Mission or Brown Turkey Figs
+Fiji Water,Fiji Natural Artesian Water
 Finish Dishwasher Detergent,Finish Automatic Dishwasher Detergent
 Fiorucci Antipasti Salami & Aged Cheddar,Fiorucci Antipasti
 Fire & Smoke Seasoning,Fire & Smoke Seasoning or Coatings
@@ -179,6 +190,7 @@ Glad Storage or Freezer Bags,Glad Freezer or Storage Bags
 Glisten Dishwasher or Garbage Disposal Cleaner,Glisten Dishwasher Cleaner
 Gogo Squeez On The Go Products,Gogo Squeez Applesauce On the Go
 Gogo Squeez On The Go Products,Gogo Squeez Applesauce On The Go
+Good 2 Grow Juice,Good 2 Grow Juice or Snackers
 Good Foods Traditional Chunky Guacamole,Good Foods Guacamole
 Good 'n' Fun Dog Treats,Good 'n' Fun Gourmet Dog Treats
 Goodpop Pops,Goodpop Pops or Bubbies Mochi Ice Cream or Keto Pint Ice Cream or Bars
@@ -221,6 +233,7 @@ Impossible Products,Impossible Meat From Plants
 Impossible Products,Impossible Meat From Plants Products
 In The Curious Kitchen Jam,In The Curious Kitchen Boozy Cherries
 In The Curious Kitchen Jam,In The Curious Kitchen Bourbon Honey Mustard
+International Delight or Land O Lakes Creamer Singles,International Delight Creamer
 Jack Link's Beef Jerky,Jack Link's Beef Sticks
 Jack Link's Beef Jerky,Jack Link's Mini Beef Sticks
 Jack Link's Beef Jerky,Jack Links Jerky
@@ -295,9 +308,11 @@ LesserEvil Popcorn,Lesser Evil Popcorn
 LesserEvil Popcorn,Lesserevil Popcorn
 Lifeway Kefir Cultured Milk,"Lifeway Kefir Cultured Milk, Probiotic"
 Lil' Dude Wipes,"Lil' Dude Wipes, Flushable"
+Lindt Excellence Chocolate,Lindt Excellence Extra Fine Chocolate
 Liquid I.V. Energy or Hydration Multiplier,"Liquid I.V. Energy or Hydration Multiplier, or Water Enhancer"
 Liquid I.V. Energy or Hydration Multiplier,Liquid I.V. Hydration Multiplier
 Liquid I.V. Energy or Hydration Multiplier,Liquid I.V. Hydration or Energy Multiplier
+Litehouse Dressing & Dip,Litehouse Dressing
 Little Debbie Mini Muffins,Little Debbie Muffins
 Louisiana Hot Sauce,The Original Louisiana Brand Hot Sauce
 Magic Mind Shots,Magic Mind Mental Performance Shot
@@ -315,15 +330,22 @@ Maxwell House Ground Coffee,Maxwell House Coffee
 "McCain French Fried Potatoes, Onion Rings, or Hashbrowns","McCain French Fried Potatoes, Hashbrowns, or Onion Rings"
 McCormick Grill Mates Seasoning,McCormick Grill Mates Seasonings
 Mentos Gum,Mentos Sugar Free Gum
+Michelina's Entrees,Michelina's Entree
+Michelina's Entrees,Michelina's Entree or Pizza Snacks or Pop'n Chicken & Potato Wheels
+Michelina's Entrees,Michelina's Entres
 "Milk-Bone Dog Biscuits, Snacks, or Treats",Milk-Bone Dog Snacks
 "Milk-Bone Dog Biscuits, Snacks, or Treats","Milk-Bone Dog Snacks, Treats, or Chews"
 Mini Babybel Cheese Snack,Mini Babybel Cheese
+Mission Carb Balance Flour Tortillas,Mission Yellow Corn Tortillas
 Mission Flour Tortillas,Mission Carb Balance Soft Taco Flour Tortillas
 Mission Flour Tortillas,Mission Soft Taco Flour Tortillas
 Mission Flour Tortillas,Mission Tortillas
+Mooala Organic Milk,Mooala Organic Almond Milk
+Mooala Organic Milk,Mooala Organic Banana Milk
 Mrs. Butterworth's or Log Cabin Syrup,Mrs. Butterworth's Syrup
 Mueller's Pasta,Mueller's Protein Pasta
 Muir Glen Tomatoes or Tomato Sauce or Paste,Muir Glen Tomatoes
+Mythreesons Dips,Mythreesons Dip
 Mythreesons Gourmet Pimento Cheese,My Three Sons Pimento Cheese
 Nabisco Family Size Oreo or Chips Ahoy! Cookies,Nabisco Family Size Oreo Cookies
 Nabisco Honey Maid Grahams Crackers,Nabisco Grahams or Newtons Cookies
@@ -356,6 +378,7 @@ Nerds Candy,Nerds Halloween Candy
 Nestle Drumstick Sundae Cones,Nestle Drumstick Cones or Oreo Frozen Dairy Dessert Cones or Outshine Fruit Bars
 Nestle Drumstick Sundae Cones,Nestle Drumstick Sundae Cone or Lil' or Mini Drums or Jonny Pops
 Nestle Drumstick Sundae Cones,Nestle Drumstick Sundae Cones or Lil' Drums; or Oreo Frozen Dairy Dessert Cones
+Nestle Drumstick Sundae Cones,"Nestle Drumstick Sundae Cones, Lil' Drums, or Mini Drums"
 New England Coffee: Ground or Pods,New England Coffee Ground Coffee
 Nonni's Biscotti,Nonni's Biscotti or Thinaddictives Almond Crisps
 Nutella & Go! Snacks,Nutella & Go! Breadsticks or Pretzels
@@ -370,6 +393,7 @@ Ocean Spray Juice Cocktail,Ocean Spray Juice Cocktail or Drink
 Ocean Spray Juice Cocktail,Ocean Spray Splash Juice Drink
 Old El Paso Taco Dinner Kit,Old El Paso Dinner Kit
 Old El Paso Taco Dinner Kit,Old El Paso Fajita Dinner Kit
+Old El Paso Taco Shells or Tortillas,Old El Paso Taco Shells
 Olive Garden Italian Kitchen Croutons,"Olive Garden Signature Recipe Croutons, Garlic & Romano"
 Olli Salumeria Snack Packs,Olli Salumeria Snack Pack
 Once Upon A Farm Baby Food,Once Upon A Farm Organic Fruit & Veggie Blend
@@ -380,6 +404,7 @@ Once Upon a Farm Snacks,Once Upon a Farm Soft-Baked Bars
 Once Upon a Farm Snacks,"Once Upon a Farm Tractor Wheels Bars, Veggie Puffs, or Melts"
 Orchard Valley Harvest Mix,Orchard Valley Harvest Snack Mix
 Ore-Ida Potatoes or Tots,Ore-Ida Potatoes
+Organic Valley Stringles String Cheese,Organic Valley Organic String Cheese
 Orville Redenbacher's Gourmet Popping Corn,Orville Redenbacher's Gourmet Popcorn
 Oscar Mayer Franks,Oscar Mayer Wieners
 Oscar Mayer Franks,Oscar Mayer Selects Turkey Franks
@@ -387,6 +412,7 @@ Oscar Mayer Franks,Oscar Mayer Turkey Franks
 Outshine Fruit Bars,Outshine Fruit Bars or Magnum Ice Cream Bars
 OxiClean Stain Removers,Oxiclean Stain Remover
 Ozark Nut Roasters Nuts,Ozark Nuts
+P.F. Chang's Home Menu Entrees,P.F. Chang's Home Menu Entree
 "Pace Salsa, Picante Sauce, or Dip",Pace Chunky Salsa
 "Pace Salsa, Picante Sauce, or Dip",Pace Chunky or Picante Salsa or Queso Dip
 Pacific Foods Organic Broth,Pacific Foods Broth
@@ -422,6 +448,7 @@ Pillsbury Brownie or Cake Mix,Pillsbury Cake or Brownie Mix
 Pilon Espresso Ground Coffee,Pilon Ground Espresso Coffee
 Pirucream Bites Bite-Sized Wafer Rolls,Pirucream Rolled Wafer
 Planters Nuts,Planters Peanuts
+Polaner All Fruit Spreadable Fruit Spread,Polaner Fruit Spread
 Poly 2 Pocket 3 Tang Folder,Poly 2-Pocket 3-Tang Folder
 Pop-Tarts Toaster Pastries,Pop-Tarts Protein Toaster Pastries
 Popsicle Ice Pops or Fudgsicle Fudge Bars,Popsicle Ice Pops
@@ -469,11 +496,13 @@ Publix Tea or Lemonade,Publix Green Iced Tea
 Publix Tea or Lemonade,Publix Lemonade
 Publix Tea or Lemonade,Publix Raspberry Iced Tea
 Pup-Peroni Dog Treats,Pup-Peroni Dog Snacks
+Pure Life Purified Water or Zephyrhills Spring Water,Pure Life Purified Water or Zephyrhills Florida Spring Water
 Purely Elizabeth. Oatmeal,Purely Elizabeth. Superfood Oatmeal
 Purex Crystals In-Wash Fragrance Booster,Purex Crystals Fragrance Booster
 Purina Cat Chow or Kitten Chow Cat Food,Purina Cat Chow Cat Food
 Purina One Cat Food,Purina One Smartblend Premium Cat Food
 Purina Tidy Cats Litter,Purina Tidy Cats Cat Litter
+Quaker Chewy Granola Bars,Quaker Chewy Protein Granola Bars
 Quaker Instant Oatmeal or Instant Grits,Quaker Instant Oats
 Quaker Instant Oatmeal or Instant Grits,Quaker Instant Oatmeal
 "Quaker Oats, Old Fashioned or Quick 1-Minute",Quaker Oats
@@ -481,12 +510,14 @@ Quick Shine Floor Cleaner or Polish,Quick Shine Floor Cleaner
 Rachael Ray Nutrish Dog Food,Nutrish Dog Food
 Rachael Ray Nutrish Dog Treats or Soup Bones Chew Bones,Nutrish Dog Treats
 Rachael Ray Nutrish Dog Treats or Soup Bones Chew Bones,Rachael Ray Nutrish Dog Treats
+Rao's Family Size Entrees,Rao's Family Size Pasta
 Rao's Soup,Rao's Slow Simmered Soup
 Raw Essentials Dietary Supplements,Raw Nutrition Essentials Creatine Monohydrate
 Raw Essentials Dietary Supplements,Raw Nutrition Essentials Dietary Supplements
 Reddi Wip Whipped Topping,Reddi Wip Dairy Whipped Topping
 Rica's Way Empanadas,Rica's Way Empanada
 Rienzi Organic Beans,Rienzi Organic Chick Peas
+Ripple Dairy-Free Plant-Based Milk,Ripple Plant-Based Milk
 Ritz Cracker Sandwiches,Ritz or Ritz Bits Cracker Sandwiches
 Roger Wood Lumber Jack Smoked Sausage,Roger Wood Smoked Sausage
 Rotel Tomatoes,Rotel Diced Tomatoes and Green Chilies
@@ -502,6 +533,7 @@ Sandwich Bros. Sandwiches,Sandwich Bros. Snack Sandwiches
 Sara Lee Cheesecake or Pound Cake,Sara Lee Pound Cake
 Sargento Balanced Breaks Snacks,Sargento Balanced Breaks Snack
 Schwarzkopf Keratin Root Spray,Schwarzkopf Root Spray
+Sensible Portions Garden Veggie Straws or Chips,Sensible Portions Garden Veggie Straws
 Sharpie Permanent Markers,Sharpie Permanent Marker
 Sharpie Pocket Highlighters,"Sharpie Pocket Highlighters, Assorted Pastel Colors"
 Shout Laundry Stain Remover,Shout Stain Removers
@@ -512,6 +544,7 @@ Skinny Butcher Crazy Crispy Chicken,Skinny Butcher Crazy Crispy Chicken Bites
 Slate Ultra Protein Shake,Slate Protein Shake
 Slate Ultra Protein Shake,Slate Ultra-Filtered Milk + Coffee
 Slate Ultra Protein Shake,Slate Ready to Drink Protein Shake
+Smarties Original Candy Rolls,Smarties Candy Rolls
 Smithfield Anytime Favorites Ham Steak,Smithfield Anytime Favorites Smoked Ham
 Snapple Tea or Juice Drink,Snapple Tea
 Snickers Chocolate Bar Minis,Snickers Original Chocolate Minis
@@ -521,6 +554,8 @@ Snyder's of Hanover Pretzels,Snyder's of Hanover Pretzel Pieces
 So Good So You Organic Probiotic Juice Shot,So Good So You Organic Cold-Pressed Juice
 So Good So You Organic Probiotic Juice Shot,So Good So You Probiotic Shot
 Softsoap or Irish Spring Body Wash,Softsoap Body Wash
+Solera Sheep's Milk Cheese,Solera Manchego Sheep's Milk Cheese
+Sour Patch Kids Assorted Candy,Sour Patch Kids Candy
 Sour Patch Kids Assorted Candy,Sour Patch Kids Gummies
 Sour Patch Kids Assorted Candy,Sour Patch Kids Soft & Chewy Candy
 Spindrift Sparkling Water,Spindrift Sparkling Water & Real Squeezed Fruit
@@ -530,6 +565,7 @@ Springer Mountain Farms Chicken Breasts,Springer Mountain Farms Chicken Breast
 Springer Mountain Farms Ground Chicken Breast,Springer Mountain Farms Ground Chicken
 St. Dalfour Fruit Spread,St. Dalfour Fruit Spread or Marmalade
 Stacy's Pita Chips or Thins or Bagel Chips,Stacy's Pita Chips
+Stacy's Pita Chips or Thins or Bagel Chips,Stacy's Pita Chips or Bagel or Thins
 Stacy's Pita Chips or Thins or Bagel Chips,Stacy's Sharing Size Pita Chips
 Starbucks Frappuccino Chilled Coffee Drink or Doubleshot,Starbucks Frappuccino Chilled Coffee Drink
 Starbucks Frappuccino Chilled Coffee Drink or Doubleshot,Starbucks Frappuccino Chilled Coffee Drink or Doubleshot Coffee Drink
@@ -552,6 +588,7 @@ Tasty Bite-All,Tasty Bite Organic Rice
 Tasty Bite-All,Tasty Bite Organic Tikka Masala
 Tasty Bite-All,Tasty Bite Potatoes
 Tasty Bite-All,Tasty Bite Simmer Sauce
+Tattooed Chef Bowl,Tattooed Chef Entrees
 The Ginger People Gin Gins Ginger Candy,The Ginger People Ginger Candy
 The Glenlivet Caribbean Reserve,"The Glenlivet, Caribbean Reserve"
 The Laughing Cow Spreadable Cheese,The Laughing Cow Cheese
@@ -587,6 +624,7 @@ Unreal Chocolates,Unreal Dark Chocolate
 Unreal Chocolates,Unreal Dark Chocolate Bars
 Unreal Chocolates,Unreal Dark Chocolate Covered Pretzels
 Utz Potato Chips,Utz Family Size Potato Chips
+Utz Potato Chips,Utz or Zapp's Potato Chips or Pretzels
 Utz Potato Chips,Utz Party Size! Potato Chips
 V8 100% Vegetable & Fruit Juice,V8 100% Vegetable Juice
 Vagisil Feminine Wash,Vagisil Femenine Wash
@@ -599,6 +637,7 @@ Vidamigos Blanco Tequila,Vidamigos Tequila
 Village Candle Wax Melts,Village Candle Melts
 Vine to Bar Dark Chocolate Squares,Vine to Bar Dark Chocolate
 Vine to Bar Dark Chocolate Squares,Vine to Bar Dark Chocolate Blended With Wellvine Wrapped Squares
+Violife Just Like Cheese,Violife Just Like Original Cream Cheese
 Violife Just Like Cheese,Violife Just Like Shreds and Slices
 Vita Classic Atlantic Nova Salmon,Vita Classic Smoked Atlantic Salmon
 Vitafusion Vitamins or Supplements,Vitafusion Dietary Supplements
