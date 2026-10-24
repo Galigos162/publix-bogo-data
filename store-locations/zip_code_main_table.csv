@@ -55379,7 +55379,7 @@ zipcode,storenumber,name,address,city,state,shortname
 34216,1149,Publix on Treasure Island,111 104th Ave,Treasure Island,FL,Treasure Island
 34217,681,Publix at Holmes Beach,3900 E Bay Dr,Holmes Beach,FL,Holmes Beach
 34217,1004,Beachway Plaza,7310 Manatee Ave W,Bradenton,FL,Beachway Plaza
-34217,2099,Seaflower Village Center,7535 Cortez Rd W,Bradenton,FL,Seaflower Village Center
+34217,2099,SeaFlower Village Center,7535 Cortez Rd W,Bradenton,FL,SeaFlower Village Center
 34217,1326,Bradenton Commons,4651 Cortez Rd W,Bradenton,FL,Bradenton Commons
 34217,780,Westgate Shopping Center,3913 Manatee Ave W,Bradenton,FL,Westgate
 34217,1342,Publix at Palmetto,1101 8th Ave W,Palmetto,FL,Palmetto
@@ -55451,7 +55451,6 @@ zipcode,storenumber,name,address,city,state,shortname
 34223,1414,Nokomis Village,1091 Tamiami Trl N,Nokomis,FL,Nokomis Village
 34223,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
 34223,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
-34223,1639,Shops at Casey Key,1350 S. Tamiami Trail,Osprey,FL,Shops at Casey Key
 34224,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
 34224,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
 34224,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
@@ -55466,10 +55465,9 @@ zipcode,storenumber,name,address,city,state,shortname
 34224,734,Venice Commons,1445 E Venice Ave,Venice,FL,Venice Commons
 34224,802,Venice Shopping Center,535 Tamiami Trl S,Venice,FL,Venice
 34224,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
-34224,1433,Plaza Venezia,2438 Laurel Rd E,North Venice,FL,Plaza Venezia
 34228,1432,Shoppes of Bay Isles,525 Bay Isles Pkwy,Longboat Key,FL,Bay Isles
 34228,1897,Bayshore Gardens Shopping Center,6030 14th St W,Bradenton,FL,Bayshore Gardens
-34228,2099,Seaflower Village Center,7535 Cortez Rd W,Bradenton,FL,Seaflower Village Center
+34228,2099,SeaFlower Village Center,7535 Cortez Rd W,Bradenton,FL,SeaFlower Village Center
 34228,1326,Bradenton Commons,4651 Cortez Rd W,Bradenton,FL,Bradenton Commons
 34228,780,Westgate Shopping Center,3913 Manatee Ave W,Bradenton,FL,Westgate
 34228,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
@@ -55751,7 +55749,6 @@ zipcode,storenumber,name,address,city,state,shortname
 34269,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
 34269,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
 34269,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
-34269,1769,Venice Village Shoppes,4173 S Tamiami Trl,Venice,FL,Venice Village
 34275,1433,Plaza Venezia,2438 Laurel Rd E,North Venice,FL,Plaza Venezia
 34275,1414,Nokomis Village,1091 Tamiami Trl N,Nokomis,FL,Nokomis Village
 34275,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
@@ -55781,7 +55778,6 @@ zipcode,storenumber,name,address,city,state,shortname
 34285,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34285,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
 34285,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
-34285,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
 34286,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
 34286,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
 34286,1287,Cocoplum Village Shops,17179 Tamiami Trl,North Port,FL,Cocoplum Vlg Shops
@@ -55796,7 +55792,6 @@ zipcode,storenumber,name,address,city,state,shortname
 34286,734,Venice Commons,1445 E Venice Ave,Venice,FL,Venice Commons
 34286,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
 34286,1433,Plaza Venezia,2438 Laurel Rd E,North Venice,FL,Plaza Venezia
-34286,802,Venice Shopping Center,535 Tamiami Trl S,Venice,FL,Venice
 34287,1287,Cocoplum Village Shops,17179 Tamiami Trl,North Port,FL,Cocoplum Vlg Shops
 34287,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
 34287,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
@@ -55811,7 +55806,6 @@ zipcode,storenumber,name,address,city,state,shortname
 34287,802,Venice Shopping Center,535 Tamiami Trl S,Venice,FL,Venice
 34287,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
 34287,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
-34287,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
 34288,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
 34288,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
 34288,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
@@ -55826,7 +55820,6 @@ zipcode,storenumber,name,address,city,state,shortname
 34288,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
 34288,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
 34288,1769,Venice Village Shoppes,4173 S Tamiami Trl,Venice,FL,Venice Village
-34288,734,Venice Commons,1445 E Venice Ave,Venice,FL,Venice Commons
 34289,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
 34289,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
 34289,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
@@ -55841,7 +55834,6 @@ zipcode,storenumber,name,address,city,state,shortname
 34289,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
 34289,1769,Venice Village Shoppes,4173 S Tamiami Trl,Venice,FL,Venice Village
 34289,734,Venice Commons,1445 E Venice Ave,Venice,FL,Venice Commons
-34289,1433,Plaza Venezia,2438 Laurel Rd E,North Venice,FL,Plaza Venezia
 34291,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
 34291,1287,Cocoplum Village Shops,17179 Tamiami Trl,North Port,FL,Cocoplum Vlg Shops
 34291,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
@@ -55856,7 +55848,6 @@ zipcode,storenumber,name,address,city,state,shortname
 34291,802,Venice Shopping Center,535 Tamiami Trl S,Venice,FL,Venice
 34291,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
 34291,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
-34291,1414,Nokomis Village,1091 Tamiami Trl N,Nokomis,FL,Nokomis Village
 34292,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
 34292,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
 34292,1433,Plaza Venezia,2438 Laurel Rd E,North Venice,FL,Plaza Venezia
@@ -55871,7 +55862,6 @@ zipcode,storenumber,name,address,city,state,shortname
 34292,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
 34292,1797,The Shoppes at Palmer Ranch,8405 Honore Ave Unit 1,Sarasota,FL,Palmer Ranch
 34292,409,The Plaza at Palmer Ranch,8409 S Tamiami Trl,Sarasota,FL,Palmer Ranch
-34292,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
 34293,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
 34293,1769,Venice Village Shoppes,4173 S Tamiami Trl,Venice,FL,Venice Village
 34293,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
@@ -55886,7 +55876,6 @@ zipcode,storenumber,name,address,city,state,shortname
 34293,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
 34293,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
 34293,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
-34293,1639,Shops at Casey Key,1350 S. Tamiami Trail,Osprey,FL,Shops at Casey Key
 34420,1747,Belleview Regional Shopping Center,10301 S US Hwy 441,Belleview,FL,Belleview
 34420,733,Heather Island Plaza,7578 SE Maricamp Rd Ste 100,Ocala,FL,Heather Island
 34420,4,Mulberry Grove Plaza Shopping Center,8780 SE 165th Mulberry Ln,The Villages,FL,Mulberry Grove
