@@ -392,6 +392,20 @@ zipcode,storenumber,name,address,city,state,shortname
 20057,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20057,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20057,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+20059,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20059,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20059,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20059,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20059,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20059,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20059,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20059,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20059,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20059,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20059,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20059,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20059,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20059,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20064,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20064,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20064,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -1004,6 +1018,20 @@ zipcode,storenumber,name,address,city,state,shortname
 20204,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20204,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20204,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+20220,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20220,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20220,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20220,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20220,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20220,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20220,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20220,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20220,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20220,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20220,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20220,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20220,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20220,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20228,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20228,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20228,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -1064,6 +1092,21 @@ zipcode,storenumber,name,address,city,state,shortname
 20245,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20245,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20245,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+20250,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20250,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20250,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20250,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20250,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20250,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20250,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20250,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20250,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20250,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20250,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20250,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20250,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20250,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+20250,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 20260,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20260,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20260,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -1133,6 +1176,21 @@ zipcode,storenumber,name,address,city,state,shortname
 20373,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20373,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20373,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+20388,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20388,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20388,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20388,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20388,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20388,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20388,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20388,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20388,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20388,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20388,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20388,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20388,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20388,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+20388,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 20390,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20390,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20390,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -1163,6 +1221,35 @@ zipcode,storenumber,name,address,city,state,shortname
 20405,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20405,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20405,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+20408,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20408,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20408,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20408,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20408,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20408,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20408,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20408,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20408,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20408,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20408,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20408,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20408,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20408,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+20415,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20415,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20415,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20415,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20415,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20415,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20415,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20415,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20415,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20415,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20415,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20415,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20415,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20415,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+20415,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 20418,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20418,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20418,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -1178,6 +1265,19 @@ zipcode,storenumber,name,address,city,state,shortname
 20418,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20418,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20418,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+20422,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20422,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20422,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20422,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20422,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20422,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20422,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20422,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20422,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20422,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20422,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20422,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20422,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20427,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20427,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20427,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -1193,6 +1293,20 @@ zipcode,storenumber,name,address,city,state,shortname
 20427,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20427,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20427,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+20431,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20431,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20431,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20431,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20431,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20431,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20431,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20431,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20431,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20431,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20431,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20431,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20431,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20431,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20506,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20506,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20506,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -1223,6 +1337,20 @@ zipcode,storenumber,name,address,city,state,shortname
 20510,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20510,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20510,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+20515,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20515,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20515,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20515,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20515,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20515,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20515,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20515,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20515,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20515,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20515,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20515,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20515,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20515,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20520,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20520,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20520,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -1238,6 +1366,20 @@ zipcode,storenumber,name,address,city,state,shortname
 20520,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20520,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20520,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+20530,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20530,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20530,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20530,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20530,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20530,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20530,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20530,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20530,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20530,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20530,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20530,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20530,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20530,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20535,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20535,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20535,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -1268,6 +1410,19 @@ zipcode,storenumber,name,address,city,state,shortname
 20540,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20540,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20540,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+20542,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20542,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20542,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20542,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20542,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20542,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20542,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20542,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20542,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20542,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20542,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20542,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20542,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20551,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20551,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20551,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -1343,6 +1498,21 @@ zipcode,storenumber,name,address,city,state,shortname
 20566,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 20566,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20566,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+20591,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20591,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20591,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20591,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20591,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20591,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20591,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20591,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20591,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20591,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20591,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20591,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20591,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20591,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+20591,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 20593,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20593,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20593,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -1883,6 +2053,21 @@ zipcode,storenumber,name,address,city,state,shortname
 20653,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
 20653,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20653,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20656,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20656,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20656,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20656,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20656,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20656,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20656,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20656,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20656,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20656,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20656,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20656,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20656,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20656,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+20656,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 20657,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20657,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 20657,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
@@ -1943,6 +2128,21 @@ zipcode,storenumber,name,address,city,state,shortname
 20660,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
 20660,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 20660,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
+20661,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20661,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20661,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20661,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20661,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20661,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20661,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20661,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+20661,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20661,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+20661,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20661,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+20661,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20661,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+20661,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 20662,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20662,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20662,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -2636,6 +2836,11 @@ zipcode,storenumber,name,address,city,state,shortname
 20770,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
 20770,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 20770,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20771,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20771,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20771,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20771,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20771,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
 20772,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20772,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20772,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -2932,6 +3137,37 @@ zipcode,storenumber,name,address,city,state,shortname
 20886,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20886,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20886,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20889,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20889,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20889,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20889,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20889,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20889,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20889,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20889,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20889,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20889,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20892,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20892,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20892,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20892,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20892,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20892,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20892,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20892,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20892,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20892,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20894,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+20894,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+20894,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+20894,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+20894,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+20894,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+20894,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+20894,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+20894,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+20894,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+20894,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
 20895,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20895,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 20895,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -3018,6 +3254,9 @@ zipcode,storenumber,name,address,city,state,shortname
 21014,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21015,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21017,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+21023,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+21023,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+21023,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21029,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21029,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21029,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -3262,6 +3501,9 @@ zipcode,storenumber,name,address,city,state,shortname
 21231,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21231,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21231,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+21233,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+21233,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+21233,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21234,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21234,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21234,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -3289,9 +3531,15 @@ zipcode,storenumber,name,address,city,state,shortname
 21252,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21252,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21252,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+21285,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+21285,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+21285,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21286,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21286,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21286,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+21287,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+21287,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+21287,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21401,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21401,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21401,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -3606,6 +3854,9 @@ zipcode,storenumber,name,address,city,state,shortname
 21714,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21714,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21714,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+21715,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+21715,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+21715,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21716,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21716,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21716,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -5078,6 +5329,21 @@ zipcode,storenumber,name,address,city,state,shortname
 22469,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 22469,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
 22469,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+22472,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+22472,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+22472,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
+22472,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+22472,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+22472,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+22472,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+22472,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+22472,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+22472,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+22472,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+22472,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+22472,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+22472,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+22472,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
 22473,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 22473,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 22473,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
@@ -5987,6 +6253,21 @@ zipcode,storenumber,name,address,city,state,shortname
 22724,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 22724,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 22724,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+22725,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+22725,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+22725,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+22725,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+22725,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+22725,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+22725,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+22725,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+22725,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+22725,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+22725,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+22725,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+22725,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+22725,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+22725,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 22726,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 22726,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 22726,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -6242,6 +6523,21 @@ zipcode,storenumber,name,address,city,state,shortname
 22743,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 22743,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
 22743,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+22746,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+22746,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+22746,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+22746,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+22746,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+22746,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+22746,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+22746,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+22746,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+22746,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+22746,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+22746,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+22746,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+22746,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+22746,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 22747,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 22747,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 22747,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -6621,6 +6917,21 @@ zipcode,storenumber,name,address,city,state,shortname
 22904,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 22904,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 22904,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+22908,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+22908,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+22908,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+22908,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+22908,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+22908,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+22908,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+22908,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+22908,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+22908,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+22908,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
+22908,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+22908,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+22908,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+22908,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 22911,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 22911,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 22911,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
@@ -6906,6 +7217,21 @@ zipcode,storenumber,name,address,city,state,shortname
 22952,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 22952,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
 22952,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+22957,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+22957,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+22957,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+22957,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+22957,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+22957,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+22957,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+22957,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+22957,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+22957,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+22957,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+22957,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+22957,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+22957,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+22957,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 22958,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
 22958,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
 22958,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
@@ -7731,6 +8057,21 @@ zipcode,storenumber,name,address,city,state,shortname
 23079,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
 23079,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 23079,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
+23081,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
+23081,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
+23081,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
+23081,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
+23081,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+23081,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
+23081,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+23081,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+23081,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+23081,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
+23081,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+23081,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+23081,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+23081,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+23081,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
 23083,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 23083,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 23083,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
@@ -8256,6 +8597,21 @@ zipcode,storenumber,name,address,city,state,shortname
 23146,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 23146,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 23146,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+23147,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
+23147,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+23147,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
+23147,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+23147,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+23147,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+23147,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+23147,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+23147,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+23147,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+23147,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+23147,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+23147,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+23147,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+23147,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 23148,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 23148,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
 23148,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
@@ -8856,6 +9212,21 @@ zipcode,storenumber,name,address,city,state,shortname
 23250,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
 23250,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
 23250,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+23284,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+23284,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+23284,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+23284,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+23284,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+23284,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+23284,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+23284,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+23284,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+23284,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+23284,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+23284,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+23284,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+23284,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+23284,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 23294,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
 23294,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
 23294,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
@@ -8871,6 +9242,21 @@ zipcode,storenumber,name,address,city,state,shortname
 23294,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 23294,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 23294,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
+23298,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+23298,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+23298,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+23298,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+23298,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+23298,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+23298,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+23298,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+23298,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+23298,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+23298,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+23298,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+23298,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+23298,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+23298,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 23301,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
 23301,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 23301,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
@@ -10231,6 +10617,36 @@ zipcode,storenumber,name,address,city,state,shortname
 23666,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 23666,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
 23666,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+23667,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
+23667,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
+23667,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
+23667,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
+23667,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
+23667,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
+23667,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+23667,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+23667,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+23667,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+23667,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+23667,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+23667,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+23667,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
+23667,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+23668,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
+23668,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
+23668,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
+23668,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
+23668,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
+23668,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
+23668,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+23668,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+23668,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+23668,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+23668,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+23668,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+23668,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+23668,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
+23668,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 23669,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
 23669,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 23669,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
@@ -10246,6 +10662,21 @@ zipcode,storenumber,name,address,city,state,shortname
 23669,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 23669,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
 23669,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+23681,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
+23681,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
+23681,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
+23681,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
+23681,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
+23681,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
+23681,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+23681,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+23681,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+23681,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+23681,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+23681,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+23681,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+23681,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+23681,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
 23690,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 23690,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
 23690,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
@@ -10936,6 +11367,21 @@ zipcode,storenumber,name,address,city,state,shortname
 23868,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 23868,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 23868,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+23870,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
+23870,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+23870,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
+23870,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
+23870,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+23870,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+23870,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+23870,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+23870,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
+23870,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
+23870,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+23870,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+23870,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+23870,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+23870,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
 23872,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
 23872,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 23872,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
@@ -11596,6 +12042,21 @@ zipcode,storenumber,name,address,city,state,shortname
 23954,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
 23954,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 23954,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+23955,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
+23955,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+23955,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+23955,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+23955,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
+23955,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+23955,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+23955,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+23955,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+23955,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+23955,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+23955,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+23955,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+23955,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+23955,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
 23958,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 23958,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 23958,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
@@ -11842,6 +12303,13 @@ zipcode,storenumber,name,address,city,state,shortname
 24020,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 24020,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 24020,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
+24022,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+24022,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+24022,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
+24022,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
+24022,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
+24022,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
+24022,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 24053,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 24053,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 24053,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
@@ -11909,6 +12377,13 @@ zipcode,storenumber,name,address,city,state,shortname
 24060,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 24060,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
 24060,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+24061,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+24061,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+24061,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
+24061,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
+24061,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
+24061,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
+24061,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 24064,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
 24064,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 24064,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
@@ -12220,6 +12695,14 @@ zipcode,storenumber,name,address,city,state,shortname
 24128,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 24128,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 24128,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
+24129,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+24129,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+24129,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
+24129,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
+24129,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
+24129,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+24129,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
+24129,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
 24131,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 24132,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 24132,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
@@ -13088,6 +13571,18 @@ zipcode,storenumber,name,address,city,state,shortname
 24326,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 24326,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 24326,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+24327,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+24327,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
+24327,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+24327,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+24327,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+24327,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
+24327,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+24327,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+24327,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
+24327,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+24327,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
+24327,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 24328,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 24328,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 24328,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
@@ -13580,6 +14075,21 @@ zipcode,storenumber,name,address,city,state,shortname
 24467,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
 24467,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 24467,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+24469,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+24469,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+24469,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+24469,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+24469,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+24469,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+24469,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+24469,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+24469,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+24469,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+24469,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
+24469,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+24469,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
+24469,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+24469,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 24471,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 24471,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 24471,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
@@ -13762,6 +14272,21 @@ zipcode,storenumber,name,address,city,state,shortname
 24504,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 24504,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
 24504,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
+24515,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
+24515,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+24515,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+24515,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+24515,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
+24515,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
+24515,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+24515,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
+24515,1566,Nuckols Place,5400 Wyndham Forest Dr,Glen Allen,VA,Nuckols Place
+24515,1595,Westpark Shopping Center,9645 W Broad St,Glen Allen,VA,Westpark Center
+24515,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+24515,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
+24515,1589,The Shoppes at Crossridge,10250 Staples Mill Rd,Glen Allen,VA,Crossridge
+24515,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+24515,1591,Virginia Center Marketplace,10150 Brook Rd,Glen Allen,VA,Virginia Center
 24517,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
 24517,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 24517,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
@@ -14587,6 +15112,10 @@ zipcode,storenumber,name,address,city,state,shortname
 24738,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 24738,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 24738,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+24739,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+24739,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+24739,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+24739,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 24740,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 24740,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 24740,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
@@ -14647,6 +15176,8 @@ zipcode,storenumber,name,address,city,state,shortname
 24851,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 24853,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 24853,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
+24855,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+24855,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 24861,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 24861,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 24862,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
@@ -14692,6 +15223,8 @@ zipcode,storenumber,name,address,city,state,shortname
 24894,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 24894,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 24894,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+24895,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+24895,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 24898,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 24898,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 24918,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
@@ -14732,6 +15265,9 @@ zipcode,storenumber,name,address,city,state,shortname
 25420,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 25420,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 25420,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+25421,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+25421,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+25421,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 25422,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 25422,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 25425,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
@@ -22015,6 +22551,19 @@ zipcode,storenumber,name,address,city,state,shortname
 28360,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
 28360,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
 28360,1568,Prince Creek Village Center,11920 Hwy 707 Ste A,Murrells Inlet,SC,Prince Creek
+28362,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
+28362,1510,Publix at Forest Square,2170 Oakheart Rd,Myrtle Beach,SC,Forest Square
+28362,1812,Marketplace at the Mill,136 Sapwood Rd,Myrtle Beach,SC,Mkplace at the Mill
+28362,1479,Coastal North Town Center,1576 Highway 17 N,North Myrtle Beach,SC,Coastal North
+28362,1524,Village Shops at Grande Dunes,7925 N Kings Hwy,Myrtle Beach,SC,Grande Dunes
+28362,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
+28362,1806,Coventry Marketplace,955 Wood Duck Dr,Myrtle Beach,SC,Coventry Marketplace
+28362,1631,Ocean Isle Beach Market Place,1560 Market Place Blvd,Ocean Isle Beach,NC,Ocean Isle Beach
+28362,1568,Prince Creek Village Center,11920 Hwy 707 Ste A,Murrells Inlet,SC,Prince Creek
+28362,1478,Pawleys Island Plaza,10225 Ocean Hwy # 17,Pawleys Island,SC,Pawleys Island Plz
+28362,1703,Oak Island Marketplace,5003 E Oak Island Dr,Oak Island,NC,Oak Island Mktpl
+28362,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
+28362,1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,Publix Comm/Fed Pt
 28363,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28363,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28363,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
@@ -22085,6 +22634,21 @@ zipcode,storenumber,name,address,city,state,shortname
 28367,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28367,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
 28367,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+28368,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
+28368,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
+28368,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+28368,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+28368,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+28368,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+28368,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+28368,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+28368,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+28368,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+28368,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+28368,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+28368,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+28368,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+28368,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
 28369,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28369,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28369,1479,Coastal North Town Center,1576 Highway 17 N,North Myrtle Beach,SC,Coastal North
@@ -22193,6 +22757,19 @@ zipcode,storenumber,name,address,city,state,shortname
 28377,1510,Publix at Forest Square,2170 Oakheart Rd,Myrtle Beach,SC,Forest Square
 28377,1812,Marketplace at the Mill,136 Sapwood Rd,Myrtle Beach,SC,Mkplace at the Mill
 28377,1524,Village Shops at Grande Dunes,7925 N Kings Hwy,Myrtle Beach,SC,Grande Dunes
+28378,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
+28378,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
+28378,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+28378,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+28378,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+28378,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+28378,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+28378,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+28378,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+28378,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+28378,1479,Coastal North Town Center,1576 Highway 17 N,North Myrtle Beach,SC,Coastal North
+28378,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+28378,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
 28379,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28379,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28379,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
@@ -24409,6 +24986,21 @@ zipcode,storenumber,name,address,city,state,shortname
 28640,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28640,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28640,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+28641,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+28641,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28641,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
+28641,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28641,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28641,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+28641,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28641,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28641,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28641,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
+28641,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28641,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
+28641,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28641,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
+28641,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28642,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28642,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28642,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
@@ -25174,6 +25766,21 @@ zipcode,storenumber,name,address,city,state,shortname
 28709,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
 28709,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28709,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
+28710,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28710,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28710,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28710,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28710,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28710,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
+28710,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
+28710,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
+28710,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
+28710,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
+28710,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
+28710,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
+28710,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
+28710,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
+28710,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
 28711,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28711,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28711,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
@@ -25849,6 +26456,21 @@ zipcode,storenumber,name,address,city,state,shortname
 28768,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
 28768,1012,Mauldin Square,111 W Butler Rd,Mauldin,SC,Mauldin Square
 28768,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28770,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28770,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28770,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28770,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28770,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
+28770,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28770,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+28770,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
+28770,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
+28770,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
+28770,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
+28770,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
+28770,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
+28770,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
+28770,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28771,1779,Foothills Mall,198 Foothills Mall,Maryville,TN,Foothills Mall
 28771,1515,Valley Forge Shopping Center,2656 Parkway,Pigeon Forge,TN,Valley Forge S/C
 28771,1416,Northshore Town Center,2010 Town Center Blvd,Knoxville,TN,Northshore Twn Ctr
@@ -27652,6 +28274,21 @@ zipcode,storenumber,name,address,city,state,shortname
 29175,1485,Cherry Road Crossing,2186 Cherry Rd Ste 101,Rock Hill,SC,Cherry Road Cr
 29175,883,Murray Landing,2732 N Lake Dr,Columbia,SC,Murray Landing
 29175,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
+29177,883,Murray Landing,2732 N Lake Dr,Columbia,SC,Murray Landing
+29177,1511,Chapin Crossing,1235 Chapin Rd,Chapin,SC,Chapin Crossing
+29177,17,Kennerly Crossing,7320 Broad River Rd,Irmo,SC,Kennerly Crossing
+29177,656,Columbiana Station,150 Harbison Blvd,Columbia,SC,Columbiana Station
+29177,512,Lexington Place,100 Old Cherokee Rd,Lexington,SC,Lexington Place
+29177,1383,Hendrix Crossing,847 Highway 378 W,Lexington,SC,Hendrix Crossing
+29177,1095,Gervais Place,501 Gervais St,Columbia,SC,Gervais Place
+29177,1637,Publix at Lake Crossing,5441 Platt Springs Rd,Lexington,SC,Lake Crossing
+29177,67,Rosewood Shopping Center,2800 Rosewood Dr,Columbia,SC,Rosewood
+29177,597,Trenholm Plaza,4840 Forest Dr Ste 10,Columbia,SC,Trenholm Plaza
+29177,829,Rice Creek Village,4611 Hard Scrabble Rd,Columbia,SC,Rice Creek Village
+29177,587,North Pointe Shopping Center,10128 Two Notch Rd,Columbia,SC,North Pointe
+29177,2001,Market at Spears Creek,185 Earth Rd,Columbia,SC,Spears Creek
+29177,506,Eastgate Shopping Center,250 Eastgate Dr,Aiken,SC,Eastgate
+29177,2040,The Village at Woodside,1535 Silver Bluff Rd,Aiken,SC,The Village at Woodside
 29178,1511,Chapin Crossing,1235 Chapin Rd,Chapin,SC,Chapin Crossing
 29178,883,Murray Landing,2732 N Lake Dr,Columbia,SC,Murray Landing
 29178,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
@@ -28776,6 +29413,21 @@ zipcode,storenumber,name,address,city,state,shortname
 29424,2038,The Market Place at Carnes Crossroads,2700 N Main St Ste A,Summerville,SC,The Market Place at Carnes Crossroads
 29424,1775,Moncks Corner Marketplace,2830 Hwy 52,Moncks Corner,SC,Moncks Corner Mktpl
 29424,1866,One Nexton,1274 Nexton Pkwy,Summerville,SC,One Nexton
+29425,1599,10 Westedge,10 Westedge St Ste 100,Charleston,SC,10 Westedge
+29425,633,Merchants Village,520 Folly Rd,Charleston,SC,Merchants Village
+29425,472,Ashley Landing Mall,1401 Sam Rittenberg Blvd,Charleston,SC,Ashley Landing
+29425,1645,Riverland Market,1411 Folly Rd Ste 100,Charleston,SC,Riverland Market
+29425,449,Queensborough Shopping Center,1000 Johnnie Dodds Blvd Ste 106,Mount Pleasant,SC,Queensborough
+29425,1055,Publix at North Point,1435 Ben Sawyer Blvd,Mount Pleasant,SC,North Point
+29425,2090,Daniel Island Town Center,162 Seven Farms Dr Ste 100,Charleston,SC,Daniel Island Town Center
+29425,1145,West Ashley Place,3642 Savannah Hwy Ste 132,Johns Island,SC,West Ashley Place
+29425,1646,Point Hope Commons,730 Hopewell Dr,Charleston,SC,Point Hope Commons
+29425,1081,The Shoppes of Park West,1125 Park West Blvd,Mount Pleasant,SC,Park West
+29425,824,Palmetto Pavilion,8409 Dorchester Rd Ste 104,North Charleston,SC,Palmetto Pavilion
+29425,483,Oakbrook Shopping Center,1575 Old Trolley Rd,Summerville,SC,Oakbrook
+29425,2038,The Market Place at Carnes Crossroads,2700 N Main St Ste A,Summerville,SC,The Market Place at Carnes Crossroads
+29425,1775,Moncks Corner Marketplace,2830 Hwy 52,Moncks Corner,SC,Moncks Corner Mktpl
+29425,1866,One Nexton,1274 Nexton Pkwy,Summerville,SC,One Nexton
 29426,1145,West Ashley Place,3642 Savannah Hwy Ste 132,Johns Island,SC,West Ashley Place
 29426,824,Palmetto Pavilion,8409 Dorchester Rd Ste 104,North Charleston,SC,Palmetto Pavilion
 29426,1120,Paradise Shoppes of Summerville,1585 Central Ave Unit A,Summerville,SC,Summerville
@@ -29346,6 +29998,21 @@ zipcode,storenumber,name,address,city,state,shortname
 29485,1646,Point Hope Commons,730 Hopewell Dr,Charleston,SC,Point Hope Commons
 29485,449,Queensborough Shopping Center,1000 Johnnie Dodds Blvd Ste 106,Mount Pleasant,SC,Queensborough
 29485,1645,Riverland Market,1411 Folly Rd Ste 100,Charleston,SC,Riverland Market
+29486,1266,The Market at Cane Bay,1724 State Rd,Summerville,SC,Market/Cane Bay
+29486,1866,One Nexton,1274 Nexton Pkwy,Summerville,SC,One Nexton
+29486,2038,The Market Place at Carnes Crossroads,2700 N Main St Ste A,Summerville,SC,The Market Place at Carnes Crossroads
+29486,1120,Paradise Shoppes of Summerville,1585 Central Ave Unit A,Summerville,SC,Summerville
+29486,1775,Moncks Corner Marketplace,2830 Hwy 52,Moncks Corner,SC,Moncks Corner Mktpl
+29486,483,Oakbrook Shopping Center,1575 Old Trolley Rd,Summerville,SC,Oakbrook
+29486,824,Palmetto Pavilion,8409 Dorchester Rd Ste 104,North Charleston,SC,Palmetto Pavilion
+29486,1145,West Ashley Place,3642 Savannah Hwy Ste 132,Johns Island,SC,West Ashley Place
+29486,1646,Point Hope Commons,730 Hopewell Dr,Charleston,SC,Point Hope Commons
+29486,472,Ashley Landing Mall,1401 Sam Rittenberg Blvd,Charleston,SC,Ashley Landing
+29486,2090,Daniel Island Town Center,162 Seven Farms Dr Ste 100,Charleston,SC,Daniel Island Town Center
+29486,1599,10 Westedge,10 Westedge St Ste 100,Charleston,SC,10 Westedge
+29486,449,Queensborough Shopping Center,1000 Johnnie Dodds Blvd Ste 106,Mount Pleasant,SC,Queensborough
+29486,633,Merchants Village,520 Folly Rd,Charleston,SC,Merchants Village
+29486,1081,The Shoppes of Park West,1125 Park West Blvd,Mount Pleasant,SC,Park West
 29487,1145,West Ashley Place,3642 Savannah Hwy Ste 132,Johns Island,SC,West Ashley Place
 29487,1645,Riverland Market,1411 Folly Rd Ste 100,Charleston,SC,Riverland Market
 29487,633,Merchants Village,520 Folly Rd,Charleston,SC,Merchants Village
@@ -30061,6 +30728,19 @@ zipcode,storenumber,name,address,city,state,shortname
 29588,1081,The Shoppes of Park West,1125 Park West Blvd,Mount Pleasant,SC,Park West
 29588,1775,Moncks Corner Marketplace,2830 Hwy 52,Moncks Corner,SC,Moncks Corner Mktpl
 29588,1646,Point Hope Commons,730 Hopewell Dr,Charleston,SC,Point Hope Commons
+29589,1510,Publix at Forest Square,2170 Oakheart Rd,Myrtle Beach,SC,Forest Square
+29589,1812,Marketplace at the Mill,136 Sapwood Rd,Myrtle Beach,SC,Mkplace at the Mill
+29589,1806,Coventry Marketplace,955 Wood Duck Dr,Myrtle Beach,SC,Coventry Marketplace
+29589,1524,Village Shops at Grande Dunes,7925 N Kings Hwy,Myrtle Beach,SC,Grande Dunes
+29589,1568,Prince Creek Village Center,11920 Hwy 707 Ste A,Murrells Inlet,SC,Prince Creek
+29589,1479,Coastal North Town Center,1576 Highway 17 N,North Myrtle Beach,SC,Coastal North
+29589,1478,Pawleys Island Plaza,10225 Ocean Hwy # 17,Pawleys Island,SC,Pawleys Island Plz
+29589,1631,Ocean Isle Beach Market Place,1560 Market Place Blvd,Ocean Isle Beach,NC,Ocean Isle Beach
+29589,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
+29589,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
+29589,1703,Oak Island Marketplace,5003 E Oak Island Dr,Oak Island,NC,Oak Island Mktpl
+29589,1775,Moncks Corner Marketplace,2830 Hwy 52,Moncks Corner,SC,Moncks Corner Mktpl
+29589,1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,Publix Comm/Fed Pt
 29590,1775,Moncks Corner Marketplace,2830 Hwy 52,Moncks Corner,SC,Moncks Corner Mktpl
 29590,1266,The Market at Cane Bay,1724 State Rd,Summerville,SC,Market/Cane Bay
 29590,2038,The Market Place at Carnes Crossroads,2700 N Main St Ste A,Summerville,SC,The Market Place at Carnes Crossroads
@@ -32638,6 +33318,21 @@ zipcode,storenumber,name,address,city,state,shortname
 30017,505,Promenade at Pleasant Hill,1625 Pleasant Hill Rd Ste 200,Duluth,GA,Pleasant Hill
 30017,538,Publix at Old Peachtree,2380 Buford Dr Ste 201,Lawrenceville,GA,Old Peachtree
 30017,1178,Village at Mulberry Park,831 Auburn Rd,Dacula,GA,Mulberry Village
+30018,1811,Covington Town Center,12701 Town Center Dr,Covington,GA,Covington Town Center
+30018,1736,Monroe Pavilion,900 Pavilion Pkwy,Monroe,GA,Monroe Pavilion
+30018,603,Loganville Town Centre,4325 Atlanta Hwy,Loganville,GA,Loganville
+30018,1118,Milstead Crossing,1591 Georgia Highway 20 NE,Conyers,GA,Milstead Crossing
+30018,744,Salem Road Station,13015 Brown Bridge Rd,Covington,GA,Salem Road Station
+30018,1411,The Village at Millers Chapel,2159 Highway 20 SE,Conyers,GA,Miller's Chapel
+30018,789,Grayson Village,2715 Loganville Hwy SW,Loganville,GA,Grayson Village
+30018,539,Publix at Centerville,3550 Centerville Hwy Ste 201,Snellville,GA,Centerville
+30018,1251,Barrow Crossing,916 Loganville Hwy Ste 200,Bethlehem,GA,Barrow Crossing
+30018,508,Presidential  Markets,1905 Scenic Hwy N Ste 4000,Snellville,GA,Presidential Markets
+30018,1071,Smyrna Crossing,2880 Georgia Highway 212 SW,Conyers,GA,Smyrna Crossing
+30018,1078,The Village Shoppes at Simonton,930 New Hope Rd,Lawrenceville,GA,Simonton
+30018,494,Deshon Plaza,380 N Deshon Rd,Stone Mountain,GA,Deshon Plaza
+30018,1893,Publix at Harbins 316,952 Harbins Rd,Dacula,GA,Harbins 316
+30018,859,Village Shoppes of Sugarloaf,3370 Sugarloaf Pkwy,Lawrenceville,GA,Sugarloaf
 30019,1893,Publix at Harbins 316,952 Harbins Rd,Dacula,GA,Harbins 316
 30019,803,Dacula Village,720 Dacula Rd,Dacula,GA,Dacula Village
 30019,1178,Village at Mulberry Park,831 Auburn Rd,Dacula,GA,Mulberry Village
@@ -33297,6 +33992,21 @@ zipcode,storenumber,name,address,city,state,shortname
 30088,539,Publix At Centerville,3550 Centerville Hwy Ste 201,Snellville,GA,Centerville
 30088,1647,Madison Yards,905 Memorial Dr SE,Atlanta,GA,Madison Yards
 30088,724,Publix at Ponce,1001 Ponce De Leon Ave NE,Atlanta,GA,Ponce
+30090,672,Sandy Plains Exchange,1860 Sandy Plains Rd,Marietta,GA,Sandy Plains
+30090,769,Publix at Barrett Parkway,1635 Old Highway 41 NW,Kennesaw,GA,Barrett Parkway
+30090,280,Piedmont Commons Shopping Center,1050 E Piedmont Rd Ste 130,Marietta,GA,Piedmont Commons
+30090,548,Towne Center Prado,50 Barrett Pkwy Ste 1000,Marietta,GA,Towne Center Prado
+30090,561,West Cobb Marketplace,2500 Dallas Hwy SW Ste 300,Marietta,GA,West Cobb
+30090,122,Macland Pointe Shopping Center,1750 Powder Springs Rd SW,Marietta,GA,Macland Pointe
+30090,725,Sope Creek Crossing,2900 Delk Rd SE Ste 1150,Marietta,GA,Sope Creek
+30090,1250,Jonquil Plaza,2955 Atlanta Rd SE,Smyrna,GA,Jonquil Plaza
+30090,559,Publix at Cobb Parkway,2774 N Cobb Pkwy Ste 201,Kennesaw,GA,Cobb Parkway
+30090,764,Orchard Square Shopping Center,4290 Bells Ferry Rd NW,Kennesaw,GA,Orchard Square
+30090,1745,East Cobb Crossing,4269 Roswell Rd Bldg 100 Ste 108-112,Marietta,GA,East Cobb Crossing
+30090,536,Paces Ferry Center,2451 Cumberland Pkwy SE,Atlanta,GA,Paces Ferry Center
+30090,1077,Kennesaw Walk,2090 Baker Rd NW,Kennesaw,GA,Kennesaw Walk
+30090,33,Highland Plaza,3605 Sandy Plains Rd Ste 200,Marietta,GA,Highland Plaza
+30090,541,Powers Ferry Village,6300 Powers Ferry Rd,Sandy Springs,GA,Powers Ferry
 30092,560,Peachtree Square Shopping Center,3200 Holcomb Bridge Rd,Peachtree Corners,GA,Peachtree Square
 30092,722,Spalding Corners,7736 Spalding Dr,Norcross,GA,Spalding Corners
 30092,469,Haynes Bridge Village,9925 Haynes Bridge Rd,Johns Creek,GA,Haynes Bridge
@@ -33507,6 +34217,21 @@ zipcode,storenumber,name,address,city,state,shortname
 30110,470,Coweta Crossing Shopping Center,370 Bullsboro Dr,Newnan,GA,Coweta Crossing
 30110,1718,Sandtown Crossing,5829 Campbellton Rd SW Ste 110,Atlanta,GA,Sandtown Crossing
 30110,561,West Cobb Marketplace,2500 Dallas Hwy SW Ste 300,Marietta,GA,West Cobb
+30111,670,Publix at Powder Springs,"3721 New Macland Rd, Ste 300",Powder Springs,GA,Powder Springs
+30111,122,Macland Pointe Shopping Center,1750 Powder Springs Rd SW,Marietta,GA,Macland Pointe
+30111,730,Paradise Crossing,2675 Lee Rd,Lithia Springs,GA,Paradise Crossing
+30111,1112,Providence Pavilion,1025 Veterans Memorial Hwy SE Ste 400,Mableton,GA,Providence Pav
+30111,496,Lost Mountain Crossing,5100 Dallas Hwy,Powder Springs,GA,Lost Mountain Crossing
+30111,561,West Cobb Marketplace,2500 Dallas Hwy SW Ste 300,Marietta,GA,West Cobb
+30111,753,Highland Station,4480 S Cobb Dr SE,Smyrna,GA,Highland Station
+30111,1250,Jonquil Plaza,2955 Atlanta Rd SE,Smyrna,GA,Jonquil Plaza
+30111,1718,Sandtown Crossing,5829 Campbellton Rd SW Ste 110,Atlanta,GA,Sandtown Crossing
+30111,485,Cosby Station,3316 Highway 5,Douglasville,GA,Cosby Station
+30111,536,Paces Ferry Center,2451 Cumberland Pkwy SE,Atlanta,GA,Paces Ferry Center
+30111,1139,The Shoppes at Deer Creek,4300 Chapel Hill Rd,Douglasville,GA,Deer Creek
+30111,503,Cascade Crossing Shopping Center,3695 Cascade Rd SW,Atlanta,GA,Cascade Crossing
+30111,1063,Paradise Shoppes of New Hope,51 E Paulding Dr,Dallas,GA,New Hope
+30111,769,Publix at Barrett Parkway,1635 Old Highway 41 NW,Kennesaw,GA,Barrett Parkway
 30113,1217,The Village at New Georgia,7953 Villa Rica Hwy,Dallas,GA,Vlg at New Georgia
 30113,2011,Villa Rica Town Center,103 Villa Rica Pkwy Ste 200,Villa Rica,GA,Villa Rica
 30113,608,McIntosh Plaza,1109 S Park St Ste 600,Carrollton,GA,McIntosh Plaza
@@ -34437,6 +35162,21 @@ zipcode,storenumber,name,address,city,state,shortname
 30228,1786,Kelleytown Village,3500 Hwy 155 N,McDonough,GA,Kelleytown Village
 30228,1761,Senoia Village,8080 Wells St,Senoia,GA,Senoia Village
 30228,1725,Shoppes at Ola Crossroads,3479 Hwy 81 E,McDonough,GA,Ola Crossroads
+30229,1761,Senoia Village,8080 Wells St,Senoia,GA,Senoia Village
+30229,799,Wilshire Pavilion,1200 Highway 74 S Ste 20,Peachtree City,GA,Wilshire Pavilion
+30229,1890,Fischer Marketplace,4957 Hwy 34 E,Sharpsburg,GA,Fischer Marketplace
+30229,546,Publix at Peachtree East,"130 Peachtree East Ct, Ste #4",Peachtree City,GA,Peachtree East
+30229,786,Coweta Crossroads,100 Glenda Trce,Newnan,GA,Coweta Crossroads
+30229,1143,Stillwood Pavilion at Summer Grove,1111 Lower Fayetteville Rd,Newnan,GA,Stillwood Pavilion
+30229,1087,Summit Point,840 Glynn St S,Fayetteville,GA,Summit Point
+30229,470,Coweta Crossing Shopping Center,370 Bullsboro Dr,Newnan,GA,Coweta Crossing
+30229,1816,Arbor Springs Plaza,4000 N Hwy 29,Newnan,GA,Arbor Springs Plaza
+30229,892,South Hampton Village,1512 Highway 74 N,Tyrone,GA,South Hampton
+30229,579,Fayette Pavilion,108 Pavilion Pkwy,Fayetteville,GA,Fayette  Pavillion
+30229,1052,The Shoppes At Locust Grove,2730 Highway 155,Locust Grove,GA,Locust Grove
+30229,1054,The Shops at Westridge,2158 Highway 20 W,McDonough,GA,Westridge
+30229,1891,Shops at Walnut Creek,2400 Jonesboro Rd,Hampton,GA,Shops at Walnut Creek
+30229,1183,Parkway Village,5370 Campbellton Fairburn Rd,Fairburn,GA,Parkway Village
 30230,540,LaGrange Plaza,139 Commerce Ave,LaGrange,GA,LaGrange Plaza
 30230,1873,Merganser Commons at Hills & Dales Farm,2200 Vernon St,Lagrange,GA,Merganser Commons
 30230,1143,Stillwood Pavilion at Summer Grove,1111 Lower Fayetteville Rd,Newnan,GA,Stillwood Pavilion
@@ -34752,6 +35492,21 @@ zipcode,storenumber,name,address,city,state,shortname
 30269,461,Publix At Mt Zion,2035 Mount Zion Rd,Morrow,GA,Mt Zion
 30269,1056,Publix at Princeton Lakes,3730 Carmia Dr SW Ste 200,Atlanta,GA,Princeton Lakes
 30269,1891,Shops at Walnut Creek,2400 Jonesboro Rd,Hampton,GA,Shops at Walnut Creek
+30272,1056,Publix at Princeton Lakes,3730 Carmia Dr SW Ste 200,Atlanta,GA,Princeton Lakes
+30272,1183,Parkway Village,5370 Campbellton Fairburn Rd,Fairburn,GA,Parkway Village
+30272,1718,Sandtown Crossing,5829 Campbellton Rd SW Ste 110,Atlanta,GA,Sandtown Crossing
+30272,503,Cascade Crossing Shopping Center,3695 Cascade Rd SW,Atlanta,GA,Cascade Crossing
+30272,1825,Publix at Summerhill,572 Hank Aaron Dr SE,Atlanta,GA,Summerhill
+30272,892,South Hampton Village,1512 Highway 74 N,Tyrone,GA,South Hampton
+30272,579,Fayette Pavilion,108 Pavilion Pkwy,Fayetteville,GA,Fayette  Pavillion
+30272,461,Publix at Mt Zion,2035 Mount Zion Rd,Morrow,GA,Mt Zion
+30272,1647,Madison Yards,905 Memorial Dr SE,Atlanta,GA,Madison Yards
+30272,776,Publix at Piedmont,595 Piedmont Ave NE,Atlanta,GA,Piedmont
+30272,730,Paradise Crossing,2675 Lee Rd,Lithia Springs,GA,Paradise Crossing
+30272,1061,The Plaza Midtown,950 W Peachtree St NW,Atlanta,GA,The Plaza Midtown
+30272,1112,Providence Pavilion,1025 Veterans Memorial Hwy SE Ste 400,Mableton,GA,Providence Pav
+30272,1139,The Shoppes at Deer Creek,4300 Chapel Hill Rd,Douglasville,GA,Deer Creek
+30272,724,Publix at Ponce,1001 Ponce De Leon Ave NE,Atlanta,GA,Ponce
 30273,92,Stockbridge Lakes,250 E Atlanta Rd,Stockbridge,GA,Stockbridge Lakes
 30273,461,Publix At Mt Zion,2035 Mount Zion Rd,Morrow,GA,Mt Zion
 30273,547,Eagles Landing,909 Eagles Landing Pkwy Ste 300,Stockbridge,GA,Eagles Landing
@@ -37191,6 +37946,36 @@ zipcode,storenumber,name,address,city,state,shortname
 30582,519,Cumming 400 Shopping Center,580 Atlanta Rd,Cumming,GA,Cumming 400
 30582,42,Freehome Village,12424 Cumming Hwy,Canton,GA,Freehome Village
 30582,1779,Foothills Mall,198 Foothills Mall,Maryville,TN,Foothills Mall
+30597,2024,Dahlonega Village,23 Maxwell Ln,Dahlonega,GA,Dahlonega Village
+30597,2045,Publix Shops at Riverbrook Village,3715 Wahoo Falls Trace,Gainesville,GA,Riverbrook Village
+30597,1542,Dawson Crossroads,145 Forest Blvd Ste 100,Dawsonville,GA,Dawson Crossroads
+30597,717,The Village,1236 Thompson Bridge Rd,Gainesville,GA,The Village
+30597,1110,Village Shoppes of Gainesville,879 Dawsonville Hwy,Gainesville,GA,Gainesville
+30597,2006,Limestone Marketplace,2155 Limestone Ridge NE,Gainesville,GA,Limestone
+30597,1690,Matt Town Center,5310 Matt Hwy,Cumming,GA,Matt Town Center
+30597,49,Lanier Commons,3480 Keith Bridge Rd,Cumming,GA,Lanier Commons
+30597,634,Robson Crossing,3446 Winder Hwy,Flowery Branch,GA,Robson Crossing
+30597,1773,Tribble Crossing,3620 Era Dr,Cumming,GA,Tribble Crossing
+30597,844,Village Shops of Flowery Branch,5900 Spout Springs Rd,Flowery Branch,GA,Flowery Branch
+30597,519,Cumming 400 Shopping Center,580 Atlanta Rd,Cumming,GA,Cumming 400
+30597,26,Cruse Marketplace,1735 Buford Hwy,Cumming,GA,Cruse Marketplace
+30597,42,Freehome Village,12424 Cumming Hwy,Canton,GA,Freehome Village
+30597,706,Golden Park Village,4840 Golden Pkwy,Buford,GA,Golden Park Village
+30598,1671,Seneca 130 Plaza,115 Rochester Hwy,Seneca,SC,Seneca 130 Plaza
+30598,1379,Gateway Village,1390 Tiger Blvd,Clemson,SC,Gateway Village
+30598,2006,Limestone Marketplace,2155 Limestone Ridge NE,Gainesville,GA,Limestone
+30598,717,The Village,1236 Thompson Bridge Rd,Gainesville,GA,The Village
+30598,2045,Publix Shops at Riverbrook Village,3715 Wahoo Falls Trace,Gainesville,GA,Riverbrook Village
+30598,1110,Village Shoppes of Gainesville,879 Dawsonville Hwy,Gainesville,GA,Gainesville
+30598,1827,Gateway Crossing,51 Old Farm Rd,Jefferson,GA,Gateway Crossing
+30598,2024,Dahlonega Village,23 Maxwell Ln,Dahlonega,GA,Dahlonega Village
+30598,563,Boulevard Market Fair,3801-E Clemson Blvd,Anderson,SC,Boulevard Market Fair
+30598,634,Robson Crossing,3446 Winder Hwy,Flowery Branch,GA,Robson Crossing
+30598,1188,West Jackson Crossing,6055 Highway 124 W,Hoschton,GA,W Jackson Crossing
+30598,360,Anderson Pavilion Shopping Center,1611 E Greenville St,Anderson,SC,Anderson Pavilion
+30598,1892,Gateway Crossing Hoschton,234 Gateway Crossing Pkwy,Hoschton,GA,Gateway Crossing Hoschton
+30598,1838,Oak Grove,5345 Jefferson Rd,Athens,GA,Oak Grove
+30598,1542,Dawson Crossroads,145 Forest Blvd Ste 100,Dawsonville,GA,Dawson Crossroads
 30601,1146,Georgetown Square,1860 Barnett Shoals Rd,Athens,GA,Georgetown Square
 30601,1838,Oak Grove,5345 Jefferson Rd,Athens,GA,Oak Grove
 30601,451,Athens Pointe Shopping Center,3620 Atlanta Hwy,Athens,GA,Athens Pointe
@@ -37501,6 +38286,21 @@ zipcode,storenumber,name,address,city,state,shortname
 30635,1717,Market at Standing Springs,1400 W Georgia Rd,Simpsonville,SC,Standing Springs
 30635,2100,The Shops at Arden Woods,1311 Fork Shoals Rd,Mauldin,SC,Arden Woods
 30635,205,Center Point,6525 Calhoun Memorial Hwy,Easley,SC,Center Point
+30639,1838,Oak Grove,5345 Jefferson Rd,Athens,GA,Oak Grove
+30639,1146,Georgetown Square,1860 Barnett Shoals Rd,Athens,GA,Georgetown Square
+30639,1827,Gateway Crossing,51 Old Farm Rd,Jefferson,GA,Gateway Crossing
+30639,451,Athens Pointe Shopping Center,3620 Atlanta Hwy,Athens,GA,Athens Pointe
+30639,1671,Seneca 130 Plaza,115 Rochester Hwy,Seneca,SC,Seneca 130 Plaza
+30639,563,Boulevard Market Fair,3801-E Clemson Blvd,Anderson,SC,Boulevard Market Fair
+30639,617,Butler's Crossing,2061 Experiment Station Rd,Watkinsville,GA,Butler's Crossing
+30639,1379,Gateway Village,1390 Tiger Blvd,Clemson,SC,Gateway Village
+30639,1188,West Jackson Crossing,6055 Highway 124 W,Hoschton,GA,W Jackson Crossing
+30639,360,Anderson Pavilion Shopping Center,1611 E Greenville St,Anderson,SC,Anderson Pavilion
+30639,1685,Publix at Winder Hill,401 Gainesville Hwy,Winder,GA,Winder Hill
+30639,1892,Gateway Crossing Hoschton,234 Gateway Crossing Pkwy,Hoschton,GA,Gateway Crossing Hoschton
+30639,2006,Limestone Marketplace,2155 Limestone Ridge NE,Gainesville,GA,Limestone
+30639,480,Winder Corners Shopping Center,17 Monroe Hwy Ste A,Winder,GA,Winder Corners
+30639,717,The Village,1236 Thompson Bridge Rd,Gainesville,GA,The Village
 30641,1736,Monroe Pavilion,900 Pavilion Pkwy,Monroe,GA,Monroe Pavilion
 30641,617,Butler's Crossing,2061 Experiment Station Rd,Watkinsville,GA,Butler's Crossing
 30641,451,Athens Pointe Shopping Center,3620 Atlanta Hwy,Athens,GA,Athens Pointe
@@ -38754,6 +39554,20 @@ zipcode,storenumber,name,address,city,state,shortname
 31003,816,Paradise Pointe at Lake Dow,920 Highway 81 E,McDonough,GA,Lake Dow
 31003,1811,Covington Town Center,12701 Town Center Dr,Covington,GA,Covington Town Center
 31003,1054,The Shops at Westridge,2158 Highway 20 W,McDonough,GA,Westridge
+31004,1263,Bass Plantation,5451 Bowman Rd,Macon,GA,Bass Plantation
+31004,1700,Publix at Tobesofkee Crossing,5581 Thomaston Rd,Macon,GA,Tobesofkee
+31004,1291,Publix at Gunn Battle,6015 Watson Blvd,Byron,GA,Gunn Battle
+31004,1008,Paradise Shoppes of Warner Robins,1114 Georgia Highway 96,Kathleen,GA,Warner Robins
+31004,1622,Merganser Commons at Bonaire,510 GA Hwy 247 S,Bonaire,GA,Merganser Commons
+31004,2102,Shops at Indian Creek,4518 Hwy 42 S,Locust Grove,GA,Indian Creek
+31004,1233,Paradise Shoppes of Perry,275 Perry Pkwy,Perry,GA,Perry
+31004,2003,Lakeside Commons,2775 N Columbia St,Milledgeville,GA,Lakeside Commons
+31004,1052,The Shoppes At Locust Grove,2730 Highway 155,Locust Grove,GA,Locust Grove
+31004,1725,Shoppes at Ola Crossroads,3479 Hwy 81 E,McDonough,GA,Ola Crossroads
+31004,816,Paradise Pointe at Lake Dow,920 Highway 81 E,McDonough,GA,Lake Dow
+31004,1054,The Shops at Westridge,2158 Highway 20 W,McDonough,GA,Westridge
+31004,1891,Shops at Walnut Creek,2400 Jonesboro Rd,Hampton,GA,Shops at Walnut Creek
+31004,744,Salem Road Station,13015 Brown Bridge Rd,Covington,GA,Salem Road Station
 31005,1622,Merganser Commons at Bonaire,510 GA Hwy 247 S,Bonaire,GA,Merganser Commons
 31005,1008,Paradise Shoppes of Warner Robins,1114 Georgia Highway 96,Kathleen,GA,Warner Robins
 31005,1291,Publix at Gunn Battle,6015 Watson Blvd,Byron,GA,Gunn Battle
@@ -39126,6 +39940,20 @@ zipcode,storenumber,name,address,city,state,shortname
 31033,744,Salem Road Station,13015 Brown Bridge Rd,Covington,GA,Salem Road Station
 31033,816,Paradise Pointe at Lake Dow,920 Highway 81 E,McDonough,GA,Lake Dow
 31033,1052,The Shoppes At Locust Grove,2730 Highway 155,Locust Grove,GA,Locust Grove
+31034,2003,Lakeside Commons,2775 N Columbia St,Milledgeville,GA,Lakeside Commons
+31034,853,Lake Oconee Village,6350 Lake Oconee Pkwy Ste 106,Greensboro,GA,Lake Oconee
+31034,1263,Bass Plantation,5451 Bowman Rd,Macon,GA,Bass Plantation
+31034,1700,Publix at Tobesofkee Crossing,5581 Thomaston Rd,Macon,GA,Tobesofkee
+31034,1622,Merganser Commons at Bonaire,510 GA Hwy 247 S,Bonaire,GA,Merganser Commons
+31034,1291,Publix at Gunn Battle,6015 Watson Blvd,Byron,GA,Gunn Battle
+31034,1008,Paradise Shoppes of Warner Robins,1114 Georgia Highway 96,Kathleen,GA,Warner Robins
+31034,1233,Paradise Shoppes of Perry,275 Perry Pkwy,Perry,GA,Perry
+31034,1811,Covington Town Center,12701 Town Center Dr,Covington,GA,Covington Town Center
+31034,2102,Shops at Indian Creek,4518 Hwy 42 S,Locust Grove,GA,Indian Creek
+31034,1725,Shoppes at Ola Crossroads,3479 Hwy 81 E,McDonough,GA,Ola Crossroads
+31034,744,Salem Road Station,13015 Brown Bridge Rd,Covington,GA,Salem Road Station
+31034,617,Butler's Crossing,2061 Experiment Station Rd,Watkinsville,GA,Butler's Crossing
+31034,816,Paradise Pointe at Lake Dow,920 Highway 81 E,McDonough,GA,Lake Dow
 31035,2003,Lakeside Commons,2775 N Columbia St,Milledgeville,GA,Lakeside Commons
 31035,853,Lake Oconee Village,6350 Lake Oconee Pkwy Ste 106,Greensboro,GA,Lake Oconee
 31035,1622,Merganser Commons at Bonaire,510 GA Hwy 247 S,Bonaire,GA,Merganser Commons
@@ -51893,6 +52721,21 @@ zipcode,storenumber,name,address,city,state,shortname
 33527,1670,Publix at Alafia Commons,5655 Circa Fishhawk Blvd,Lithia,FL,Alafia Commons
 33527,712,Goolsby Point Shopping Center,11667 Boyette Rd,Riverview,FL,Goolsby Point
 33527,1366,Publix on County Line,5140 County Line Rd,Lakeland,FL,County Line
+33530,1135,Publix at FishHawk Ranch,5642 FishHawk Crossing Blvd,Lithia,FL,Fishhawk Ranch
+33530,878,Shoppes of Lithia,3461 Lithia Pinecrest Rd,Valrico,FL,Shoppes of Lithia
+33530,1277,Valrico Commons,1971 E State Road 60,Valrico,FL,Valrico Commons
+33530,1681,Bloomingdale Square,949 E Bloomingdale Ave,Brandon,FL,Bloomingdale Square
+33530,1670,Publix at Alafia Commons,5655 Circa Fishhawk Blvd,Lithia,FL,Alafia Commons
+33530,1212,Publix at Walden Woods,2202 James L Redman Pkwy,Plant City,FL,Walden Woods S/C
+33530,129,Kingsway Crossing,1220 Kingsway Rd,Brandon,FL,Kingsway Crossing
+33530,532,Brandon Mall,939 W Brandon Blvd,Brandon,FL,Brandon Mall
+33530,793,Plant City Crossing,2515 Thonotosassa Rd,Plant City,FL,Plant City Crossing
+33530,1366,Publix on County Line,5140 County Line Rd,Lakeland,FL,County Line
+33530,712,Goolsby Point Shopping Center,11667 Boyette Rd,Riverview,FL,Goolsby Point
+33530,890,Winthrop Town Center,11109 Winthrop Market St,Riverview,FL,Winthrop
+33530,663,Lake Brandon Plaza,11255 Causeway Blvd,Brandon,FL,Lake Brandon Plaza
+33530,103,Mango Square,11782 E Dr Martin Luther King Jr Blvd,Seffner,FL,Mango Square
+33530,1523,Rivercrest Commons Shopping Center,11460 S US Highway 301,Riverview,FL,Rivercrest Commons
 33534,1876,The Shops At Big Bend,7064 Waterset Blvd,Apollo Beach,FL,Shops at Big Bend
 33534,1523,Rivercrest Commons Shopping Center,11460 S US Highway 301,Riverview,FL,Rivercrest Commons
 33534,1113,Paradise Shoppes of Apollo Beach,6434 N US Highway 41,Apollo Beach,FL,Apollo Beach
@@ -52058,6 +52901,21 @@ zipcode,storenumber,name,address,city,state,shortname
 33549,6,Shoppes at New Tampa,1920 Bruce B Downs Blvd,Wesley Chapel,FL,New Tampa
 33549,1702,The Preserve Marketplace Shopping Center,2175 Sembler Dr,Odessa,FL,The Preserve Marketplace SC
 33549,1578,Terrace Ridge Plaza,11502 N 53rd St,Temple Terrace,FL,Terrace Ridge
+33550,103,Mango Square,11782 E Dr Martin Luther King Jr Blvd,Seffner,FL,Mango Square
+33550,129,Kingsway Crossing,1220 Kingsway Rd,Brandon,FL,Kingsway Crossing
+33550,532,Brandon Mall,939 W Brandon Blvd,Brandon,FL,Brandon Mall
+33550,663,Lake Brandon Plaza,11255 Causeway Blvd,Brandon,FL,Lake Brandon Plaza
+33550,1277,Valrico Commons,1971 E State Road 60,Valrico,FL,Valrico Commons
+33550,1371,Pavilion Crossing,3863 US Highway 301 S,Riverview,FL,Pavilion Crossing
+33550,890,Winthrop Town Center,11109 Winthrop Market St,Riverview,FL,Winthrop
+33550,1681,Bloomingdale Square,949 E Bloomingdale Ave,Brandon,FL,Bloomingdale Square
+33550,685,Publix at Temple Terrace,5450 E Busch Blvd,Temple Terrace,FL,Temple Terrace
+33550,878,Shoppes of Lithia,3461 Lithia Pinecrest Rd,Valrico,FL,Shoppes of Lithia
+33550,1578,Terrace Ridge Plaza,11502 N 53rd St,Temple Terrace,FL,Terrace Ridge
+33550,712,Goolsby Point Shopping Center,11667 Boyette Rd,Riverview,FL,Goolsby Point
+33550,1549,Publix at Channel Club,1105 E Twiggs St,Tampa,FL,Channel Club
+33550,1630,Publix at USF,4425 E Fletcher Ave,Tampa,FL,Publix at USF
+33550,511,Publix Super Market,6001 N Nebraska Ave,Tampa,FL,N Nebraska Ave
 33556,754,Shoppes of Citrus Park,7835 Gunn Hwy,Tampa,FL,Citrus Park
 33556,1513,Shoppes at Trinity Lakes,12500 State Rd 54,Odessa,FL,Trinity Lakes
 33556,1611,Starkey Ranch Town Square,13589 State Rd 54,Odessa,FL,Starkey Ranch
@@ -52223,6 +53081,21 @@ zipcode,storenumber,name,address,city,state,shortname
 33573,1666,Gateway Commons,9520 Buffalo Rd,Palmetto,FL,Gateway Commons
 33573,1371,Pavilion Crossing,3863 US Highway 301 S,Riverview,FL,Pavilion Crossing
 33573,1152,The Shops at Silver Leaf,11245 US Highway 301 N,Parrish,FL,Silver Leaf Plaza
+33574,1742,The Market at Mirada,30841 Mirada Blvd,San Antonio,FL,Market at Mirada
+33574,1496,The Shoppes of Dade City,11830 US Hwy 301,Dade City,FL,Shoppes/Dade City
+33574,1877,Innovation Springs,32265 Overpass Rd,Wesley Chapel,FL,Innovation Springs
+33574,1245,Zephyr Commons,7838 Gall Blvd,Zephyrhills,FL,Zephyr Commons
+33574,1196,Summertree Plaza,32765 Eiland Blvd,Zephyrhills,FL,Summertree Plaza
+33574,618,Hollybrook Plaza,5400 Bruce B Downs Blvd,Wesley Chapel,FL,Hollybrook Plaza
+33574,6,Shoppes at New Tampa,1920 Bruce B Downs Blvd,Wesley Chapel,FL,New Tampa
+33574,876,Cross Creek Commons,10928 Cross Creek Blvd,Tampa,FL,Cross Creek
+33574,1142,Arbor Square at Connerton,7830 Land O Lakes Blvd,Land O Lakes,FL,Arbor Sq/Connerton
+33574,584,New Tampa Center,19034 Bruce B. Downs Blvd,Tampa,FL,New Tampa Center
+33574,877,Collier Commons,2121 Collier Pkwy,Land O Lakes,FL,Collier Commons
+33574,1821,Livingston Marketplace,2801 E County Line Rd,Lutz,FL,Livingston Mkplace
+33574,1282,Shoppes at Avalon,13455 County Line Rd,Spring Hill,FL,Shoppes at Avalon
+33574,1132,Brooksville Square,19390 Cortez Blvd,Brooksville,FL,Brooksville Square
+33574,630,Publix at Barclay,14371 Spring Hill Dr,Spring Hill,FL,Barclay Crossing
 33576,1742,The Market at Mirada,30841 Mirada Blvd,San Antonio,FL,Market at Mirada
 33576,1877,Innovation Springs,32265 Overpass Rd,Wesley Chapel,FL,Innovation Springs
 33576,618,Hollybrook Plaza,5400 Bruce B Downs Blvd,Wesley Chapel,FL,Hollybrook Plaza
@@ -53573,6 +54446,21 @@ zipcode,storenumber,name,address,city,state,shortname
 33834,2043,Lake Miriam Square,4730 S Florida Ave,Lakeland,FL,Lake Miriam Square
 33834,2141,Wolf Creek Commons,3050 19th Ave Ne,Ruskin,FL,Wolf Creek Commons
 33834,1171,Highland City Town Center,5185 US Highway 98 S,Lakeland,FL,Highland City
+33835,791,Imperial Lakes Plaza,2040 Shepherd Rd,Mulberry,FL,Imperial Lakes
+33835,1399,Golden Gate Shopping Center,255 E Van Fleet Dr,Bartow,FL,Golden Gate S/C
+33835,671,Publix in the Highlands,2125 E County Road 540a,Lakeland,FL,The Highlands
+33835,2043,Lake Miriam Square,4730 S Florida Ave,Lakeland,FL,Lake Miriam Square
+33835,1659,The Shoppes at Lake Miriam Crossing,4747 S Florida Ave Ste 110,Lakeland,FL,The Shoppes at Lake Miriam Crossing
+33835,1366,Publix on County Line,5140 County Line Rd,Lakeland,FL,County Line
+33835,1171,Highland City Town Center,5185 US Highway 98 S,Lakeland,FL,Highland City
+33835,1854,Oakbridge Centre,3636 Harden Blvd,Lakeland,FL,Oakbridge Centre
+33835,1135,Publix at FishHawk Ranch,5642 FishHawk Crossing Blvd,Lithia,FL,Fishhawk Ranch
+33835,1270,Southgate Shopping Center,2515 S Florida Ave,Lakeland,FL,Southgate S/C
+33835,1651,Grove Park Shopping Center,1617 US Hwy 98 S,Lakeland,FL,Grove Park
+33835,1212,Publix at Walden Woods,2202 James L Redman Pkwy,Plant City,FL,Walden Woods S/C
+33835,1670,Publix at Alafia Commons,5655 Circa Fishhawk Blvd,Lithia,FL,Alafia Commons
+33835,878,Shoppes of Lithia,3461 Lithia Pinecrest Rd,Valrico,FL,Shoppes of Lithia
+33835,425,Spirit Lake Crossing,1090 Spirit Lake Rd,Winter Haven,FL,Spirit Lake Crossing
 33837,1167,St Charles Plaza,39883 Highway 27,Davenport,FL,St Charles Plaza
 33837,1195,Ovation,7800 Lake Wilson Rd,Davenport,FL,Ovation S/C
 33837,2088,The Shoppes at Citrus Creek,42660 Hwy 27,Davenport,FL,Citrus Creek
@@ -53618,6 +54506,21 @@ zipcode,storenumber,name,address,city,state,shortname
 33839,557,Southgate Shopping Center,102 Hwy 60 E,Lake Wales,FL,Southgate
 33839,1651,Grove Park Shopping Center,1617 US Hwy 98 S,Lakeland,FL,Grove Park
 33839,1788,Publix at Lake Juliana,775 Hwy 559,Auburndale,FL,Lake Juliana
+33840,1651,Grove Park Shopping Center,1617 US Hwy 98 S,Lakeland,FL,Grove Park
+33840,1171,Highland City Town Center,5185 US Highway 98 S,Lakeland,FL,Highland City
+33840,1270,Southgate Shopping Center,2515 S Florida Ave,Lakeland,FL,Southgate S/C
+33840,2043,Lake Miriam Square,4730 S Florida Ave,Lakeland,FL,Lake Miriam Square
+33840,1659,The Shoppes at Lake Miriam Crossing,4747 S Florida Ave Ste 110,Lakeland,FL,The Shoppes at Lake Miriam Crossing
+33840,671,Publix in the Highlands,2125 E County Road 540a,Lakeland,FL,The Highlands
+33840,1854,Oakbridge Centre,3636 Harden Blvd,Lakeland,FL,Oakbridge Centre
+33840,791,Imperial Lakes Plaza,2040 Shepherd Rd,Mulberry,FL,Imperial Lakes
+33840,702,Town and Country Square,2300 Griffin Rd,Lakeland,FL,Town & Country
+33840,1707,Plantation Square,5375 N Socrum Loop Rd,Lakeland,FL,Plantation Square
+33840,425,Spirit Lake Crossing,1090 Spirit Lake Rd,Winter Haven,FL,Spirit Lake Crossing
+33840,1399,Golden Gate Shopping Center,255 E Van Fleet Dr,Bartow,FL,Golden Gate S/C
+33840,2035,Mariana Acres,1075 Brookstone Rd,Winter Haven,FL,Mariana Acres
+33840,1410,Lake Gibson Shopping Center,6767 US Highway 98 N,Lakeland,FL,Lake Gibson S/C
+33840,1366,Publix on County Line,5140 County Line Rd,Lakeland,FL,County Line
 33841,1399,Golden Gate Shopping Center,255 E Van Fleet Dr,Bartow,FL,Golden Gate S/C
 33841,557,Southgate Shopping Center,102 Hwy 60 E,Lake Wales,FL,Southgate
 33841,2117,Publix at Thompson Nursery,8710 W Lake Ruby Dr,Winter Haven,FL,Thompson Nursery
@@ -54523,10 +55426,10 @@ zipcode,storenumber,name,address,city,state,shortname
 33952,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
 33952,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
 33952,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
-33952,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
+33952,697,Publix at Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
 33952,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
-33952,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
 33952,1769,Venice Village Shoppes,4173 S Tamiami Trl,Venice,FL,Venice Village
+33952,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
 33953,1287,Cocoplum Village Shops,17179 Tamiami Trl,North Port,FL,Cocoplum Vlg Shops
 33953,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
 33953,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
@@ -54547,14 +55450,14 @@ zipcode,storenumber,name,address,city,state,shortname
 33954,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
 33954,1287,Cocoplum Village Shops,17179 Tamiami Trl,North Port,FL,Cocoplum Vlg Shops
 33954,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
-33954,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
 33954,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
+33954,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
 33954,1557,Burnt Store Marketplace,3941 Tamiami Trl Unit 3145,Punta Gorda,FL,Burnt Store Mktpl
 33954,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
 33954,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
-33954,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
-33954,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
+33954,697,Publix at Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
 33954,1769,Venice Village Shoppes,4173 S Tamiami Trl,Venice,FL,Venice Village
+33954,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
 33955,1557,Burnt Store Marketplace,3941 Tamiami Trl Unit 3145,Punta Gorda,FL,Burnt Store Mktpl
 33955,1407,Shoppes at Del Prado,17960 N Tamiami Trl,North Fort Myers,FL,Shoppes/Del Prado
 33955,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
@@ -54735,8 +55638,8 @@ zipcode,storenumber,name,address,city,state,shortname
 33976,1352,Publix at Eagle Landing,6700 Bayshore Rd,North Fort Myers,FL,Eagle Landing
 33976,1262,Alico Commons,16980 Alico Mission Way Ste 403,Fort Myers,FL,Alico Commons
 33976,1302,University Crossing,13401 Summerlin Rd,Fort Myers,FL,University Cr
-33980,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
 33980,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
+33980,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
 33980,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
 33980,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
 33980,1557,Burnt Store Marketplace,3941 Tamiami Trl Unit 3145,Punta Gorda,FL,Burnt Store Mktpl
@@ -54744,23 +55647,23 @@ zipcode,storenumber,name,address,city,state,shortname
 33980,1287,Cocoplum Village Shops,17179 Tamiami Trl,North Port,FL,Cocoplum Vlg Shops
 33980,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
 33980,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
-33980,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
+33980,697,Publix at Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
 33980,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
 33980,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
 33980,1407,Shoppes at Del Prado,17960 N Tamiami Trl,North Fort Myers,FL,Shoppes/Del Prado
-33980,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
+33980,1147,Shoppes at North Cape,2481 Del Prado Blvd N,Cape Coral,FL,Shoppes at N Cape
 33981,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
-33981,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
-33981,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
-33981,1287,Cocoplum Village Shops,17179 Tamiami Trl,North Port,FL,Cocoplum Vlg Shops
+33981,697,Publix at Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
 33981,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
-33981,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
-33981,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
-33981,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
+33981,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
 33981,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
-33981,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
+33981,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
+33981,1287,Cocoplum Village Shops,17179 Tamiami Trl,North Port,FL,Cocoplum Vlg Shops
 33981,1557,Burnt Store Marketplace,3941 Tamiami Trl Unit 3145,Punta Gorda,FL,Burnt Store Mktpl
+33981,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
 33981,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
+33981,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
+33981,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
 33981,1769,Venice Village Shoppes,4173 S Tamiami Trl,Venice,FL,Venice Village
 33981,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
 33982,1763,Crescent B Commons,42051 Cypress Pkwy,Babcock Ranch,FL,Crescent B Commons
@@ -54789,7 +55692,7 @@ zipcode,storenumber,name,address,city,state,shortname
 33983,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
 33983,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 33983,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
-33983,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
+33983,697,Publix at Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
 33983,1407,Shoppes at Del Prado,17960 N Tamiami Trl,North Fort Myers,FL,Shoppes/Del Prado
 33983,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
 33990,826,Coral Pointe Shopping Center,1631 Del Prado Blvd S,Cape Coral,FL,Coral Pointe
@@ -55198,19 +56101,19 @@ zipcode,storenumber,name,address,city,state,shortname
 34145,488,Pine Ridge Crossing Shopping Center,2310 Pine Ridge Rd,Naples,FL,Pine Ridge Crossing
 34145,676,Naples Walk,2450 Vanderbilt Beach Rd,Naples,FL,Naples Walk
 34201,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
-34201,1153,Lakewood Walk,11205 E State Road 70,Bradenton,FL,Lakewood Walk
 34201,491,Twelve Oaks Plaza,7290 55th Ave E,Bradenton,FL,Twelve Oaks Plaza
 34201,828,University Walk,2875 University Pkwy,Sarasota,FL,University Walk
+34201,1153,Lakewood Walk,11205 E State Road 70,Bradenton,FL,Lakewood Walk
 34201,1447,Lockwood Commons,4240 53rd Ave E,Bradenton,FL,Lockwood Commons
 34201,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
 34201,1600,University Corner,7325 University Pkwy,Lakewood Ranch,FL,University Corner
-34201,1553,Publix at Braden River,14605 State Rd 70,Bradenton,FL,Braden River
-34201,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34201,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
+34201,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
+34201,1553,Publix at Braden River,14605 State Rd 70,Bradenton,FL,Braden River
 34201,798,Lakewood Ranch Gateway,1755 Lakewood Ranch Blvd,Bradenton,FL,Lakewood Ranch
 34201,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
 34201,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
-34201,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
+34201,1723,White Eagle,13150 E State Rd 64,Bradenton,FL,White Eagle
 34201,746,Rivers Edge,5001 E State Road 64,Bradenton,FL,Rivers Edge
 34202,1600,University Corner,7325 University Pkwy,Lakewood Ranch,FL,University Corner
 34202,1553,Publix at Braden River,14605 State Rd 70,Bradenton,FL,Braden River
@@ -55690,6 +56593,21 @@ zipcode,storenumber,name,address,city,state,shortname
 34243,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
 34243,746,Rivers Edge,5001 E State Road 64,Bradenton,FL,Rivers Edge
 34243,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
+34250,1342,Publix at Palmetto,1101 8th Ave W,Palmetto,FL,Palmetto
+34250,780,Westgate Shopping Center,3913 Manatee Ave W,Bradenton,FL,Westgate
+34250,1666,Gateway Commons,9520 Buffalo Rd,Palmetto,FL,Gateway Commons
+34250,1004,Beachway Plaza,7310 Manatee Ave W,Bradenton,FL,Beachway Plaza
+34250,1305,Parkwood Square,9005 US Highway 301 N,Parrish,FL,Parkwood Square
+34250,746,Rivers Edge,5001 E State Road 64,Bradenton,FL,Rivers Edge
+34250,1326,Bradenton Commons,4651 Cortez Rd W,Bradenton,FL,Bradenton Commons
+34250,2099,SeaFlower Village Center,7535 Cortez Rd W,Bradenton,FL,SeaFlower Village Center
+34250,1152,The Shops at Silver Leaf,11245 US Highway 301 N,Parrish,FL,Silver Leaf Plaza
+34250,681,Publix at Holmes Beach,3900 E Bay Dr,Holmes Beach,FL,Holmes Beach
+34250,1848,Market Walk at North River Ranch,11635 Moccasin Wallow Rd,Parrish,FL,North River Ranch
+34250,1897,Bayshore Gardens Shopping Center,6030 14th St W,Bradenton,FL,Bayshore Gardens
+34250,1447,Lockwood Commons,4240 53rd Ave E,Bradenton,FL,Lockwood Commons
+34250,798,Lakewood Ranch Gateway,1755 Lakewood Ranch Blvd,Bradenton,FL,Lakewood Ranch
+34250,491,Twelve Oaks Plaza,7290 55th Ave E,Bradenton,FL,Twelve Oaks Plaza
 34251,1600,University Corner,7325 University Pkwy,Lakewood Ranch,FL,University Corner
 34251,1553,Publix at Braden River,14605 State Rd 70,Bradenton,FL,Braden River
 34251,2108,Northchase Center,16642 State Rd 64 E,Bradenton,FL,Northchase Center
@@ -55720,6 +56638,20 @@ zipcode,storenumber,name,address,city,state,shortname
 34266,1517,Southgate Shopping Center,2848 US 27 S Ste 107,Sebring,FL,Southgate S/C
 34266,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
 34266,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
+34267,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
+34267,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
+34267,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
+34267,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
+34267,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
+34267,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
+34267,1557,Burnt Store Marketplace,3941 Tamiami Trl Unit 3145,Punta Gorda,FL,Burnt Store Mktpl
+34267,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
+34267,1287,Cocoplum Village Shops,17179 Tamiami Trl,North Port,FL,Cocoplum Vlg Shops
+34267,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
+34267,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
+34267,1763,Crescent B Commons,42051 Cypress Pkwy,Babcock Ranch,FL,Crescent B Commons
+34267,1407,Shoppes at Del Prado,17960 N Tamiami Trl,North Fort Myers,FL,Shoppes/Del Prado
+34267,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
 34268,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 34268,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
 34268,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
