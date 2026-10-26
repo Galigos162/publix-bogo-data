@@ -15319,6 +15319,7 @@ zipcode,storenumber,name,address,city,state,shortname
 25651,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 25651,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 25661,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
+25667,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 25670,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 25672,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 25672,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
@@ -15340,6 +15341,7 @@ zipcode,storenumber,name,address,city,state,shortname
 25915,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 25922,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 25928,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+25943,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 25971,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 25971,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 25979,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
@@ -15353,6 +15355,7 @@ zipcode,storenumber,name,address,city,state,shortname
 26714,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 26714,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 26722,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+26731,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 26755,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 26755,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 26755,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -15390,6 +15393,9 @@ zipcode,storenumber,name,address,city,state,shortname
 26836,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 26836,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 26836,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
+26838,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+26838,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
+26838,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 26845,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 26845,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 26847,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
@@ -16063,6 +16069,21 @@ zipcode,storenumber,name,address,city,state,shortname
 27201,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 27201,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 27201,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
+27202,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
+27202,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
+27202,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
+27202,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27202,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27202,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+27202,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+27202,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27202,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27202,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27202,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+27202,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
+27202,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27202,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27202,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 27203,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 27203,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 27203,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
@@ -17319,6 +17340,21 @@ zipcode,storenumber,name,address,city,state,shortname
 27505,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 27505,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 27505,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27506,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27506,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27506,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27506,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27506,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27506,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
+27506,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27506,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+27506,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+27506,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+27506,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
+27506,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27506,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27506,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27506,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 27507,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 27507,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 27507,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
@@ -17649,6 +17685,21 @@ zipcode,storenumber,name,address,city,state,shortname
 27531,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 27531,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
 27531,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27533,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27533,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27533,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+27533,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
+27533,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+27533,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27533,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27533,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
+27533,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27533,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27533,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27533,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27533,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
+27533,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
+27533,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 27534,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27534,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 27534,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
@@ -17994,6 +18045,21 @@ zipcode,storenumber,name,address,city,state,shortname
 27569,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
 27569,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 27569,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27570,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
+27570,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27570,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+27570,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27570,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27570,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+27570,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27570,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27570,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27570,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27570,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+27570,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27570,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27570,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27570,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27571,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
 27571,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 27571,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
@@ -18129,6 +18195,21 @@ zipcode,storenumber,name,address,city,state,shortname
 27583,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
 27583,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
 27583,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27584,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
+27584,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27584,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27584,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27584,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27584,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+27584,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+27584,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27584,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+27584,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27584,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27584,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27584,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27584,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27584,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
 27587,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 27587,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
 27587,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
@@ -18189,6 +18270,36 @@ zipcode,storenumber,name,address,city,state,shortname
 27592,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
 27592,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 27592,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27593,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27593,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27593,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+27593,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+27593,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27593,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27593,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27593,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
+27593,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27593,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27593,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27593,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+27593,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27593,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27593,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
+27594,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
+27594,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27594,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+27594,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27594,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+27594,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27594,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27594,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27594,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27594,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27594,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+27594,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27594,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27594,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27594,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27596,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 27596,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
 27596,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
@@ -18219,6 +18330,21 @@ zipcode,storenumber,name,address,city,state,shortname
 27597,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
 27597,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 27597,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
+27599,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+27599,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27599,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27599,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27599,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27599,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27599,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27599,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27599,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
+27599,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+27599,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
+27599,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27599,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27599,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+27599,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 27601,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
 27601,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
 27601,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
@@ -18444,6 +18570,36 @@ zipcode,storenumber,name,address,city,state,shortname
 27617,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
 27617,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 27617,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
+27695,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27695,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27695,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27695,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27695,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+27695,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27695,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+27695,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+27695,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27695,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27695,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27695,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
+27695,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27695,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27695,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
+27697,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27697,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+27697,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+27697,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27697,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27697,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27697,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27697,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27697,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
+27697,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27697,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+27697,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27697,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27697,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27697,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
 27701,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
 27701,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
 27701,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
@@ -18519,6 +18675,21 @@ zipcode,storenumber,name,address,city,state,shortname
 27707,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
 27707,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
 27707,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27708,1888,Latta Park,4628 Guess Rd,Durham,NC,Latta Park
+27708,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27708,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+27708,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27708,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27708,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
+27708,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27708,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27708,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
+27708,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+27708,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27708,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
+27708,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+27708,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27708,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 27709,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
 27709,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
 27709,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
@@ -18729,6 +18900,21 @@ zipcode,storenumber,name,address,city,state,shortname
 27814,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 27814,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27814,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
+27815,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
+27815,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+27815,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+27815,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+27815,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
+27815,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+27815,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+27815,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+27815,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
+27815,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+27815,1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,Ellis Crossing
+27815,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27815,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
+27815,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
+27815,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
 27816,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 27816,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
 27816,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
@@ -19485,6 +19671,21 @@ zipcode,storenumber,name,address,city,state,shortname
 27876,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 27876,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 27876,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+27877,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
+27877,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
+27877,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
+27877,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
+27877,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
+27877,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
+27877,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+27877,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
+27877,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
+27877,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+27877,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+27877,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+27877,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+27877,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+27877,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 27878,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27878,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 27878,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
@@ -20141,6 +20342,21 @@ zipcode,storenumber,name,address,city,state,shortname
 27968,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27968,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27968,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
+27969,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
+27969,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
+27969,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
+27969,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
+27969,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
+27969,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
+27969,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
+27969,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
+27969,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+27969,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+27969,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
+27969,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+27969,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+27969,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+27969,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 27970,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27970,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27970,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
@@ -23808,6 +24024,16 @@ zipcode,storenumber,name,address,city,state,shortname
 28508,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
 28508,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
 28508,2101,Rockfish Village,7483 Rockfish Rd,Fayetteville,NC,Rockfish Village
+28509,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
+28509,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
+28509,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
+28509,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
+28509,1619,Arboretum at Surf City,2765 NC Hwy 210 E,Hampstead,NC,Arboretum/Surf City
+28509,1580,Ogden Market Place,7144 Market St,Wilmington,NC,Ogden Market Place
+28509,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
+28509,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
+28509,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+28509,1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,Publix Comm/Fed Pt
 28510,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 28510,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
 28510,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
@@ -24096,6 +24322,20 @@ zipcode,storenumber,name,address,city,state,shortname
 28540,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28540,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
 28540,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
+28542,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
+28542,1619,Arboretum at Surf City,2765 NC Hwy 210 E,Hampstead,NC,Arboretum/Surf City
+28542,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
+28542,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
+28542,1580,Ogden Market Place,7144 Market St,Wilmington,NC,Ogden Market Place
+28542,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
+28542,1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,Publix Comm/Fed Pt
+28542,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
+28542,1703,Oak Island Marketplace,5003 E Oak Island Dr,Oak Island,NC,Oak Island Mktpl
+28542,1631,Ocean Isle Beach Market Place,1560 Market Place Blvd,Ocean Isle Beach,NC,Ocean Isle Beach
+28542,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
+28542,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
+28542,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+28542,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28543,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
 28543,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
 28543,1619,Arboretum at Surf City,2765 NC Hwy 210 E,Hampstead,NC,Arboretum/Surf City
@@ -25151,6 +25391,21 @@ zipcode,storenumber,name,address,city,state,shortname
 28652,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28652,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
 28652,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
+28653,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+28653,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
+28653,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28653,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28653,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+28653,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28653,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28653,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
+28653,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28653,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28653,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28653,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
+28653,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28653,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
+28653,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28654,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28654,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28654,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
@@ -25271,6 +25526,21 @@ zipcode,storenumber,name,address,city,state,shortname
 28663,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28663,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 28663,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
+28664,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+28664,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
+28664,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28664,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28664,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+28664,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28664,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28664,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28664,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
+28664,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28664,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
+28664,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28664,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28664,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
+28664,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28665,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28665,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28665,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
@@ -26336,6 +26606,21 @@ zipcode,storenumber,name,address,city,state,shortname
 28754,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
 28754,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28754,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
+28755,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28755,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
+28755,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28755,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+28755,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+28755,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28755,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28755,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28755,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
+28755,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28755,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
+28755,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
+28755,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
+28755,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
+28755,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
 28756,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
 28756,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28756,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
@@ -26366,6 +26651,21 @@ zipcode,storenumber,name,address,city,state,shortname
 28757,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28757,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
 28757,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
+28758,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28758,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28758,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28758,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28758,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
+28758,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
+28758,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
+28758,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28758,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
+28758,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
+28758,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
+28758,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
+28758,205,Center Point,6525 Calhoun Memorial Hwy,Easley,SC,Center Point
+28758,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
+28758,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28759,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28759,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28759,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
@@ -26681,6 +26981,21 @@ zipcode,storenumber,name,address,city,state,shortname
 28787,1515,Valley Forge Shopping Center,2656 Parkway,Pigeon Forge,TN,Valley Forge S/C
 28787,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28787,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
+28788,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
+28788,1515,Valley Forge Shopping Center,2656 Parkway,Pigeon Forge,TN,Valley Forge S/C
+28788,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28788,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28788,1713,Smoky Mountain Gateway,750 Winfield Dunn Pkwy Ste 100,Sevierville,TN,Smoky Mt. Gateway
+28788,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28788,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28788,1671,Seneca 130 Plaza,115 Rochester Hwy,Seneca,SC,Seneca 130 Plaza
+28788,1779,Foothills Mall,198 Foothills Mall,Maryville,TN,Foothills Mall
+28788,1379,Gateway Village,1390 Tiger Blvd,Clemson,SC,Gateway Village
+28788,205,Center Point,6525 Calhoun Memorial Hwy,Easley,SC,Center Point
+28788,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
+28788,1418,University Commons,2429 University Commons Way,Knoxville,TN,University Commons
+28788,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
+28788,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28789,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28789,1515,Valley Forge Shopping Center,2656 Parkway,Pigeon Forge,TN,Valley Forge S/C
 28789,1713,Smoky Mountain Gateway,750 Winfield Dunn Pkwy Ste 100,Sevierville,TN,Smoky Mt. Gateway
@@ -36466,6 +36781,21 @@ zipcode,storenumber,name,address,city,state,shortname
 30413,1263,Bass Plantation,5451 Bowman Rd,Macon,GA,Bass Plantation
 30413,1700,Publix at Tobesofkee Crossing,5581 Thomaston Rd,Macon,GA,Tobesofkee
 30413,1008,Paradise Shoppes of Warner Robins,1114 Georgia Highway 96,Kathleen,GA,Warner Robins
+30414,1733,Eagles Corner Shopping Center,101 Tormenta Way,Statesboro,GA,Eagles Corner
+30414,2016,Flemington Village Shopping Center,1435 E Oglethorpe Hwy,Hinesville,GA,Flemington Village
+30414,1584,Publix at Blue Moon Crossing,101 Blue Moon Crossing,Pooler,GA,Blue Moon Crossing
+30414,1364,Pooler Marketplace,467 Pooler Pkwy,Pooler,GA,Pooler Marketplace
+30414,1154,Publix at Richmond Hill Plantation,12800 Highway 144,Richmond Hill,GA,Richmond Hill
+30414,1256,The Market at Rice Hope,7936 Ga Highway 21,Port Wentworth,GA,Market/Rice Hope
+30414,1186,Largo Plaza,11701 Abercorn St,Savannah,GA,Largo Plaza
+30414,522,Twelve Oaks Shopping Center,5500 Abercorn St Ste 2,Savannah,GA,Twelve Oaks
+30414,1489,The Village on Skidaway Island,6 Westridge Rd,Savannah,GA,Skidaway Island
+30414,521,Island Towne Centre,4717 Hwy 80 E Ste B,Savannah,GA,Island Towne Centre
+30414,1714,May River Crossing,2501 May River Crossing,Bluffton,SC,May River Crossing
+30414,456,Publix at Wilmington Island,155 Johnny Mercer Blvd,Savannah,GA,Wilmington Island
+30414,1354,New River Crossing,112 Nickel Plate Rd,Hardeeville,SC,New River Crossing
+30414,1205,Buckwalter Place,101 Buckwalter Place Blvd,Bluffton,SC,Buckwalter Place
+30414,845,Bluffton Commons at Belfair,80 Baylor Dr,Bluffton,SC,Bluffton Commons
 30415,1733,Eagles Corner Shopping Center,101 Tormenta Way,Statesboro,GA,Eagles Corner
 30415,1364,Pooler Marketplace,467 Pooler Pkwy,Pooler,GA,Pooler Marketplace
 30415,1256,The Market at Rice Hope,7936 Ga Highway 21,Port Wentworth,GA,Market/Rice Hope
@@ -37466,6 +37796,21 @@ zipcode,storenumber,name,address,city,state,shortname
 30538,451,Athens Pointe Shopping Center,3620 Atlanta Hwy,Athens,GA,Athens Pointe
 30538,2024,Dahlonega Village,23 Maxwell Ln,Dahlonega,GA,Dahlonega Village
 30538,1892,Gateway Crossing Hoschton,234 Gateway Crossing Pkwy,Hoschton,GA,Gateway Crossing Hoschton
+30539,2047,Gateway Crossing Jasper,178 Virginia Way,Jasper,GA,Gateway Crossing
+30539,1248,Laurel Canyon Village,15 Laurel Canyon Village Circle Suite 118,Canton,GA,Laurel Canyon Vlg
+30539,624,Riverstone Plaza Shopping Center,1451 Riverstone Pkwy,Canton,GA,Riverstone Plaza
+30539,2024,Dahlonega Village,23 Maxwell Ln,Dahlonega,GA,Dahlonega Village
+30539,1690,Matt Town Center,5310 Matt Hwy,Cumming,GA,Matt Town Center
+30539,42,Freehome Village,12424 Cumming Hwy,Canton,GA,Freehome Village
+30539,1542,Dawson Crossroads,145 Forest Blvd Ste 100,Dawsonville,GA,Dawson Crossroads
+30539,1773,Tribble Crossing,3620 Era Dr,Cumming,GA,Tribble Crossing
+30539,1064,Paradise Shoppes of Prominence Point,120 Prominence Point Pkwy,Canton,GA,Prominence Point
+30539,711,Hickory Flat Village,6175 Hickory Flat Hwy Ste 140,Canton,GA,Hickory Flat
+30539,694,The Market at Bridgemill,3760 Sixes Rd Ste 110,Canton,GA,Bridgemill
+30539,1060,The Marketplace at Birmingham Village,980 Birmingham Rd Ste 100,Alpharetta,GA,Birmingham Village
+30539,49,Lanier Commons,3480 Keith Bridge Rd,Cumming,GA,Lanier Commons
+30539,880,Village Shoppes of East Cherokee,6236 Holly Springs Pkwy,Woodstock,GA,East Cherokee
+30539,616,Midway Shopping Center,4900 Atlanta Hwy,Alpharetta,GA,Midway Shopping
 30540,2047,Gateway Crossing Jasper,178 Virginia Way,Jasper,GA,Gateway Crossing
 30540,1248,Laurel Canyon Village,15 Laurel Canyon Village Circle Suite 118,Canton,GA,Laurel Canyon Vlg
 30540,624,Riverstone Plaza Shopping Center,1451 Riverstone Pkwy,Canton,GA,Riverstone Plaza
@@ -38737,6 +39082,21 @@ zipcode,storenumber,name,address,city,state,shortname
 30721,554,Main Street,300 Cherokee Pl,Cartersville,GA,Main Street
 30721,624,Riverstone Plaza Shopping Center,1451 Riverstone Pkwy,Canton,GA,Riverstone Plaza
 30721,694,The Market at Bridgemill,3760 Sixes Rd Ste 110,Canton,GA,Bridgemill
+30724,1863,Shops at Enclave,1688 Ooltewah Ringgold Rd Ste 100,Ooltewah,TN,Shops at Enclave
+30724,1165,Hurricane Creek,8644 E Brainerd Rd,Chattanooga,TN,Hurricane Creek
+30724,1244,Snow Hill Village,5958 Snow Hill Rd Ste 168,Ooltewah,TN,Snow Hill Village
+30724,1641,Boynton Ridge Plaza,3775 Battlefield Pkwy,Ringgold,GA,Boynton Ridge Plaza
+30724,1621,Village at Waterside,7326 McCutcheon Rd,Chattanooga,TN,Village/Waterside
+30724,1356,Publix at Mouse Creek,635 Paul Huff Pkwy NW,Cleveland,TN,Mouse Creek Cr
+30724,2047,Gateway Crossing Jasper,178 Virginia Way,Jasper,GA,Gateway Crossing
+30724,1166,Creek Plantation Village,5928 Hixson Pike Ste 112,Hixson,TN,Creek Plantation
+30724,1731,Publix at Mount Vernon Point,3535 Broad St,Chattanooga,TN,Mount Vernon Point
+30724,1460,Publix on North Market Street,400 N Market St,Chattanooga,TN,North Market St
+30724,1248,Laurel Canyon Village,15 Laurel Canyon Village Circle Suite 118,Canton,GA,Laurel Canyon Vlg
+30724,624,Riverstone Plaza Shopping Center,1451 Riverstone Pkwy,Canton,GA,Riverstone Plaza
+30724,554,Main Street,300 Cherokee Pl,Cartersville,GA,Main Street
+30724,1403,Charles Hight Square,435 Turner McCall Blvd NE,Rome,GA,Charles Hight Sq
+30724,1064,Paradise Shoppes of Prominence Point,120 Prominence Point Pkwy,Canton,GA,Prominence Point
 30725,1731,Publix at Mount Vernon Point,3535 Broad St,Chattanooga,TN,Mount Vernon Point
 30725,1641,Boynton Ridge Plaza,3775 Battlefield Pkwy,Ringgold,GA,Boynton Ridge Plaza
 30725,1460,Publix on North Market Street,400 N Market St,Chattanooga,TN,North Market St
@@ -41224,6 +41584,21 @@ zipcode,storenumber,name,address,city,state,shortname
 31331,1714,May River Crossing,2501 May River Crossing,Bluffton,SC,May River Crossing
 31331,2112,Island Walk Shopping Center,1421 Sadler Rd,Fernandina Beach,FL,Island Walk
 31331,700,Island Crossing Shopping Center,11 Palmetto Bay Rd,Hilton Head Island,SC,Island Crossing
+31333,2016,Flemington Village Shopping Center,1435 E Oglethorpe Hwy,Hinesville,GA,Flemington Village
+31333,1154,Publix at Richmond Hill Plantation,12800 Highway 144,Richmond Hill,GA,Richmond Hill
+31333,1584,Publix at Blue Moon Crossing,101 Blue Moon Crossing,Pooler,GA,Blue Moon Crossing
+31333,1186,Largo Plaza,11701 Abercorn St,Savannah,GA,Largo Plaza
+31333,1364,Pooler Marketplace,467 Pooler Pkwy,Pooler,GA,Pooler Marketplace
+31333,522,Twelve Oaks Shopping Center,5500 Abercorn St Ste 2,Savannah,GA,Twelve Oaks
+31333,1489,The Village on Skidaway Island,6 Westridge Rd,Savannah,GA,Skidaway Island
+31333,431,Village at Glynn Place,171 Village At Glynn Pl Ste 100,Brunswick,GA,Glynn Place
+31333,1256,The Market at Rice Hope,7936 Ga Highway 21,Port Wentworth,GA,Market/Rice Hope
+31333,521,Island Towne Centre,4717 Hwy 80 E Ste B,Savannah,GA,Island Towne Centre
+31333,456,Publix at Wilmington Island,155 Johnny Mercer Blvd,Savannah,GA,Wilmington Island
+31333,1733,Eagles Corner Shopping Center,101 Tormenta Way,Statesboro,GA,Eagles Corner
+31333,1714,May River Crossing,2501 May River Crossing,Bluffton,SC,May River Crossing
+31333,1354,New River Crossing,112 Nickel Plate Rd,Hardeeville,SC,New River Crossing
+31333,1205,Buckwalter Place,101 Buckwalter Place Blvd,Bluffton,SC,Buckwalter Place
 31401,522,Twelve Oaks Shopping Center,5500 Abercorn St Ste 2,Savannah,GA,Twelve Oaks
 31401,521,Island Towne Centre,4717 Hwy 80 E Ste B,Savannah,GA,Island Towne Centre
 31401,456,Publix at Wilmington Island,155 Johnny Mercer Blvd,Savannah,GA,Wilmington Island
@@ -41389,6 +41764,21 @@ zipcode,storenumber,name,address,city,state,shortname
 31419,1354,New River Crossing,112 Nickel Plate Rd,Hardeeville,SC,New River Crossing
 31419,845,Bluffton Commons at Belfair,80 Baylor Dr,Bluffton,SC,Bluffton Commons
 31419,700,Island Crossing Shopping Center,11 Palmetto Bay Rd,Hilton Head Island,SC,Island Crossing
+31421,522,Twelve Oaks Shopping Center,5500 Abercorn St Ste 2,Savannah,GA,Twelve Oaks
+31421,521,Island Towne Centre,4717 Hwy 80 E Ste B,Savannah,GA,Island Towne Centre
+31421,456,Publix at Wilmington Island,155 Johnny Mercer Blvd,Savannah,GA,Wilmington Island
+31421,1186,Largo Plaza,11701 Abercorn St,Savannah,GA,Largo Plaza
+31421,1489,The Village on Skidaway Island,6 Westridge Rd,Savannah,GA,Skidaway Island
+31421,1364,Pooler Marketplace,467 Pooler Pkwy,Pooler,GA,Pooler Marketplace
+31421,1256,The Market at Rice Hope,7936 Ga Highway 21,Port Wentworth,GA,Market/Rice Hope
+31421,1584,Publix at Blue Moon Crossing,101 Blue Moon Crossing,Pooler,GA,Blue Moon Crossing
+31421,1714,May River Crossing,2501 May River Crossing,Bluffton,SC,May River Crossing
+31421,1205,Buckwalter Place,101 Buckwalter Place Blvd,Bluffton,SC,Buckwalter Place
+31421,1354,New River Crossing,112 Nickel Plate Rd,Hardeeville,SC,New River Crossing
+31421,1154,Publix at Richmond Hill Plantation,12800 Highway 144,Richmond Hill,GA,Richmond Hill
+31421,845,Bluffton Commons at Belfair,80 Baylor Dr,Bluffton,SC,Bluffton Commons
+31421,700,Island Crossing Shopping Center,11 Palmetto Bay Rd,Hilton Head Island,SC,Island Crossing
+31421,473,Festival Centre at Indigo Park,45 Pembroke Dr,Hilton Head Island,SC,Festival Centre
 31501,1870,Douglas Square,1329 S Peterson Ave,Douglas,GA,Douglas Square
 31501,431,Village at Glynn Place,171 Village At Glynn Pl Ste 100,Brunswick,GA,Glynn Place
 31501,1865,Market at King's Bay,1521 E King Ave,Kingsland,GA,Market at King's Bay
@@ -41989,6 +42379,21 @@ zipcode,storenumber,name,address,city,state,shortname
 31563,456,Publix at Wilmington Island,155 Johnny Mercer Blvd,Savannah,GA,Wilmington Island
 31563,1865,Market at King's Bay,1521 E King Ave,Kingsland,GA,Market at King's Bay
 31563,1714,May River Crossing,2501 May River Crossing,Bluffton,SC,May River Crossing
+31564,1870,Douglas Square,1329 S Peterson Ave,Douglas,GA,Douglas Square
+31564,1435,Publix at Perimeter Park,3330 Inner Perimeter Rd,Valdosta,GA,Perimeter Park
+31564,430,Baytree Village,1741 Gornto Rd,Valdosta,GA,Baytree Village
+31564,431,Village at Glynn Place,171 Village At Glynn Pl Ste 100,Brunswick,GA,Glynn Place
+31564,1865,Market at King's Bay,1521 E King Ave,Kingsland,GA,Market at King's Bay
+31564,1422,Publix Plaza at Tifton,620 Virginia Ave. North,Tifton,GA,Plaza at Tifton
+31564,1792,Crossings at Wildlight,76010 William Burgess Blvd,Yulee,FL,Crossings at Wildlight
+31564,2016,Flemington Village Shopping Center,1435 E Oglethorpe Hwy,Hinesville,GA,Flemington Village
+31564,1406,Villages of Amelia,463855 State Road 200,Yulee,FL,Villages of Amelia
+31564,1709,Live Oak Crossing,2215 Ohio Ave N,Live Oak,FL,Live Oak Crossing
+31564,2112,Island Walk Shopping Center,1421 Sadler Rd,Fernandina Beach,FL,Island Walk
+31564,19,Duval Station Centre,731 Duval Station Rd Ste 4,Jacksonville,FL,Duval Station
+31564,686,Highland Square,1100 Dunn Ave Bldg 100,Jacksonville,FL,Highland Square
+31564,1192,Lake City Commons,255 NW Commons Loop,Lake City,FL,Lake City Commons
+31564,1771,Northpoint Village Shopping Center,12541 Yellow Bluff Rd,Jacksonville,FL,Northpoint Village
 31565,431,Village at Glynn Place,171 Village At Glynn Pl Ste 100,Brunswick,GA,Glynn Place
 31565,1865,Market at King's Bay,1521 E King Ave,Kingsland,GA,Market at King's Bay
 31565,1406,Villages of Amelia,463855 State Road 200,Yulee,FL,Villages of Amelia
@@ -42064,6 +42469,21 @@ zipcode,storenumber,name,address,city,state,shortname
 31569,1223,Shoppes at East San Marco,2039 Hendricks Ave Ste 325,Jacksonville,FL,East San Marco
 31569,1283,Publix at Arlington River,5858 Atlantic Blvd,Jacksonville,FL,Arlington River
 31569,1037,Normandy Crossing,7749 Normandy Blvd,Jacksonville,FL,Normandy Crossing
+31599,2016,Flemington Village Shopping Center,1435 E Oglethorpe Hwy,Hinesville,GA,Flemington Village
+31599,431,Village at Glynn Place,171 Village At Glynn Pl Ste 100,Brunswick,GA,Glynn Place
+31599,1154,Publix at Richmond Hill Plantation,12800 Highway 144,Richmond Hill,GA,Richmond Hill
+31599,1584,Publix at Blue Moon Crossing,101 Blue Moon Crossing,Pooler,GA,Blue Moon Crossing
+31599,1186,Largo Plaza,11701 Abercorn St,Savannah,GA,Largo Plaza
+31599,1364,Pooler Marketplace,467 Pooler Pkwy,Pooler,GA,Pooler Marketplace
+31599,1865,Market at King's Bay,1521 E King Ave,Kingsland,GA,Market at King's Bay
+31599,1870,Douglas Square,1329 S Peterson Ave,Douglas,GA,Douglas Square
+31599,1489,The Village on Skidaway Island,6 Westridge Rd,Savannah,GA,Skidaway Island
+31599,522,Twelve Oaks Shopping Center,5500 Abercorn St Ste 2,Savannah,GA,Twelve Oaks
+31599,1733,Eagles Corner Shopping Center,101 Tormenta Way,Statesboro,GA,Eagles Corner
+31599,1256,The Market at Rice Hope,7936 Ga Highway 21,Port Wentworth,GA,Market/Rice Hope
+31599,521,Island Towne Centre,4717 Hwy 80 E Ste B,Savannah,GA,Island Towne Centre
+31599,456,Publix at Wilmington Island,155 Johnny Mercer Blvd,Savannah,GA,Wilmington Island
+31599,1792,Crossings at Wildlight,76010 William Burgess Blvd,Yulee,FL,Crossings at Wildlight
 31601,430,Baytree Village,1741 Gornto Rd,Valdosta,GA,Baytree Village
 31601,1435,Publix at Perimeter Park,3330 Inner Perimeter Rd,Valdosta,GA,Perimeter Park
 31601,1709,Live Oak Crossing,2215 Ohio Ave N,Live Oak,FL,Live Oak Crossing
@@ -42544,6 +42964,21 @@ zipcode,storenumber,name,address,city,state,shortname
 31701,1306,Village Square (Village Commons),3521 Thomasville Rd,Tallahassee,FL,Village Square
 31701,1008,Paradise Shoppes of Warner Robins,1114 Georgia Highway 96,Kathleen,GA,Warner Robins
 31701,1427,Capital Circle,2111 NE Capital Circle,Tallahassee,FL,Capital Circle
+31704,1349,Lee Crossings,1212 US Highway 19 S,Leesburg,GA,Lee Crossings
+31704,450,Albany Square,2715 Dawson Rd,Albany,GA,Albany Square
+31704,1540,Parkway Centre,378 Veterans Pkwy N,Moultrie,GA,Parkway Centre
+31704,1422,Publix Plaza at Tifton,620 Virginia Ave. North,Tifton,GA,Plaza at Tifton
+31704,1498,Publix at Park Place,13775 US Highway 19 S,Thomasville,GA,Park Place
+31704,2109,Bainbridge Crossings,1515 Tallahassee Hwy,Bainbridge,GA,Bainbridge Crossings
+31704,1435,Publix at Perimeter Park,3330 Inner Perimeter Rd,Valdosta,GA,Perimeter Park
+31704,430,Baytree Village,1741 Gornto Rd,Valdosta,GA,Baytree Village
+31704,1233,Paradise Shoppes of Perry,275 Perry Pkwy,Perry,GA,Perry
+31704,1836,The Shops at Bannerman Village,8462 Bannerman Blvd,Tallahassee,FL,Bannerman Village
+31704,533,Bradfordville Center,6753 Thomasville Rd,Tallahassee,FL,Bradfordville Center
+31704,1870,Douglas Square,1329 S Peterson Ave,Douglas,GA,Douglas Square
+31704,1008,Paradise Shoppes of Warner Robins,1114 Georgia Highway 96,Kathleen,GA,Warner Robins
+31704,1656,Oak Valley Shopping Center,5678 Capital Cir NW,Tallahassee,FL,Oak Valley
+31704,1306,Village Square (Village Commons),3521 Thomasville Rd,Tallahassee,FL,Village Square
 31705,1349,Lee Crossings,1212 US Highway 19 S,Leesburg,GA,Lee Crossings
 31705,450,Albany Square,2715 Dawson Rd,Albany,GA,Albany Square
 31705,1540,Parkway Centre,378 Veterans Pkwy N,Moultrie,GA,Parkway Centre
@@ -42709,6 +43144,21 @@ zipcode,storenumber,name,address,city,state,shortname
 31722,1870,Douglas Square,1329 S Peterson Ave,Douglas,GA,Douglas Square
 31722,1401,Mahan Village Shopping Center,3122 Mahan Dr,Tallahassee,FL,Mahan Village S/C
 31722,1051,Governors Crossing II,101 N Blairstone Rd Ste 301,Tallahassee,FL,Governors Crossing II
+31727,1422,Publix Plaza at Tifton,620 Virginia Ave. North,Tifton,GA,Plaza at Tifton
+31727,1540,Parkway Centre,378 Veterans Pkwy N,Moultrie,GA,Parkway Centre
+31727,1870,Douglas Square,1329 S Peterson Ave,Douglas,GA,Douglas Square
+31727,1435,Publix at Perimeter Park,3330 Inner Perimeter Rd,Valdosta,GA,Perimeter Park
+31727,430,Baytree Village,1741 Gornto Rd,Valdosta,GA,Baytree Village
+31727,1349,Lee Crossings,1212 US Highway 19 S,Leesburg,GA,Lee Crossings
+31727,450,Albany Square,2715 Dawson Rd,Albany,GA,Albany Square
+31727,1498,Publix at Park Place,13775 US Highway 19 S,Thomasville,GA,Park Place
+31727,1233,Paradise Shoppes of Perry,275 Perry Pkwy,Perry,GA,Perry
+31727,533,Bradfordville Center,6753 Thomasville Rd,Tallahassee,FL,Bradfordville Center
+31727,1836,The Shops at Bannerman Village,8462 Bannerman Blvd,Tallahassee,FL,Bannerman Village
+31727,2109,Bainbridge Crossings,1515 Tallahassee Hwy,Bainbridge,GA,Bainbridge Crossings
+31727,1622,Merganser Commons at Bonaire,510 GA Hwy 247 S,Bonaire,GA,Merganser Commons
+31727,857,Vineyard Center,6615 Mahan Dr,Tallahassee,FL,Vineyard Center
+31727,1709,Live Oak Crossing,2215 Ohio Ave N,Live Oak,FL,Live Oak Crossing
 31730,2109,Bainbridge Crossings,1515 Tallahassee Hwy,Bainbridge,GA,Bainbridge Crossings
 31730,450,Albany Square,2715 Dawson Rd,Albany,GA,Albany Square
 31730,1349,Lee Crossings,1212 US Highway 19 S,Leesburg,GA,Lee Crossings
@@ -42844,6 +43294,21 @@ zipcode,storenumber,name,address,city,state,shortname
 31750,1700,Publix at Tobesofkee Crossing,5581 Thomaston Rd,Macon,GA,Tobesofkee
 31750,1263,Bass Plantation,5451 Bowman Rd,Macon,GA,Bass Plantation
 31750,1733,Eagles Corner Shopping Center,101 Tormenta Way,Statesboro,GA,Eagles Corner
+31753,1540,Parkway Centre,378 Veterans Pkwy N,Moultrie,GA,Parkway Centre
+31753,1498,Publix at Park Place,13775 US Highway 19 S,Thomasville,GA,Park Place
+31753,1422,Publix Plaza at Tifton,620 Virginia Ave. North,Tifton,GA,Plaza at Tifton
+31753,450,Albany Square,2715 Dawson Rd,Albany,GA,Albany Square
+31753,1349,Lee Crossings,1212 US Highway 19 S,Leesburg,GA,Lee Crossings
+31753,430,Baytree Village,1741 Gornto Rd,Valdosta,GA,Baytree Village
+31753,1435,Publix at Perimeter Park,3330 Inner Perimeter Rd,Valdosta,GA,Perimeter Park
+31753,2109,Bainbridge Crossings,1515 Tallahassee Hwy,Bainbridge,GA,Bainbridge Crossings
+31753,1836,The Shops at Bannerman Village,8462 Bannerman Blvd,Tallahassee,FL,Bannerman Village
+31753,533,Bradfordville Center,6753 Thomasville Rd,Tallahassee,FL,Bradfordville Center
+31753,1306,Village Square (Village Commons),3521 Thomasville Rd,Tallahassee,FL,Village Square
+31753,857,Vineyard Center,6615 Mahan Dr,Tallahassee,FL,Vineyard Center
+31753,1427,Capital Circle,2111 NE Capital Circle,Tallahassee,FL,Capital Circle
+31753,1656,Oak Valley Shopping Center,5678 Capital Cir NW,Tallahassee,FL,Oak Valley
+31753,1401,Mahan Village Shopping Center,3122 Mahan Dr,Tallahassee,FL,Mahan Village S/C
 31756,1540,Parkway Centre,378 Veterans Pkwy N,Moultrie,GA,Parkway Centre
 31756,1498,Publix at Park Place,13775 US Highway 19 S,Thomasville,GA,Park Place
 31756,1422,Publix Plaza at Tifton,620 Virginia Ave. North,Tifton,GA,Plaza at Tifton
@@ -43834,6 +44299,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32011,589,Publix Plaza,9100 Merrill Rd,Jacksonville,FL,Publix Plaza
 32011,263,Oak Hill Village,7628 103rd St Ste 24,Jacksonville,FL,Oak Hill Village
 32011,2112,Island Walk Shopping Center,1421 Sadler Rd,Fernandina Beach,FL,Island Walk
+32013,1709,Live Oak Crossing,2215 Ohio Ave N,Live Oak,FL,Live Oak Crossing
+32013,1192,Lake City Commons,255 NW Commons Loop,Lake City,FL,Lake City Commons
+32013,430,Baytree Village,1741 Gornto Rd,Valdosta,GA,Baytree Village
+32013,1435,Publix at Perimeter Park,3330 Inner Perimeter Rd,Valdosta,GA,Perimeter Park
+32013,1505,Alachua Market Place,16193 NW US Hwy 441,Alachua,FL,Alachua Market Pl
+32013,2012,Market at Newberry Farms,24100 W Newberry Rd Ste 10,Newberry,FL,Newberry Farms
+32013,857,Vineyard Center,6615 Mahan Dr,Tallahassee,FL,Vineyard Center
+32013,887,Southwood Village,3551 S Blair Stone Rd,Tallahassee,FL,Southwood Village
+32013,1401,Mahan Village Shopping Center,3122 Mahan Dr,Tallahassee,FL,Mahan Village S/C
+32013,1498,Publix at Park Place,13775 US Highway 19 S,Thomasville,GA,Park Place
+32013,1051,Governors Crossing II,101 N Blairstone Rd Ste 301,Tallahassee,FL,Governors Crossing II
+32013,1427,Capital Circle,2111 NE Capital Circle,Tallahassee,FL,Capital Circle
+32013,690,Publix at Steeplechase,14130 W Newberry Rd,Newberry,FL,Steeplechase
+32013,533,Bradfordville Center,6753 Thomasville Rd,Tallahassee,FL,Bradfordville Center
+32013,1306,Village Square (Village Commons),3521 Thomasville Rd,Tallahassee,FL,Village Square
 32024,1192,Lake City Commons,255 NW Commons Loop,Lake City,FL,Lake City Commons
 32024,1709,Live Oak Crossing,2215 Ohio Ave N,Live Oak,FL,Live Oak Crossing
 32024,1505,Alachua Market Place,16193 NW US Hwy 441,Alachua,FL,Alachua Market Pl
@@ -44869,6 +45349,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32162,733,Heather Island Plaza,7578 SE Maricamp Rd Ste 100,Ocala,FL,Heather Island
 32162,1762,Shoppes of Lake Village,10601 US 441 Ste D,Leesburg,FL,Shoppes of Lake Village
 32162,1535,Tavares Crossroads,2042 State Rd 19,Tavares,FL,Tavares Crossroads
+32163,1507,Lake Deaton Plaza,695 Kristine Way,The Villages,FL,Lake Deaton Plaza
+32163,1155,Colony Plaza,327 Colony Blvd,The Villages,FL,Colony Plaza
+32163,1705,Trailwinds Village,5810 Seven Mile Dr,Wildwood,FL,Trailwinds Village
+32163,1741,Magnolia Plaza,2135 Everglades Ln,The Villages,FL,Magnolia Plaza
+32163,1487,Grand Traverse Plaza,2925 Traverse Trl,The Villages,FL,Grand Traverse
+32163,815,Palm Plaza,717 N 14th St,Leesburg,FL,Palm Plaza
+32163,447,La Plaza Grande West,1120 Bichara Blvd,Lady Lake,FL,La Plaza Grande West
+32163,1080,Southern Trace Plaza,3475 Wedgewood Ln,The Villages,FL,Southern Trace
+32163,710,Publix at Lake Harris,27615 US Highway 27 # U,Leesburg,FL,Lake Harris
+32163,1581,Spanish Plaines Shopping Center,1566 Bella Cruz Dr,The Villages,FL,Spanish Plaines
+32163,4,Mulberry Grove Plaza Shopping Center,8780 SE 165th Mulberry Ln,The Villages,FL,Mulberry Grove
+32163,1762,Shoppes of Lake Village,10601 US 441 Ste D,Leesburg,FL,Shoppes of Lake Village
+32163,1535,Tavares Crossroads,2042 State Rd 19,Tavares,FL,Tavares Crossroads
+32163,862,Eustis Village,2840 David Walker Dr,Eustis,FL,Eustis Village
+32163,507,Woodland Center,1950 N Highway 19,Eustis,FL,Woodland Center
 32164,1138,Publix at Palm Coast Town Center,800 Belle Terre Pkwy,Palm Coast,FL,Palm Coast Twn Ctr
 32164,1339,Belle Terre Crossings,4950 Belle Terre Pkwy,Palm Coast,FL,Belle Terre Cr
 32164,1493,Island Walk at Palm Coast,250 Palm Coast Pkwy NE Unit 1000,Palm Coast,FL,Palm Coast
@@ -45004,6 +45499,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32181,1278,The Shoppes at Mission Trace,955 State Road 16,Saint Augustine,FL,Mission Trace
 32181,1729,Parkway Village of St John,170 Village Commons Dr,Saint Augustine,FL,Parkway Village
 32181,1239,Shoppes at Murabella,84 Tuscan Way,Saint Augustine,FL,Shoppes/Murabella
+32182,727,Town & Country Shopping Center,171 Town and Country Dr,Palatka,FL,Town and Country
+32182,1750,Pearl Britain Plaza,2655 NE 35th St,Ocala,FL,Pearl Britain Plaza
+32182,61,Forty East Shopping Center,3450 E Silver Springs Blvd,Ocala,FL,Forty East
+32182,795,Gainesville Shopping Center,1302 N Main St,Gainesville,FL,Gainesville
+32182,1289,Park View Commons,3035 SE Maricamp Rd,Ocala,FL,Park View Commons
+32182,1365,The Shops at Foxwood,2765 NW 49th Ave Ste 301,Ocala,FL,Shops at Foxwood
+32182,1560,Publix at University Village Market,203 NW 13th St,Gainesville,FL,University Vlg Mkt
+32182,1844,Churchill Square,303 SE 17th St Unit 201,Ocala,FL,Churchill Square
+32182,1038,Williston Plaza,5200 SW 34th St,Gainesville,FL,Williston Plaza
+32182,537,The Exchange,3720 NW 13th St Ste 9,Gainesville,FL,The Exchange
+32182,680,Esplanade at Butler Plaza,3100 SW 35th Blvd,Gainesville,FL,Butler Plaza
+32182,1312,Butler Plaza West,3930 SW Archer Rd,Gainesville,FL,Butler Plaza West
+32182,1784,Westgate Shopping Center,3315 W University Ave,Gainesville,FL,Westgate
+32182,733,Heather Island Plaza,7578 SE Maricamp Rd Ste 100,Ocala,FL,Heather Island
+32182,1477,Grand Oaks Town Center,2575 SW 42nd St Ste 100,Ocala,FL,Grand Oaks Twn Ctr
 32187,727,Town & Country Shopping Center,171 Town and Country Dr,Palatka,FL,Town and Country
 32187,1339,Belle Terre Crossings,4950 Belle Terre Pkwy,Palm Coast,FL,Belle Terre Cr
 32187,1493,Island Walk at Palm Coast,250 Palm Coast Pkwy NE Unit 1000,Palm Coast,FL,Palm Coast
@@ -45049,6 +45559,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32190,1500,Country Club Corners,2431 S Woodland Blvd,DeLand,FL,Country Club
 32190,1755,Publix at Halifax,101 E Granada Blvd,Ormond Beach,FL,Publix at Halifax
 32190,827,Publix at Holly Hill,1850 Ridgewood Ave,Holly Hill,FL,Holly Hill
+32192,1750,Pearl Britain Plaza,2655 NE 35th St,Ocala,FL,Pearl Britain Plaza
+32192,1365,The Shops at Foxwood,2765 NW 49th Ave Ste 301,Ocala,FL,Shops at Foxwood
+32192,61,Forty East Shopping Center,3450 E Silver Springs Blvd,Ocala,FL,Forty East
+32192,1844,Churchill Square,303 SE 17th St Unit 201,Ocala,FL,Churchill Square
+32192,1289,Park View Commons,3035 SE Maricamp Rd,Ocala,FL,Park View Commons
+32192,1477,Grand Oaks Town Center,2575 SW 42nd St Ste 100,Ocala,FL,Grand Oaks Twn Ctr
+32192,856,Heath Brook Commons,5400 SW College Rd Ste 200,Ocala,FL,Heath Brook
+32192,733,Heather Island Plaza,7578 SE Maricamp Rd Ste 100,Ocala,FL,Heather Island
+32192,1747,Belleview Regional Shopping Center,10301 S US Hwy 441,Belleview,FL,Belleview
+32192,1820,Cherrywood Market,9570 SW 62nd Avenue Rd,Ocala,FL,Cherrywood Market
+32192,1201,Canopy Oak Center,8075 SW Highway 200 Unit 111,Ocala,FL,Canopy Oak S/C
+32192,1038,Williston Plaza,5200 SW 34th St,Gainesville,FL,Williston Plaza
+32192,1312,Butler Plaza West,3930 SW Archer Rd,Gainesville,FL,Butler Plaza West
+32192,680,Esplanade at Butler Plaza,3100 SW 35th Blvd,Gainesville,FL,Butler Plaza
+32192,1560,Publix at University Village Market,203 NW 13th St,Gainesville,FL,University Vlg Mkt
 32193,727,Town & Country Shopping Center,171 Town and Country Dr,Palatka,FL,Town and Country
 32193,1339,Belle Terre Crossings,4950 Belle Terre Pkwy,Palm Coast,FL,Belle Terre Cr
 32193,1138,Publix at Palm Coast Town Center,800 Belle Terre Pkwy,Palm Coast,FL,Palm Coast Twn Ctr
@@ -45094,6 +45619,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32202,1841,Deerwood Village Shopping Center,9964 Old Baymeadows Rd,Jacksonville,FL,Deerwood Village
 32202,1468,Cobblestone Crossing,2771 Monument Rd Ste 19,Jacksonville,FL,Cobblestone Cr
 32202,1771,Northpoint Village Shopping Center,12541 Yellow Bluff Rd,Jacksonville,FL,Northpoint Village
+32203,849,Publix at Riverside,2033 Riverside Ave,Jacksonville,FL,Riverside
+32203,1223,Shoppes at East San Marco,2039 Hendricks Ave Ste 325,Jacksonville,FL,East San Marco
+32203,1283,Publix at Arlington River,5858 Atlantic Blvd,Jacksonville,FL,Arlington River
+32203,631,Roosevelt Square Shopping Center,4495 Roosevelt Blvd Ste 103,Jacksonville,FL,Roosevelt Square
+32203,1177,Publix at Dames Pointe,7117 Merrill Rd,Jacksonville,FL,Dames Pointe Plaza
+32203,1176,Publix at University Square,2875 University Blvd W,Jacksonville,FL,University Square
+32203,686,Highland Square,1100 Dunn Ave Bldg 100,Jacksonville,FL,Highland Square
+32203,1037,Normandy Crossing,7749 Normandy Blvd,Jacksonville,FL,Normandy Crossing
+32203,589,Publix Plaza,9100 Merrill Rd,Jacksonville,FL,Publix Plaza
+32203,884,Deerwood Lake Commons,4320 Deerwood Lake Pkwy,Jacksonville,FL,Deerwood Lake
+32203,263,Oak Hill Village,7628 103rd St Ste 24,Jacksonville,FL,Oak Hill Village
+32203,1125,St John's Town Center North,4413 Town Center Pkwy Ste 100,Jacksonville,FL,St Johns Town Ctr
+32203,1468,Cobblestone Crossing,2771 Monument Rd Ste 19,Jacksonville,FL,Cobblestone Cr
+32203,1771,Northpoint Village Shopping Center,12541 Yellow Bluff Rd,Jacksonville,FL,Northpoint Village
+32203,1066,Publix Super Market,10500 San Jose Blvd Ste 36,Jacksonville,FL,San Jose Blvd
 32204,849,Publix At Riverside,2033 Riverside Ave,Jacksonville,FL,Riverside
 32204,1223,Shoppes at East San Marco,2039 Hendricks Ave Ste 325,Jacksonville,FL,East San Marco
 32204,631,Roosevelt Square Shopping Center,4495 Roosevelt Blvd Ste 103,Jacksonville,FL,Roosevelt Square
@@ -45229,6 +45769,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32212,849,Publix At Riverside,2033 Riverside Ave,Jacksonville,FL,Riverside
 32212,1115,The Village Shopping Center,950 Blanding Blvd,Orange Park,FL,The Village S/C
 32212,502,Fleming Island Shopping Center,5000 US Highway 17 Ste 11,Fleming Island,FL,Fleming Island
+32214,1066,Publix Super Market,10500 San Jose Blvd Ste 36,Jacksonville,FL,San Jose Blvd
+32214,649,Argyle Village,6001 Argyle Forest Blvd Ste 45,Jacksonville,FL,Argyle Village
+32214,1022,Mandarin Oaks Shopping Center,11406 San Jose Blvd,Jacksonville,FL,Mandarin Oaks
+32214,1176,Publix at University Square,2875 University Blvd W,Jacksonville,FL,University Square
+32214,668,Pine Tree Plaza,410 Blanding Blvd,Orange Park,FL,Pine Tree Plaza
+32214,393,Old St Augustine Plaza,11250 St Augustine Rd Ste 4,Jacksonville,FL,Old St Augustine
+32214,631,Roosevelt Square Shopping Center,4495 Roosevelt Blvd Ste 103,Jacksonville,FL,Roosevelt Square
+32214,263,Oak Hill Village,7628 103rd St Ste 24,Jacksonville,FL,Oak Hill Village
+32214,1223,Shoppes at East San Marco,2039 Hendricks Ave Ste 325,Jacksonville,FL,East San Marco
+32214,716,Julington Village,450 State Road 13 N Ste 109,Saint Johns,FL,Julington Village
+32214,849,Publix at Riverside,2033 Riverside Ave,Jacksonville,FL,Riverside
+32214,1115,The Village Shopping Center,950 Blanding Blvd,Orange Park,FL,The Village S/C
+32214,502,Fleming Island Shopping Center,5000 US Highway 17 Ste 11,Fleming Island,FL,Fleming Island
+32214,1841,Deerwood Village Shopping Center,9964 Old Baymeadows Rd,Jacksonville,FL,Deerwood Village
+32214,1037,Normandy Crossing,7749 Normandy Blvd,Jacksonville,FL,Normandy Crossing
 32216,884,Deerwood Lake Commons,4320 Deerwood Lake Pkwy,Jacksonville,FL,Deerwood Lake
 32216,1176,Publix at University Square,2875 University Blvd W,Jacksonville,FL,University Square
 32216,1125,St John's Town Center North,4413 Town Center Pkwy Ste 100,Jacksonville,FL,St Johns Town Ctr
@@ -45664,6 +46219,36 @@ zipcode,storenumber,name,address,city,state,shortname
 32305,533,Bradfordville Center,6753 Thomasville Rd,Tallahassee,FL,Bradfordville Center
 32305,1836,The Shops at Bannerman Village,8462 Bannerman Blvd,Tallahassee,FL,Bannerman Village
 32305,1498,Publix at Park Place,13775 US Highway 19 S,Thomasville,GA,Park Place
+32306,1573,Publix at Gaines Street Station,625 W Gaines St,Tallahassee,FL,Publix at Gaines Street Station
+32306,782,Ocala Corners,800 Ocala Rd,Tallahassee,FL,Ocala Corners
+32306,852,Lake Ella Plaza,1700 N Monroe St,Tallahassee,FL,Lake Ella Plaza
+32306,1051,Governors Crossing II,101 N Blairstone Rd Ste 301,Tallahassee,FL,Governors Crossing II
+32306,887,Southwood Village,3551 S Blair Stone Rd,Tallahassee,FL,Southwood Village
+32306,1401,Mahan Village Shopping Center,3122 Mahan Dr,Tallahassee,FL,Mahan Village S/C
+32306,1427,Capital Circle,2111 NE Capital Circle,Tallahassee,FL,Capital Circle
+32306,610,Forest Village Shopping Center,5032 Capital Cir SW Ste 1,Tallahassee,FL,Forest Village
+32306,1306,Village Square (Village Commons),3521 Thomasville Rd,Tallahassee,FL,Village Square
+32306,1656,Oak Valley Shopping Center,5678 Capital Cir NW,Tallahassee,FL,Oak Valley
+32306,857,Vineyard Center,6615 Mahan Dr,Tallahassee,FL,Vineyard Center
+32306,533,Bradfordville Center,6753 Thomasville Rd,Tallahassee,FL,Bradfordville Center
+32306,1836,The Shops at Bannerman Village,8462 Bannerman Blvd,Tallahassee,FL,Bannerman Village
+32306,1798,Crawfordville Commons,2343 Crawfordville Hwy,Crawfordville,FL,Crawfordville Cmns
+32306,1498,Publix at Park Place,13775 US Highway 19 S,Thomasville,GA,Park Place
+32307,1573,Publix at Gaines Street Station,625 W Gaines St,Tallahassee,FL,Publix at Gaines Street Station
+32307,782,Ocala Corners,800 Ocala Rd,Tallahassee,FL,Ocala Corners
+32307,1051,Governors Crossing II,101 N Blairstone Rd Ste 301,Tallahassee,FL,Governors Crossing II
+32307,852,Lake Ella Plaza,1700 N Monroe St,Tallahassee,FL,Lake Ella Plaza
+32307,887,Southwood Village,3551 S Blair Stone Rd,Tallahassee,FL,Southwood Village
+32307,610,Forest Village Shopping Center,5032 Capital Cir SW Ste 1,Tallahassee,FL,Forest Village
+32307,1401,Mahan Village Shopping Center,3122 Mahan Dr,Tallahassee,FL,Mahan Village S/C
+32307,1427,Capital Circle,2111 NE Capital Circle,Tallahassee,FL,Capital Circle
+32307,1306,Village Square (Village Commons),3521 Thomasville Rd,Tallahassee,FL,Village Square
+32307,857,Vineyard Center,6615 Mahan Dr,Tallahassee,FL,Vineyard Center
+32307,1656,Oak Valley Shopping Center,5678 Capital Cir NW,Tallahassee,FL,Oak Valley
+32307,533,Bradfordville Center,6753 Thomasville Rd,Tallahassee,FL,Bradfordville Center
+32307,1836,The Shops at Bannerman Village,8462 Bannerman Blvd,Tallahassee,FL,Bannerman Village
+32307,1798,Crawfordville Commons,2343 Crawfordville Hwy,Crawfordville,FL,Crawfordville Cmns
+32307,1498,Publix at Park Place,13775 US Highway 19 S,Thomasville,GA,Park Place
 32308,1427,Capital Circle,2111 NE Capital Circle,Tallahassee,FL,Capital Circle
 32308,1401,Mahan Village Shopping Center,3122 Mahan Dr,Tallahassee,FL,Mahan Village S/C
 32308,1306,Village Square (Village Commons),3521 Thomasville Rd,Tallahassee,FL,Village Square
@@ -45739,6 +46324,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32312,610,Forest Village Shopping Center,5032 Capital Cir SW Ste 1,Tallahassee,FL,Forest Village
 32312,1498,Publix at Park Place,13775 US Highway 19 S,Thomasville,GA,Park Place
 32312,2109,Bainbridge Crossings,1515 Tallahassee Hwy,Bainbridge,GA,Bainbridge Crossings
+32313,1573,Publix at Gaines Street Station,625 W Gaines St,Tallahassee,FL,Publix at Gaines Street Station
+32313,782,Ocala Corners,800 Ocala Rd,Tallahassee,FL,Ocala Corners
+32313,852,Lake Ella Plaza,1700 N Monroe St,Tallahassee,FL,Lake Ella Plaza
+32313,1051,Governors Crossing II,101 N Blairstone Rd Ste 301,Tallahassee,FL,Governors Crossing II
+32313,887,Southwood Village,3551 S Blair Stone Rd,Tallahassee,FL,Southwood Village
+32313,1401,Mahan Village Shopping Center,3122 Mahan Dr,Tallahassee,FL,Mahan Village S/C
+32313,1427,Capital Circle,2111 NE Capital Circle,Tallahassee,FL,Capital Circle
+32313,610,Forest Village Shopping Center,5032 Capital Cir SW Ste 1,Tallahassee,FL,Forest Village
+32313,1306,Village Square (Village Commons),3521 Thomasville Rd,Tallahassee,FL,Village Square
+32313,1656,Oak Valley Shopping Center,5678 Capital Cir NW,Tallahassee,FL,Oak Valley
+32313,857,Vineyard Center,6615 Mahan Dr,Tallahassee,FL,Vineyard Center
+32313,533,Bradfordville Center,6753 Thomasville Rd,Tallahassee,FL,Bradfordville Center
+32313,1836,The Shops at Bannerman Village,8462 Bannerman Blvd,Tallahassee,FL,Bannerman Village
+32313,1798,Crawfordville Commons,2343 Crawfordville Hwy,Crawfordville,FL,Crawfordville Cmns
+32313,2109,Bainbridge Crossings,1515 Tallahassee Hwy,Bainbridge,GA,Bainbridge Crossings
 32317,857,Vineyard Center,6615 Mahan Dr,Tallahassee,FL,Vineyard Center
 32317,1427,Capital Circle,2111 NE Capital Circle,Tallahassee,FL,Capital Circle
 32317,1401,Mahan Village Shopping Center,3122 Mahan Dr,Tallahassee,FL,Mahan Village S/C
@@ -45949,6 +46549,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32336,1836,The Shops at Bannerman Village,8462 Bannerman Blvd,Tallahassee,FL,Bannerman Village
 32336,1656,Oak Valley Shopping Center,5678 Capital Cir NW,Tallahassee,FL,Oak Valley
 32336,1498,Publix at Park Place,13775 US Highway 19 S,Thomasville,GA,Park Place
+32337,857,Vineyard Center,6615 Mahan Dr,Tallahassee,FL,Vineyard Center
+32337,1401,Mahan Village Shopping Center,3122 Mahan Dr,Tallahassee,FL,Mahan Village S/C
+32337,533,Bradfordville Center,6753 Thomasville Rd,Tallahassee,FL,Bradfordville Center
+32337,1427,Capital Circle,2111 NE Capital Circle,Tallahassee,FL,Capital Circle
+32337,1306,Village Square (Village Commons),3521 Thomasville Rd,Tallahassee,FL,Village Square
+32337,1051,Governors Crossing II,101 N Blairstone Rd Ste 301,Tallahassee,FL,Governors Crossing II
+32337,887,Southwood Village,3551 S Blair Stone Rd,Tallahassee,FL,Southwood Village
+32337,1836,The Shops at Bannerman Village,8462 Bannerman Blvd,Tallahassee,FL,Bannerman Village
+32337,852,Lake Ella Plaza,1700 N Monroe St,Tallahassee,FL,Lake Ella Plaza
+32337,1573,Publix at Gaines Street Station,625 W Gaines St,Tallahassee,FL,Publix at Gaines Street Station
+32337,610,Forest Village Shopping Center,5032 Capital Cir SW Ste 1,Tallahassee,FL,Forest Village
+32337,782,Ocala Corners,800 Ocala Rd,Tallahassee,FL,Ocala Corners
+32337,1656,Oak Valley Shopping Center,5678 Capital Cir NW,Tallahassee,FL,Oak Valley
+32337,1498,Publix at Park Place,13775 US Highway 19 S,Thomasville,GA,Park Place
+32337,1798,Crawfordville Commons,2343 Crawfordville Hwy,Crawfordville,FL,Crawfordville Cmns
 32340,430,Baytree Village,1741 Gornto Rd,Valdosta,GA,Baytree Village
 32340,1709,Live Oak Crossing,2215 Ohio Ave N,Live Oak,FL,Live Oak Crossing
 32340,1435,Publix at Perimeter Park,3330 Inner Perimeter Rd,Valdosta,GA,Perimeter Park
@@ -46144,6 +46759,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32359,1784,Westgate Shopping Center,3315 W University Ave,Gainesville,FL,Westgate
 32359,680,Esplanade At Butler Plaza,3100 SW 35th Blvd,Gainesville,FL,Butler Plaza
 32359,1038,Williston Plaza,5200 SW 34th St,Gainesville,FL,Williston Plaza
+32360,1798,Crawfordville Commons,2343 Crawfordville Hwy,Crawfordville,FL,Crawfordville Cmns
+32360,1656,Oak Valley Shopping Center,5678 Capital Cir NW,Tallahassee,FL,Oak Valley
+32360,782,Ocala Corners,800 Ocala Rd,Tallahassee,FL,Ocala Corners
+32360,610,Forest Village Shopping Center,5032 Capital Cir SW Ste 1,Tallahassee,FL,Forest Village
+32360,1573,Publix at Gaines Street Station,625 W Gaines St,Tallahassee,FL,Publix at Gaines Street Station
+32360,852,Lake Ella Plaza,1700 N Monroe St,Tallahassee,FL,Lake Ella Plaza
+32360,1051,Governors Crossing II,101 N Blairstone Rd Ste 301,Tallahassee,FL,Governors Crossing II
+32360,887,Southwood Village,3551 S Blair Stone Rd,Tallahassee,FL,Southwood Village
+32360,1306,Village Square (Village Commons),3521 Thomasville Rd,Tallahassee,FL,Village Square
+32360,1427,Capital Circle,2111 NE Capital Circle,Tallahassee,FL,Capital Circle
+32360,1401,Mahan Village Shopping Center,3122 Mahan Dr,Tallahassee,FL,Mahan Village S/C
+32360,1836,The Shops at Bannerman Village,8462 Bannerman Blvd,Tallahassee,FL,Bannerman Village
+32360,533,Bradfordville Center,6753 Thomasville Rd,Tallahassee,FL,Bradfordville Center
+32360,2109,Bainbridge Crossings,1515 Tallahassee Hwy,Bainbridge,GA,Bainbridge Crossings
+32360,857,Vineyard Center,6615 Mahan Dr,Tallahassee,FL,Vineyard Center
 32361,857,Vineyard Center,6615 Mahan Dr,Tallahassee,FL,Vineyard Center
 32361,887,Southwood Village,3551 S Blair Stone Rd,Tallahassee,FL,Southwood Village
 32361,1401,Mahan Village Shopping Center,3122 Mahan Dr,Tallahassee,FL,Mahan Village S/C
@@ -46984,6 +47614,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32511,1213,The Shoppes at Palm Pointe,25771 Perdido Beach Blvd,Orange Beach,AL,Palm Pointe
 32511,1807,Merganser Commons at Dogwood Estates,5854 Dogwood Dr,Milton,FL,Merganser Commons
 32511,2098,The Village At Foley Crossroads,9913 Foley-Beach Express,Foley,AL,Foley Crossroads
+32512,1879,Blue Angel Plaza,9500 W Hwy 98,Pensacola,FL,Blue Angel Plaza
+32512,1318,Bellview Plaza,5998 Mobile Hwy,Pensacola,FL,Bellview Plaza
+32512,1522,Publix at East Hill,1100 E Cervantes St,Pensacola,FL,East Hill S/C
+32512,1316,Publix Super Market,5055 N 9th Ave,Pensacola,FL,N 9th Ave
+32512,1189,Sea Shell Collections,852 Gulf Breeze Pkwy,Gulf Breeze,FL,Sea Shell
+32512,1296,Shops at Perdido Key,13390 Perdido Key Dr,Pensacola,FL,Shops/Perdido Key
+32512,1343,Publix at Nine Mile,2180 W Nine Mile Rd,Pensacola,FL,Nine Mile
+32512,1317,University Town Center,9251 University Pkwy,Pensacola,FL,University Twn Ctr
+32512,1746,Nine Mile Crossing,8684 Beulah Rd,Pensacola,FL,Nine Mile Crossing
+32512,1537,Tiger Point Pavilion,1430 Tiger Park Ln,Gulf Breeze,FL,Tiger Point
+32512,1225,Santa Rosa Commons,4739 Highway 90,Pace,FL,Santa Rosa Commons
+32512,1572,Five Points Shopping Center,5580 Woodbine Rd,Pace,FL,Five Points S/C
+32512,1213,The Shoppes at Palm Pointe,25771 Perdido Beach Blvd,Orange Beach,AL,Palm Pointe
+32512,2098,The Village at Foley Crossroads,9913 Foley-Beach Express,Foley,AL,Foley Crossroads
+32512,1807,Merganser Commons at Dogwood Estates,5854 Dogwood Dr,Milton,FL,Merganser Commons
 32514,1317,University Town Center,9251 University Pkwy,Pensacola,FL,University Twn Ctr
 32514,1316,Publix Super Market,5055 N 9th Ave,Pensacola,FL,N 9th Ave
 32514,1343,Publix at Nine Mile,2180 W Nine Mile Rd,Pensacola,FL,Nine Mile
@@ -47539,6 +48184,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32609,527,Tower Square,5801 SW 75th St,Gainesville,FL,Tower Square
 32609,1505,Alachua Market Place,16193 NW US Hwy 441,Alachua,FL,Alachua Market Pl
 32609,690,Publix at Steeplechase,14130 W Newberry Rd,Newberry,FL,Steeplechase
+32610,1560,Publix at University Village Market,203 NW 13th St,Gainesville,FL,University Vlg Mkt
+32610,1784,Westgate Shopping Center,3315 W University Ave,Gainesville,FL,Westgate
+32610,795,Gainesville Shopping Center,1302 N Main St,Gainesville,FL,Gainesville
+32610,680,Esplanade at Butler Plaza,3100 SW 35th Blvd,Gainesville,FL,Butler Plaza
+32610,1312,Butler Plaza West,3930 SW Archer Rd,Gainesville,FL,Butler Plaza West
+32610,1038,Williston Plaza,5200 SW 34th St,Gainesville,FL,Williston Plaza
+32610,537,The Exchange,3720 NW 13th St Ste 9,Gainesville,FL,The Exchange
+32610,1376,Millhopper Shopping Center,4115 NW 16th Blvd,Gainesville,FL,Millhopper S/C
+32610,435,Hunter's Crossing,5200 NW 43rd St Ste 401,Gainesville,FL,Hunter's Crossing
+32610,306,Newberry Square,1200 NW 76th Blvd,Gainesville,FL,Newberry Square
+32610,527,Tower Square,5801 SW 75th St,Gainesville,FL,Tower Square
+32610,1111,Publix Market Square,2755 SW 91st St,Gainesville,FL,Market Square
+32610,735,Springhill Commons,9200 NW 39th Ave,Gainesville,FL,Springhill Commons
+32610,690,Publix at Steeplechase,14130 W Newberry Rd,Newberry,FL,Steeplechase
+32610,2012,Market at Newberry Farms,24100 W Newberry Rd Ste 10,Newberry,FL,Newberry Farms
 32612,1560,Publix at University Village Market,203 NW 13th St,Gainesville,FL,University Vlg Mkt
 32612,1784,Westgate Shopping Center,3315 W University Ave,Gainesville,FL,Westgate
 32612,795,Gainesville Shopping Center,1302 N Main St,Gainesville,FL,Gainesville
@@ -47719,6 +48379,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32631,527,Tower Square,5801 SW 75th St,Gainesville,FL,Tower Square
 32631,690,Publix at Steeplechase,14130 W Newberry Rd,Newberry,FL,Steeplechase
 32631,727,Town & Country Shopping Center,171 Town and Country Dr,Palatka,FL,Town and Country
+32634,1365,The Shops at Foxwood,2765 NW 49th Ave Ste 301,Ocala,FL,Shops at Foxwood
+32634,1750,Pearl Britain Plaza,2655 NE 35th St,Ocala,FL,Pearl Britain Plaza
+32634,1844,Churchill Square,303 SE 17th St Unit 201,Ocala,FL,Churchill Square
+32634,61,Forty East Shopping Center,3450 E Silver Springs Blvd,Ocala,FL,Forty East
+32634,1477,Grand Oaks Town Center,2575 SW 42nd St Ste 100,Ocala,FL,Grand Oaks Twn Ctr
+32634,856,Heath Brook Commons,5400 SW College Rd Ste 200,Ocala,FL,Heath Brook
+32634,1289,Park View Commons,3035 SE Maricamp Rd,Ocala,FL,Park View Commons
+32634,1038,Williston Plaza,5200 SW 34th St,Gainesville,FL,Williston Plaza
+32634,527,Tower Square,5801 SW 75th St,Gainesville,FL,Tower Square
+32634,1312,Butler Plaza West,3930 SW Archer Rd,Gainesville,FL,Butler Plaza West
+32634,1201,Canopy Oak Center,8075 SW Highway 200 Unit 111,Ocala,FL,Canopy Oak S/C
+32634,680,Esplanade at Butler Plaza,3100 SW 35th Blvd,Gainesville,FL,Butler Plaza
+32634,1820,Cherrywood Market,9570 SW 62nd Avenue Rd,Ocala,FL,Cherrywood Market
+32634,1560,Publix at University Village Market,203 NW 13th St,Gainesville,FL,University Vlg Mkt
+32634,1784,Westgate Shopping Center,3315 W University Ave,Gainesville,FL,Westgate
 32639,1616,Rainbow Square Shopping Center,11352 N Williams St Ste 400,Dunnellon,FL,Rainbow Square
 32639,797,Crystal Springs Shopping Center,6760 W Gulf To Lake Hwy,Crystal River,FL,Crystal Springs
 32639,475,Shoppes of Citrus Hills,2685 N Forest Ridge Blvd,Hernando,FL,Citrus Hills
@@ -48199,6 +48874,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32720,1864,King's Crossing,4181 E State Rd 46,Sanford,FL,King's Crossing
 32720,698,Lake Mary Pointe,601 Weldon Blvd,Lake Mary,FL,Lake Mary Pointe
 32720,1668,Longwood Hills Market,675 Longwood Hills Rd Unit 1001,Longwood,FL,Longwood Hills
+32723,1444,Northgate Shopping Center,299 E International Speedway Blvd,DeLand,FL,Northgate S/C
+32723,1500,Country Club Corners,2431 S Woodland Blvd,DeLand,FL,Country Club
+32723,422,Crown Centre,2556 Enterprise Rd Ste 100,Orange City,FL,Crown Centre
+32723,1330,Publix at Saxon Crossings,2100 Saxon Blvd,Deltona,FL,Saxon Crossings
+32723,1187,Dupont Lakes Center,2783 Elkcam Blvd,Deltona,FL,Dupont Lakes Ctr
+32723,667,Publix at Deltona Landings,915 Doyle Rd,Deltona,FL,Deltona Landings
+32723,1123,Deltona Commons,605 Courtland Blvd,Deltona,FL,Deltona Commons
+32723,641,Publix at Lake Forest,5240 W State Road 46,Sanford,FL,Lake Forest
+32723,1664,Latitude Landings,2630 LPGA Blvd,Daytona Beach,FL,Latitude Landings
+32723,1450,Westport Square,1660 Taylor Rd,Port Orange,FL,Westport Square
+32723,1304,Colonial Towne Park Center,870 Village Oak Ln,Lake Mary,FL,Colonial Town Park
+32723,833,Cornerstone at Lake Mary,825 Rinehart Rd,Lake Mary,FL,Cornerstone
+32723,1864,King's Crossing,4181 E State Rd 46,Sanford,FL,King's Crossing
+32723,1837,Shoppes at Beville Road,1500 Beville Rd Ste 300,Daytona Beach,FL,Beville Road Shoppes
+32723,446,Ormond Towne Square,1478 W Granada Blvd,Ormond Beach,FL,Ormond Towne Square
 32724,1444,Northgate Shopping Center,299 E International Speedway Blvd,DeLand,FL,Northgate S/C
 32724,1500,Country Club Corners,2431 S Woodland Blvd,DeLand,FL,Country Club
 32724,1187,Dupont Lakes Center,2783 Elkcam Blvd,Deltona,FL,Dupont Lakes Ctr
@@ -48499,6 +49189,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32767,1304,Colonial Towne Park Center,870 Village Oak Ln,Lake Mary,FL,Colonial Town Park
 32767,667,Publix at Deltona Landings,915 Doyle Rd,Deltona,FL,Deltona Landings
 32767,833,Cornerstone at Lake Mary,825 Rinehart Rd,Lake Mary,FL,Cornerstone
+32768,501,Wekiva Plaza,1545 Rock Springs Rd,Apopka,FL,Wekiva Plaza
+32768,2121,The Shoppes at East Shore,2411 Ocoee Apopka Rd,Apopka,FL,East Shore
+32768,1698,Publix at Kelly Park Crossing,3080 W Kelly Park Rd,Apopka,FL,Kelly Park Crossing
+32768,1174,Fountains West,301 West Rd,Ocoee,FL,Fountains West
+32768,227,Hunt Club Corners,540 S Hunt Club Blvd,Apopka,FL,Hunt Club Corners
+32768,865,Shoppes of Sweetwater,3883 Wekiva Springs Rd,Longwood,FL,Sweetwater
+32768,1275,Stoneybrook Hills Village,6551 N Orange Blossom Trl Ste 155,Mount Dora,FL,Stoneybrook Hills
+32768,1793,Oak Grove Shoppes,1005 N State Rd 434 Ste 1020,Altamonte Springs,FL,Oak Grove
+32768,761,Publix at Silver Crossing,1720 E Silver Star Rd,Ocoee,FL,Silver Crossing
+32768,1428,Springs Plaza,2381 W State Road 434,Longwood,FL,Springs Plaza
+32768,442,Gateway Crossing,851 S State Road 434,Altamonte Springs,FL,Gateway Crossing
+32768,881,West Point Commons,13750 W Colonial Dr,Winter Garden,FL,West Point Commons
+32768,405,Good Homes Plaza,8863 W Colonial Dr,Ocoee,FL,Good Homes Plaza
+32768,1269,Loch Leven Landing,18955 US Highway 441,Mount Dora,FL,Loch Leven Landing
+32768,1499,Sorrento Hills Village,24420 State Rd 44,Eustis,FL,Sorrento Hills Vlg
 32771,641,Publix at Lake Forest,5240 W State Road 46,Sanford,FL,Lake Forest
 32771,1304,Colonial Towne Park Center,870 Village Oak Ln,Lake Mary,FL,Colonial Town Park
 32771,833,Cornerstone at Lake Mary,825 Rinehart Rd,Lake Mary,FL,Cornerstone
@@ -48529,6 +49234,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32773,667,Publix at Deltona Landings,915 Doyle Rd,Deltona,FL,Deltona Landings
 32773,1889,Alafaya Square,81 Alafaya Woods Blvd,Oviedo,FL,Alafaya Square
 32773,1295,Shoppes at Aloma Walk,2871 Clayton Crossing Way Ste 1001,Oviedo,FL,Aloma Walk
+32775,1358,St John's Plaza,3275 Garden St,Titusville,FL,St John's Plaza
+32775,429,Edgewater Commons,2970 S Ridgewood Ave,Edgewater,FL,Edgewater Commons
+32775,1421,Colonial Coast Crossing,2000 Cheney Hwy,Titusville,FL,Colonial Coast Cr
+32775,1649,New Smyrna Beach Regional Shopping Center,1930 State Rd 44,New Smyrna Beach,FL,New Smyrna Bch RSC
+32775,1559,Shoppes at Sterling Creek,443 W CR 419 Ste 1001,Oviedo,FL,Sterling Creek
+32775,229,Indian River Village Shopping Center,709 E 3rd Ave,New Smyrna Beach,FL,Indian River Village
+32775,675,Riverside Landings Shopping Center,1801 E Broadway St,Oviedo,FL,Riverside Landings
+32775,1123,Deltona Commons,605 Courtland Blvd,Deltona,FL,Deltona Commons
+32775,1864,King's Crossing,4181 E State Rd 46,Sanford,FL,King's Crossing
+32775,523,Indiavista Center,7325 N US Highway 1,Cocoa,FL,Indiavista Center
+32775,897,Corner Lakes Plaza,16825 E Colonial Dr,Orlando,FL,Corner Lakes Plaza
+32775,1889,Alafaya Square,81 Alafaya Woods Blvd,Oviedo,FL,Alafaya Square
+32775,1187,Dupont Lakes Center,2783 Elkcam Blvd,Deltona,FL,Dupont Lakes Ctr
+32775,493,Tuscawilla Bend Shopping Center,2100 Winter Springs Blvd,Oviedo,FL,Tuscawilla Bend
+32775,458,University Palms Shopping Center,4250 Alafaya Trl Ste 148,Oviedo,FL,University Palms
 32776,1499,Sorrento Hills Village,24420 State Rd 44,Eustis,FL,Sorrento Hills Vlg
 32776,1698,Publix at Kelly Park Crossing,3080 W Kelly Park Rd,Apopka,FL,Kelly Park Crossing
 32776,1275,Stoneybrook Hills Village,6551 N Orange Blossom Trl Ste 155,Mount Dora,FL,Stoneybrook Hills
@@ -48844,6 +49564,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32814,1070,Maitland Place,242 N Orlando Ave,Maitland,FL,Maitland Place
 32814,1754,Plaza Ecco,3171 S Orange Ave,Orlando,FL,Plaza Ecco
 32814,1789,Suncrest Village,10115 University Blvd,Orlando,FL,Suncrest Village
+32816,458,University Palms Shopping Center,4250 Alafaya Trl Ste 148,Oviedo,FL,University Palms
+32816,1440,Town Park,12231 E Colonial Dr,Orlando,FL,Town Park
+32816,1789,Suncrest Village,10115 University Blvd,Orlando,FL,Suncrest Village
+32816,1889,Alafaya Square,81 Alafaya Woods Blvd,Oviedo,FL,Alafaya Square
+32816,1295,Shoppes at Aloma Walk,2871 Clayton Crossing Way Ste 1001,Oviedo,FL,Aloma Walk
+32816,675,Riverside Landings Shopping Center,1801 E Broadway St,Oviedo,FL,Riverside Landings
+32816,1559,Shoppes at Sterling Creek,443 W CR 419 Ste 1001,Oviedo,FL,Sterling Creek
+32816,897,Corner Lakes Plaza,16825 E Colonial Dr,Orlando,FL,Corner Lakes Plaza
+32816,493,Tuscawilla Bend Shopping Center,2100 Winter Springs Blvd,Oviedo,FL,Tuscawilla Bend
+32816,607,The Shoppes Of Eastwood,1921 S Alafaya Trl,Orlando,FL,Eastwood
+32816,796,Willa Springs Village,5655 Red Bug Lake Rd,Winter Springs,FL,Willa Springs
+32816,1387,University Plaza,4000 N Goldenrod Rd,Winter Park,FL,University Plaza
+32816,1122,Rio Pinar Plaza,409 S Chickasaw Trl,Orlando,FL,Rio Pinar Plaza
+32816,1092,Publix at Avalon,3400 Avalon Park East Blvd,Orlando,FL,Avalon Park
+32816,1338,Curry Ford Square,10250 Curry Ford Rd,Orlando,FL,Curry Ford Square
 32817,1789,Suncrest Village,10115 University Blvd,Orlando,FL,Suncrest Village
 32817,1295,Shoppes at Aloma Walk,2871 Clayton Crossing Way Ste 1001,Oviedo,FL,Aloma Walk
 32817,1387,University Plaza,4000 N Goldenrod Rd,Winter Park,FL,University Plaza
@@ -49144,6 +49879,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32839,741,Plaza Venezia,7640 W Sand Lake Rd,Orlando,FL,Plaza Venezia
 32839,1439,The Marketplace at Dr Phillips,7524 Dr Phillips Blvd,Orlando,FL,Mktpl/Dr Phillips
 32839,659,Publix at College Park,2015 Edgewater Dr,Orlando,FL,College Park
+32899,523,Indiavista Center,7325 N US Highway 1,Cocoa,FL,Indiavista Center
+32899,1421,Colonial Coast Crossing,2000 Cheney Hwy,Titusville,FL,Colonial Coast Cr
+32899,893,Merritt Island,1850 N Courtenay Pkwy,Merritt Island,FL,Merritt Island
+32899,1358,St John's Plaza,3275 Garden St,Titusville,FL,St John's Plaza
+32899,1098,Publix Cornerstone Plaza,5645 N Atlantic Ave,Cocoa Beach,FL,Cornerstone Plaza
+32899,760,Cocoa Commons,2301 State Road 524 Ste 150,Cocoa,FL,Cocoa Commons
+32899,757,First Merritt Shopping Center,125 E Merritt Island Cswy,Merritt Island,FL,First Merritt
+32899,1563,Banana River Square,2067 N Atlantic Ave,Cocoa Beach,FL,Banana River Sq
+32899,1805,Rockledge Square,1880 US Hwy 1 S,Rockledge,FL,Rockledge Square
+32899,784,Rockledge Crossing,3820 Murrell Rd,Rockledge,FL,Rockledge Crossing
+32899,1398,Stadium Corners at Viera,5380 Stadium Pkwy Ste 100,Rockledge,FL,Stadium Corners
+32899,467,Suntree Square,7777 N Wickham Rd,Melbourne,FL,Suntree Square
+32899,1832,Addison Center at Viera,7655 Stadium Pkwy,Melbourne,FL,Addison Center
+32899,1214,Atlantic Plaza,1024 Highway A1A Ste 120,Satellite Beach,FL,Atlantic Plaza
+32899,738,Post Commons Shopping Center,4100 N Wickham Rd Ste 109,Melbourne,FL,Post Commons
 32901,704,Melbourne Shopping Center,1411 S Babcock St,Melbourne,FL,Melbourne
 32901,1353,Windover Square,2261 W New Haven Ave,West Melbourne,FL,Windover Square
 32901,695,Palm Crossings,145 Palm Bay Rd NE Ste 117,West Melbourne,FL,Palm Crossings
@@ -49519,6 +50269,21 @@ zipcode,storenumber,name,address,city,state,shortname
 32958,424,Shoppes of Palm Bay,1150 Malabar Rd SE Ste 120,Palm Bay,FL,Shoppes of Palm Bay
 32958,695,Palm Crossings,145 Palm Bay Rd NE Ste 117,West Melbourne,FL,Palm Crossings
 32958,1688,Publix at Indialantic,700 N Miramar Ave,Indialantic,FL,Indialantic
+32959,523,Indiavista Center,7325 N US Highway 1,Cocoa,FL,Indiavista Center
+32959,760,Cocoa Commons,2301 State Road 524 Ste 150,Cocoa,FL,Cocoa Commons
+32959,893,Merritt Island,1850 N Courtenay Pkwy,Merritt Island,FL,Merritt Island
+32959,757,First Merritt Shopping Center,125 E Merritt Island Cswy,Merritt Island,FL,First Merritt
+32959,1805,Rockledge Square,1880 US Hwy 1 S,Rockledge,FL,Rockledge Square
+32959,1421,Colonial Coast Crossing,2000 Cheney Hwy,Titusville,FL,Colonial Coast Cr
+32959,784,Rockledge Crossing,3820 Murrell Rd,Rockledge,FL,Rockledge Crossing
+32959,1098,Publix Cornerstone Plaza,5645 N Atlantic Ave,Cocoa Beach,FL,Cornerstone Plaza
+32959,1563,Banana River Square,2067 N Atlantic Ave,Cocoa Beach,FL,Banana River Sq
+32959,1398,Stadium Corners at Viera,5380 Stadium Pkwy Ste 100,Rockledge,FL,Stadium Corners
+32959,1358,St John's Plaza,3275 Garden St,Titusville,FL,St John's Plaza
+32959,467,Suntree Square,7777 N Wickham Rd,Melbourne,FL,Suntree Square
+32959,1832,Addison Center at Viera,7655 Stadium Pkwy,Melbourne,FL,Addison Center
+32959,738,Post Commons Shopping Center,4100 N Wickham Rd Ste 109,Melbourne,FL,Post Commons
+32959,1214,Atlantic Plaza,1024 Highway A1A Ste 120,Satellite Beach,FL,Atlantic Plaza
 32960,1150,Treasure Coast Plaza,415 21st St,Vero Beach,FL,Treasure Coast Plz
 32960,240,12th Street Plaza,1255 US Highway 1,Vero Beach,FL,12th Street Plaza
 32960,284,Ryanwood Square,2040 58th Ave,Vero Beach,FL,Ryanwood Plaza
@@ -49834,6 +50599,21 @@ zipcode,storenumber,name,address,city,state,shortname
 33021,820,Cooper City Commons,9359 Sheridan St,Cooper City,FL,Cooper City
 33021,629,Ives Dairy Crossing,19955 NW 2nd Ave,Miami Gardens,FL,Ives Dairy
 33021,1606,Davie Shopping Center,4701 S University Dr,Davie,FL,Davie S/C
+33022,1554,Hollywood Circle,1740 Polk St,Hollywood,FL,Hollywood Circle
+33022,1454,West Lake Commons,1700 Sheridan St,Hollywood,FL,West Lake Commons
+33022,432,Hollywood Mall,3251 Hollywood Blvd,Hollywood,FL,Hollywood Mall
+33022,1693,Publix at Hollywood Beach,3100 S Ocean Dr,Hollywood,FL,Hollywood Beach
+33022,402,Hallandale Place Shopping Center,1400 E Hallandale Beach Blvd,Hallandale Beach,FL,Hallandale Beach
+33022,788,Beachway Plaza,402 E Dania Beach Blvd,Dania Beach,FL,Beachway Plaza
+33022,53,Sheridan Plaza,5211 Sheridan St,Hollywood,FL,Sheridan Plaza
+33022,1558,Aventura Shopping Center,2952 Aventura Blvd,Aventura,FL,Aventura S/C
+33022,715,Publix at Oakbridge,3102 Griffin Rd,Fort Lauderdale,FL,Oakbridge
+33022,454,Loehmann's Fashion Island,18995 Biscayne Blvd,Aventura,FL,Town Center Aventura
+33022,1536,Publix at Sunny Isles Beach,18320 Collins Avenue,Sunny Isles Beach,FL,Sunny Isles Beach
+33022,669,Skylake Mall,1700 NE Miami Gardens Dr,North Miami Beach,FL,Skylake Mall
+33022,679,Taft Hollywood Shopping Center,6901 Taft St,Hollywood,FL,Taft Hollywood
+33022,629,Ives Dairy Crossing,19955 NW 2nd Ave,Miami Gardens,FL,Ives Dairy
+33022,167,Publix Super Market,6890 Miramar Pkwy,Miramar,FL,Miramar Pkwy
 33023,167,Publix Super Market,6890 Miramar Pkwy,Miramar,FL,Miramar Pkwy
 33023,629,Ives Dairy Crossing,19955 NW 2nd Ave,Miami Gardens,FL,Ives Dairy
 33023,432,Hollywood Mall,3251 Hollywood Blvd,Hollywood,FL,Hollywood Mall
@@ -51731,6 +52511,21 @@ zipcode,storenumber,name,address,city,state,shortname
 33351,549,Lakeview Center,1400 Coral Ridge Dr,Coral Springs,FL,Lakeview Center
 33351,294,Cypress Lakes Town Center,1297 S State Road 7,North Lauderdale,FL,Cypress Lakes
 33351,747,Publix Plaza,225 S Flamingo Rd,Plantation,FL,Publix Plaza
+33388,1345,Publix at Plantation,1181 S University Dr,Plantation,FL,Plantation
+33388,1040,Veranda Shoppes,550 N Pine Island Rd,Plantation,FL,Veranda Shoppes
+33388,703,Plantation Towne Square,6921 W Broward Blvd,Plantation,FL,Plantation Towne Square
+33388,252,Pine Island Ridge Plaza,8842 W State Road 84,Davie,FL,Pine Island Ridge
+33388,1776,Plantation Promenade,10065 Cleary Blvd,Plantation,FL,Plantation Promenade
+33388,645,Jacaranda Plaza,8101 W Sunrise Blvd,Plantation,FL,Jacaranda Plaza
+33388,837,Westport Plaza,6525 Nova Dr,Davie,FL,Westport Plaza
+33388,2037,West Broward Shopping Center,3901 W Broward Blvd,Plantation,FL,West Broward Shopping Center
+33388,1109,Inverrary Falls,5855 W Oakland Park Blvd Ste 203,Lauderhill,FL,Inverrary Falls
+33388,1606,Davie Shopping Center,4701 S University Dr,Davie,FL,Davie S/C
+33388,747,Publix Plaza,225 S Flamingo Rd,Plantation,FL,Publix Plaza
+33388,1124,The Riverland Center,3500 W Davie Blvd,Fort Lauderdale,FL,Riverland Center
+33388,1301,Pine Lake Plaza,10018 Griffin Rd,Cooper City,FL,Pine Lake Plaza
+33388,239,Welleby Plaza,10155 W Oakland Park Blvd,Sunrise,FL,Welleby Plaza
+33388,509,Sawgrass Square,12500 W Sunrise Blvd,Sunrise,FL,Sawgrass Square
 33401,848,City Place,375 S Rosemary Ave,West Palm Beach,FL,City Place
 33401,1497,Village Commons,831 Village Blvd,West Palm Beach,FL,Village Commons
 33401,1395,Publix on Palm Beach,135 Bradley Pl,Palm Beach,FL,Palm Beach
@@ -54648,13 +55443,13 @@ zipcode,storenumber,name,address,city,state,shortname
 33852,118,Northlake Village,3551 US Highway 441 S,Okeechobee,FL,Northlake Village
 33852,1763,Crescent B Commons,42051 Cypress Pkwy,Babcock Ranch,FL,Crescent B Commons
 33852,1735,Riverdale Shopping Center,14561 Palm Beach Blvd Ste 150,Fort Myers,FL,Riverdale
-33852,1039,The Shops at Verandah,11851 Palm Beach Blvd,Fort Myers,FL,Shops at Verandah
 33852,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
-33852,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
-33852,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
-33852,1443,Homestead Shopping Plaza,1324 Homestead Rd N,Lehigh Acres,FL,Homestead
-33852,1557,Burnt Store Marketplace,3941 Tamiami Trl Unit 3145,Punta Gorda,FL,Burnt Store Mktpl
+33852,1039,The Shops at Verandah,11851 Palm Beach Blvd,Fort Myers,FL,Shops at Verandah
 33852,557,Southgate Shopping Center,102 Hwy 60 E,Lake Wales,FL,Southgate
+33852,1557,Burnt Store Marketplace,3941 Tamiami Trl Unit 3145,Punta Gorda,FL,Burnt Store Mktpl
+33852,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
+33852,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
+33852,1443,Homestead Shopping Plaza,1324 Homestead Rd N,Lehigh Acres,FL,Homestead
 33852,1352,Publix at Eagle Landing,6700 Bayshore Rd,North Fort Myers,FL,Eagle Landing
 33853,557,Southgate Shopping Center,102 Hwy 60 E,Lake Wales,FL,Southgate
 33853,97,Shoppes on the Ridge,23965 Hwy 27,Lake Wales,FL,Shoppes on the Ridge
@@ -54726,11 +55521,26 @@ zipcode,storenumber,name,address,city,state,shortname
 33857,2092,Riverland Town Center,12407 SW Community Blvd,Port Saint Lucie,FL,Riverland
 33857,1472,Publix at Verano,9335 SW Commerce Centre Dr,Port Saint Lucie,FL,Verano
 33857,1737,Shoppes at St Lucie West,1537 NW St Lucie West Blvd,Port Saint Lucie,FL,St Lucie West
-33857,97,Shoppes on the Ridge,23965 Hwy 27,Lake Wales,FL,Shoppes on the Ridge
-33857,1284,Darwin Square,3253 SW Port St Lucie Blvd,Port Saint Lucie,FL,Darwin Square
-33857,284,Ryanwood Square,2040 58th Ave,Vero Beach,FL,Ryanwood Plaza
 33857,898,South Point,4145 9th St SW,Vero Beach,FL,South Point
+33857,284,Ryanwood Square,2040 58th Ave,Vero Beach,FL,Ryanwood Plaza
 33857,1035,Shops of Sebastian,1451 Sebastian Blvd Ste 200,Sebastian,FL,Shops of Sebastian
+33857,1284,Darwin Square,3253 SW Port St Lucie Blvd,Port Saint Lucie,FL,Darwin Square
+33857,819,Publix at St. Andrews,5473 NW Saint James Dr,Port Saint Lucie,FL,St. Andrews
+33858,1686,Loughman Crossing,6075 Hwy 17-92 N,Davenport,FL,Loughman Crossing
+33858,1195,Ovation,7800 Lake Wilson Rd,Davenport,FL,Ovation S/C
+33858,770,Champions Gate Village Shopping Center,8301 Champions Gate Blvd,Champions Gate,FL,Champions Gate
+33858,1849,Celebration Pointe,1725 Future Way,Kissimmee,FL,Celebration Pointe
+33858,2088,The Shoppes at Citrus Creek,42660 Hwy 27,Davenport,FL,Citrus Creek
+33858,1431,Water Tower Shoppes,29 Blake Blvd,Celebration,FL,Water Tower Shops
+33858,1738,Champions Crossing,1200 Champions Dr,Davenport,FL,Champions Crossing
+33858,1167,St Charles Plaza,39883 Highway 27,Davenport,FL,St Charles Plaza
+33858,1179,Pleasant Hill Commons,3343 S Orange Blossom Trl,Kissimmee,FL,Pleasant Hill Comm
+33858,551,Orange Lake Town Center,14928 E Orange Lake Blvd,Kissimmee,FL,Orange Lake
+33858,879,Berry Town Center,2424 Sand Mine Rd,Davenport,FL,Berry Town Center
+33858,1607,Sunrise City Plaza,3221 Vineland Rd,Kissimmee,FL,Sunrise City Plaza
+33858,1181,Village Shops at Bellalago,3839 Pleasant Hill Rd,Kissimmee,FL,Bellalago
+33858,2041,Shops at The Grove,4112 E Johnson Ave,Haines City,FL,Shops at the Grove
+33858,758,The Promenade,841 Cypress Pkwy,Poinciana,FL,The Promenade
 33859,557,Southgate Shopping Center,102 Hwy 60 E,Lake Wales,FL,Southgate
 33859,97,Shoppes on the Ridge,23965 Hwy 27,Lake Wales,FL,Shoppes on the Ridge
 33859,2117,Publix at Thompson Nursery,8710 W Lake Ruby Dr,Winter Haven,FL,Thompson Nursery
@@ -54765,17 +55575,17 @@ zipcode,storenumber,name,address,city,state,shortname
 33865,2108,Northchase Center,16642 State Rd 64 E,Bradenton,FL,Northchase Center
 33865,1553,Publix at Braden River,14605 State Rd 70,Bradenton,FL,Braden River
 33865,1600,University Corner,7325 University Pkwy,Lakewood Ranch,FL,University Corner
-33865,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
 33865,1723,White Eagle,13150 E State Rd 64,Bradenton,FL,White Eagle
-33865,1347,Fairmont Plaza,3610 US Highway 27 N,Sebring,FL,Fairmont Plaza
+33865,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
+33865,1267,Publix at Bee Ridge,8300 Bee Ridge Rd,Sarasota,FL,Bee Ridge Ext
 33865,1153,Lakewood Walk,11205 E State Road 70,Bradenton,FL,Lakewood Walk
 33865,798,Lakewood Ranch Gateway,1755 Lakewood Ranch Blvd,Bradenton,FL,Lakewood Ranch
-33865,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
+33865,1347,Fairmont Plaza,3610 US Highway 27 N,Sebring,FL,Fairmont Plaza
 33865,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
-33865,1267,Publix at Bee Ridge,8300 Bee Ridge Rd,Sarasota,FL,Bee Ridge Ext
-33865,732,Kings Crossing,4854 Sun City Center Blvd,Sun City Center,FL,Kings Crossing
-33865,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
+33865,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
 33865,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
+33865,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
+33865,732,Kings Crossing,4854 Sun City Center Blvd,Sun City Center,FL,Kings Crossing
 33867,557,Southgate Shopping Center,102 Hwy 60 E,Lake Wales,FL,Southgate
 33867,1347,Fairmont Plaza,3610 US Highway 27 N,Sebring,FL,Fairmont Plaza
 33867,1517,Southgate Shopping Center,2848 US 27 S Ste 107,Sebring,FL,Southgate S/C
@@ -54810,43 +55620,43 @@ zipcode,storenumber,name,address,city,state,shortname
 33870,1347,Fairmont Plaza,3610 US Highway 27 N,Sebring,FL,Fairmont Plaza
 33870,1547,South Highlands Shopping Center,586 US 27 N,Lake Placid,FL,South Highlands
 33870,557,Southgate Shopping Center,102 Hwy 60 E,Lake Wales,FL,Southgate
-33870,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 33870,97,Shoppes on the Ridge,23965 Hwy 27,Lake Wales,FL,Shoppes on the Ridge
+33870,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 33870,2117,Publix at Thompson Nursery,8710 W Lake Ruby Dr,Winter Haven,FL,Thompson Nursery
+33870,118,Northlake Village,3551 US Highway 441 S,Okeechobee,FL,Northlake Village
 33870,448,Winter Haven Square,6031 Cypress Gardens Blvd,Winter Haven,FL,Winter Haven Square
 33870,1399,Golden Gate Shopping Center,255 E Van Fleet Dr,Bartow,FL,Golden Gate S/C
-33870,1204,Southeast Plaza Shopping Center,884 Cypress Gardens Blvd,Winter Haven,FL,Southeast Plaza
 33870,2107,The Shoppes at Country Club,4267 Dundee Rd,Winter Haven,FL,The Shoppes at Country Club
+33870,1204,Southeast Plaza Shopping Center,884 Cypress Gardens Blvd,Winter Haven,FL,Southeast Plaza
 33870,425,Spirit Lake Crossing,1090 Spirit Lake Rd,Winter Haven,FL,Spirit Lake Crossing
-33870,118,Northlake Village,3551 US Highway 441 S,Okeechobee,FL,Northlake Village
 33870,836,Publix at Northgate,1395 6th St NW,Winter Haven,FL,Northgate
 33870,2041,Shops at The Grove,4112 E Johnson Ave,Haines City,FL,Shops at the Grove
 33872,1347,Fairmont Plaza,3610 US Highway 27 N,Sebring,FL,Fairmont Plaza
 33872,1517,Southgate Shopping Center,2848 US 27 S Ste 107,Sebring,FL,Southgate S/C
 33872,1547,South Highlands Shopping Center,586 US 27 N,Lake Placid,FL,South Highlands
-33872,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 33872,557,Southgate Shopping Center,102 Hwy 60 E,Lake Wales,FL,Southgate
+33872,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 33872,97,Shoppes on the Ridge,23965 Hwy 27,Lake Wales,FL,Shoppes on the Ridge
 33872,2117,Publix at Thompson Nursery,8710 W Lake Ruby Dr,Winter Haven,FL,Thompson Nursery
 33872,1399,Golden Gate Shopping Center,255 E Van Fleet Dr,Bartow,FL,Golden Gate S/C
 33872,448,Winter Haven Square,6031 Cypress Gardens Blvd,Winter Haven,FL,Winter Haven Square
 33872,1204,Southeast Plaza Shopping Center,884 Cypress Gardens Blvd,Winter Haven,FL,Southeast Plaza
-33872,425,Spirit Lake Crossing,1090 Spirit Lake Rd,Winter Haven,FL,Spirit Lake Crossing
 33872,2107,The Shoppes at Country Club,4267 Dundee Rd,Winter Haven,FL,The Shoppes at Country Club
+33872,425,Spirit Lake Crossing,1090 Spirit Lake Rd,Winter Haven,FL,Spirit Lake Crossing
 33872,1171,Highland City Town Center,5185 US Highway 98 S,Lakeland,FL,Highland City
 33872,836,Publix at Northgate,1395 6th St NW,Winter Haven,FL,Northgate
 33872,671,Publix in the Highlands,2125 E County Road 540a,Lakeland,FL,The Highlands
 33873,1347,Fairmont Plaza,3610 US Highway 27 N,Sebring,FL,Fairmont Plaza
 33873,1517,Southgate Shopping Center,2848 US 27 S Ste 107,Sebring,FL,Southgate S/C
 33873,1399,Golden Gate Shopping Center,255 E Van Fleet Dr,Bartow,FL,Golden Gate S/C
-33873,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 33873,557,Southgate Shopping Center,102 Hwy 60 E,Lake Wales,FL,Southgate
+33873,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 33873,671,Publix in the Highlands,2125 E County Road 540a,Lakeland,FL,The Highlands
 33873,2117,Publix at Thompson Nursery,8710 W Lake Ruby Dr,Winter Haven,FL,Thompson Nursery
 33873,1171,Highland City Town Center,5185 US Highway 98 S,Lakeland,FL,Highland City
 33873,791,Imperial Lakes Plaza,2040 Shepherd Rd,Mulberry,FL,Imperial Lakes
-33873,448,Winter Haven Square,6031 Cypress Gardens Blvd,Winter Haven,FL,Winter Haven Square
 33873,97,Shoppes on the Ridge,23965 Hwy 27,Lake Wales,FL,Shoppes on the Ridge
+33873,448,Winter Haven Square,6031 Cypress Gardens Blvd,Winter Haven,FL,Winter Haven Square
 33873,425,Spirit Lake Crossing,1090 Spirit Lake Rd,Winter Haven,FL,Spirit Lake Crossing
 33873,1204,Southeast Plaza Shopping Center,884 Cypress Gardens Blvd,Winter Haven,FL,Southeast Plaza
 33873,2043,Lake Miriam Square,4730 S Florida Ave,Lakeland,FL,Lake Miriam Square
@@ -54860,12 +55670,12 @@ zipcode,storenumber,name,address,city,state,shortname
 33875,2117,Publix at Thompson Nursery,8710 W Lake Ruby Dr,Winter Haven,FL,Thompson Nursery
 33875,1399,Golden Gate Shopping Center,255 E Van Fleet Dr,Bartow,FL,Golden Gate S/C
 33875,448,Winter Haven Square,6031 Cypress Gardens Blvd,Winter Haven,FL,Winter Haven Square
-33875,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
 33875,1204,Southeast Plaza Shopping Center,884 Cypress Gardens Blvd,Winter Haven,FL,Southeast Plaza
+33875,2107,The Shoppes at Country Club,4267 Dundee Rd,Winter Haven,FL,The Shoppes at Country Club
 33875,118,Northlake Village,3551 US Highway 441 S,Okeechobee,FL,Northlake Village
 33875,425,Spirit Lake Crossing,1090 Spirit Lake Rd,Winter Haven,FL,Spirit Lake Crossing
-33875,1763,Crescent B Commons,42051 Cypress Pkwy,Babcock Ranch,FL,Crescent B Commons
-33875,2107,The Shoppes at Country Club,4267 Dundee Rd,Winter Haven,FL,The Shoppes at Country Club
+33875,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
+33875,1171,Highland City Town Center,5185 US Highway 98 S,Lakeland,FL,Highland City
 33876,1517,Southgate Shopping Center,2848 US 27 S Ste 107,Sebring,FL,Southgate S/C
 33876,1547,South Highlands Shopping Center,586 US 27 N,Lake Placid,FL,South Highlands
 33876,1347,Fairmont Plaza,3610 US Highway 27 N,Sebring,FL,Fairmont Plaza
@@ -54876,11 +55686,11 @@ zipcode,storenumber,name,address,city,state,shortname
 33876,2117,Publix at Thompson Nursery,8710 W Lake Ruby Dr,Winter Haven,FL,Thompson Nursery
 33876,448,Winter Haven Square,6031 Cypress Gardens Blvd,Winter Haven,FL,Winter Haven Square
 33876,1399,Golden Gate Shopping Center,255 E Van Fleet Dr,Bartow,FL,Golden Gate S/C
-33876,1204,Southeast Plaza Shopping Center,884 Cypress Gardens Blvd,Winter Haven,FL,Southeast Plaza
 33876,2107,The Shoppes at Country Club,4267 Dundee Rd,Winter Haven,FL,The Shoppes at Country Club
+33876,1204,Southeast Plaza Shopping Center,884 Cypress Gardens Blvd,Winter Haven,FL,Southeast Plaza
 33876,425,Spirit Lake Crossing,1090 Spirit Lake Rd,Winter Haven,FL,Spirit Lake Crossing
 33876,836,Publix at Northgate,1395 6th St NW,Winter Haven,FL,Northgate
-33876,1763,Crescent B Commons,42051 Cypress Pkwy,Babcock Ranch,FL,Crescent B Commons
+33876,2041,Shops at The Grove,4112 E Johnson Ave,Haines City,FL,Shops at the Grove
 33877,97,Shoppes on the Ridge,23965 Hwy 27,Lake Wales,FL,Shoppes on the Ridge
 33877,448,Winter Haven Square,6031 Cypress Gardens Blvd,Winter Haven,FL,Winter Haven Square
 33877,2107,The Shoppes at Country Club,4267 Dundee Rd,Winter Haven,FL,The Shoppes at Country Club
@@ -54947,15 +55757,15 @@ zipcode,storenumber,name,address,city,state,shortname
 33890,1547,South Highlands Shopping Center,586 US 27 N,Lake Placid,FL,South Highlands
 33890,557,Southgate Shopping Center,102 Hwy 60 E,Lake Wales,FL,Southgate
 33890,1399,Golden Gate Shopping Center,255 E Van Fleet Dr,Bartow,FL,Golden Gate S/C
-33890,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
-33890,97,Shoppes on the Ridge,23965 Hwy 27,Lake Wales,FL,Shoppes on the Ridge
 33890,2117,Publix at Thompson Nursery,8710 W Lake Ruby Dr,Winter Haven,FL,Thompson Nursery
-33890,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
+33890,97,Shoppes on the Ridge,23965 Hwy 27,Lake Wales,FL,Shoppes on the Ridge
 33890,671,Publix in the Highlands,2125 E County Road 540a,Lakeland,FL,The Highlands
+33890,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
 33890,448,Winter Haven Square,6031 Cypress Gardens Blvd,Winter Haven,FL,Winter Haven Square
-33890,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
-33890,1204,Southeast Plaza Shopping Center,884 Cypress Gardens Blvd,Winter Haven,FL,Southeast Plaza
 33890,1171,Highland City Town Center,5185 US Highway 98 S,Lakeland,FL,Highland City
+33890,791,Imperial Lakes Plaza,2040 Shepherd Rd,Mulberry,FL,Imperial Lakes
+33890,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
+33890,1204,Southeast Plaza Shopping Center,884 Cypress Gardens Blvd,Winter Haven,FL,Southeast Plaza
 33896,1195,Ovation,7800 Lake Wilson Rd,Davenport,FL,Ovation S/C
 33896,770,Champions Gate Village Shopping Center,8301 Champions Gate Blvd,Champions Gate,FL,Champions Gate
 33896,1686,Loughman Crossing,6075 Hwy 17-92 N,Davenport,FL,Loughman Crossing
@@ -55330,21 +56140,21 @@ zipcode,storenumber,name,address,city,state,shortname
 33936,1156,First Street Village,2160 McGregor Blvd,Fort Myers,FL,First Street Vlg
 33936,1302,University Crossing,13401 Summerlin Rd,Fort Myers,FL,University Cr
 33936,614,Corkscrew Village,21301 S Tamiami Trl Ste 200,Estero,FL,Corkscrew Village
-33944,1547,South Highlands Shopping Center,586 US 27 N,Lake Placid,FL,South Highlands
-33944,118,Northlake Village,3551 US Highway 441 S,Okeechobee,FL,Northlake Village
 33944,1763,Crescent B Commons,42051 Cypress Pkwy,Babcock Ranch,FL,Crescent B Commons
 33944,1735,Riverdale Shopping Center,14561 Palm Beach Blvd Ste 150,Fort Myers,FL,Riverdale
-33944,1517,Southgate Shopping Center,2848 US 27 S Ste 107,Sebring,FL,Southgate S/C
-33944,1443,Homestead Shopping Plaza,1324 Homestead Rd N,Lehigh Acres,FL,Homestead
+33944,1547,South Highlands Shopping Center,586 US 27 N,Lake Placid,FL,South Highlands
 33944,1039,The Shops at Verandah,11851 Palm Beach Blvd,Fort Myers,FL,Shops at Verandah
+33944,1443,Homestead Shopping Plaza,1324 Homestead Rd N,Lehigh Acres,FL,Homestead
 33944,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
-33944,1347,Fairmont Plaza,3610 US Highway 27 N,Sebring,FL,Fairmont Plaza
-33944,162,Crossroads Shopping Center,5781 Lee Blvd,Lehigh Acres,FL,Crossroads
 33944,1352,Publix at Eagle Landing,6700 Bayshore Rd,North Fort Myers,FL,Eagle Landing
-33944,1564,Sky Walk,13121 Paul J Doherty Pkwy,Fort Myers,FL,Sky Walk
+33944,162,Crossroads Shopping Center,5781 Lee Blvd,Lehigh Acres,FL,Crossroads
 33944,1407,Shoppes at Del Prado,17960 N Tamiami Trl,North Fort Myers,FL,Shoppes/Del Prado
 33944,1280,Shops at Village Walk,7950 Dani Dr Ste 200,Fort Myers,FL,Shops at Vlg Walk
-33944,1826,The Shoppes at Verdana Village,19050 Corkscrew Rd,Estero,FL,Verdana Village
+33944,1564,Sky Walk,13121 Paul J Doherty Pkwy,Fort Myers,FL,Sky Walk
+33944,1156,First Street Village,2160 McGregor Blvd,Fort Myers,FL,First Street Vlg
+33944,1147,Shoppes at North Cape,2481 Del Prado Blvd N,Cape Coral,FL,Shoppes at N Cape
+33944,701,Orange Grove Center,4065 Hancock Bridge Pkwy,North Fort Myers,FL,Orange Grove
+33944,1557,Burnt Store Marketplace,3941 Tamiami Trl Unit 3145,Punta Gorda,FL,Burnt Store Mktpl
 33945,1764,Calusa Cay,5100 Pine Island Rd NW,Bokeelia,FL,Publix at Calusa Cay
 33945,1007,Publix at Coral Shores,3015 SW Pine Island Rd,Cape Coral,FL,Coral Shores
 33945,418,Camelot Isles Shopping Center,1616 Cape Coral Pkwy W # 5,Cape Coral,FL,Camelot Isles
@@ -55504,20 +56314,20 @@ zipcode,storenumber,name,address,city,state,shortname
 33957,452,Santa Barbara Centre,100 Hancock Bridge Pkwy W,Cape Coral,FL,Santa Barbara
 33957,1262,Alico Commons,16980 Alico Mission Way Ste 403,Fort Myers,FL,Alico Commons
 33960,1547,South Highlands Shopping Center,586 US 27 N,Lake Placid,FL,South Highlands
+33960,1517,Southgate Shopping Center,2848 US 27 S Ste 107,Sebring,FL,Southgate S/C
 33960,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 33960,1763,Crescent B Commons,42051 Cypress Pkwy,Babcock Ranch,FL,Crescent B Commons
-33960,1735,Riverdale Shopping Center,14561 Palm Beach Blvd Ste 150,Fort Myers,FL,Riverdale
-33960,1517,Southgate Shopping Center,2848 US 27 S Ste 107,Sebring,FL,Southgate S/C
 33960,1347,Fairmont Plaza,3610 US Highway 27 N,Sebring,FL,Fairmont Plaza
+33960,1735,Riverdale Shopping Center,14561 Palm Beach Blvd Ste 150,Fort Myers,FL,Riverdale
 33960,1039,The Shops at Verandah,11851 Palm Beach Blvd,Fort Myers,FL,Shops at Verandah
 33960,1443,Homestead Shopping Plaza,1324 Homestead Rd N,Lehigh Acres,FL,Homestead
+33960,118,Northlake Village,3551 US Highway 441 S,Okeechobee,FL,Northlake Village
 33960,1352,Publix at Eagle Landing,6700 Bayshore Rd,North Fort Myers,FL,Eagle Landing
 33960,162,Crossroads Shopping Center,5781 Lee Blvd,Lehigh Acres,FL,Crossroads
-33960,118,Northlake Village,3551 US Highway 441 S,Okeechobee,FL,Northlake Village
 33960,1407,Shoppes at Del Prado,17960 N Tamiami Trl,North Fort Myers,FL,Shoppes/Del Prado
-33960,1280,Shops at Village Walk,7950 Dani Dr Ste 200,Fort Myers,FL,Shops at Vlg Walk
-33960,1564,Sky Walk,13121 Paul J Doherty Pkwy,Fort Myers,FL,Sky Walk
+33960,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
 33960,1557,Burnt Store Marketplace,3941 Tamiami Trl Unit 3145,Punta Gorda,FL,Burnt Store Mktpl
+33960,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
 33965,847,The Shoppes at Grande Oak,20311 Grande Oak Shoppes Blvd,Estero,FL,Grande Oak
 33965,614,Corkscrew Village,21301 S Tamiami Trl Ste 200,Estero,FL,Corkscrew Village
 33965,157,Grand Bay Plaza,19100 S Tamiami Trl,Fort Myers,FL,Grand Bay Plaza
@@ -56387,127 +57197,127 @@ zipcode,storenumber,name,address,city,state,shortname
 34229,409,The Plaza at Palmer Ranch,8409 S Tamiami Trl,Sarasota,FL,Palmer Ranch
 34229,1797,The Shoppes at Palmer Ranch,8405 Honore Ave Unit 1,Sarasota,FL,Palmer Ranch
 34229,1414,Nokomis Village,1091 Tamiami Trl N,Nokomis,FL,Nokomis Village
-34229,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34229,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
+34229,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34229,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
 34229,1433,Plaza Venezia,2438 Laurel Rd E,North Venice,FL,Plaza Venezia
-34229,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
-34229,802,Venice Shopping Center,535 Tamiami Trl S,Venice,FL,Venice
 34229,1781,The Landings,4840 S Tamiami Trl,Sarasota,FL,The Landings
+34229,802,Venice Shopping Center,535 Tamiami Trl S,Venice,FL,Venice
+34229,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
+34229,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
 34229,734,Venice Commons,1445 E Venice Ave,Venice,FL,Venice Commons
 34229,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
-34229,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
 34229,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
 34231,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34231,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
 34231,1781,The Landings,4840 S Tamiami Trl,Sarasota,FL,The Landings
 34231,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
+34231,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
 34231,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
 34231,409,The Plaza at Palmer Ranch,8409 S Tamiami Trl,Sarasota,FL,Palmer Ranch
-34231,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
-34231,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
 34231,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
-34231,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
+34231,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
 34231,1797,The Shoppes at Palmer Ranch,8405 Honore Ave Unit 1,Sarasota,FL,Palmer Ranch
-34231,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
+34231,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
 34231,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
+34231,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
 34231,1639,Shops at Casey Key,1350 S. Tamiami Trail,Osprey,FL,Shops at Casey Key
-34231,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
+34231,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34232,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
-34232,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
-34232,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34232,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
 34232,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
-34232,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
-34232,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
-34232,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
+34232,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
+34232,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
 34232,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
-34232,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
-34232,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
-34232,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
-34232,828,University Walk,2875 University Pkwy,Sarasota,FL,University Walk
-34232,1267,Publix at Bee Ridge,8300 Bee Ridge Rd,Sarasota,FL,Bee Ridge Ext
+34232,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
+34232,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
+34232,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
 34232,1781,The Landings,4840 S Tamiami Trl,Sarasota,FL,The Landings
+34232,1267,Publix at Bee Ridge,8300 Bee Ridge Rd,Sarasota,FL,Bee Ridge Ext
+34232,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
+34232,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
+34232,828,University Walk,2875 University Pkwy,Sarasota,FL,University Walk
+34232,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34233,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
 34233,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
 34233,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
 34233,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
 34233,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34233,1781,The Landings,4840 S Tamiami Trl,Sarasota,FL,The Landings
-34233,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
 34233,409,The Plaza at Palmer Ranch,8409 S Tamiami Trl,Sarasota,FL,Palmer Ranch
 34233,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
-34233,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
 34233,1797,The Shoppes at Palmer Ranch,8405 Honore Ave Unit 1,Sarasota,FL,Palmer Ranch
-34233,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
-34233,1267,Publix at Bee Ridge,8300 Bee Ridge Rd,Sarasota,FL,Bee Ridge Ext
+34233,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
+34233,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
+34233,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34233,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
+34233,1267,Publix at Bee Ridge,8300 Bee Ridge Rd,Sarasota,FL,Bee Ridge Ext
 34233,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
 34234,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
 34234,828,University Walk,2875 University Pkwy,Sarasota,FL,University Walk
-34234,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
 34234,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
+34234,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
 34234,1432,Shoppes of Bay Isles,525 Bay Isles Pkwy,Longboat Key,FL,Bay Isles
 34234,1897,Bayshore Gardens Shopping Center,6030 14th St W,Bradenton,FL,Bayshore Gardens
 34234,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
+34234,1447,Lockwood Commons,4240 53rd Ave E,Bradenton,FL,Lockwood Commons
+34234,1781,The Landings,4840 S Tamiami Trl,Sarasota,FL,The Landings
 34234,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
 34234,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
-34234,1447,Lockwood Commons,4240 53rd Ave E,Bradenton,FL,Lockwood Commons
+34234,1326,Bradenton Commons,4651 Cortez Rd W,Bradenton,FL,Bradenton Commons
 34234,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
-34234,1781,The Landings,4840 S Tamiami Trl,Sarasota,FL,The Landings
+34234,491,Twelve Oaks Plaza,7290 55th Ave E,Bradenton,FL,Twelve Oaks Plaza
 34234,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
-34234,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
-34234,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
-34235,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
 34235,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
-34235,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34235,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
+34235,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
 34235,828,University Walk,2875 University Pkwy,Sarasota,FL,University Walk
+34235,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34235,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
-34235,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
-34235,1153,Lakewood Walk,11205 E State Road 70,Bradenton,FL,Lakewood Walk
-34235,1600,University Corner,7325 University Pkwy,Lakewood Ranch,FL,University Corner
-34235,1447,Lockwood Commons,4240 53rd Ave E,Bradenton,FL,Lockwood Commons
 34235,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
-34235,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
 34235,491,Twelve Oaks Plaza,7290 55th Ave E,Bradenton,FL,Twelve Oaks Plaza
+34235,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
+34235,1600,University Corner,7325 University Pkwy,Lakewood Ranch,FL,University Corner
+34235,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
+34235,1153,Lakewood Walk,11205 E State Road 70,Bradenton,FL,Lakewood Walk
+34235,1447,Lockwood Commons,4240 53rd Ave E,Bradenton,FL,Lockwood Commons
 34235,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
-34235,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
-34236,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
+34235,1553,Publix at Braden River,14605 State Rd 70,Bradenton,FL,Braden River
 34236,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
 34236,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
+34236,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
 34236,1781,The Landings,4840 S Tamiami Trl,Sarasota,FL,The Landings
-34236,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
-34236,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34236,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
-34236,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
+34236,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
 34236,1432,Shoppes of Bay Isles,525 Bay Isles Pkwy,Longboat Key,FL,Bay Isles
-34236,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
+34236,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
+34236,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
+34236,828,University Walk,2875 University Pkwy,Sarasota,FL,University Walk
 34236,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
 34236,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
-34236,828,University Walk,2875 University Pkwy,Sarasota,FL,University Walk
-34236,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
-34236,409,The Plaza at Palmer Ranch,8409 S Tamiami Trl,Sarasota,FL,Palmer Ranch
+34236,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
+34236,1897,Bayshore Gardens Shopping Center,6030 14th St W,Bradenton,FL,Bayshore Gardens
+34236,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34237,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
 34237,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
 34237,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
-34237,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
 34237,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
+34237,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
 34237,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
 34237,828,University Walk,2875 University Pkwy,Sarasota,FL,University Walk
 34237,1781,The Landings,4840 S Tamiami Trl,Sarasota,FL,The Landings
-34237,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
-34237,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
-34237,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34237,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
-34237,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
+34237,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
+34237,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
+34237,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34237,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
+34237,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
 34237,1432,Shoppes of Bay Isles,525 Bay Isles Pkwy,Longboat Key,FL,Bay Isles
-34238,409,The Plaza at Palmer Ranch,8409 S Tamiami Trl,Sarasota,FL,Palmer Ranch
 34238,1797,The Shoppes at Palmer Ranch,8405 Honore Ave Unit 1,Sarasota,FL,Palmer Ranch
+34238,409,The Plaza at Palmer Ranch,8409 S Tamiami Trl,Sarasota,FL,Palmer Ranch
 34238,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
-34238,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34238,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
+34238,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34238,1639,Shops at Casey Key,1350 S. Tamiami Trail,Osprey,FL,Shops at Casey Key
 34238,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
 34238,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
@@ -56515,50 +57325,50 @@ zipcode,storenumber,name,address,city,state,shortname
 34238,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
 34238,1267,Publix at Bee Ridge,8300 Bee Ridge Rd,Sarasota,FL,Bee Ridge Ext
 34238,1414,Nokomis Village,1091 Tamiami Trl N,Nokomis,FL,Nokomis Village
-34238,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
-34238,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
 34238,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
+34238,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
+34238,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
 34239,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
 34239,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
 34239,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
-34239,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
 34239,1781,The Landings,4840 S Tamiami Trl,Sarasota,FL,The Landings
-34239,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
-34239,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
+34239,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
 34239,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
+34239,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
+34239,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34239,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
 34239,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
 34239,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
-34239,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
-34239,409,The Plaza at Palmer Ranch,8409 S Tamiami Trl,Sarasota,FL,Palmer Ranch
+34239,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34239,828,University Walk,2875 University Pkwy,Sarasota,FL,University Walk
-34239,1432,Shoppes of Bay Isles,525 Bay Isles Pkwy,Longboat Key,FL,Bay Isles
+34239,409,The Plaza at Palmer Ranch,8409 S Tamiami Trl,Sarasota,FL,Palmer Ranch
+34239,1797,The Shoppes at Palmer Ranch,8405 Honore Ave Unit 1,Sarasota,FL,Palmer Ranch
 34240,1600,University Corner,7325 University Pkwy,Lakewood Ranch,FL,University Corner
-34240,1553,Publix at Braden River,14605 State Rd 70,Bradenton,FL,Braden River
-34240,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34240,1267,Publix at Bee Ridge,8300 Bee Ridge Rd,Sarasota,FL,Bee Ridge Ext
-34240,1153,Lakewood Walk,11205 E State Road 70,Bradenton,FL,Lakewood Walk
-34240,2108,Northchase Center,16642 State Rd 64 E,Bradenton,FL,Northchase Center
+34240,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34240,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
+34240,1553,Publix at Braden River,14605 State Rd 70,Bradenton,FL,Braden River
 34240,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
 34240,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
-34240,1723,White Eagle,13150 E State Rd 64,Bradenton,FL,White Eagle
-34240,491,Twelve Oaks Plaza,7290 55th Ave E,Bradenton,FL,Twelve Oaks Plaza
-34240,798,Lakewood Ranch Gateway,1755 Lakewood Ranch Blvd,Bradenton,FL,Lakewood Ranch
+34240,1153,Lakewood Walk,11205 E State Road 70,Bradenton,FL,Lakewood Walk
 34240,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
 34240,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
+34240,2108,Northchase Center,16642 State Rd 64 E,Bradenton,FL,Northchase Center
 34240,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
+34240,491,Twelve Oaks Plaza,7290 55th Ave E,Bradenton,FL,Twelve Oaks Plaza
+34240,828,University Walk,2875 University Pkwy,Sarasota,FL,University Walk
+34240,1723,White Eagle,13150 E State Rd 64,Bradenton,FL,White Eagle
 34241,1267,Publix at Bee Ridge,8300 Bee Ridge Rd,Sarasota,FL,Bee Ridge Ext
 34241,1797,The Shoppes at Palmer Ranch,8405 Honore Ave Unit 1,Sarasota,FL,Palmer Ranch
 34241,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
 34241,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
-34241,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
+34241,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34241,409,The Plaza at Palmer Ranch,8409 S Tamiami Trl,Sarasota,FL,Palmer Ranch
-34241,1433,Plaza Venezia,2438 Laurel Rd E,North Venice,FL,Plaza Venezia
-34241,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
-34241,1639,Shops at Casey Key,1350 S. Tamiami Trail,Osprey,FL,Shops at Casey Key
 34241,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
+34241,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
 34241,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
+34241,1639,Shops at Casey Key,1350 S. Tamiami Trail,Osprey,FL,Shops at Casey Key
+34241,1433,Plaza Venezia,2438 Laurel Rd E,North Venice,FL,Plaza Venezia
 34241,696,Sarasota Pavilion,6543 S Tamiami Trl,Sarasota,FL,Sarasota Pavilion
 34241,1414,Nokomis Village,1091 Tamiami Trl N,Nokomis,FL,Nokomis Village
 34241,1600,University Corner,7325 University Pkwy,Lakewood Ranch,FL,University Corner
@@ -56567,32 +57377,32 @@ zipcode,storenumber,name,address,city,state,shortname
 34242,1781,The Landings,4840 S Tamiami Trl,Sarasota,FL,The Landings
 34242,1644,Beneva Village Shoppes,3428 Clark Rd,Sarasota,FL,Beneva Village
 34242,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
-34242,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
 34242,409,The Plaza at Palmer Ranch,8409 S Tamiami Trl,Sarasota,FL,Palmer Ranch
+34242,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
 34242,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
 34242,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
-34242,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
-34242,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
 34242,1797,The Shoppes at Palmer Ranch,8405 Honore Ave Unit 1,Sarasota,FL,Palmer Ranch
+34242,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
 34242,361,Centergate Village,5804 Bee Ridge Rd,Sarasota,FL,Centergate Village
+34242,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
 34242,1639,Shops at Casey Key,1350 S. Tamiami Trail,Osprey,FL,Shops at Casey Key
 34242,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
-34242,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
+34242,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34243,828,University Walk,2875 University Pkwy,Sarasota,FL,University Walk
 34243,1447,Lockwood Commons,4240 53rd Ave E,Bradenton,FL,Lockwood Commons
 34243,1897,Bayshore Gardens Shopping Center,6030 14th St W,Bradenton,FL,Bayshore Gardens
 34243,1023,Broadway Promenade,1044 N Tamiami Trl,Sarasota,FL,Broadway Promenade
 34243,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
-34243,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
 34243,491,Twelve Oaks Plaza,7290 55th Ave E,Bradenton,FL,Twelve Oaks Plaza
 34243,1372,Publix at Bay Street,2031 Bay St,Sarasota,FL,Bay Street
+34243,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
+34243,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
 34243,1432,Shoppes of Bay Isles,525 Bay Isles Pkwy,Longboat Key,FL,Bay Isles
 34243,1326,Bradenton Commons,4651 Cortez Rd W,Bradenton,FL,Bradenton Commons
 34243,1153,Lakewood Walk,11205 E State Road 70,Bradenton,FL,Lakewood Walk
-34243,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
-34243,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
 34243,746,Rivers Edge,5001 E State Road 64,Bradenton,FL,Rivers Edge
-34243,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
+34243,555,Shops at Siesta Row,3825 S Osprey Ave,Sarasota,FL,Siesta Row
+34243,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34250,1342,Publix at Palmetto,1101 8th Ave W,Palmetto,FL,Palmetto
 34250,780,Westgate Shopping Center,3913 Manatee Ave W,Bradenton,FL,Westgate
 34250,1666,Gateway Commons,9520 Buffalo Rd,Palmetto,FL,Gateway Commons
@@ -56609,12 +57419,12 @@ zipcode,storenumber,name,address,city,state,shortname
 34250,798,Lakewood Ranch Gateway,1755 Lakewood Ranch Blvd,Bradenton,FL,Lakewood Ranch
 34250,491,Twelve Oaks Plaza,7290 55th Ave E,Bradenton,FL,Twelve Oaks Plaza
 34251,1600,University Corner,7325 University Pkwy,Lakewood Ranch,FL,University Corner
-34251,1553,Publix at Braden River,14605 State Rd 70,Bradenton,FL,Braden River
 34251,2108,Northchase Center,16642 State Rd 64 E,Bradenton,FL,Northchase Center
+34251,1553,Publix at Braden River,14605 State Rd 70,Bradenton,FL,Braden River
 34251,1267,Publix at Bee Ridge,8300 Bee Ridge Rd,Sarasota,FL,Bee Ridge Ext
 34251,1153,Lakewood Walk,11205 E State Road 70,Bradenton,FL,Lakewood Walk
-34251,1882,Publix At Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34251,1723,White Eagle,13150 E State Rd 64,Bradenton,FL,White Eagle
+34251,1882,Publix at Fruitville Farms,1940 Lakewood Ranch Blvd,Sarasota,FL,Fruitville Farms
 34251,709,Lakewood Ranch Town Center,8330 Market St,Bradenton,FL,Lakewood Ranch
 34251,798,Lakewood Ranch Gateway,1755 Lakewood Ranch Blvd,Bradenton,FL,Lakewood Ranch
 34251,148,Sarasota Crossings,5391 Fruitville Rd,Sarasota,FL,Sarasota Crossings
@@ -56622,7 +57432,7 @@ zipcode,storenumber,name,address,city,state,shortname
 34251,491,Twelve Oaks Plaza,7290 55th Ave E,Bradenton,FL,Twelve Oaks Plaza
 34251,22,Publix at Northridge,5100 Clark Rd,Sarasota,FL,Northridge
 34251,1669,Town & Country Shopping Center,501 N Beneva Rd Ste 161,Sarasota,FL,Town & Country
-34251,1385,Sarasota Village Plaza,3690 Bee Ridge Rd,Sarasota,FL,Sarasota Village
+34251,1797,The Shoppes at Palmer Ranch,8405 Honore Ave Unit 1,Sarasota,FL,Palmer Ranch
 34266,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 34266,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
 34266,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
@@ -56633,11 +57443,11 @@ zipcode,storenumber,name,address,city,state,shortname
 34266,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
 34266,1287,Cocoplum Village Shops,17179 Tamiami Trl,North Port,FL,Cocoplum Vlg Shops
 34266,1547,South Highlands Shopping Center,586 US 27 N,Lake Placid,FL,South Highlands
-34266,1763,Crescent B Commons,42051 Cypress Pkwy,Babcock Ranch,FL,Crescent B Commons
 34266,1347,Fairmont Plaza,3610 US Highway 27 N,Sebring,FL,Fairmont Plaza
 34266,1517,Southgate Shopping Center,2848 US 27 S Ste 107,Sebring,FL,Southgate S/C
+34266,1763,Crescent B Commons,42051 Cypress Pkwy,Babcock Ranch,FL,Crescent B Commons
 34266,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
-34266,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
+34266,1407,Shoppes at Del Prado,17960 N Tamiami Trl,North Fort Myers,FL,Shoppes/Del Prado
 34267,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
 34267,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 34267,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
@@ -56654,9 +57464,9 @@ zipcode,storenumber,name,address,city,state,shortname
 34267,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
 34268,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 34268,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
+34268,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
 34268,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
 34268,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
-34268,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
 34268,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
 34268,1557,Burnt Store Marketplace,3941 Tamiami Trl Unit 3145,Punta Gorda,FL,Burnt Store Mktpl
 34268,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
@@ -56668,19 +57478,19 @@ zipcode,storenumber,name,address,city,state,shortname
 34268,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
 34268,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
 34269,1438,Peachland Promenade,24051 Peachland Blvd,Port Charlotte,FL,Peachland Promenade
-34269,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
 34269,755,Bayshore Village,4265 Tamiami Trl,Port Charlotte,FL,Bayshore Village
+34269,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
+34269,1013,Quesada Commons,19451 Cochran Blvd Unit 2000,Port Charlotte,FL,Quesada Commons
 34269,1180,The Shoppes at Price Crossing,1251 S Toledo Blade Blvd,North Port,FL,Price Crossing
 34269,266,Punta Gorda Crossing,2310 Tamiami Trl Unit 1129,Punta Gorda,FL,Punta Gorda Crossing
 34269,1557,Burnt Store Marketplace,3941 Tamiami Trl Unit 3145,Punta Gorda,FL,Burnt Store Mktpl
 34269,792,Heron Creek Towne Center,1291 S Sumter Blvd,North Port,FL,Heron Creek
 34269,1287,Cocoplum Village Shops,17179 Tamiami Trl,North Port,FL,Cocoplum Vlg Shops
-34269,1528,Arcadia Crossings Shopping Center,2551 SE Hwy 70,Arcadia,FL,Arcadia Crossings
 34269,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
 34269,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
+34269,1763,Crescent B Commons,42051 Cypress Pkwy,Babcock Ranch,FL,Crescent B Commons
+34269,1407,Shoppes at Del Prado,17960 N Tamiami Trl,North Fort Myers,FL,Shoppes/Del Prado
 34269,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
-34269,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
-34269,697,Publix At Cape Haze,8725 Placida Rd,Placida,FL,Cape Haze
 34275,1433,Plaza Venezia,2438 Laurel Rd E,North Venice,FL,Plaza Venezia
 34275,1414,Nokomis Village,1091 Tamiami Trl N,Nokomis,FL,Nokomis Village
 34275,1215,Jacaranda Commons Shopping Center,345 Jacaranda Blvd,Venice,FL,Jacaranda Commons
@@ -57258,6 +58068,21 @@ zipcode,storenumber,name,address,city,state,shortname
 34484,1201,Canopy Oak Center,8075 SW Highway 200 Unit 111,Ocala,FL,Canopy Oak S/C
 34484,856,Heath Brook Commons,5400 SW College Rd Ste 200,Ocala,FL,Heath Brook
 34484,1289,Park View Commons,3035 SE Maricamp Rd,Ocala,FL,Park View Commons
+34487,518,Springs Plaza,3942 S Suncoast Blvd,Homosassa,FL,Springs Plaza
+34487,1193,Shoppes of Sugarmill Woods,9525 S Suncoast Blvd,Homosassa,FL,Sugarmill Woods
+34487,797,Crystal Springs Shopping Center,6760 W Gulf To Lake Hwy,Crystal River,FL,Crystal Springs
+34487,475,Shoppes of Citrus Hills,2685 N Forest Ridge Blvd,Hernando,FL,Citrus Hills
+34487,1198,The Shoppes at Glen Lakes,9595 Commercial Way,Weeki Wachee,FL,Glen Lakes
+34487,1448,Publix Plaza Inverness,1012 West Main Street,Inverness,FL,Plaza Inverness
+34487,457,Lakewood Plaza,4365 Commercial Way,Spring Hill,FL,Lakewood Plaza
+34487,813,Mariner Commons,4158 Mariner Blvd,Spring Hill,FL,Mariner Commons
+34487,1132,Brooksville Square,19390 Cortez Blvd,Brooksville,FL,Brooksville Square
+34487,1616,Rainbow Square Shopping Center,11352 N Williams St Ste 400,Dunnellon,FL,Rainbow Square
+34487,630,Publix at Barclay,14371 Spring Hill Dr,Spring Hill,FL,Barclay Crossing
+34487,1871,Hernando West Plaza,1400 Pinehurst Dr,Spring Hill,FL,Hernando West Plaza
+34487,2095,Publix at Seven Hills,160 Mariner Blvd,Spring Hill,FL,Seven Hills
+34487,1282,Shoppes at Avalon,13455 County Line Rd,Spring Hill,FL,Shoppes at Avalon
+34487,487,Fairway Oaks Plaza,13752 Little Rd,Hudson,FL,Fairway Oaks Plaza
 34488,733,Heather Island Plaza,7578 SE Maricamp Rd Ste 100,Ocala,FL,Heather Island
 34488,61,Forty East Shopping Center,3450 E Silver Springs Blvd,Ocala,FL,Forty East
 34488,1750,Pearl Britain Plaza,2655 NE 35th St,Ocala,FL,Pearl Britain Plaza
@@ -57858,6 +58683,21 @@ zipcode,storenumber,name,address,city,state,shortname
 34715,1567,Hamlin Cove,5400 Hamlin Groves Trail,Winter Garden,FL,Hamlin Cove
 34715,710,Publix At Lake Harris,27615 US Highway 27 # U,Leesburg,FL,Lake Harris
 34715,862,Eustis Village,2840 David Walker Dr,Eustis,FL,Eustis Village
+34729,1759,Hills Crossing,1685 N Hancock Rd,Minneola,FL,Hills Crossing
+34729,15,Citrus Tower Village,250 Citrus Tower Blvd,Clermont,FL,Citrus Tower Village
+34729,27,East Towne Center,13900 County Road 455,Clermont,FL,East Towne Center
+34729,1751,Clermont Town Center,1720 E Highway 50,Clermont,FL,Town Center
+34729,763,Publix at Kings Ridge,4351 S Highway 27,Clermont,FL,Kings Ridge
+34729,881,West Point Commons,13750 W Colonial Dr,Winter Garden,FL,West Point Commons
+34729,1168,Eagle Ridge Shoppes,7975 State Road 50,Groveland,FL,Eagle Ridge
+34729,1158,Stoneybrook West Village,15502 Stoneybrook West Pkwy Ste 100,Winter Garden,FL,Stoneybrook W Vlg
+34729,1174,Fountains West,301 West Rd,Ocoee,FL,Fountains West
+34729,2121,The Shoppes at East Shore,2411 Ocoee Apopka Rd,Apopka,FL,East Shore
+34729,1567,Hamlin Cove,5400 Hamlin Groves Trail,Winter Garden,FL,Hamlin Cove
+34729,761,Publix at Silver Crossing,1720 E Silver Star Rd,Ocoee,FL,Silver Crossing
+34729,1535,Tavares Crossroads,2042 State Rd 19,Tavares,FL,Tavares Crossroads
+34729,1106,Cornerstone at Summerport,13450 Summerport Village Pkwy,Windermere,FL,Summerport
+34729,1275,Stoneybrook Hills Village,6551 N Orange Blossom Trl Ste 155,Mount Dora,FL,Stoneybrook Hills
 34731,1155,Colony Plaza,327 Colony Blvd,The Villages,FL,Colony Plaza
 34731,815,Palm Plaza,717 N 14th St,Leesburg,FL,Palm Plaza
 34731,1507,Lake Deaton Plaza,695 Kristine Way,The Villages,FL,Lake Deaton Plaza
@@ -60003,6 +60843,21 @@ zipcode,storenumber,name,address,city,state,shortname
 35180,842,Vestavia Hills City Center,784 Montgomery Hwy,Vestavia Hills,AL,Vestavia Hills
 35180,1675,Rocky Ridge Square,3350 Morgan Dr,Vestavia Hills,AL,Rocky Ridge Square
 35180,1065,Allison-Bonnett Plaza,3014 Allison Bonnett Memorial Dr Ste 130,Hueytown,AL,Allison-Bonnett
+35181,1206,Magnolia City Place,655 Fieldstown Rd,Gardendale,AL,Magnolia City
+35181,1512,20 Midtown,230 20th St S,Birmingham,AL,20 Midtown
+35181,1059,Montclair Place,1325 Montclair Rd,Birmingham,AL,Montclair Place
+35181,1676,Lane Parke,1000 Jemison Ln,Mountain Brook,AL,Lane Parke
+35181,165,Edgemont Town Center,411 Green Springs Hwy,Homewood,AL,Edgemont
+35181,1065,Allison-Bonnett Plaza,3014 Allison Bonnett Memorial Dr Ste 130,Hueytown,AL,Allison-Bonnett
+35181,1831,Cahaba Crossing,1288 Grants Mill Rd,Irondale,AL,Cahaba Crossing
+35181,842,Vestavia Hills City Center,784 Montgomery Hwy,Vestavia Hills,AL,Vestavia Hills
+35181,1069,Clay Marketplace,5150 Old Springville Rd,Pinson,AL,Clay Marketplace
+35181,1085,Publix On Overton,3141 Overton Rd,Mountain Brook,AL,Overton
+35181,1627,Lakeshore Pavilion,2860 Lakeshore Pkwy,Birmingham,AL,Lakeshore Pavilion
+35181,1692,The Market Place at The Bray,3201 Endeavor Ln,Vestavia Hills,AL,Mktplace @ The Bray
+35181,1675,Rocky Ridge Square,3350 Morgan Dr,Vestavia Hills,AL,Rocky Ridge Square
+35181,1545,Patchwork Farms  Shopping Center,3040 Healthy Way,Birmingham,AL,Patchwork Farms
+35181,1207,Hoover Place,1584 Montgomery Hwy,Hoover,AL,Hoover Place
 35183,1794,Marble City Square,165 MCS Blvd,Sylacauga,AL,Marble City Square
 35183,1878,The Gateway at Lake Martin,4812 Hwy 280,Alexander City,AL,Lake Martin
 35183,1281,Calera Crossings,90 Marketplace Cir,Calera,AL,Calera Crossings
@@ -60033,6 +60888,21 @@ zipcode,storenumber,name,address,city,state,shortname
 35184,1627,Lakeshore Pavilion,2860 Lakeshore Pkwy,Birmingham,AL,Lakeshore Pavilion
 35184,1075,Northwood Crossings,2300 McFarland Blvd,Northport,AL,Northwood Crossings
 35184,1207,Hoover Place,1584 Montgomery Hwy,Hoover,AL,Hoover Place
+35185,1370,Chelsea Crossroads,501 Chelsea Xrds,Chelsea,AL,Chelsea Crossroads
+35185,882,The Village at Lee Branch,410 Doug Baker Blvd,Hoover,AL,Lee Branch
+35185,1687,Publix at Tattersall Park,6219 Tattersall Blvd,Hoover,AL,Tattersall Park
+35185,838,Valleydale Village,5188 Caldwell Mill Rd,Hoover,AL,Valleydale Village
+35185,1545,Patchwork Farms  Shopping Center,3040 Healthy Way,Birmingham,AL,Patchwork Farms
+35185,1692,The Market Place at The Bray,3201 Endeavor Ln,Vestavia Hills,AL,Mktplace @ The Bray
+35185,1085,Publix On Overton,3141 Overton Rd,Mountain Brook,AL,Overton
+35185,1675,Rocky Ridge Square,3350 Morgan Dr,Vestavia Hills,AL,Rocky Ridge Square
+35185,841,Southgate Village,1944 Montgomery Hwy S,Birmingham,AL,Southgate Village
+35185,1831,Cahaba Crossing,1288 Grants Mill Rd,Irondale,AL,Cahaba Crossing
+35185,1508,The Village at Moody,2200 Village Dr,Moody,AL,Village/Moody
+35185,1202,Pelham Towne Center,365 Huntley Pkwy,Pelham,AL,Pelham Twn Ctr
+35185,1207,Hoover Place,1584 Montgomery Hwy,Hoover,AL,Hoover Place
+35185,842,Vestavia Hills City Center,784 Montgomery Hwy,Vestavia Hills,AL,Vestavia Hills
+35185,1059,Montclair Place,1325 Montclair Rd,Birmingham,AL,Montclair Place
 35186,1370,Chelsea Crossroads,501 Chelsea Xrds,Chelsea,AL,Chelsea Crossroads
 35186,1687,Publix at Tattersall Park,6219 Tattersall Blvd,Hoover,AL,Tattersall Park
 35186,882,The Village at Lee Branch,410 Doug Baker Blvd,Hoover,AL,Lee Branch
@@ -60513,6 +61383,21 @@ zipcode,storenumber,name,address,city,state,shortname
 35244,1085,Publix On Overton,3141 Overton Rd,Mountain Brook,AL,Overton
 35244,1200,Colonial Promenade Tannehill,4965 Promenade Pkwy,Bessemer,AL,Tannehill
 35244,1073,White Stone Center,9200 Highway 119 Ste 1400,Alabaster,AL,White Stone Center
+35249,1512,20 Midtown,230 20th St S,Birmingham,AL,20 Midtown
+35249,1676,Lane Parke,1000 Jemison Ln,Mountain Brook,AL,Lane Parke
+35249,165,Edgemont Town Center,411 Green Springs Hwy,Homewood,AL,Edgemont
+35249,1059,Montclair Place,1325 Montclair Rd,Birmingham,AL,Montclair Place
+35249,842,Vestavia Hills City Center,784 Montgomery Hwy,Vestavia Hills,AL,Vestavia Hills
+35249,1085,Publix On Overton,3141 Overton Rd,Mountain Brook,AL,Overton
+35249,1675,Rocky Ridge Square,3350 Morgan Dr,Vestavia Hills,AL,Rocky Ridge Square
+35249,1692,The Market Place at The Bray,3201 Endeavor Ln,Vestavia Hills,AL,Mktplace @ The Bray
+35249,1545,Patchwork Farms  Shopping Center,3040 Healthy Way,Birmingham,AL,Patchwork Farms
+35249,1207,Hoover Place,1584 Montgomery Hwy,Hoover,AL,Hoover Place
+35249,1627,Lakeshore Pavilion,2860 Lakeshore Pkwy,Birmingham,AL,Lakeshore Pavilion
+35249,1831,Cahaba Crossing,1288 Grants Mill Rd,Irondale,AL,Cahaba Crossing
+35249,838,Valleydale Village,5188 Caldwell Mill Rd,Hoover,AL,Valleydale Village
+35249,1687,Publix at Tattersall Park,6219 Tattersall Blvd,Hoover,AL,Tattersall Park
+35249,1206,Magnolia City Place,655 Fieldstown Rd,Gardendale,AL,Magnolia City
 35254,1512,20 Midtown,230 20th St S,Birmingham,AL,20 Midtown
 35254,165,Edgemont Town Center,411 Green Springs Hwy,Homewood,AL,Edgemont
 35254,1676,Lane Parke,1000 Jemison Ln,Mountain Brook,AL,Lane Parke
@@ -60993,6 +61878,21 @@ zipcode,storenumber,name,address,city,state,shortname
 35481,1073,White Stone Center,9200 Highway 119 Ste 1400,Alabaster,AL,White Stone Center
 35481,1207,Hoover Place,1584 Montgomery Hwy,Hoover,AL,Hoover Place
 35481,1202,Pelham Towne Center,365 Huntley Pkwy,Pelham,AL,Pelham Twn Ctr
+35487,1083,Publix at University Town Center,1190 University Blvd,Tuscaloosa,AL,University Town Center
+35487,1075,Northwood Crossings,2300 McFarland Blvd,Northport,AL,Northwood Crossings
+35487,75,The Shops of Lake Tuscaloosa,4851 Rice Mine Rd NE Ste 200,Tuscaloosa,AL,Lake Tuscaloosa
+35487,1253,Capital Market Center,1101 Southview Ln,Tuscaloosa,AL,Capital Market Ctr
+35487,1691,Publix at Bristol Park,13556 Hwy 69 N,Northport,AL,Bristol Park
+35487,1200,Colonial Promenade Tannehill,4965 Promenade Pkwy,Bessemer,AL,Tannehill
+35487,1065,Allison-Bonnett Plaza,3014 Allison Bonnett Memorial Dr Ste 130,Hueytown,AL,Allison-Bonnett
+35487,1728,Morgan Road Plaza,4293 S Shades Crest Rd,Hoover,AL,Morgan Road Plaza
+35487,1074,Crow's Corner,4730 Highway 17,Helena,AL,Crow's Corner
+35487,1627,Lakeshore Pavilion,2860 Lakeshore Pkwy,Birmingham,AL,Lakeshore Pavilion
+35487,1073,White Stone Center,9200 Highway 119 Ste 1400,Alabaster,AL,White Stone Center
+35487,839,Trace Crossings,2543 John Hawkins Pkwy,Hoover,AL,Trace Crossings
+35487,1202,Pelham Towne Center,365 Huntley Pkwy,Pelham,AL,Pelham Twn Ctr
+35487,841,Southgate Village,1944 Montgomery Hwy S,Birmingham,AL,Southgate Village
+35487,1207,Hoover Place,1584 Montgomery Hwy,Hoover,AL,Hoover Place
 35490,1200,Colonial Promenade Tannehill,4965 Promenade Pkwy,Bessemer,AL,Tannehill
 35490,75,The Shops of Lake Tuscaloosa,4851 Rice Mine Rd NE Ste 200,Tuscaloosa,AL,Lake Tuscaloosa
 35490,1083,Publix At University Town Center,1190 University Blvd,Tuscaloosa,AL,University Town Center
@@ -61008,6 +61908,21 @@ zipcode,storenumber,name,address,city,state,shortname
 35490,1202,Pelham Towne Center,365 Huntley Pkwy,Pelham,AL,Pelham Twn Ctr
 35490,841,Southgate Village,1944 Montgomery Hwy S,Birmingham,AL,Southgate Village
 35490,1207,Hoover Place,1584 Montgomery Hwy,Hoover,AL,Hoover Place
+35491,1253,Capital Market Center,1101 Southview Ln,Tuscaloosa,AL,Capital Market Ctr
+35491,1075,Northwood Crossings,2300 McFarland Blvd,Northport,AL,Northwood Crossings
+35491,1083,Publix at University Town Center,1190 University Blvd,Tuscaloosa,AL,University Town Center
+35491,1691,Publix at Bristol Park,13556 Hwy 69 N,Northport,AL,Bristol Park
+35491,75,The Shops of Lake Tuscaloosa,4851 Rice Mine Rd NE Ste 200,Tuscaloosa,AL,Lake Tuscaloosa
+35491,1200,Colonial Promenade Tannehill,4965 Promenade Pkwy,Bessemer,AL,Tannehill
+35491,1728,Morgan Road Plaza,4293 S Shades Crest Rd,Hoover,AL,Morgan Road Plaza
+35491,1065,Allison-Bonnett Plaza,3014 Allison Bonnett Memorial Dr Ste 130,Hueytown,AL,Allison-Bonnett
+35491,1074,Crow's Corner,4730 Highway 17,Helena,AL,Crow's Corner
+35491,1073,White Stone Center,9200 Highway 119 Ste 1400,Alabaster,AL,White Stone Center
+35491,1627,Lakeshore Pavilion,2860 Lakeshore Pkwy,Birmingham,AL,Lakeshore Pavilion
+35491,839,Trace Crossings,2543 John Hawkins Pkwy,Hoover,AL,Trace Crossings
+35491,1202,Pelham Towne Center,365 Huntley Pkwy,Pelham,AL,Pelham Twn Ctr
+35491,1281,Calera Crossings,90 Marketplace Cir,Calera,AL,Calera Crossings
+35491,841,Southgate Village,1944 Montgomery Hwy S,Birmingham,AL,Southgate Village
 35501,1206,Magnolia City Place,655 Fieldstown Rd,Gardendale,AL,Magnolia City
 35501,1065,Allison-Bonnett Plaza,3014 Allison Bonnett Memorial Dr Ste 130,Hueytown,AL,Allison-Bonnett
 35501,1512,20 Midtown,230 20th St S,Birmingham,AL,20 Midtown
@@ -61368,6 +62283,21 @@ zipcode,storenumber,name,address,city,state,shortname
 35572,1409,Renaissance City Center,322 Cox Creek Pkwy,Florence,AL,Renaissance City
 35572,1726,Clift Farm,417 John Henry Way,Madison,AL,Clift Farm
 35572,1785,Market at Hays Farm,9040 Memorial Pkwy SW,Huntsville,AL,Market at Hays Farm
+35573,1691,Publix at Bristol Park,13556 Hwy 69 N,Northport,AL,Bristol Park
+35573,75,The Shops of Lake Tuscaloosa,4851 Rice Mine Rd NE Ste 200,Tuscaloosa,AL,Lake Tuscaloosa
+35573,1503,Cullman Shopping Center,1104 Cullman Shopping Ctr NW,Cullman,AL,Cullman S/C
+35573,1065,Allison-Bonnett Plaza,3014 Allison Bonnett Memorial Dr Ste 130,Hueytown,AL,Allison-Bonnett
+35573,1206,Magnolia City Place,655 Fieldstown Rd,Gardendale,AL,Magnolia City
+35573,1075,Northwood Crossings,2300 McFarland Blvd,Northport,AL,Northwood Crossings
+35573,1083,Publix at University Town Center,1190 University Blvd,Tuscaloosa,AL,University Town Center
+35573,1627,Lakeshore Pavilion,2860 Lakeshore Pkwy,Birmingham,AL,Lakeshore Pavilion
+35573,1200,Colonial Promenade Tannehill,4965 Promenade Pkwy,Bessemer,AL,Tannehill
+35573,1512,20 Midtown,230 20th St S,Birmingham,AL,20 Midtown
+35573,165,Edgemont Town Center,411 Green Springs Hwy,Homewood,AL,Edgemont
+35573,1676,Lane Parke,1000 Jemison Ln,Mountain Brook,AL,Lane Parke
+35573,842,Vestavia Hills City Center,784 Montgomery Hwy,Vestavia Hills,AL,Vestavia Hills
+35573,1253,Capital Market Center,1101 Southview Ln,Tuscaloosa,AL,Capital Market Ctr
+35573,1059,Montclair Place,1325 Montclair Rd,Birmingham,AL,Montclair Place
 35574,1691,Publix at Bristol Park,13556 Hwy 69 N,Northport,AL,Bristol Park
 35574,1075,Northwood Crossings,2300 McFarland Blvd,Northport,AL,Northwood Crossings
 35574,75,The Shops of Lake Tuscaloosa,4851 Rice Mine Rd NE Ste 200,Tuscaloosa,AL,Lake Tuscaloosa
@@ -61818,6 +62748,21 @@ zipcode,storenumber,name,address,city,state,shortname
 35630,598,Madison Centre,8000 Madison Blvd Ste A,Madison,AL,Madison Centre
 35630,1629,The Shoppes at Redstone Square,2286 Zierdt Rd SW,Huntsville,AL,Redstone Square
 35630,1612,The Pinnacle at Providence,1660 Old Monrovia Rd NW,Huntsville,AL,Pinnacle/Providence
+35632,1409,Renaissance City Center,322 Cox Creek Pkwy,Florence,AL,Renaissance City
+35632,1532,Muscle Shoals Commons,3220 Woodward Ave,Muscle Shoals,AL,Muscle Shoals Comm
+35632,1790,Midtown Centre,165 US Hwy 31 N,Athens,AL,Midtown Centre
+35632,45,Decatur Commons,1605 Beltline Rd SW,Decatur,AL,Decatur Commons
+35632,1203,Eastside Junction,22031 US Highway 72,Athens,AL,Eastside Junction
+35632,2145,French Mill Crossing,14210 Mooresville Rd,Athens,AL,French Mill Crossing
+35632,1609,Point Mallard Centre,2934 Point Mallard Pkwy SE,Decatur,AL,Point Mallard Ctr
+35632,1185,Village Shoppes of Madison,12070 County Line Rd Ste C,Madison,AL,Madison
+35632,1726,Clift Farm,417 John Henry Way,Madison,AL,Clift Farm
+35632,1642,The Shops at Pine Grove,7129 Wall Triana Hwy,Madison,AL,Shops at Pine Grove
+35632,1638,Madison Commons Shopping Center,350 Hughes Rd,Madison,AL,Madison Commons
+35632,1218,Harvest Square,5850 Highway 53,Harvest,AL,Harvest Square
+35632,598,Madison Centre,8000 Madison Blvd Ste A,Madison,AL,Madison Centre
+35632,1629,The Shoppes at Redstone Square,2286 Zierdt Rd SW,Huntsville,AL,Redstone Square
+35632,1612,The Pinnacle at Providence,1660 Old Monrovia Rd NW,Huntsville,AL,Pinnacle/Providence
 35633,1409,Renaissance City Center,322 Cox Creek Pkwy,Florence,AL,Renaissance City
 35633,1532,Muscle Shoals Commons,3220 Woodward Ave,Muscle Shoals,AL,Muscle Shoals Comm
 35633,1790,Midtown Centre,165 US Hwy 31 N,Athens,AL,Midtown Centre
@@ -63423,6 +64368,21 @@ zipcode,storenumber,name,address,city,state,shortname
 36006,1794,Marble City Square,165 MCS Blvd,Sylacauga,AL,Marble City Square
 36006,1728,Morgan Road Plaza,4293 S Shades Crest Rd,Hoover,AL,Morgan Road Plaza
 36006,1878,The Gateway at Lake Martin,4812 Hwy 280,Alexander City,AL,Lake Martin
+36008,2002,Camp Grandview Plaza,1400 AL Hwy 14,Millbrook,AL,Camp Grandview
+36008,1228,High Point Town Center,2451 Cobbs Ford Rd,Prattville,AL,High Point Twn Ctr
+36008,1027,Zelda Place,3026 Zelda Rd,Montgomery,AL,Zelda Place
+36008,1025,Dalraida Commons,4045 Atlanta Hwy,Montgomery,AL,Dalraida Commons
+36008,2010,The Shoppes at Fort Toulouse,5039 US Hwy 231,Wetumpka,AL,Fort Toulouse
+36008,1024,Taylor Junction,7076 Atlanta Hwy,Montgomery,AL,Taylor Junction
+36008,1026,Cornerstone,7700 Vaughn Rd,Montgomery,AL,Cornerstone
+36008,1756,Shops at Pike Road,9515 Vaughn Rd,Pike Road,AL,Shops at Pike Road
+36008,1878,The Gateway at Lake Martin,4812 Hwy 280,Alexander City,AL,Lake Martin
+36008,1281,Calera Crossings,90 Marketplace Cir,Calera,AL,Calera Crossings
+36008,1794,Marble City Square,165 MCS Blvd,Sylacauga,AL,Marble City Square
+36008,1073,White Stone Center,9200 Highway 119 Ste 1400,Alabaster,AL,White Stone Center
+36008,1202,Pelham Towne Center,365 Huntley Pkwy,Pelham,AL,Pelham Twn Ctr
+36008,1074,Crow's Corner,4730 Highway 17,Helena,AL,Crow's Corner
+36008,1370,Chelsea Crossroads,501 Chelsea Xrds,Chelsea,AL,Chelsea Crossroads
 36009,1525,Park Place,1147 US Hwy 231 S,Troy,AL,Park Place
 36009,1402,Park Place,847 Boll Weevil Cir Ste 112,Enterprise,AL,Park Place
 36009,1026,Cornerstone,7700 Vaughn Rd,Montgomery,AL,Cornerstone
@@ -63948,6 +64908,21 @@ zipcode,storenumber,name,address,city,state,shortname
 36054,1355,The Shoppes at Cary Creek,2900 E University Dr,Auburn,AL,Cary Creek S/C
 36054,1525,Park Place,1147 US Hwy 231 S,Troy,AL,Park Place
 36054,1294,Hamilton Place,2415 Moores Mill Rd,Auburn,AL,Hamilton Place
+36057,1756,Shops at Pike Road,9515 Vaughn Rd,Pike Road,AL,Shops at Pike Road
+36057,1024,Taylor Junction,7076 Atlanta Hwy,Montgomery,AL,Taylor Junction
+36057,1026,Cornerstone,7700 Vaughn Rd,Montgomery,AL,Cornerstone
+36057,1025,Dalraida Commons,4045 Atlanta Hwy,Montgomery,AL,Dalraida Commons
+36057,1027,Zelda Place,3026 Zelda Rd,Montgomery,AL,Zelda Place
+36057,2010,The Shoppes at Fort Toulouse,5039 US Hwy 231,Wetumpka,AL,Fort Toulouse
+36057,1228,High Point Town Center,2451 Cobbs Ford Rd,Prattville,AL,High Point Twn Ctr
+36057,2002,Camp Grandview Plaza,1400 AL Hwy 14,Millbrook,AL,Camp Grandview
+36057,1878,The Gateway at Lake Martin,4812 Hwy 280,Alexander City,AL,Lake Martin
+36057,1822,Shops on Gay Street,138 S Gay St,Auburn,AL,Shops on Gay Street
+36057,1355,The Shoppes at Cary Creek,2900 E University Dr,Auburn,AL,Cary Creek S/C
+36057,1294,Hamilton Place,2415 Moores Mill Rd,Auburn,AL,Hamilton Place
+36057,1525,Park Place,1147 US Hwy 231 S,Troy,AL,Park Place
+36057,1794,Marble City Square,165 MCS Blvd,Sylacauga,AL,Marble City Square
+36057,1086,Phenix Crossing,5408 Summerville Rd Ste 200,Phenix City,AL,Phenix Crossing
 36064,1756,Shops at Pike Road,9515 Vaughn Rd,Pike Road,AL,Shops at Pike Road
 36064,1026,Cornerstone,7700 Vaughn Rd,Montgomery,AL,Cornerstone
 36064,1024,Taylor Junction,7076 Atlanta Hwy,Montgomery,AL,Taylor Junction
@@ -64203,6 +65178,21 @@ zipcode,storenumber,name,address,city,state,shortname
 36093,1794,Marble City Square,165 MCS Blvd,Sylacauga,AL,Marble City Square
 36093,1525,Park Place,1147 US Hwy 231 S,Troy,AL,Park Place
 36093,1281,Calera Crossings,90 Marketplace Cir,Calera,AL,Calera Crossings
+36101,1027,Zelda Place,3026 Zelda Rd,Montgomery,AL,Zelda Place
+36101,1025,Dalraida Commons,4045 Atlanta Hwy,Montgomery,AL,Dalraida Commons
+36101,1024,Taylor Junction,7076 Atlanta Hwy,Montgomery,AL,Taylor Junction
+36101,1026,Cornerstone,7700 Vaughn Rd,Montgomery,AL,Cornerstone
+36101,1228,High Point Town Center,2451 Cobbs Ford Rd,Prattville,AL,High Point Twn Ctr
+36101,2002,Camp Grandview Plaza,1400 AL Hwy 14,Millbrook,AL,Camp Grandview
+36101,2010,The Shoppes at Fort Toulouse,5039 US Hwy 231,Wetumpka,AL,Fort Toulouse
+36101,1756,Shops at Pike Road,9515 Vaughn Rd,Pike Road,AL,Shops at Pike Road
+36101,1878,The Gateway at Lake Martin,4812 Hwy 280,Alexander City,AL,Lake Martin
+36101,1525,Park Place,1147 US Hwy 231 S,Troy,AL,Park Place
+36101,1822,Shops on Gay Street,138 S Gay St,Auburn,AL,Shops on Gay Street
+36101,1355,The Shoppes at Cary Creek,2900 E University Dr,Auburn,AL,Cary Creek S/C
+36101,1294,Hamilton Place,2415 Moores Mill Rd,Auburn,AL,Hamilton Place
+36101,1794,Marble City Square,165 MCS Blvd,Sylacauga,AL,Marble City Square
+36101,1281,Calera Crossings,90 Marketplace Cir,Calera,AL,Calera Crossings
 36104,1027,Zelda Place,3026 Zelda Rd,Montgomery,AL,Zelda Place
 36104,1025,Dalraida Commons,4045 Atlanta Hwy,Montgomery,AL,Dalraida Commons
 36104,1228,High Point Town Center,2451 Cobbs Ford Rd,Prattville,AL,High Point Twn Ctr
@@ -64353,6 +65343,21 @@ zipcode,storenumber,name,address,city,state,shortname
 36113,1794,Marble City Square,165 MCS Blvd,Sylacauga,AL,Marble City Square
 36113,1294,Hamilton Place,2415 Moores Mill Rd,Auburn,AL,Hamilton Place
 36113,1281,Calera Crossings,90 Marketplace Cir,Calera,AL,Calera Crossings
+36114,1025,Dalraida Commons,4045 Atlanta Hwy,Montgomery,AL,Dalraida Commons
+36114,1027,Zelda Place,3026 Zelda Rd,Montgomery,AL,Zelda Place
+36114,1024,Taylor Junction,7076 Atlanta Hwy,Montgomery,AL,Taylor Junction
+36114,1026,Cornerstone,7700 Vaughn Rd,Montgomery,AL,Cornerstone
+36114,2010,The Shoppes at Fort Toulouse,5039 US Hwy 231,Wetumpka,AL,Fort Toulouse
+36114,1228,High Point Town Center,2451 Cobbs Ford Rd,Prattville,AL,High Point Twn Ctr
+36114,1756,Shops at Pike Road,9515 Vaughn Rd,Pike Road,AL,Shops at Pike Road
+36114,2002,Camp Grandview Plaza,1400 AL Hwy 14,Millbrook,AL,Camp Grandview
+36114,1878,The Gateway at Lake Martin,4812 Hwy 280,Alexander City,AL,Lake Martin
+36114,1525,Park Place,1147 US Hwy 231 S,Troy,AL,Park Place
+36114,1822,Shops on Gay Street,138 S Gay St,Auburn,AL,Shops on Gay Street
+36114,1355,The Shoppes at Cary Creek,2900 E University Dr,Auburn,AL,Cary Creek S/C
+36114,1294,Hamilton Place,2415 Moores Mill Rd,Auburn,AL,Hamilton Place
+36114,1794,Marble City Square,165 MCS Blvd,Sylacauga,AL,Marble City Square
+36114,1281,Calera Crossings,90 Marketplace Cir,Calera,AL,Calera Crossings
 36115,1025,Dalraida Commons,4045 Atlanta Hwy,Montgomery,AL,Dalraida Commons
 36115,1027,Zelda Place,3026 Zelda Rd,Montgomery,AL,Zelda Place
 36115,1024,Taylor Junction,7076 Atlanta Hwy,Montgomery,AL,Taylor Junction
@@ -64398,6 +65403,21 @@ zipcode,storenumber,name,address,city,state,shortname
 36117,1294,Hamilton Place,2415 Moores Mill Rd,Auburn,AL,Hamilton Place
 36117,1794,Marble City Square,165 MCS Blvd,Sylacauga,AL,Marble City Square
 36117,1281,Calera Crossings,90 Marketplace Cir,Calera,AL,Calera Crossings
+36130,1027,Zelda Place,3026 Zelda Rd,Montgomery,AL,Zelda Place
+36130,1025,Dalraida Commons,4045 Atlanta Hwy,Montgomery,AL,Dalraida Commons
+36130,1026,Cornerstone,7700 Vaughn Rd,Montgomery,AL,Cornerstone
+36130,1024,Taylor Junction,7076 Atlanta Hwy,Montgomery,AL,Taylor Junction
+36130,1228,High Point Town Center,2451 Cobbs Ford Rd,Prattville,AL,High Point Twn Ctr
+36130,2002,Camp Grandview Plaza,1400 AL Hwy 14,Millbrook,AL,Camp Grandview
+36130,2010,The Shoppes at Fort Toulouse,5039 US Hwy 231,Wetumpka,AL,Fort Toulouse
+36130,1756,Shops at Pike Road,9515 Vaughn Rd,Pike Road,AL,Shops at Pike Road
+36130,1878,The Gateway at Lake Martin,4812 Hwy 280,Alexander City,AL,Lake Martin
+36130,1525,Park Place,1147 US Hwy 231 S,Troy,AL,Park Place
+36130,1822,Shops on Gay Street,138 S Gay St,Auburn,AL,Shops on Gay Street
+36130,1355,The Shoppes at Cary Creek,2900 E University Dr,Auburn,AL,Cary Creek S/C
+36130,1294,Hamilton Place,2415 Moores Mill Rd,Auburn,AL,Hamilton Place
+36130,1794,Marble City Square,165 MCS Blvd,Sylacauga,AL,Marble City Square
+36130,1281,Calera Crossings,90 Marketplace Cir,Calera,AL,Calera Crossings
 36201,1420,Oxford Commons,115 Commons Way,Oxford,AL,Oxford Commons
 36201,1391,South Park Center,2040 Martin St S,Pell City,AL,South Park Center
 36201,1476,Shoppes at Rainbow Landing,128 W Grand Ave,Rainbow City,AL,Rainbow Landing
@@ -65823,6 +66843,21 @@ zipcode,storenumber,name,address,city,state,shortname
 36502,1318,Bellview Plaza,5998 Mobile Hwy,Pensacola,FL,Bellview Plaza
 36502,1316,Publix Super Market,5055 N 9th Ave,Pensacola,FL,N 9th Ave
 36502,1404,Publix at Sunset Point,4628 Airport Blvd,Mobile,AL,Sunset Point
+36503,1572,Five Points Shopping Center,5580 Woodbine Rd,Pace,FL,Five Points S/C
+36503,1400,Eastern Shore Commons,10179 Eastern Shore Dr,Spanish Fort,AL,Eastern Shore
+36503,1807,Merganser Commons at Dogwood Estates,5854 Dogwood Dr,Milton,FL,Merganser Commons
+36503,1746,Nine Mile Crossing,8684 Beulah Rd,Pensacola,FL,Nine Mile Crossing
+36503,1225,Santa Rosa Commons,4739 Highway 90,Pace,FL,Santa Rosa Commons
+36503,1343,Publix at Nine Mile,2180 W Nine Mile Rd,Pensacola,FL,Nine Mile
+36503,1362,Magnolia Place,27955 US Highway 98 Ste 1,Daphne,AL,Magnolia Place
+36503,1650,Saraland Crossing,21 Shell St,Saraland,AL,Saraland Crossing
+36503,1317,University Town Center,9251 University Pkwy,Pensacola,FL,University Twn Ctr
+36503,1799,Planters Pointe Shopping Center,9867 State Hwy 104,Fairhope,AL,Planters Pointe
+36503,1265,The Shoppes at Fairhope Village,22530 US Highway 98 Ste 100,Fairhope,AL,Fairhope Village
+36503,1318,Bellview Plaza,5998 Mobile Hwy,Pensacola,FL,Bellview Plaza
+36503,1604,Midtown Center,100 N Florida St,Mobile,AL,Midtown Center
+36503,1316,Publix Super Market,5055 N 9th Ave,Pensacola,FL,N 9th Ave
+36503,1879,Blue Angel Plaza,9500 W Hwy 98,Pensacola,FL,Blue Angel Plaza
 36505,1650,Saraland Crossing,21 Shell St,Saraland,AL,Saraland Crossing
 36505,1604,Midtown Center,100 N Florida St,Mobile,AL,Midtown Center
 36505,2027,Semmes Village Shopping Center,2035 Schillinger Rd N Ste 100,Semmes,AL,Semmes Village
@@ -66228,6 +67263,21 @@ zipcode,storenumber,name,address,city,state,shortname
 36545,1746,Nine Mile Crossing,8684 Beulah Rd,Pensacola,FL,Nine Mile Crossing
 36545,1343,Publix at Nine Mile,2180 W Nine Mile Rd,Pensacola,FL,Nine Mile
 36545,1225,Santa Rosa Commons,4739 Highway 90,Pace,FL,Santa Rosa Commons
+36547,1672,Paradise Isle Shopping Center,1720 Gulf Shores Pkwy Ste 2,Gulf Shores,AL,Paradise Isle
+36547,1292,Colonial Promenade at Craft Farms,160 Cotton Creek Dr Ste 100,Gulf Shores,AL,Craft Farms
+36547,1213,The Shoppes at Palm Pointe,25771 Perdido Beach Blvd,Orange Beach,AL,Palm Pointe
+36547,2098,The Village at Foley Crossroads,9913 Foley-Beach Express,Foley,AL,Foley Crossroads
+36547,1673,Riviera Square,2614 S McKenzie St,Foley,AL,Riviera Square
+36547,1296,Shops at Perdido Key,13390 Perdido Key Dr,Pensacola,FL,Shops/Perdido Key
+36547,1879,Blue Angel Plaza,9500 W Hwy 98,Pensacola,FL,Blue Angel Plaza
+36547,1809,The Shops at Point Clear,18125 Wright Blvd,Fairhope,AL,Point Clear
+36547,1799,Planters Pointe Shopping Center,9867 State Hwy 104,Fairhope,AL,Planters Pointe
+36547,1265,The Shoppes at Fairhope Village,22530 US Highway 98 Ste 100,Fairhope,AL,Fairhope Village
+36547,1746,Nine Mile Crossing,8684 Beulah Rd,Pensacola,FL,Nine Mile Crossing
+36547,1318,Bellview Plaza,5998 Mobile Hwy,Pensacola,FL,Bellview Plaza
+36547,1343,Publix at Nine Mile,2180 W Nine Mile Rd,Pensacola,FL,Nine Mile
+36547,1522,Publix at East Hill,1100 E Cervantes St,Pensacola,FL,East Hill S/C
+36547,1189,Sea Shell Collections,852 Gulf Breeze Pkwy,Gulf Breeze,FL,Sea Shell
 36548,1650,Saraland Crossing,21 Shell St,Saraland,AL,Saraland Crossing
 36548,2027,Semmes Village Shopping Center,2035 Schillinger Rd N Ste 100,Semmes,AL,Semmes Village
 36548,1604,Midtown Center,100 N Florida St,Mobile,AL,Midtown Center
@@ -66948,6 +67998,36 @@ zipcode,storenumber,name,address,city,state,shortname
 36619,2098,The Village At Foley Crossroads,9913 Foley-Beach Express,Foley,AL,Foley Crossroads
 36619,1292,Colonial Promenade at Craft Farms,160 Cotton Creek Dr Ste 100,Gulf Shores,AL,Craft Farms
 36619,1672,Paradise Isle Shopping Center,1720 Gulf Shores Pkwy Ste 2,Gulf Shores,AL,Paradise Isle
+36652,1604,Midtown Center,100 N Florida St,Mobile,AL,Midtown Center
+36652,1404,Publix at Sunset Point,4628 Airport Blvd,Mobile,AL,Sunset Point
+36652,1436,Hillwood Shopping Center,2370 Hillcrest Rd Unit J,Mobile,AL,Hillwood S/C
+36652,1650,Saraland Crossing,21 Shell St,Saraland,AL,Saraland Crossing
+36652,2027,Semmes Village Shopping Center,2035 Schillinger Rd N Ste 100,Semmes,AL,Semmes Village
+36652,1362,Magnolia Place,27955 US Highway 98 Ste 1,Daphne,AL,Magnolia Place
+36652,1796,Bickley Station,9124 Cottage Hill Rd,Mobile,AL,Bickley Station
+36652,1400,Eastern Shore Commons,10179 Eastern Shore Dr,Spanish Fort,AL,Eastern Shore
+36652,1265,The Shoppes at Fairhope Village,22530 US Highway 98 Ste 100,Fairhope,AL,Fairhope Village
+36652,1799,Planters Pointe Shopping Center,9867 State Hwy 104,Fairhope,AL,Planters Pointe
+36652,1809,The Shops at Point Clear,18125 Wright Blvd,Fairhope,AL,Point Clear
+36652,1673,Riviera Square,2614 S McKenzie St,Foley,AL,Riviera Square
+36652,2098,The Village at Foley Crossroads,9913 Foley-Beach Express,Foley,AL,Foley Crossroads
+36652,1292,Colonial Promenade at Craft Farms,160 Cotton Creek Dr Ste 100,Gulf Shores,AL,Craft Farms
+36652,1672,Paradise Isle Shopping Center,1720 Gulf Shores Pkwy Ste 2,Gulf Shores,AL,Paradise Isle
+36663,1604,Midtown Center,100 N Florida St,Mobile,AL,Midtown Center
+36663,1650,Saraland Crossing,21 Shell St,Saraland,AL,Saraland Crossing
+36663,1404,Publix at Sunset Point,4628 Airport Blvd,Mobile,AL,Sunset Point
+36663,2027,Semmes Village Shopping Center,2035 Schillinger Rd N Ste 100,Semmes,AL,Semmes Village
+36663,1436,Hillwood Shopping Center,2370 Hillcrest Rd Unit J,Mobile,AL,Hillwood S/C
+36663,1796,Bickley Station,9124 Cottage Hill Rd,Mobile,AL,Bickley Station
+36663,1362,Magnolia Place,27955 US Highway 98 Ste 1,Daphne,AL,Magnolia Place
+36663,1400,Eastern Shore Commons,10179 Eastern Shore Dr,Spanish Fort,AL,Eastern Shore
+36663,1265,The Shoppes at Fairhope Village,22530 US Highway 98 Ste 100,Fairhope,AL,Fairhope Village
+36663,1799,Planters Pointe Shopping Center,9867 State Hwy 104,Fairhope,AL,Planters Pointe
+36663,1809,The Shops at Point Clear,18125 Wright Blvd,Fairhope,AL,Point Clear
+36663,1673,Riviera Square,2614 S McKenzie St,Foley,AL,Riviera Square
+36663,2098,The Village at Foley Crossroads,9913 Foley-Beach Express,Foley,AL,Foley Crossroads
+36663,1292,Colonial Promenade at Craft Farms,160 Cotton Creek Dr Ste 100,Gulf Shores,AL,Craft Farms
+36663,1672,Paradise Isle Shopping Center,1720 Gulf Shores Pkwy Ste 2,Gulf Shores,AL,Paradise Isle
 36688,1404,Publix at Sunset Point,4628 Airport Blvd,Mobile,AL,Sunset Point
 36688,1436,Hillwood Shopping Center,2370 Hillcrest Rd Unit J,Mobile,AL,Hillwood S/C
 36688,2027,Semmes Village Shopping Center,2035 Schillinger Rd N Ste 100,Semmes,AL,Semmes Village
@@ -67173,6 +68253,21 @@ zipcode,storenumber,name,address,city,state,shortname
 36740,839,Trace Crossings,2543 John Hawkins Pkwy,Hoover,AL,Trace Crossings
 36740,841,Southgate Village,1944 Montgomery Hwy S,Birmingham,AL,Southgate Village
 36740,1627,Lakeshore Pavilion,2860 Lakeshore Pkwy,Birmingham,AL,Lakeshore Pavilion
+36741,1228,High Point Town Center,2451 Cobbs Ford Rd,Prattville,AL,High Point Twn Ctr
+36741,2002,Camp Grandview Plaza,1400 AL Hwy 14,Millbrook,AL,Camp Grandview
+36741,1027,Zelda Place,3026 Zelda Rd,Montgomery,AL,Zelda Place
+36741,1025,Dalraida Commons,4045 Atlanta Hwy,Montgomery,AL,Dalraida Commons
+36741,1026,Cornerstone,7700 Vaughn Rd,Montgomery,AL,Cornerstone
+36741,1024,Taylor Junction,7076 Atlanta Hwy,Montgomery,AL,Taylor Junction
+36741,2010,The Shoppes at Fort Toulouse,5039 US Hwy 231,Wetumpka,AL,Fort Toulouse
+36741,1756,Shops at Pike Road,9515 Vaughn Rd,Pike Road,AL,Shops at Pike Road
+36741,1525,Park Place,1147 US Hwy 231 S,Troy,AL,Park Place
+36741,1281,Calera Crossings,90 Marketplace Cir,Calera,AL,Calera Crossings
+36741,1253,Capital Market Center,1101 Southview Ln,Tuscaloosa,AL,Capital Market Ctr
+36741,1073,White Stone Center,9200 Highway 119 Ste 1400,Alabaster,AL,White Stone Center
+36741,1402,Park Place,847 Boll Weevil Cir Ste 112,Enterprise,AL,Park Place
+36741,1074,Crow's Corner,4730 Highway 17,Helena,AL,Crow's Corner
+36741,1878,The Gateway at Lake Martin,4812 Hwy 280,Alexander City,AL,Lake Martin
 36742,1253,Capital Market Center,1101 Southview Ln,Tuscaloosa,AL,Capital Market Ctr
 36742,1083,Publix At University Town Center,1190 University Blvd,Tuscaloosa,AL,University Town Center
 36742,1075,Northwood Crossings,2300 McFarland Blvd,Northport,AL,Northwood Crossings
@@ -67383,6 +68478,17 @@ zipcode,storenumber,name,address,city,state,shortname
 36763,1202,Pelham Towne Center,365 Huntley Pkwy,Pelham,AL,Pelham Twn Ctr
 36763,839,Trace Crossings,2543 John Hawkins Pkwy,Hoover,AL,Trace Crossings
 36763,1065,Allison-Bonnett Plaza,3014 Allison Bonnett Memorial Dr Ste 130,Hueytown,AL,Allison-Bonnett
+36764,1253,Capital Market Center,1101 Southview Ln,Tuscaloosa,AL,Capital Market Ctr
+36764,1083,Publix at University Town Center,1190 University Blvd,Tuscaloosa,AL,University Town Center
+36764,1075,Northwood Crossings,2300 McFarland Blvd,Northport,AL,Northwood Crossings
+36764,75,The Shops of Lake Tuscaloosa,4851 Rice Mine Rd NE Ste 200,Tuscaloosa,AL,Lake Tuscaloosa
+36764,1691,Publix at Bristol Park,13556 Hwy 69 N,Northport,AL,Bristol Park
+36764,1650,Saraland Crossing,21 Shell St,Saraland,AL,Saraland Crossing
+36764,1228,High Point Town Center,2451 Cobbs Ford Rd,Prattville,AL,High Point Twn Ctr
+36764,2002,Camp Grandview Plaza,1400 AL Hwy 14,Millbrook,AL,Camp Grandview
+36764,2027,Semmes Village Shopping Center,2035 Schillinger Rd N Ste 100,Semmes,AL,Semmes Village
+36764,1604,Midtown Center,100 N Florida St,Mobile,AL,Midtown Center
+36764,1400,Eastern Shore Commons,10179 Eastern Shore Dr,Spanish Fort,AL,Eastern Shore
 36765,1253,Capital Market Center,1101 Southview Ln,Tuscaloosa,AL,Capital Market Ctr
 36765,1083,Publix At University Town Center,1190 University Blvd,Tuscaloosa,AL,University Town Center
 36765,1075,Northwood Crossings,2300 McFarland Blvd,Northport,AL,Northwood Crossings
@@ -67713,6 +68819,21 @@ zipcode,storenumber,name,address,city,state,shortname
 36850,1025,Dalraida Commons,4045 Atlanta Hwy,Montgomery,AL,Dalraida Commons
 36850,1880,Old Town Marketplace,8132 Veterans Pkwy Bldg 3,Columbus,GA,Old Town Marketplace
 36850,1794,Marble City Square,165 MCS Blvd,Sylacauga,AL,Marble City Square
+36851,1390,Cross Country Plaza,3201 Macon Rd Ste 201,Columbus,GA,Cross Country Plz
+36851,1086,Phenix Crossing,5408 Summerville Rd Ste 200,Phenix City,AL,Phenix Crossing
+36851,474,Bradley Park Square,1639 Bradley Park Dr Ste 600,Columbus,GA,Bradley Park
+36851,562,Milgen Plaza,5435 Woodruff Farm Rd,Columbus,GA,Milgen Plaza
+36851,1868,Midland Commons,6901 Ray Wright Way,Columbus,GA,Midland Commons
+36851,650,Parkway Centre,7600 Schomburg Rd,Columbus,GA,Parkway Centre
+36851,1880,Old Town Marketplace,8132 Veterans Pkwy Bldg 3,Columbus,GA,Old Town Marketplace
+36851,1294,Hamilton Place,2415 Moores Mill Rd,Auburn,AL,Hamilton Place
+36851,1822,Shops on Gay Street,138 S Gay St,Auburn,AL,Shops on Gay Street
+36851,1355,The Shoppes at Cary Creek,2900 E University Dr,Auburn,AL,Cary Creek S/C
+36851,1525,Park Place,1147 US Hwy 231 S,Troy,AL,Park Place
+36851,1756,Shops at Pike Road,9515 Vaughn Rd,Pike Road,AL,Shops at Pike Road
+36851,1873,Merganser Commons at Hills & Dales Farm,2200 Vernon St,Lagrange,GA,Merganser Commons
+36851,450,Albany Square,2715 Dawson Rd,Albany,GA,Albany Square
+36851,540,LaGrange Plaza,139 Commerce Ave,LaGrange,GA,LaGrange Plaza
 36852,1355,The Shoppes at Cary Creek,2900 E University Dr,Auburn,AL,Cary Creek S/C
 36852,1294,Hamilton Place,2415 Moores Mill Rd,Auburn,AL,Hamilton Place
 36852,1822,Shops on Gay Street,138 S Gay St,Auburn,AL,Shops on Gay Street
@@ -70134,6 +71255,36 @@ zipcode,storenumber,name,address,city,state,shortname
 37228,1235,Mt View Marketplace,3532 Murfreesboro Pike,Antioch,TN,Mt View Mktplc
 37228,119,Indian Lake Marketplace,110 Indian Lake Blvd,Hendersonville,TN,Indian Lake
 37228,1057,Concord Village,10638 Concord Rd,Brentwood,TN,Concord Village
+37232,1665,Publix at Melrose,2223 8th Ave S,Nashville,TN,Melrose
+37232,1680,Capitol View,1010 Dr Martin L King Jr Blvd,Nashville,TN,Capitol View
+37232,1211,Hill Center at Belle Meade,4324 Harding Pike,Nashville,TN,Belle Meade
+37232,1298,Hill Center at Nashville West,6614 Charlotte Pike,Nashville,TN,Nashville West
+37232,1732,Hill Center Greenwood,1111 Gallatin Ave,Nashville,TN,Hill Center
+37232,1426,The Crossings,2324 Lebanon Pike,Nashville,TN,The Crossings
+37232,1021,Marketplace at Maryland Farms,101 Creekside Xing,Brentwood,TN,Maryland Farms
+37232,1116,Nippers Corner,15544 Old Hickory Blvd,Nashville,TN,Nippers Corner
+37232,123,Bellevue Center,7604 Highway 70 S,Nashville,TN,Bellevue Center
+37232,1133,Publix at Harpeth Village,8028 Highway 100,Nashville,TN,Harpeth Village
+37232,1057,Concord Village,10638 Concord Rd,Brentwood,TN,Concord Village
+37232,1235,Mt View Marketplace,3532 Murfreesboro Pike,Antioch,TN,Mt View Mktplc
+37232,142,Cool Springs Festival,8105 Moores Ln,Brentwood,TN,Cool Springs
+37232,182,Oakwood Commons,4670 Lebanon Pike,Hermitage,TN,Oakwood Commons
+37232,160,Harpeth Village,2020 Fieldstone Pkwy,Franklin,TN,Harpeth Village
+37238,1680,Capitol View,1010 Dr Martin L King Jr Blvd,Nashville,TN,Capitol View
+37238,1732,Hill Center Greenwood,1111 Gallatin Ave,Nashville,TN,Hill Center
+37238,1665,Publix at Melrose,2223 8th Ave S,Nashville,TN,Melrose
+37238,1211,Hill Center at Belle Meade,4324 Harding Pike,Nashville,TN,Belle Meade
+37238,1426,The Crossings,2324 Lebanon Pike,Nashville,TN,The Crossings
+37238,1298,Hill Center at Nashville West,6614 Charlotte Pike,Nashville,TN,Nashville West
+37238,1116,Nippers Corner,15544 Old Hickory Blvd,Nashville,TN,Nippers Corner
+37238,1021,Marketplace at Maryland Farms,101 Creekside Xing,Brentwood,TN,Maryland Farms
+37238,182,Oakwood Commons,4670 Lebanon Pike,Hermitage,TN,Oakwood Commons
+37238,123,Bellevue Center,7604 Highway 70 S,Nashville,TN,Bellevue Center
+37238,1235,Mt View Marketplace,3532 Murfreesboro Pike,Antioch,TN,Mt View Mktplc
+37238,1141,Caldwell Square,460 Long Hollow Pike,Goodlettsville,TN,Caldwell Square
+37238,1057,Concord Village,10638 Concord Rd,Brentwood,TN,Concord Village
+37238,1133,Publix at Harpeth Village,8028 Highway 100,Nashville,TN,Harpeth Village
+37238,119,Indian Lake Marketplace,110 Indian Lake Blvd,Hendersonville,TN,Indian Lake
 37240,1680,Capitol View,1010 Dr Martin L King Jr Blvd,Nashville,TN,Capitol View
 37240,1665,Publix at Melrose,2223 8th Ave S,Nashville,TN,Melrose
 37240,1211,Hill Center at Belle Meade,4324 Harding Pike,Nashville,TN,Belle Meade
@@ -70374,6 +71525,21 @@ zipcode,storenumber,name,address,city,state,shortname
 37315,1248,Laurel Canyon Village,15 Laurel Canyon Village Circle Suite 118,Canton,GA,Laurel Canyon Vlg
 37315,554,Main Street,300 Cherokee Pl,Cartersville,GA,Main Street
 37315,624,Riverstone Plaza Shopping Center,1451 Riverstone Pkwy,Canton,GA,Riverstone Plaza
+37316,1356,Publix at Mouse Creek,635 Paul Huff Pkwy NW,Cleveland,TN,Mouse Creek Cr
+37316,1244,Snow Hill Village,5958 Snow Hill Rd Ste 168,Ooltewah,TN,Snow Hill Village
+37316,1863,Shops at Enclave,1688 Ooltewah Ringgold Rd Ste 100,Ooltewah,TN,Shops at Enclave
+37316,1165,Hurricane Creek,8644 E Brainerd Rd,Chattanooga,TN,Hurricane Creek
+37316,1621,Village at Waterside,7326 McCutcheon Rd,Chattanooga,TN,Village/Waterside
+37316,1641,Boynton Ridge Plaza,3775 Battlefield Pkwy,Ringgold,GA,Boynton Ridge Plaza
+37316,1166,Creek Plantation Village,5928 Hixson Pike Ste 112,Hixson,TN,Creek Plantation
+37316,1460,Publix on North Market Street,400 N Market St,Chattanooga,TN,North Market St
+37316,1731,Publix at Mount Vernon Point,3535 Broad St,Chattanooga,TN,Mount Vernon Point
+37316,2047,Gateway Crossing Jasper,178 Virginia Way,Jasper,GA,Gateway Crossing
+37316,1248,Laurel Canyon Village,15 Laurel Canyon Village Circle Suite 118,Canton,GA,Laurel Canyon Vlg
+37316,624,Riverstone Plaza Shopping Center,1451 Riverstone Pkwy,Canton,GA,Riverstone Plaza
+37316,2024,Dahlonega Village,23 Maxwell Ln,Dahlonega,GA,Dahlonega Village
+37316,1403,Charles Hight Square,435 Turner McCall Blvd NE,Rome,GA,Charles Hight Sq
+37316,1064,Paradise Shoppes of Prominence Point,120 Prominence Point Pkwy,Canton,GA,Prominence Point
 37317,1356,Publix at Mouse Creek,635 Paul Huff Pkwy NW,Cleveland,TN,Mouse Creek Cr
 37317,1244,Snow Hill Village,5958 Snow Hill Rd Ste 168,Ooltewah,TN,Snow Hill Village
 37317,1863,Shops at Enclave,1688 Ooltewah Ringgold Rd Ste 100,Ooltewah,TN,Shops at Enclave
@@ -71184,6 +72350,21 @@ zipcode,storenumber,name,address,city,state,shortname
 37381,1731,Publix at Mount Vernon Point,3535 Broad St,Chattanooga,TN,Mount Vernon Point
 37381,1641,Boynton Ridge Plaza,3775 Battlefield Pkwy,Ringgold,GA,Boynton Ridge Plaza
 37381,1418,University Commons,2429 University Commons Way,Knoxville,TN,University Commons
+37383,1613,Northgate Mall,1600 N Jackson St Ste 340,Tullahoma,TN,Northgate Mall
+37383,1460,Publix on North Market Street,400 N Market St,Chattanooga,TN,North Market St
+37383,1731,Publix at Mount Vernon Point,3535 Broad St,Chattanooga,TN,Mount Vernon Point
+37383,1830,Publix at Scottsboro,24540 John T Reid Pkwy,Scottsboro,AL,Scottsboro
+37383,1166,Creek Plantation Village,5928 Hixson Pike Ste 112,Hixson,TN,Creek Plantation
+37383,1126,Winchester Plaza,2246 Winchester Rd NE,Huntsville,AL,Winchester Plaza
+37383,2042,Flint Crossing Market Place,12290 Hwy 231/431 N,Meridianville,AL,Flint Crossing
+37383,1641,Boynton Ridge Plaza,3775 Battlefield Pkwy,Ringgold,GA,Boynton Ridge Plaza
+37383,1621,Village at Waterside,7326 McCutcheon Rd,Chattanooga,TN,Village/Waterside
+37383,1165,Hurricane Creek,8644 E Brainerd Rd,Chattanooga,TN,Hurricane Creek
+37383,1863,Shops at Enclave,1688 Ooltewah Ringgold Rd Ste 100,Ooltewah,TN,Shops at Enclave
+37383,1244,Snow Hill Village,5958 Snow Hill Rd Ste 168,Ooltewah,TN,Snow Hill Village
+37383,1163,Kensington Place Shopping Center,1731 S Rutherford Blvd Ste S,Murfreesboro,TN,Kensington Place
+37383,573,Hampton Cove Center,6707 Highway 431 S,Owens Cross Roads,AL,Hampton Cove
+37383,1451,Twickenham Square,310 Pelham Ave SW,Huntsville,AL,Twickenham Square
 37385,1779,Foothills Mall,198 Foothills Mall,Maryville,TN,Foothills Mall
 37385,1356,Publix at Mouse Creek,635 Paul Huff Pkwy NW,Cleveland,TN,Mouse Creek Cr
 37385,2106,Westerly Commons,13123 Kingston Pike,Farragut,TN,Westerly Commons
@@ -71529,6 +72710,21 @@ zipcode,storenumber,name,address,city,state,shortname
 37421,554,Main Street,300 Cherokee Pl,Cartersville,GA,Main Street
 37421,1248,Laurel Canyon Village,15 Laurel Canyon Village Circle Suite 118,Canton,GA,Laurel Canyon Vlg
 37421,1613,Northgate Mall,1600 N Jackson St Ste 340,Tullahoma,TN,Northgate Mall
+37450,1460,Publix on North Market Street,400 N Market St,Chattanooga,TN,North Market St
+37450,1731,Publix at Mount Vernon Point,3535 Broad St,Chattanooga,TN,Mount Vernon Point
+37450,1166,Creek Plantation Village,5928 Hixson Pike Ste 112,Hixson,TN,Creek Plantation
+37450,1621,Village at Waterside,7326 McCutcheon Rd,Chattanooga,TN,Village/Waterside
+37450,1641,Boynton Ridge Plaza,3775 Battlefield Pkwy,Ringgold,GA,Boynton Ridge Plaza
+37450,1165,Hurricane Creek,8644 E Brainerd Rd,Chattanooga,TN,Hurricane Creek
+37450,1863,Shops at Enclave,1688 Ooltewah Ringgold Rd Ste 100,Ooltewah,TN,Shops at Enclave
+37450,1244,Snow Hill Village,5958 Snow Hill Rd Ste 168,Ooltewah,TN,Snow Hill Village
+37450,1356,Publix at Mouse Creek,635 Paul Huff Pkwy NW,Cleveland,TN,Mouse Creek Cr
+37450,1830,Publix at Scottsboro,24540 John T Reid Pkwy,Scottsboro,AL,Scottsboro
+37450,1403,Charles Hight Square,435 Turner McCall Blvd NE,Rome,GA,Charles Hight Sq
+37450,1613,Northgate Mall,1600 N Jackson St Ste 340,Tullahoma,TN,Northgate Mall
+37450,2047,Gateway Crossing Jasper,178 Virginia Way,Jasper,GA,Gateway Crossing
+37450,554,Main Street,300 Cherokee Pl,Cartersville,GA,Main Street
+37450,1126,Winchester Plaza,2246 Winchester Rd NE,Huntsville,AL,Winchester Plaza
 37601,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 37601,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 37601,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
@@ -73768,6 +74964,21 @@ zipcode,storenumber,name,address,city,state,shortname
 37924,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 37924,1356,Publix at Mouse Creek,635 Paul Huff Pkwy NW,Cleveland,TN,Mouse Creek Cr
 37924,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+37929,1418,University Commons,2429 University Commons Way,Knoxville,TN,University Commons
+37929,1416,Northshore Town Center,2010 Town Center Blvd,Knoxville,TN,Northshore Twn Ctr
+37929,1415,Publix at Turkey Creek,11656 Parkside Dr,Knoxville,TN,Turkey Creek
+37929,1779,Foothills Mall,198 Foothills Mall,Maryville,TN,Foothills Mall
+37929,2106,Westerly Commons,13123 Kingston Pike,Farragut,TN,Westerly Commons
+37929,1713,Smoky Mountain Gateway,750 Winfield Dunn Pkwy Ste 100,Sevierville,TN,Smoky Mt. Gateway
+37929,1515,Valley Forge Shopping Center,2656 Parkway,Pigeon Forge,TN,Valley Forge S/C
+37929,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
+37929,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+37929,1356,Publix at Mouse Creek,635 Paul Huff Pkwy NW,Cleveland,TN,Mouse Creek Cr
+37929,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+37929,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+37929,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+37929,1244,Snow Hill Village,5958 Snow Hill Rd Ste 168,Ooltewah,TN,Snow Hill Village
+37929,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 37931,1415,Publix at Turkey Creek,11656 Parkside Dr,Knoxville,TN,Turkey Creek
 37931,1416,Northshore Town Center,2010 Town Center Blvd,Knoxville,TN,Northshore Twn Ctr
 37931,2106,Westerly Commons,13123 Kingston Pike,Farragut,TN,Westerly Commons
@@ -74301,6 +75512,11 @@ zipcode,storenumber,name,address,city,state,shortname
 38334,1047,Spring Hill Village,4935 Main St,Spring Hill,TN,Spring Hill Village
 38334,2036,Spring Hill Towne Crossing,1021 Jim Warren Pkwy,Spring Hill,TN,Spring Hill
 38334,1790,Midtown Centre,165 US Hwy 31 N,Athens,AL,Midtown Centre
+38338,1360,Bowie Commons,7014 City Center Way,Fairview,TN,Bowie Commons
+38338,1392,Madison Street Commons,1771 Madison St,Clarksville,TN,Madison Street
+38338,1425,Shoppes at Peachers Mill,1490 Tiny Town Rd,Clarksville,TN,Peachers Mill
+38338,1802,Walker Farms Shopping Center,2300 Trenton Rd,Clarksville,TN,Walker Farms
+38338,1409,Renaissance City Center,322 Cox Creek Pkwy,Florence,AL,Renaissance City
 38339,1409,Renaissance City Center,322 Cox Creek Pkwy,Florence,AL,Renaissance City
 38339,1532,Muscle Shoals Commons,3220 Woodward Ave,Muscle Shoals,AL,Muscle Shoals Comm
 38339,1790,Midtown Centre,165 US Hwy 31 N,Athens,AL,Midtown Centre
@@ -75235,6 +76451,21 @@ zipcode,storenumber,name,address,city,state,shortname
 38501,1238,The Shops of Lee Village,1640 Lee Victory Pkwy,Smyrna,TN,Shops/Lee Victory
 38501,1234,Market at Salem Cove,2650 New Salem Hwy,Murfreesboro,TN,Market/Salem Cove
 38501,1016,Parkway Town Centre,661 President Pl,Smyrna,TN,Parkway Town Centre
+38503,1634,The Shoppes at Eagle Point,1265 Interstate Dr Ste 111,Cookeville,TN,Eagle Point
+38503,1175,Lebanon Center,1703 W Main St,Lebanon,TN,Lebanon Center
+38503,1801,Hickory Ridge Shopping Center,445 Hwy 109 N,Lebanon,TN,Hickory Ridge
+38503,1164,Publix at North Murfreesboro,3415 Memorial Blvd,Murfreesboro,TN,N Murfreesboro
+38503,1163,Kensington Place Shopping Center,1731 S Rutherford Blvd Ste S,Murfreesboro,TN,Kensington Place
+38503,1739,The Shops at Windsong,211 Maharris Dr,Gallatin,TN,Shops at Windsong
+38503,1268,Providence Commons,665 S Mount Juliet Rd,Mount Juliet,TN,Providence Commons
+38503,1220,Mt Juliet Village,11207 Lebanon Rd,Mount Juliet,TN,Mt Juliet Village
+38503,1033,Greensboro Village,1483 Nashville Pike,Gallatin,TN,Greensboro Village
+38503,1172,Market at Victory Village,4175 Franklin Rd,Murfreesboro,TN,Victory Village
+38503,1234,Market at Salem Cove,2650 New Salem Hwy,Murfreesboro,TN,Market/Salem Cove
+38503,1238,The Shops of Lee Village,1640 Lee Victory Pkwy,Smyrna,TN,Shops/Lee Victory
+38503,1778,Westlawn,5229 Veterans Pkwy,Murfreesboro,TN,Westlawn
+38503,1016,Parkway Town Centre,661 President Pl,Smyrna,TN,Parkway Town Centre
+38503,1780,Newman's Crossing,1931 Long Hollow Pike,Gallatin,TN,Newman's Crossing
 38504,1415,Publix at Turkey Creek,11656 Parkside Dr,Knoxville,TN,Turkey Creek
 38504,2106,Westerly Commons,13123 Kingston Pike,Farragut,TN,Westerly Commons
 38504,1634,The Shoppes at Eagle Point,1265 Interstate Dr Ste 111,Cookeville,TN,Eagle Point
@@ -75400,6 +76631,21 @@ zipcode,storenumber,name,address,city,state,shortname
 38549,1164,Publix at North Murfreesboro,3415 Memorial Blvd,Murfreesboro,TN,N Murfreesboro
 38549,119,Indian Lake Marketplace,110 Indian Lake Blvd,Hendersonville,TN,Indian Lake
 38549,182,Oakwood Commons,4670 Lebanon Pike,Hermitage,TN,Oakwood Commons
+38550,1634,The Shoppes at Eagle Point,1265 Interstate Dr Ste 111,Cookeville,TN,Eagle Point
+38550,1163,Kensington Place Shopping Center,1731 S Rutherford Blvd Ste S,Murfreesboro,TN,Kensington Place
+38550,1613,Northgate Mall,1600 N Jackson St Ste 340,Tullahoma,TN,Northgate Mall
+38550,1164,Publix at North Murfreesboro,3415 Memorial Blvd,Murfreesboro,TN,N Murfreesboro
+38550,1234,Market at Salem Cove,2650 New Salem Hwy,Murfreesboro,TN,Market/Salem Cove
+38550,1172,Market at Victory Village,4175 Franklin Rd,Murfreesboro,TN,Victory Village
+38550,1166,Creek Plantation Village,5928 Hixson Pike Ste 112,Hixson,TN,Creek Plantation
+38550,1778,Westlawn,5229 Veterans Pkwy,Murfreesboro,TN,Westlawn
+38550,1175,Lebanon Center,1703 W Main St,Lebanon,TN,Lebanon Center
+38550,1238,The Shops of Lee Village,1640 Lee Victory Pkwy,Smyrna,TN,Shops/Lee Victory
+38550,1460,Publix on North Market Street,400 N Market St,Chattanooga,TN,North Market St
+38550,1801,Hickory Ridge Shopping Center,445 Hwy 109 N,Lebanon,TN,Hickory Ridge
+38550,1016,Parkway Town Centre,661 President Pl,Smyrna,TN,Parkway Town Centre
+38550,1731,Publix at Mount Vernon Point,3535 Broad St,Chattanooga,TN,Mount Vernon Point
+38550,1268,Providence Commons,665 S Mount Juliet Rd,Mount Juliet,TN,Providence Commons
 38551,1634,The Shoppes at Eagle Point,1265 Interstate Dr Ste 111,Cookeville,TN,Eagle Point
 38551,1175,Lebanon Center,1703 W Main St,Lebanon,TN,Lebanon Center
 38551,1739,The Shops at Windsong,211 Maharris Dr,Gallatin,TN,Shops at Windsong
