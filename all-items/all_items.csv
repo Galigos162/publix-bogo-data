@@ -195,7 +195,7 @@ Tru Fru Fruit,tru_fru_fruit.jpg,,FALSE
 Junior Mints,junior_mints.jpg,,FALSE
 Kool-Aid Jammers Juice Drink,koolaid_jammers_juice_drink.jpg,Grocery,FALSE
 Toufayan Wraps,toufayan_wraps.jpg,,FALSE
-Amish Country Halfmoon Chunk Cheese,amish_country_halfmoon_chunk_cheese.jpg,,FALSE
+Amish Country Halfmoon Chunk Cheese,amish_country_halfmoon_chunk_cheese.jpg,Dairy,FALSE
 Welch's Fruit Snacks,welchs_fruit_snacks.jpg,Grocery,FALSE
 Filippo Berio Olive Oil,filippo_berio_olive_oil.jpg,Grocery,FALSE
 Dalmatia Organic Spread,dalmatia_organic_spread.jpg,,FALSE
@@ -2856,3 +2856,7 @@ Monsoon Kitchens Meals,monsoon_kitchens_meals.jpg,Deli,false
 Holmes Smokehouse Charcuterie,holmes_smokehouse_charcuterie.jpg,Meat,false
 6-Pack Goslings Ginger Beer,6pack_goslings_ginger_beer.jpg,Liquor,false
 High Rock Vodka,high_rock_vodka.jpg,Liquor,false
+Rao's or Red Baron Pizza,raos_or_red_baron_pizza.jpg,Frozen Food,false
+Philadelphia To Go Snack Cream Cheese,philadelphia_to_go_snack_cream_cheese.jpg,Dairy,false
+"Made Good Organic Granola Bars, Bites, or Squares, or Mornings Soft Baked Bars",made_good_organic_granola_bars_bites_or_squares_or_mornings_soft_baked_bars.jpg,Grocery,false
+Wibisco Shirley Coconut Biscuit,wibisco_shirley_coconut_biscuit.jpg,Grocery,false
