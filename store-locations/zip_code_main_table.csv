@@ -15,15 +15,12 @@ zipcode,storenumber,name,address,city,state,shortname
 17272,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 17320,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 17325,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
-17327,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 17329,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 17331,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 17340,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 17343,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 17344,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
-17355,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 19931,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
-19933,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 19973,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20001,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 20001,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
@@ -3190,7 +3187,6 @@ zipcode,storenumber,name,address,city,state,shortname
 20912,1587,Short Pump Crossing Shopping Center,3460 Pump Rd,Henrico,VA,Short Pump Cr
 20912,1590,John Rolfe Commons,2250 John Rolfe Pkwy,Henrico,VA,John Rolfe Commons
 21001,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
-21005,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21009,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21010,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21012,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
@@ -3581,7 +3577,6 @@ zipcode,storenumber,name,address,city,state,shortname
 21631,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21631,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21632,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
-21632,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21634,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21634,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21634,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
@@ -3610,7 +3605,6 @@ zipcode,storenumber,name,address,city,state,shortname
 21643,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21643,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21644,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
-21645,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21647,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21647,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21647,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
@@ -3681,7 +3675,6 @@ zipcode,storenumber,name,address,city,state,shortname
 21666,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21666,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21667,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
-21668,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21669,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21669,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
 21669,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
@@ -3849,7 +3842,6 @@ zipcode,storenumber,name,address,city,state,shortname
 21762,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21762,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21762,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
-21766,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21767,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 21767,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 21769,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
@@ -21067,6 +21059,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28103,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28104,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28104,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28104,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28104,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 28104,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
 28104,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
@@ -40162,19 +40155,20 @@ zipcode,storenumber,name,address,city,state,shortname
 31023,1540,Parkway Centre,378 Veterans Pkwy N,Moultrie,GA,Parkway Centre
 31023,1733,Eagles Corner Shopping Center,101 Tormenta Way,Statesboro,GA,Eagles Corner
 31023,853,Lake Oconee Village,6350 Lake Oconee Pkwy Ste 106,Greensboro,GA,Lake Oconee
+31024,2118,Town Center at Lake Oconee,105 Lake Country Blvd,Eatonton,GA,Lake Oconee
 31024,853,Lake Oconee Village,6350 Lake Oconee Pkwy Ste 106,Greensboro,GA,Lake Oconee
 31024,2003,Lakeside Commons,2775 N Columbia St,Milledgeville,GA,Lakeside Commons
 31024,1811,Covington Town Center,12701 Town Center Dr,Covington,GA,Covington Town Center
 31024,1263,Bass Plantation,5451 Bowman Rd,Macon,GA,Bass Plantation
-31024,744,Salem Road Station,13015 Brown Bridge Rd,Covington,GA,Salem Road Station
 31024,617,Butler's Crossing,2061 Experiment Station Rd,Watkinsville,GA,Butler's Crossing
+31024,744,Salem Road Station,13015 Brown Bridge Rd,Covington,GA,Salem Road Station
 31024,1736,Monroe Pavilion,900 Pavilion Pkwy,Monroe,GA,Monroe Pavilion
 31024,1725,Shoppes at Ola Crossroads,3479 Hwy 81 E,McDonough,GA,Ola Crossroads
 31024,1700,Publix at Tobesofkee Crossing,5581 Thomaston Rd,Macon,GA,Tobesofkee
-31024,2102,Shops at Indian Creek,4518 Hwy 42 S,Locust Grove,GA,Indian Creek
 31024,1146,Georgetown Square,1860 Barnett Shoals Rd,Athens,GA,Georgetown Square
-31024,1411,The Village at Millers Chapel,2159 Highway 20 SE,Conyers,GA,Miller's Chapel
+31024,2102,Shops at Indian Creek,4518 Hwy 42 S,Locust Grove,GA,Indian Creek
 31024,451,Athens Pointe Shopping Center,3620 Atlanta Hwy,Athens,GA,Athens Pointe
+31024,1411,The Village at Millers Chapel,2159 Highway 20 SE,Conyers,GA,Miller's Chapel
 31024,1118,Milstead Crossing,1591 Georgia Highway 20 NE,Conyers,GA,Milstead Crossing
 31025,1233,Paradise Shoppes of Perry,275 Perry Pkwy,Perry,GA,Perry
 31025,1008,Paradise Shoppes of Warner Robins,1114 Georgia Highway 96,Kathleen,GA,Warner Robins
@@ -57142,6 +57136,7 @@ zipcode,storenumber,name,address,city,state,shortname
 34222,1897,Bayshore Gardens Shopping Center,6030 14th St W,Bradenton,FL,Bayshore Gardens
 34222,1153,Lakewood Walk,11205 E State Road 70,Bradenton,FL,Lakewood Walk
 34223,737,Olde Village Publix,55 N Indiana Ave,Englewood,FL,Olde Village
+34223,2091,Merchants Crossing,"1500 Placida Rd, Ste C",Englewood,FL,Merchants Crossing
 34223,1683,West Villages Marketplace,12165 Mercado Dr,Venice,FL,West Villages
 34223,1769,Venice Village Shoppes,4173 S Tamiami Trl,Venice,FL,Venice Village
 34223,778,Publix at Gulf Cove,13435 S McCall Rd,Port Charlotte,FL,Gulf Cove
