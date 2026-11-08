@@ -12448,7 +12448,6 @@ zipcode,storenumber,name,address,city,state,shortname
 24089,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
 24089,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 24089,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-24090,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 24091,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 24091,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 24091,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
@@ -12594,7 +12593,6 @@ zipcode,storenumber,name,address,city,state,shortname
 24129,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 24129,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 24129,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
-24131,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 24132,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 24132,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 24132,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
@@ -15243,8 +15241,8 @@ zipcode,storenumber,name,address,city,state,shortname
 26851,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 26851,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 26851,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
-26852,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 26852,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
+26852,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 26865,1720,Embrey Mill Town Center,1640 Publix Way,Stafford,VA,Embrey Mill
 26865,1885,Chancellor Crossing,5940 Plank Rd,Fredericksburg,VA,Chancellor Crossing
 26865,1632,Publix at Cosner's Corner,9601 Patriot Hwy,Fredericksburg,VA,Cosner's Corner
@@ -15996,6 +15994,7 @@ zipcode,storenumber,name,address,city,state,shortname
 27209,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 27209,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
 27209,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
+27209,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 27209,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
 27209,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 27212,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
@@ -16067,6 +16066,7 @@ zipcode,storenumber,name,address,city,state,shortname
 27229,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 27229,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 27229,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
+27229,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 27229,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 27229,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 27229,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
@@ -16340,6 +16340,7 @@ zipcode,storenumber,name,address,city,state,shortname
 27281,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
 27281,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 27281,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
+27281,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 27281,1706,Church Street Commons,2750 S Church St,Burlington,NC,Church Street
 27282,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 27282,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
@@ -16526,6 +16527,7 @@ zipcode,storenumber,name,address,city,state,shortname
 27306,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 27306,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 27306,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
+27306,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 27306,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 27306,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 27306,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
@@ -16923,6 +16925,7 @@ zipcode,storenumber,name,address,city,state,shortname
 27371,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 27371,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 27371,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
+27371,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 27371,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 27376,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 27376,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
@@ -18796,8 +18799,8 @@ zipcode,storenumber,name,address,city,state,shortname
 27818,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 27818,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 27818,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
-27818,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
 27818,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+27818,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
 27818,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 27819,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27819,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
@@ -19225,15 +19228,15 @@ zipcode,storenumber,name,address,city,state,shortname
 27853,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27853,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 27853,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
-27853,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27853,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+27853,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27853,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
-27853,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 27853,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+27853,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 27853,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 27853,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
 27853,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
-27853,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+27853,1593,The Village Shopping Center,7035 Three Chopt Rd,Richmond,VA,The Village Center
 27855,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27855,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
 27855,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
@@ -19245,10 +19248,10 @@ zipcode,storenumber,name,address,city,state,shortname
 27855,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27855,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 27855,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+27855,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 27855,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
 27855,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
 27855,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
-27855,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 27856,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
 27856,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 27856,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
@@ -19327,8 +19330,8 @@ zipcode,storenumber,name,address,city,state,shortname
 27862,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 27862,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27862,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
-27862,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27862,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+27862,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27862,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 27862,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 27862,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
@@ -19813,7 +19816,6 @@ zipcode,storenumber,name,address,city,state,shortname
 27917,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
 27917,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 27917,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
-27917,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
 27919,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27919,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27919,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
@@ -19830,13 +19832,12 @@ zipcode,storenumber,name,address,city,state,shortname
 27920,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
 27921,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27921,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
-27921,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27921,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
+27921,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27921,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
 27921,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 27921,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27921,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
-27921,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 27922,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27922,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27922,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
@@ -19846,14 +19847,14 @@ zipcode,storenumber,name,address,city,state,shortname
 27922,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27922,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
 27922,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
-27922,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 27922,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
+27922,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 27922,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27922,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
-27922,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 27922,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
-27923,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
+27922,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 27923,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
+27923,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
 27923,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27923,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27923,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
@@ -19921,8 +19922,8 @@ zipcode,storenumber,name,address,city,state,shortname
 27929,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 27929,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27929,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
-27932,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27932,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
+27932,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27932,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27932,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27932,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
@@ -19942,9 +19943,9 @@ zipcode,storenumber,name,address,city,state,shortname
 27935,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 27935,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27935,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
-27935,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 27935,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
-27935,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+27935,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
+27935,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 27936,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27936,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 27936,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
@@ -19959,10 +19960,10 @@ zipcode,storenumber,name,address,city,state,shortname
 27937,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 27937,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 27937,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
-27937,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 27937,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
+27937,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 27937,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
-27937,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
+27937,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
 27938,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27938,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27938,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
@@ -19974,9 +19975,9 @@ zipcode,storenumber,name,address,city,state,shortname
 27938,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 27938,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 27938,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
+27938,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 27938,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 27938,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
-27938,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 27938,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
 27939,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27939,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
@@ -20005,17 +20006,17 @@ zipcode,storenumber,name,address,city,state,shortname
 27942,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 27942,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
 27942,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
-27942,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 27942,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
 27942,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
+27942,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 27943,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27943,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 27943,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
 27943,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27943,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
 27944,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
-27944,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27944,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
+27944,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27944,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
 27944,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
 27944,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
@@ -20059,12 +20060,11 @@ zipcode,storenumber,name,address,city,state,shortname
 27949,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 27950,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
 27950,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
-27950,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27950,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
+27950,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27950,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
 27950,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 27950,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
-27950,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27953,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27953,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
 27953,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
@@ -20111,12 +20111,12 @@ zipcode,storenumber,name,address,city,state,shortname
 27958,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
 27958,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27958,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+27958,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
 27959,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27959,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
 27959,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27959,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27959,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
-27959,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 27960,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 27960,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
 27960,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
@@ -20142,9 +20142,8 @@ zipcode,storenumber,name,address,city,state,shortname
 27964,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27964,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27964,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
-27964,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27964,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
-27964,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
+27964,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27965,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27965,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
 27965,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
@@ -20157,8 +20156,9 @@ zipcode,storenumber,name,address,city,state,shortname
 27966,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27966,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27966,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
-27966,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
 27966,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
+27966,1635,Monticello Marketplace,4660 Monticello Ave,Williamsburg,VA,Monticello Mktplace
+27966,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 27967,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27967,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27967,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
@@ -20177,8 +20177,8 @@ zipcode,storenumber,name,address,city,state,shortname
 27968,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27968,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
 27968,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
-27968,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27968,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
+27968,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27969,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27969,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
 27969,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
@@ -20234,16 +20234,15 @@ zipcode,storenumber,name,address,city,state,shortname
 27976,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27976,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 27976,1626,Brandy Creek Commons,6603 Mechanicsville Tpke,Mechanicsville,VA,Brandy Creek Comm
-27976,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
 27976,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
-27976,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
+27976,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
 27976,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
-27976,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+27976,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27978,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27978,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
 27978,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
-27978,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27978,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
+27978,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
 27978,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 27978,2025,Bartlett Station,22449 Spadea Way,Carrollton,VA,Bartlett Station
 27979,1883,Publix at Planters Station,3189 Godwin Blvd,Suffolk,VA,Publix at Planters Station
@@ -20272,7 +20271,6 @@ zipcode,storenumber,name,address,city,state,shortname
 27980,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 27980,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
 27980,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
-27980,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27981,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27981,2030,Hickman Place,2200 General Booth Blvd,Virginia Beach,VA,Hickman Place
 27981,2032,Dominion Station,1620 Cedar Rd Ste 100,Chesapeake,VA,Dominion Station
@@ -20317,12 +20315,12 @@ zipcode,storenumber,name,address,city,state,shortname
 27986,1594,Colonial Square Shopping Center,3007 Boulevard,Colonial Heights,VA,Colonial Square
 27986,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 27986,1592,Harbour Pointe Shopping Center,13700 Hull Street Rd,Midlothian,VA,Harbour Pointe Plz
-27986,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27986,1596,White Oak Village,4591 S Laburnum Ave,Richmond,VA,White Oak Village
+27986,1643,Cosby Village,7200 Cosby Village Rd,Chesterfield,VA,Cosby Village
 27986,1636,The Shops at Stratford Hills,7045 Forest Hill Ave,Richmond,VA,Stratford Hills
-27986,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
 27986,1588,Carytown Exchange,3535 Ellwood Ave,Richmond,VA,Carytown Exchange
 27986,1679,Huguenot Village,2015 Huguenot Rd,North Chesterfield,VA,Huguenot Village
+27986,1694,Charter Colony Shopping Center,200 Charter Colony Pkwy,Midlothian,VA,Charter Colony
 28001,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28001,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28001,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
@@ -20332,6 +20330,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28001,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28001,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28001,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
+28001,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28001,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 28001,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28001,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
@@ -20356,6 +20355,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28007,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28007,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28007,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
+28007,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28007,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28007,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28007,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
@@ -20380,6 +20380,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28009,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 28009,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28009,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
+28009,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28012,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28012,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28012,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
@@ -20419,9 +20420,9 @@ zipcode,storenumber,name,address,city,state,shortname
 28017,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
 28017,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28017,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
-28017,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28017,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
 28017,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
+28017,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28017,1485,Cherry Road Crossing,2186 Cherry Rd Ste 101,Rock Hill,SC,Cherry Road Cr
 28017,35,Five Forks Place,2700 Woodruff Rd,Simpsonville,SC,Five Forks Place
 28017,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
@@ -20429,12 +20430,12 @@ zipcode,storenumber,name,address,city,state,shortname
 28018,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28018,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
 28018,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
-28018,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28018,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
-28018,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
+28018,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28018,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
-28018,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28018,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28018,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28018,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28018,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28018,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28018,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
@@ -20447,42 +20448,42 @@ zipcode,storenumber,name,address,city,state,shortname
 28019,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
 28019,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
 28019,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
-28019,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28019,35,Five Forks Place,2700 Woodruff Rd,Simpsonville,SC,Five Forks Place
+28019,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28019,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
 28019,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28019,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28019,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28019,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
-28019,1012,Mauldin Square,111 W Butler Rd,Mauldin,SC,Mauldin Square
+28019,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28020,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28020,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28020,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28020,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28020,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
 28020,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
-28020,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28020,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
+28020,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28020,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28020,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28020,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28020,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+28020,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28020,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28020,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28020,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28021,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28021,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28021,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
-28021,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28021,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28021,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28021,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28021,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28021,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28021,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28021,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28021,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
-28021,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
 28021,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28021,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
 28021,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28021,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28023,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
@@ -20564,17 +20565,17 @@ zipcode,storenumber,name,address,city,state,shortname
 28033,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28033,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28033,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
-28033,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28033,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
+28033,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28033,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28033,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28033,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28033,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
-28033,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28033,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28033,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28033,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
-28033,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
 28033,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
+28033,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
 28034,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28034,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28034,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
@@ -20645,8 +20646,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28040,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28040,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28040,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
-28040,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28040,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
+28040,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28040,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28040,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28040,35,Five Forks Place,2700 Woodruff Rd,Simpsonville,SC,Five Forks Place
@@ -20661,8 +20662,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28043,35,Five Forks Place,2700 Woodruff Rd,Simpsonville,SC,Five Forks Place
 28043,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28043,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
-28043,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28043,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
+28043,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28043,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
 28043,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
 28052,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
@@ -20745,16 +20746,16 @@ zipcode,storenumber,name,address,city,state,shortname
 28073,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
 28073,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28073,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
-28073,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
-28073,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
 28073,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28073,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
+28073,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28073,1485,Cherry Road Crossing,2186 Cherry Rd Ste 101,Rock Hill,SC,Cherry Road Cr
 28073,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28073,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
+28073,2017,Publix at Quail Commons,11525 Carmel Commons Blvd,Charlotte,NC,Quail Commons
 28073,1442,Ballantyne Town Center,11222 Providence Rd W,Charlotte,NC,Ballantyne Twn Ctr
-28073,2017,Publix At Quail Commons,11525 Carmel Commons Blvd,Charlotte,NC,Quail Commons
 28073,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28073,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
+28073,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28075,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28075,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28075,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
@@ -20781,9 +20782,9 @@ zipcode,storenumber,name,address,city,state,shortname
 28076,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28076,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
 28076,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
+28076,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28076,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
 28076,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
-28076,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28076,1012,Mauldin Square,111 W Butler Rd,Mauldin,SC,Mauldin Square
 28077,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28077,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
@@ -20792,11 +20793,11 @@ zipcode,storenumber,name,address,city,state,shortname
 28077,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28077,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28077,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28077,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28077,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28077,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
-28077,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
+28077,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28077,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
+28077,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
+28077,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28077,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28077,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28077,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
@@ -20819,6 +20820,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28079,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28079,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28079,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
+28079,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28079,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 28079,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28079,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
@@ -20912,13 +20914,13 @@ zipcode,storenumber,name,address,city,state,shortname
 28089,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28089,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28089,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
-28089,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
 28089,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28089,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
 28089,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28089,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
-28089,1485,Cherry Road Crossing,2186 Cherry Rd Ste 101,Rock Hill,SC,Cherry Road Cr
-28089,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28089,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
+28089,1485,Cherry Road Crossing,2186 Cherry Rd Ste 101,Rock Hill,SC,Cherry Road Cr
+28089,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
 28090,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28090,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28090,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
@@ -20926,15 +20928,16 @@ zipcode,storenumber,name,address,city,state,shortname
 28090,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28090,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
 28090,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28090,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28090,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
-28090,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
+28090,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28090,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
+28090,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28090,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
+28090,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28090,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28090,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
-28090,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28091,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28091,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28091,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28091,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28091,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
@@ -20956,12 +20959,12 @@ zipcode,storenumber,name,address,city,state,shortname
 28092,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28092,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28092,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28092,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28092,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
+28092,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28092,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28092,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
-28092,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28092,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
+28092,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28092,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28097,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28097,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
@@ -20973,6 +20976,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28097,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28097,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28097,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
+28097,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28097,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28097,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28097,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
@@ -21008,6 +21012,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28101,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 28101,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28102,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28102,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28102,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28102,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28102,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
@@ -21021,6 +21026,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28102,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28102,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28103,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28103,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28103,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28103,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28103,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
@@ -21056,6 +21062,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28105,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28105,2017,Publix at Quail Commons,11525 Carmel Commons Blvd,Charlotte,NC,Quail Commons
 28105,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
+28105,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28105,1442,Ballantyne Town Center,11222 Providence Rd W,Charlotte,NC,Ballantyne Twn Ctr
 28105,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
 28105,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
@@ -21073,10 +21080,12 @@ zipcode,storenumber,name,address,city,state,shortname
 28107,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28107,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 28107,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
+28107,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28107,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28107,2017,Publix at Quail Commons,11525 Carmel Commons Blvd,Charlotte,NC,Quail Commons
 28107,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28107,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
+28108,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28108,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
 28108,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28108,1412,Cross Creek,8360 Charlotte Hwy,Indian Land,SC,Cross Creek
@@ -21108,6 +21117,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28109,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28110,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28110,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
+28110,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28110,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28110,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28110,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
@@ -21120,6 +21130,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28110,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28110,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28110,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
+28112,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28112,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28112,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
 28112,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
@@ -21138,17 +21149,17 @@ zipcode,storenumber,name,address,city,state,shortname
 28114,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
 28114,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28114,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
-28114,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28114,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
-28114,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
+28114,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28114,35,Five Forks Place,2700 Woodruff Rd,Simpsonville,SC,Five Forks Place
+28114,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28114,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
 28114,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
 28114,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28114,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
 28114,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
-28114,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
 28114,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28114,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
 28115,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28115,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28115,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
@@ -21180,6 +21191,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28117,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28117,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28119,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28119,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28119,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28119,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28119,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
@@ -21258,6 +21270,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28128,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28128,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28128,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
+28128,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28128,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 28128,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28128,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
@@ -21272,6 +21285,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28129,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28129,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28129,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
+28129,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28129,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28129,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 28129,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
@@ -21281,6 +21295,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28129,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28129,1442,Ballantyne Town Center,11222 Providence Rd W,Charlotte,NC,Ballantyne Twn Ctr
 28133,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28133,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28133,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
 28133,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28133,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
@@ -21307,9 +21322,11 @@ zipcode,storenumber,name,address,city,state,shortname
 28134,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
 28134,1485,Cherry Road Crossing,2186 Cherry Rd Ste 101,Rock Hill,SC,Cherry Road Cr
 28134,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
+28134,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28134,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
 28135,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28135,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
+28135,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28135,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28135,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28135,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
@@ -21355,11 +21372,11 @@ zipcode,storenumber,name,address,city,state,shortname
 28139,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
 28139,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
 28139,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
+28139,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28139,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28139,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
-28139,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
-28139,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28139,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
+28139,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28139,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28139,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
 28139,35,Five Forks Place,2700 Woodruff Rd,Simpsonville,SC,Five Forks Place
@@ -21413,30 +21430,30 @@ zipcode,storenumber,name,address,city,state,shortname
 28147,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28147,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28150,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
-28150,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
 28150,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28150,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
 28150,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28150,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28150,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
-28150,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28150,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28150,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28150,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
-28150,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28150,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28150,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
 28150,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
+28150,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
+28150,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
+28150,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28150,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28150,1485,Cherry Road Crossing,2186 Cherry Rd Ste 101,Rock Hill,SC,Cherry Road Cr
 28152,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
 28152,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28152,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
 28152,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
-28152,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28152,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28152,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
+28152,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28152,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
-28152,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28152,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
+28152,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28152,1485,Cherry Road Crossing,2186 Cherry Rd Ste 101,Rock Hill,SC,Cherry Road Cr
 28152,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28152,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
@@ -21463,21 +21480,22 @@ zipcode,storenumber,name,address,city,state,shortname
 28160,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28160,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28160,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
-28160,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28160,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
-28160,35,Five Forks Place,2700 Woodruff Rd,Simpsonville,SC,Five Forks Place
-28160,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
+28160,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28160,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
+28160,35,Five Forks Place,2700 Woodruff Rd,Simpsonville,SC,Five Forks Place
 28160,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
+28160,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
 28160,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28160,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28160,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
-28160,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
 28163,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28163,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28163,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28163,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28163,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28163,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
+28163,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28163,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28163,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
 28163,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
@@ -21516,9 +21534,9 @@ zipcode,storenumber,name,address,city,state,shortname
 28166,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28166,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28166,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
-28167,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
-28167,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
 28167,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28167,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28167,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28167,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28167,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28167,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
@@ -21526,22 +21544,22 @@ zipcode,storenumber,name,address,city,state,shortname
 28167,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28167,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28167,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
-28167,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28167,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
-28167,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
-28167,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
+28167,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28167,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
+28167,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+28167,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
 28168,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
-28168,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28168,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28168,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28168,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28168,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28168,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28168,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28168,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
-28168,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
-28168,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28168,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28168,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
+28168,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28168,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28168,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28168,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
@@ -21549,19 +21567,20 @@ zipcode,storenumber,name,address,city,state,shortname
 28169,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28169,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28169,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
-28169,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28169,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28169,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28169,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28169,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28169,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28169,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
+28169,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28169,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
 28169,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
-28169,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
 28169,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28169,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
+28169,1482,Wedgewood Square Shopping Center,1735 Heckle Blvd,Rock Hill,SC,Wedgewood Square
 28169,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28169,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28170,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28170,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28170,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28170,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28170,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
@@ -21576,6 +21595,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28170,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28170,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28173,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
+28173,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28173,1412,Cross Creek,8360 Charlotte Hwy,Indian Land,SC,Cross Creek
 28173,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28173,1442,Ballantyne Town Center,11222 Providence Rd W,Charlotte,NC,Ballantyne Twn Ctr
@@ -21590,6 +21610,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28173,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28173,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28174,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28174,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28174,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28174,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28174,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
@@ -21736,6 +21757,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28210,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28210,1412,Cross Creek,8360 Charlotte Hwy,Indian Land,SC,Cross Creek
 28210,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
+28210,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28210,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28211,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28211,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
@@ -21750,6 +21772,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28211,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
 28211,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28211,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
+28211,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28211,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28212,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28212,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
@@ -21763,6 +21786,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28212,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28212,1442,Ballantyne Town Center,11222 Providence Rd W,Charlotte,NC,Ballantyne Twn Ctr
 28212,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
+28212,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28212,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
 28212,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28213,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
@@ -21851,6 +21875,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28226,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
 28226,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
 28226,1412,Cross Creek,8360 Charlotte Hwy,Indian Land,SC,Cross Creek
+28226,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28226,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28226,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28226,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
@@ -21863,6 +21888,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28227,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28227,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28227,2017,Publix at Quail Commons,11525 Carmel Commons Blvd,Charlotte,NC,Quail Commons
+28227,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28227,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28227,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28227,1442,Ballantyne Town Center,11222 Providence Rd W,Charlotte,NC,Ballantyne Twn Ctr
@@ -21922,6 +21948,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28270,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
 28270,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28270,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
+28270,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28270,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28270,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28270,1412,Cross Creek,8360 Charlotte Hwy,Indian Land,SC,Cross Creek
@@ -21948,6 +21975,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28277,1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,Marvin Gardens
 28277,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28277,1412,Cross Creek,8360 Charlotte Hwy,Indian Land,SC,Cross Creek
+28277,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28277,1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,Gold Hill
 28277,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28277,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
@@ -22287,6 +22315,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28328,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
 28330,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28330,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28330,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28330,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28330,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28330,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
@@ -22364,6 +22393,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28338,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28338,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28338,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
+28338,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28338,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28338,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28338,1824,Publix at Arboretum Park,7933 Providence Rd,Charlotte,NC,Arboretum Park
@@ -22434,6 +22464,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28343,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28343,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28343,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28343,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28343,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28343,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28343,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
@@ -22462,6 +22493,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28345,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28345,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28345,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28345,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28345,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28345,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28345,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
@@ -22480,6 +22512,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28347,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
 28347,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28347,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
+28347,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28347,1552,Amberly Place,425 Emissary Dr,Cary,NC,Amberly Place
 28347,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
 28347,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
@@ -22533,6 +22566,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28351,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28351,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28351,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28351,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28351,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28351,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28351,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
@@ -22546,6 +22580,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28352,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28352,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28352,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28352,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28352,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28352,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28352,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
@@ -22633,6 +22668,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28363,1544,Publix Pointe,1441 Kelly Rd,Apex,NC,Publix Pointe
 28363,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28363,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
+28363,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28363,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
 28363,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28363,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
@@ -22691,6 +22727,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28367,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28367,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28367,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
+28367,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28367,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28367,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 28367,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
