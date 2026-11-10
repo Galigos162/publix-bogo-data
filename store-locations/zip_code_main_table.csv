@@ -22880,6 +22880,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28379,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28379,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28379,1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,Hanfield Village
+28379,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28379,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28379,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28379,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
@@ -23078,6 +23079,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28396,1881,Clear Creek Crossings,12925 Albemarle Rd,Charlotte,NC,Clear Creek
 28396,1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,Mint Hill Commons
 28396,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+28396,2120,Village Commons,6460 Weddington Rd,Wesley Chapel,NC,Village Commons
 28396,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28396,1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,McKee Farms
 28398,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
@@ -24492,17 +24494,18 @@ zipcode,storenumber,name,address,city,state,shortname
 28573,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 28573,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
 28573,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
-28573,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 28573,1619,Arboretum at Surf City,2765 NC Hwy 210 E,Hampstead,NC,Arboretum/Surf City
+28573,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 28573,1580,Ogden Market Place,7144 Market St,Wilmington,NC,Ogden Market Place
 28573,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
 28573,1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,Publix Comm/Fed Pt
 28573,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 28573,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
-28573,1703,Oak Island Marketplace,5003 E Oak Island Dr,Oak Island,NC,Oak Island Mktpl
 28573,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
+28573,1703,Oak Island Marketplace,5003 E Oak Island Dr,Oak Island,NC,Oak Island Mktpl
 28573,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
 28573,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+28573,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28574,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
 28574,1619,Arboretum at Surf City,2765 NC Hwy 210 E,Hampstead,NC,Arboretum/Surf City
 28574,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
@@ -24519,19 +24522,19 @@ zipcode,storenumber,name,address,city,state,shortname
 28574,2101,Rockfish Village,7465 Rockfish Rd,Fayetteville,NC,Rockfish Village
 28574,1631,Ocean Isle Beach Market Place,1560 Market Place Blvd,Ocean Isle Beach,NC,Ocean Isle Beach
 28575,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
-28575,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 28575,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
+28575,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 28575,1619,Arboretum at Surf City,2765 NC Hwy 210 E,Hampstead,NC,Arboretum/Surf City
 28575,1580,Ogden Market Place,7144 Market St,Wilmington,NC,Ogden Market Place
-28575,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 28575,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
+28575,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 28575,1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,Publix Comm/Fed Pt
 28575,1703,Oak Island Marketplace,5003 E Oak Island Dr,Oak Island,NC,Oak Island Mktpl
 28577,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
 28577,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 28577,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
-28577,1619,Arboretum at Surf City,2765 NC Hwy 210 E,Hampstead,NC,Arboretum/Surf City
 28577,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
+28577,1619,Arboretum at Surf City,2765 NC Hwy 210 E,Hampstead,NC,Arboretum/Surf City
 28577,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 28577,1580,Ogden Market Place,7144 Market St,Wilmington,NC,Ogden Market Place
 28577,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
@@ -24569,11 +24572,11 @@ zipcode,storenumber,name,address,city,state,shortname
 28580,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
 28580,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 28580,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
-28580,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
 28580,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
+28580,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
 28580,1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,Leesville Market Place
-28580,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
 28580,1619,Arboretum at Surf City,2765 NC Hwy 210 E,Hampstead,NC,Arboretum/Surf City
+28580,1466,Bradford,1020 Bradford Plaza Way,Cary,NC,Bradford Plaza
 28581,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
 28581,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 28581,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
@@ -24594,7 +24597,6 @@ zipcode,storenumber,name,address,city,state,shortname
 28582,1703,Oak Island Marketplace,5003 E Oak Island Dr,Oak Island,NC,Oak Island Mktpl
 28582,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 28582,1631,Ocean Isle Beach Market Place,1560 Market Place Blvd,Ocean Isle Beach,NC,Ocean Isle Beach
-28582,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
 28583,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 28583,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
 28583,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
@@ -24614,23 +24616,23 @@ zipcode,storenumber,name,address,city,state,shortname
 28584,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 28584,1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,Publix Comm/Fed Pt
 28584,1703,Oak Island Marketplace,5003 E Oak Island Dr,Oak Island,NC,Oak Island Mktpl
-28584,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 28584,1631,Ocean Isle Beach Market Place,1560 Market Place Blvd,Ocean Isle Beach,NC,Ocean Isle Beach
-28585,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
+28584,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 28585,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
-28585,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
+28585,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 28585,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
+28585,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 28585,1619,Arboretum at Surf City,2765 NC Hwy 210 E,Hampstead,NC,Arboretum/Surf City
 28585,1580,Ogden Market Place,7144 Market St,Wilmington,NC,Ogden Market Place
-28585,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 28585,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
-28585,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
+28585,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 28585,1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,Publix Comm/Fed Pt
+28585,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
 28585,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
 28585,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
 28585,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
+28585,1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,Tallywood S/C
 28585,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
-28585,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
 28586,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 28586,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 28586,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
@@ -24640,11 +24642,11 @@ zipcode,storenumber,name,address,city,state,shortname
 28586,1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,Wendell Falls
 28586,1580,Ogden Market Place,7144 Market St,Wilmington,NC,Ogden Market Place
 28586,2031,Middle Creek Crossings,16100 NC Hwy 50 N,Garner,NC,Middle Creek
-28586,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
 28586,1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,Buffaloe Bend
+28586,1855,Wallbrook,821 S Main Street,Rolesville,NC,Wallbrook
 28586,1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,Heritage Village
-28586,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
 28586,1652,Peace,417 W Peace St Ste 100,Raleigh,NC,Peace Street
+28586,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
 28586,1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,Millpond Village
 28587,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 28587,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
@@ -24654,7 +24656,6 @@ zipcode,storenumber,name,address,city,state,shortname
 28587,1615,Publix at First Flight Square,1530 N Croatan Hwy,Kill Devil Hills,NC,First Flight Sq
 28587,1580,Ogden Market Place,7144 Market St,Wilmington,NC,Ogden Market Place
 28587,1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,Pine Valley
-28587,1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,Flowers Crossroads
 28589,1623,Egret Landing,8800 Crew Drive,Emerald Isle,NC,Egret Landing
 28589,1533,River Place,2004 S Glenburnie Rd,New Bern,NC,River Place
 28589,1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,Gateway Marketplace
@@ -24688,7 +24689,6 @@ zipcode,storenumber,name,address,city,state,shortname
 28594,1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,Greenville Square
 28594,1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,Publix Comm/Fed Pt
 28594,1703,Oak Island Marketplace,5003 E Oak Island Dr,Oak Island,NC,Oak Island Mktpl
-28594,1631,Ocean Isle Beach Market Place,1560 Market Place Blvd,Ocean Isle Beach,NC,Ocean Isle Beach
 28601,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28601,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28601,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
@@ -24710,22 +24710,22 @@ zipcode,storenumber,name,address,city,state,shortname
 28602,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28602,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28602,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28602,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28602,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
+28602,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28602,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28602,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28602,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28602,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28602,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
-28602,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28602,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
+28602,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28604,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28604,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28604,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28604,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28604,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
-28604,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28604,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28604,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28604,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28604,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28604,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
@@ -24748,7 +24748,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28605,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28605,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28605,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28605,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28605,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28606,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28606,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28606,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
@@ -24757,13 +24757,13 @@ zipcode,storenumber,name,address,city,state,shortname
 28606,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28606,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28606,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28606,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28606,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28606,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28606,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28606,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28606,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
+28606,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28606,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
-28606,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28607,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28607,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28607,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
@@ -24776,18 +24776,18 @@ zipcode,storenumber,name,address,city,state,shortname
 28607,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28607,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28607,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
-28607,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28607,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28607,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28607,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28609,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28609,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28609,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
-28609,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28609,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
-28609,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28609,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
-28609,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
+28609,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
+28609,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28609,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28609,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28609,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28609,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28609,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
@@ -24801,11 +24801,11 @@ zipcode,storenumber,name,address,city,state,shortname
 28610,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28610,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28610,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
-28610,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28610,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28610,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28610,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
-28610,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28610,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
+28610,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28610,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28610,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28610,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
@@ -24818,18 +24818,18 @@ zipcode,storenumber,name,address,city,state,shortname
 28611,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28611,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28611,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
-28611,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28611,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+28611,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28611,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28611,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28611,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
-28611,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
+28611,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28612,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28612,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28612,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28612,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
-28612,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28612,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
+28612,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28612,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28612,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28612,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
@@ -24853,7 +24853,7 @@ zipcode,storenumber,name,address,city,state,shortname
 28613,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28613,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28613,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
-28613,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
+28613,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28615,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28615,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28615,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
@@ -24873,15 +24873,15 @@ zipcode,storenumber,name,address,city,state,shortname
 28616,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28616,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28616,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
-28616,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28616,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28616,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28616,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28616,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
 28616,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28616,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28616,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
-28616,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28616,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28616,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28616,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28616,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28617,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
@@ -24894,24 +24894,24 @@ zipcode,storenumber,name,address,city,state,shortname
 28617,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28617,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28617,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
-28617,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28617,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28617,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28617,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28617,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28617,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
+28617,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28618,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28618,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28618,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28618,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28618,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28618,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28618,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28618,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28618,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28618,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28618,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28618,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
-28618,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28618,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28618,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28618,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28618,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28619,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
@@ -24922,38 +24922,38 @@ zipcode,storenumber,name,address,city,state,shortname
 28619,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28619,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28619,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
-28619,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28619,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
+28619,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28619,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28619,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
-28619,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28619,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28619,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
+28619,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28619,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
-28621,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28621,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28621,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
-28621,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
-28621,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28621,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
-28621,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
-28621,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28621,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
-28621,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
+28621,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
+28621,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28621,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
-28621,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
-28621,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28621,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
+28621,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
+28621,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28621,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+28621,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28621,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
+28621,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
+28621,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28621,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28621,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28622,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28622,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28622,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28622,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28622,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28622,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
-28622,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28622,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
-28622,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28622,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28622,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28622,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28622,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28622,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28622,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
@@ -24962,8 +24962,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28623,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28623,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28623,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
-28623,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28623,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+28623,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28623,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28623,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 28623,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
@@ -24979,16 +24979,16 @@ zipcode,storenumber,name,address,city,state,shortname
 28624,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28624,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28624,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28624,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28624,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28624,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28624,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28624,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
+28624,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28624,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28624,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28624,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28624,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
-28624,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28624,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
+28624,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28625,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28625,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28625,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
@@ -24996,12 +24996,12 @@ zipcode,storenumber,name,address,city,state,shortname
 28625,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28625,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28625,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28625,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28625,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28625,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28625,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28625,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
-28625,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28625,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
+28625,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28625,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28625,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28626,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
@@ -25010,19 +25010,19 @@ zipcode,storenumber,name,address,city,state,shortname
 28626,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28626,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28626,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28626,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28626,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
-28626,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28626,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+28626,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28626,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28626,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28626,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28626,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28626,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28626,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28626,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+28626,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28627,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28627,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
-28627,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28627,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
+28627,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28627,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28627,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28627,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
@@ -25046,28 +25046,28 @@ zipcode,storenumber,name,address,city,state,shortname
 28628,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28628,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28628,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28628,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28628,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
+28628,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28628,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
 28629,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28629,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28629,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
-28629,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28629,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28629,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+28629,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28629,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28629,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28629,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28629,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
-28629,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
+28629,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28629,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28629,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28629,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28629,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28629,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28630,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28630,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
-28630,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28630,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28630,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28630,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28630,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28630,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
@@ -25077,8 +25077,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28630,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28630,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28630,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
-28630,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28630,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
+28630,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28631,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28631,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28631,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
@@ -25098,14 +25098,14 @@ zipcode,storenumber,name,address,city,state,shortname
 28634,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28634,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28634,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28634,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28634,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+28634,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28634,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
-28634,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28634,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28634,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28634,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28634,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28634,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28634,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28634,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28634,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 28634,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
@@ -25114,8 +25114,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28635,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28635,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28635,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
-28635,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28635,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+28635,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28635,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28635,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28635,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
@@ -25132,9 +25132,9 @@ zipcode,storenumber,name,address,city,state,shortname
 28636,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28636,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28636,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28636,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28636,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28636,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+28636,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
+28636,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28636,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28636,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28636,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
@@ -25147,13 +25147,13 @@ zipcode,storenumber,name,address,city,state,shortname
 28637,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28637,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28637,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
-28637,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28637,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
+28637,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28637,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28637,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28637,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28637,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
-28637,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
+28637,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28638,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28638,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28638,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
@@ -25163,8 +25163,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28638,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28638,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28638,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28638,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28638,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28638,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28638,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28638,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28638,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
@@ -25173,14 +25173,14 @@ zipcode,storenumber,name,address,city,state,shortname
 28640,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28640,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28640,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
-28640,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28640,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+28640,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28640,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28640,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28640,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28640,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
-28640,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28640,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28640,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28640,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28640,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28640,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
@@ -25205,10 +25205,10 @@ zipcode,storenumber,name,address,city,state,shortname
 28642,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28642,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28642,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28642,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28642,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
-28642,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
+28642,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28642,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+28642,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 28642,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28642,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 28642,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
@@ -25219,15 +25219,15 @@ zipcode,storenumber,name,address,city,state,shortname
 28643,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28643,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28643,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
-28643,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28643,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28643,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28643,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28643,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28643,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28643,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
-28643,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28643,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28643,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28643,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28643,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28643,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28644,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28644,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
@@ -25256,9 +25256,9 @@ zipcode,storenumber,name,address,city,state,shortname
 28645,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28645,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28645,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
-28645,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28645,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
-28645,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
+28645,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28645,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28646,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28646,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28646,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
@@ -25290,20 +25290,20 @@ zipcode,storenumber,name,address,city,state,shortname
 28647,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28647,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
 28649,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
-28649,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28649,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28649,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28649,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28649,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28649,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
-28649,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28649,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+28649,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28649,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28649,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28649,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28649,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28649,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28649,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28649,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
+28649,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28650,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28650,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28650,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
@@ -25323,14 +25323,14 @@ zipcode,storenumber,name,address,city,state,shortname
 28651,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28651,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28651,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
-28651,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28651,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+28651,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28651,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28651,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28651,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28651,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
-28651,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28651,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28651,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28651,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28651,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28651,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
@@ -25345,9 +25345,9 @@ zipcode,storenumber,name,address,city,state,shortname
 28652,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28652,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28652,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
-28652,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28652,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28652,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28652,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28652,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28652,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28653,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28653,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
@@ -25370,8 +25370,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28654,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28654,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28654,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
-28654,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28654,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
+28654,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28654,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28654,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28654,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
@@ -25390,9 +25390,9 @@ zipcode,storenumber,name,address,city,state,shortname
 28655,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28655,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28655,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
-28655,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28655,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28655,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28655,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28655,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28657,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28657,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
@@ -25415,45 +25415,45 @@ zipcode,storenumber,name,address,city,state,shortname
 28658,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28658,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28658,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
-28658,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28658,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
+28658,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28658,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28658,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28658,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
-28658,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28658,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
+28658,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28658,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28658,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
+28659,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28659,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28659,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
-28659,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+28659,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+28659,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28659,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28659,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28659,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
-28659,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+28659,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28659,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28659,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28659,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28659,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28659,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28659,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28659,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28659,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28660,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
-28660,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28660,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
-28660,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
+28660,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28660,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28660,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28660,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28660,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
-28660,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28660,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+28660,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28660,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28660,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28660,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28660,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28660,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
-28660,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
+28660,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
 28662,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28662,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28662,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
@@ -25462,8 +25462,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28662,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28662,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28662,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
-28662,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28662,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28662,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28662,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28662,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28662,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
@@ -25507,19 +25507,19 @@ zipcode,storenumber,name,address,city,state,shortname
 28665,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28665,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28665,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
-28665,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28665,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28665,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28665,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28665,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28665,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28665,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+28665,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28665,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28666,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28666,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28666,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
-28666,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28666,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28666,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
+28666,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28666,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28666,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28666,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
@@ -25527,8 +25527,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28666,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28666,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28666,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
-28666,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28666,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
+28666,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28667,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28667,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28667,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
@@ -25538,32 +25538,32 @@ zipcode,storenumber,name,address,city,state,shortname
 28667,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28667,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28667,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28667,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28667,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28667,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28667,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28667,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
-28667,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28667,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
-28668,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
+28667,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28668,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
-28668,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
+28668,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28668,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
+28668,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28668,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28668,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
-28668,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28668,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28668,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28668,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28668,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 28668,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28668,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28668,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
+28668,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28668,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28668,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28669,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28669,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28669,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
-28669,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28669,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28669,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28669,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28669,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28669,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
@@ -25573,15 +25573,15 @@ zipcode,storenumber,name,address,city,state,shortname
 28669,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28669,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 28669,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28669,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
+28669,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28670,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
-28670,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28670,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+28670,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28670,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28670,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
-28670,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28670,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28670,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28670,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28670,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28670,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28670,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
@@ -25592,18 +25592,18 @@ zipcode,storenumber,name,address,city,state,shortname
 28671,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28671,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28671,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
-28671,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28671,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28671,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28671,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28671,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28671,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28671,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
+28671,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28671,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28671,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28671,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28671,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28671,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
-28671,1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,Steele Creek Cr
+28671,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
 28672,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28672,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28672,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
@@ -25622,33 +25622,33 @@ zipcode,storenumber,name,address,city,state,shortname
 28673,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28673,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28673,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28673,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28673,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28673,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28673,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
-28673,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28673,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28673,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28673,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28673,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
+28673,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28673,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28673,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
-28673,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28673,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
+28673,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28673,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28675,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28675,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28675,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
-28675,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28675,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28675,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28675,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28675,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28675,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28675,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28675,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
-28675,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28675,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
+28675,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28675,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28675,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28675,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
+28675,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 28676,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28676,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28676,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
@@ -25656,8 +25656,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28676,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28676,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28676,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28676,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 28676,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28676,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 28676,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28676,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 28676,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
@@ -25665,19 +25665,19 @@ zipcode,storenumber,name,address,city,state,shortname
 28676,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28676,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28677,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
-28677,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28677,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28677,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28677,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28677,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28677,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28677,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
-28677,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28677,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28677,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28677,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28677,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28677,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
-28677,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28677,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
+28677,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28677,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28678,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28678,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
@@ -25691,9 +25691,9 @@ zipcode,storenumber,name,address,city,state,shortname
 28678,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28678,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28678,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
+28678,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28678,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
 28678,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
-28678,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28679,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28679,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28679,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
@@ -25727,8 +25727,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28682,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28682,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28682,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28682,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28682,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
+28682,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28682,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28682,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28682,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
@@ -25736,8 +25736,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28682,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28682,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28682,1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,Harris Square
-28682,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28682,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
+28682,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28682,1518,Cotswold,4425 Randolph Rd,Charlotte,NC,Cotswold
 28683,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28683,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
@@ -25745,14 +25745,14 @@ zipcode,storenumber,name,address,city,state,shortname
 28683,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28683,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28683,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
-28683,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28683,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28683,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28683,1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,Westchester Square
 28683,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28683,1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,Grandover Village
 28683,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28683,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28683,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
+28683,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28683,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28684,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28684,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
@@ -25762,12 +25762,12 @@ zipcode,storenumber,name,address,city,state,shortname
 28684,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28684,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28684,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
-28684,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28684,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
-28684,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
+28684,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28684,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+28684,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28684,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28684,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
+28684,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28684,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28685,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28685,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
@@ -25788,8 +25788,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28689,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28689,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28689,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
-28689,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28689,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+28689,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28689,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28689,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
 28689,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
@@ -25797,8 +25797,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28689,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28689,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28689,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
-28689,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28689,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
+28689,1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,Willow Oaks Cr
 28690,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28690,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28690,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
@@ -25807,39 +25807,39 @@ zipcode,storenumber,name,address,city,state,shortname
 28690,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28690,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28690,1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,Hoffman Village
-28690,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28690,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
+28690,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28690,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28690,1486,Landing Station,158 Highway 274,Lake Wylie,SC,Landing Station
 28690,1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,Prosperity Vlg Sq
 28690,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
-28690,1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,Whitehall Commons
+28690,1453,Shops at Southline,2222 South Blvd,Charlotte,NC,Shops at Southline
 28692,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28692,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28692,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28692,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28692,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28692,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
-28692,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28692,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28692,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28692,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
-28692,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28692,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
-28692,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
-28692,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
+28692,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28692,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
-28692,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
+28692,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
+28692,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
+28692,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28693,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28693,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28693,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28693,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28693,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
-28693,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28693,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
-28693,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
+28693,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28693,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
-28693,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
+28693,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28693,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
+28693,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28693,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28693,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28693,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
@@ -25849,9 +25849,9 @@ zipcode,storenumber,name,address,city,state,shortname
 28694,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28694,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28694,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
+28694,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28694,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28694,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
-28694,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
 28694,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
 28694,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
 28694,1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,Miller Street
@@ -25859,8 +25859,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28694,1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,North Creek Village
 28694,1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,Market Square
 28694,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
-28697,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28697,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
+28697,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28697,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28697,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
 28697,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
@@ -25881,14 +25881,14 @@ zipcode,storenumber,name,address,city,state,shortname
 28698,1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,North Pointe S/C
 28698,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28698,1583,The Village Shoppes,7883 Village Center N,Sherrills Ford,NC,Village Shoppes
-28698,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28698,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28698,1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,Brawley Commons
 28698,1603,Cambridge Village,513 Brentwood Rd,Denver,NC,Cambridge Village
-28698,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28698,1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,Harris Farms
-28698,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
-28698,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+28698,1474,Magnolia Plaza,8315 Magnolia Estates Dr,Cornelius,NC,Magnolia Plaza
 28698,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28698,1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,West Edge
+28698,1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,Peace Haven Vlg
 28701,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28701,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28701,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
@@ -25916,22 +25916,22 @@ zipcode,storenumber,name,address,city,state,shortname
 28702,1671,Seneca 130 Plaza,115 Rochester Hwy,Seneca,SC,Seneca 130 Plaza
 28702,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28702,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
+28702,2024,Dahlonega Village,23 Maxwell Ln,Dahlonega,GA,Dahlonega Village
 28702,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
 28702,1379,Gateway Village,1390 Tiger Blvd,Clemson,SC,Gateway Village
-28702,2024,Dahlonega Village,23 Maxwell Ln,Dahlonega,GA,Dahlonega Village
-28704,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28704,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28704,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28704,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
 28704,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28704,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28704,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
 28704,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
-28704,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
-28704,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28704,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28704,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
+28704,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
 28704,205,Center Point,6525 Calhoun Memorial Hwy,Easley,SC,Center Point
-28704,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
 28704,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
+28704,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
 28704,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
 28704,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28705,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
@@ -25952,8 +25952,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28707,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28707,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28707,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
-28707,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28707,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28707,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28707,1515,Valley Forge Shopping Center,2656 Parkway,Pigeon Forge,TN,Valley Forge S/C
 28707,1713,Smoky Mountain Gateway,750 Winfield Dunn Pkwy Ste 100,Sevierville,TN,Smoky Mt. Gateway
 28707,205,Center Point,6525 Calhoun Memorial Hwy,Easley,SC,Center Point
@@ -25962,8 +25962,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28707,1379,Gateway Village,1390 Tiger Blvd,Clemson,SC,Gateway Village
 28707,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28707,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
-28707,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
 28707,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
+28707,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
 28708,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28708,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28708,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
@@ -25975,10 +25975,10 @@ zipcode,storenumber,name,address,city,state,shortname
 28708,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
 28708,1671,Seneca 130 Plaza,115 Rochester Hwy,Seneca,SC,Seneca 130 Plaza
 28708,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
-28708,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
 28708,1379,Gateway Village,1390 Tiger Blvd,Clemson,SC,Gateway Village
+28708,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
 28708,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
-28708,1012,Mauldin Square,111 W Butler Rd,Mauldin,SC,Mauldin Square
+28708,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
 28709,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28709,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28709,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
@@ -25989,8 +25989,8 @@ zipcode,storenumber,name,address,city,state,shortname
 28709,1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,Three Creeks
 28709,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
 28709,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
-28709,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28709,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
+28709,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28709,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
 28709,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28709,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
@@ -26013,41 +26013,41 @@ zipcode,storenumber,name,address,city,state,shortname
 28711,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28711,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28711,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
-28711,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28711,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
-28711,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+28711,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28711,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
-28711,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28711,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
 28711,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
-28711,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
+28711,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
+28711,1633,Markets West at Franklin,509 N State of Franklin Rd Ste 20,Johnson City,TN,Markets West Franklin
 28711,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
+28711,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28711,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
-28711,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
+28711,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
 28712,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28712,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
 28712,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
+28712,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
 28712,205,Center Point,6525 Calhoun Memorial Hwy,Easley,SC,Center Point
 28712,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
-28712,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
 28712,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28712,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
 28712,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28712,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
-28712,1671,Seneca 130 Plaza,115 Rochester Hwy,Seneca,SC,Seneca 130 Plaza
 28712,1379,Gateway Village,1390 Tiger Blvd,Clemson,SC,Gateway Village
+28712,1671,Seneca 130 Plaza,115 Rochester Hwy,Seneca,SC,Seneca 130 Plaza
 28712,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
 28712,530,Publix at Woodruff,1750 Woodruff Rd,Greenville,SC,Woodruff
 28712,1012,Mauldin Square,111 W Butler Rd,Mauldin,SC,Mauldin Square
-28713,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28713,1515,Valley Forge Shopping Center,2656 Parkway,Pigeon Forge,TN,Valley Forge S/C
+28713,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28713,1713,Smoky Mountain Gateway,750 Winfield Dunn Pkwy Ste 100,Sevierville,TN,Smoky Mt. Gateway
 28713,1779,Foothills Mall,198 Foothills Mall,Maryville,TN,Foothills Mall
-28713,1418,University Commons,2429 University Commons Way,Knoxville,TN,University Commons
 28713,1416,Northshore Town Center,2010 Town Center Blvd,Knoxville,TN,Northshore Twn Ctr
+28713,1418,University Commons,2429 University Commons Way,Knoxville,TN,University Commons
 28713,1415,Publix at Turkey Creek,11656 Parkside Dr,Knoxville,TN,Turkey Creek
-28713,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28713,2106,Westerly Commons,13123 Kingston Pike,Farragut,TN,Westerly Commons
+28713,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28713,1671,Seneca 130 Plaza,115 Rochester Hwy,Seneca,SC,Seneca 130 Plaza
 28713,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
 28713,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
@@ -26064,13 +26064,13 @@ zipcode,storenumber,name,address,city,state,shortname
 28714,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28714,1550,Lake Hickory Crossings,36 29th Ave NE,Hickory,NC,Lake Hickory Cr
 28714,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
-28714,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28714,687,Hillcrest Shopping Center,1905 E Main St,Spartanburg,SC,Hillcrest
 28714,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
-28714,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
+28714,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28714,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
-28715,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
+28714,543,Poplar Springs Plaza,2153 E Main St Ste B9,Duncan,SC,Poplar Springs Plaza
 28715,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
+28715,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28715,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28715,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28715,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
@@ -26078,27 +26078,27 @@ zipcode,storenumber,name,address,city,state,shortname
 28715,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28715,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
 28715,205,Center Point,6525 Calhoun Memorial Hwy,Easley,SC,Center Point
-28715,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
 28715,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
+28715,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
 28715,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
-28715,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
 28715,1856,Market at Boiling Springs,4400 Highway 9,Boiling Springs,SC,Boiling Springs
+28715,531,Publix at Thornblade,411 The Pkwy,Greer,SC,Thornblade
 28715,1515,Valley Forge Shopping Center,2656 Parkway,Pigeon Forge,TN,Valley Forge S/C
 28716,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
 28716,2105,The Marketplace at Mills River,70 Vance Hill Dr,Mills River,NC,Mills River
 28716,1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,Pinnacle Point
-28716,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28716,1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,South Market Village
+28716,1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,Weaver Plaza
 28716,1767,University Square,5000 Old Buncombe Rd Unit 15,Greenville,SC,University Square
 28716,205,Center Point,6525 Calhoun Memorial Hwy,Easley,SC,Center Point
 28716,632,Hampton Village,2801 Wade Hampton Blvd Ste 120,Taylors,SC,Hampton Village
-28716,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
 28716,1515,Valley Forge Shopping Center,2656 Parkway,Pigeon Forge,TN,Valley Forge S/C
+28716,1148,McBee Station,400 E McBee Ave Ste 100,Greenville,SC,McBee Station
 28716,874,Pelham Commons,215 Pelham Rd,Greenville,SC,Pelham Commons
 28716,602,McAlister Square,235 S Pleasantburg Dr,Greenville,SC,McAlister Square
 28716,1713,Smoky Mountain Gateway,750 Winfield Dunn Pkwy Ste 100,Sevierville,TN,Smoky Mt. Gateway
-28716,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28716,1671,Seneca 130 Plaza,115 Rochester Hwy,Seneca,SC,Seneca 130 Plaza
+28716,1543,Fairgrounds Plaza,2321 E Andrew Johnson Hwy,Greeneville,TN,Fairgrounds Plaza
 28717,1671,Seneca 130 Plaza,115 Rochester Hwy,Seneca,SC,Seneca 130 Plaza
 28717,1379,Gateway Village,1390 Tiger Blvd,Clemson,SC,Gateway Village
 28717,1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,Waynesville Pav
