@@ -16,7 +16,7 @@ Juicy Juice 100% Juice,https://raw.githubusercontent.com/Galigos162/publix-bogo-
 Tostitos Tortilla Chips,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/tostitos_tortilla_chips.jpg,Grocery,BOGO,,false
 Orville Redenbacher's Gourmet Popping Corn,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/orville_redenbachers_gourmet_popping_corn.jpg,Grocery,BOGO,,false
 Yoplait Go-Gurt Yogurt,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/yoplait_gogurt_yogurt.jpg,Dairy,BOGO,,false
-Yasso Frozen Greek Yogurt,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/yasso_frozen_greek_yogurt.jpg,Frozen Food,BOGO,,false
+Yasso Frozen Greek Yogurt Bars,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/yasso_frozen_greek_yogurt_bars.jpg,Frozen Food,BOGO,,false
 Icelandic Provisions Skyr Yogurt,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/icelandic_provisions_skyr_yogurt.jpg,Dairy|Protein,BOGO,,false
 Eggo Thick & Fluffy Waffles,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/eggo_thick_fluffy_waffles.jpg,Frozen Food,BOGO,,false
 Mush Overnight Oats,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mush_overnight_oats.jpg,Dairy|Protein,BOGO,,false
@@ -39,7 +39,7 @@ Purina Beggin' Dog Treats,https://raw.githubusercontent.com/Galigos162/publix-bo
 Publix Young Turkey Breast,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_young_turkey_breast.jpg,Frozen Food,BOGO,,false
 Pastazara Organic Pasta,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pastazara_organic_pasta.jpg,Grocery,BOGO,,false
 Vital Farms Organic Brown Eggs,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/vital_farms_organic_brown_eggs.jpg,Dairy|Protein,BOGO,,false
-Town House Crackers,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/town_house_crackers.jpg,Grocery,BOGO,,false
+Town House or Club Crackers,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/town_house_or_club_crackers.jpg,Grocery,BOGO,,false
 Kraft Shredded Cheese,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/kraft_shredded_cheese.jpg,Dairy,BOGO,,false
 Mariani Premium Walnuts,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/mariani_premium_walnuts.jpg,Produce,BOGO,,false
 Farmer Focus Chicken Party Wings,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/farmer_focus_chicken_party_wings.jpg,Meat,BOGO,,false
@@ -151,9 +151,9 @@ Annie's Macaroni & Cheese,https://raw.githubusercontent.com/Galigos162/publix-bo
 Ben & Jerry's Ice Cream Bars,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ben_jerrys_ice_cream_bars.jpg,Frozen Food,BOGO,,false
 Clairol Bold & Bright Hair Color,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/clairol_bold_bright_hair_color.jpg,Beauty & Personal Care,BOGO,Save $2.00 with digital coupon,false
 Bragg Organic Apple Cider Vinegar,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/bragg_organic_apple_cider_vinegar.jpg,Grocery,BOGO,,false
-Cabot Creamery Popcorn,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cabot_creamery_popcorn.jpg,Grocery,BOGO,,false
+Cabot Popcorn,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/cabot_popcorn.jpg,Grocery,BOGO,,false
 Carbe Diem Pasta,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/carbe_diem_pasta.jpg,Grocery,BOGO,,false
-Carbona Carpet or Upholstery Cleaner,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/carbona_carpet_or_upholstery_cleaner.jpg,Non-Foods,BOGO,,false
+Carbona Carpet Cleaner,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/carbona_carpet_cleaner.jpg,Non-Foods,BOGO,,false
 Celebrity Smoked Crumbled Goat Cheese,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/celebrity_smoked_crumbled_goat_cheese.jpg,Deli,BOGO,,false
 Celentano Pasta,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/celentano_pasta.jpg,Frozen Food,BOGO,,false
 Celestial Seasonings Tea Bags,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/celestial_seasonings_tea_bags.jpg,Grocery,BOGO,,false
@@ -168,7 +168,7 @@ Eternal Spring Water,https://raw.githubusercontent.com/Galigos162/publix-bogo-da
 Farmrich Appetizers,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/farmrich_appetizers.jpg,Frozen Food,BOGO,,false
 Frank's RedHot Sauce,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/franks_redhot_sauce.jpg,Grocery,BOGO,,false
 Gerber Snacks,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/gerber_snacks.jpg,Baby,BOGO,,false
-12-Pack Golden Road Brewing or Goose Island Beer Co. Beer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/12pack_golden_road_brewing_or_goose_island_beer_co_beer.jpg,Beer & Wine,BOGO,,false
+12-Pack Golden Road Brewing Beer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/12pack_golden_road_brewing_beer.jpg,Beer & Wine,BOGO,,false
 Green Giant Frozen Vegetables or Grain Trust Steamed Rice,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/green_giant_frozen_vegetables_or_grain_trust_steamed_rice.jpg,Frozen Food,BOGO,,false
 Gullon Social Biscuits,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/gullon_social_biscuits.jpg,Grocery,BOGO,,false
 Heavenly Hunks Gluten-Free Bites,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/heavenly_hunks_glutenfree_bites.jpg,Grocery,BOGO,,false
@@ -206,7 +206,7 @@ Progresso Soup,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/mai
 Promised Land Midnight Chocolate Milk,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/promised_land_midnight_chocolate_milk.jpg,Dairy,BOGO,,false
 Publix Tzatziki Dip,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_tzatziki_dip.jpg,Deli,BOGO,,false
 Purina Dog Chow Dog Food,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/purina_dog_chow_dog_food.jpg,Pet,BOGO,,false
-Quaker Instant Oatmeal or Grits,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/quaker_instant_oatmeal_or_grits.jpg,Grocery,BOGO,,false
+Quaker Instant Oatmeal or Instant Grits,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/quaker_instant_oatmeal_or_instant_grits.jpg,Grocery,BOGO,,false
 Raid Ant & Roach Killer,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/raid_ant_roach_killer.jpg,Non-Foods,BOGO,,false
 Ricola Cough Suppressant Throat Drops,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/ricola_cough_suppressant_throat_drops.jpg,Health & Nutrition,BOGO,,false
 Clairol Natural Instincts Root Touch-Up,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/clairol_natural_instincts_root_touchup.jpg,Beauty & Personal Care,BOGO,Save $2.00 with digital coupon,false
@@ -248,6 +248,6 @@ Boulder Canyon Potato Chips,https://raw.githubusercontent.com/Galigos162/publix-
 10-Pack Coca-Cola Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/10pack_cocacola_products.jpg,Grocery,B2G1,,false
 12-Pack Coca-Cola Products,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/12pack_cocacola_products.jpg,Grocery,B2G1,,false
 Gatorade Thirst Quencher,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/gatorade_thirst_quencher.jpg,Grocery,B2G1,,false
-Pepperidge Farm Bag Cookies,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pepperidge_farm_bag_cookies.jpg,Grocery,B2G1,,false
+Pepperidge Farm Cookies,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/pepperidge_farm_cookies.jpg,Grocery,B2G1,,false
 Publix Salsa,https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/publix_salsa.jpg,Deli,B2G1,,false
 "Snyder's of Hanover 7–12-oz bag (Pieces, Gluten Free, Specialty) or Family Size Pretzels 16-oz",https://raw.githubusercontent.com/Galigos162/publix-bogo-data/main/images/snyders_of_hanover_712oz_bag_pieces_gluten_free_specialty_or_family_size_pretzels_16oz.jpg,Grocery,B2G1,,false
