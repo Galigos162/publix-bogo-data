@@ -63,7 +63,7 @@ Ball Park Franks,ball_park_franks.jpg,Meat,FALSE
 Sunny D Citrus Punch,sunny_d_citrus_punch.jpg,Grocery,FALSE
 Doctor D's Organic Sparkling Probiotic Drink,doctor_ds_organic_sparkling_probiotic_drink.jpg,Produce,FALSE
 Wise Cheez Doodles Corn Snacks,wise_cheez_doodles_corn_snacks.jpg,Grocery,FALSE
-Graza Olive Oil,graza_olive_oil.jpg,,FALSE
+Graza Olive Oil,graza_olive_oil.jpg,Grocery,FALSE
 Roar Organic Vitamin Enhanced Beverage,roar_organic_vitamin_enhanced_beverage.jpg,Grocery,FALSE
 Belgioioso Crumbly Gorgonzola Cheese,belgioioso_crumbly_gorgonzola_cheese.jpg,Deli,FALSE
 Ralston Family Farms Rice,ralston_family_farms_rice.jpg,Grocery,FALSE
@@ -320,7 +320,7 @@ Russell Stover Fine Chocolates,russell_stover_fine_chocolates.jpg,,false
 M&M's Chocolate Candies,mms_chocolate_candies.jpg,,false
 Marie Callender's Pie,marie_callenders_pie.jpg,Frozen Food,false
 Starburst Jellybeans,starburst_jellybeans.jpg,,false
-Edwards Pie,edwards_pie.jpg,,false
+Edwards Pie,edwards_pie.jpg,Frozen Food,false
 Breyers Ice Cream,breyers_ice_cream.jpg,Frozen Food,false
 Kraft Philadelphia Cream Cheese,kraft_philadelphia_cream_cheese.jpg,Dairy,false
 Carbone Sauce,carbone_sauce.jpg,Grocery,false
@@ -373,7 +373,7 @@ Local Hive Raw & Unfiltered Honey,local_hive_raw_unfiltered_honey.jpg,Grocery,fa
 Palmetto Pimento Cheese,palmetto_pimento_cheese.jpg,Dairy,false
 Frollies Fruity Ice Pops,frollies_fruity_ice_pops.jpg,,false
 Pam Cooking Spray,pam_cooking_spray.jpg,Grocery,false
-Pepperidge Farm Puff Pastry Shells or Sheets,pepperidge_farm_puff_pastry_shells_or_sheets.jpg,,false
+Pepperidge Farm Puff Pastry Shells or Sheets,pepperidge_farm_puff_pastry_shells_or_sheets.jpg,Frozen Food,false
 Pillsbury Best Flour,pillsbury_best_flour.jpg,Grocery,false
 Planters Mixed Nuts,planters_mixed_nuts.jpg,Grocery,false
 Polly-O Ricotta Cheese,pollyo_ricotta_cheese.jpg,Dairy,false
@@ -2892,3 +2892,5 @@ Briette Cheese,briette_cheese.jpg,Deli,false
 Thise North Sea Organic Hard Cheese,thise_north_sea_organic_hard_cheese.jpg,Deli,false
 Mozzarita Fresh Mozzarella Ciliegine Cheese,,Deli,false
 Ketel One Espresso Martini Cocktail,ketel_one_espresso_martini_cocktail.jpg,Liquor,false
+Loisa Organic Seasonings,loisa_organic_seasonings.jpg,Grocery,false
+Flora Italian Savoiardi Lady Fingers,,Grocery,false
